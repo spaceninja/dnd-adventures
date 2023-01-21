@@ -4,7 +4,7 @@ img {
 }
 
 figure {
-  margin: 10px 0;
+  margin: var(--size-s) 0;
 
   img {
     display: block;
@@ -12,16 +12,16 @@ figure {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: var(--font-size-s);
   font-style: italic;
   font-weight: bold;
-  margin: 10px 0;
+  margin-block: var(--size-s);
   text-align: center;
   text-transform: uppercase;
 }
 
 .compendium-image-right {
   float: right;
-  margin-left: 10px;
-  max-width: 325px;
+  margin-left: var(--size-s);
+  max-width: calc(var(--page-width) * 0.4);
 }

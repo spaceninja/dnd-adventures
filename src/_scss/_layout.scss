@@ -18,9 +18,10 @@ body {
 
 .primary-content {
   flex: 1;
-  line-height: 1.875;
-  margin: 0 auto;
+  line-height: var(--line-height-xl);
+  margin-inline: auto;
   max-width: var(--page-width);
-  padding: 15px 10px;
+  padding-block: var(--size-m);
+  padding-inline: var(--size-s);
   width: 100%;
 }

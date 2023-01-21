@@ -4,54 +4,44 @@
   border-left-color: #b3b3b3;
   border-right-color: #b3b3b3;
   border-style: solid;
-  border-width: 3px 1.5px;
+  border-width: var(--border-thick) var(--border-thin);
   color: var(--theme-page-fg-color);
-  filter: drop-shadow(0 5px 8px #ccc);
-  font-size: 14px;
-  line-height: 1.6;
-  margin: 30px 5px;
-  padding: 25px 28px 15px 30px;
+  filter: drop-shadow(0 var(--size-xs) 8px #ccc);
+  font-size: var(--font-size-s);
+  line-height: var(--line-height-l);
+  margin: var(--size-xxl) var(--size-xs);
+  padding: var(--size-xl) var(--size-xxl) var(--size-m);
   position: relative;
-}
 
-.text--rules-sidebar p:first-child,
-.text--rules-sidebar h4 {
-  font-size: 16px;
-  font-weight: bold;
-  margin-top: 0;
-  text-transform: uppercase;
-}
+  &::before,
+  &::after {
+    background-image: url('https://media.dndbeyond.com/compendium-images/components/--right-rules.svg'),
+      url('https://media.dndbeyond.com/compendium-images/components/--left-rules.svg');
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    content: '';
+    height: 11px; // magic number from background image
+    left: 0;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+  }
 
-.text--rules-sidebar .action-tooltip,
-.text--rules-sidebar .condition-tooltip,
-.text--rules-sidebar .item-tooltip,
-.text--rules-sidebar .rule-tooltip,
-.text--rules-sidebar .sense-tooltip,
-.text--rules-sidebar .skill-tooltip,
-.text--rules-sidebar .weapon-properties-tooltip {
-  color: #129b54;
-}
+  &::before {
+    top: -13px; // magic number from background image
+  }
 
-.text--rules-sidebar::before,
-.text--rules-sidebar::after {
-  background-image: url('https://media.dndbeyond.com/compendium-images/components/--right-rules.svg'),
-    url('https://media.dndbeyond.com/compendium-images/components/--left-rules.svg');
-  background-position: left, right;
-  background-repeat: no-repeat;
-  background-size: contain;
-  content: '';
-  height: 11px;
-  left: 0.1px;
-  position: absolute;
-  right: 0.1px;
-  z-index: -1;
-}
+  &::after {
+    bottom: -13px; // magic number from background image
+    transform: scaleY(-1); // flip vertically
+  }
 
-.text--rules-sidebar::before {
-  top: -13px;
-}
-
-.text--rules-sidebar::after {
-  bottom: -13px;
-  transform: scaleY(-1);
+  p:first-child,
+  h4 {
+    font-size: var(--font-size-m);
+    font-weight: bold;
+    margin-top: 0;
+    text-transform: uppercase;
+  }
 }

@@ -1,3 +1,5 @@
+@use '_scss/theme';
+
 @use '_scss/layout';
 @use '_scss/typography';
 
@@ -8,10 +10,3 @@
 @use '_scss/rules-sidebar';
 @use '_scss/tables';
 @use '_scss/torn-paper-block';
-
-@use '_scss/theme';
-
-// This is the Sass file
-b {
-  color: red;
-}
