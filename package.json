@@ -1,0 +1,21 @@
+{
+  "name": "dnd-adventures",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Scott Vandehey",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build:content": "eleventy",
+    "build:css": "sass src:dist",
+    "build": "concurrently \"npm:build:*\"",
+    "watch:content": "eleventy --serve",
+    "watch:css": "sass --watch src:dist",
+    "watch": "concurrently \"npm:watch:*\"",
+    "start": "npm run watch"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "concurrently": "^7.6.0",
+    "sass": "^1.57.1"
+  }
+}

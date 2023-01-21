@@ -1,0 +1,10 @@
+---
+layout: layout.njk
+title: Adventures
+---
+
+<ul>
+  {% for post in collections.adventures %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {% endfor %}
+</ul>

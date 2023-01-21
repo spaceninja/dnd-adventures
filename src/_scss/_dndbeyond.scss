@@ -1,0 +1,425 @@
+:root {
+  --h1-underline: #7147d1;
+  --header-underline: #d1a347;
+  --theme-page-bg-image-base: url(https://media-waterdeep.cursecdn.com/attachments/0/84/background_texture.png);
+  --theme-link: #006abe;
+  --theme-table-row-bg-light: #ecf6f8;
+  --theme-table-row-bg-dark: #cbe6e9;
+  --theme-table-row-bg-hover: #a0d4da;
+  --compendium-rules-sidebar-color: #b3e0e7;
+  --compendium-quote-box-color: #cddce7;
+  --compendium-quote-box-border: #00527b;
+  --compendium-quote-box-corner: #00517a;
+  --page-width: 850px;
+}
+
+body {
+  background: var(--theme-page-bg-image-base),
+    var(--theme-page-bg-color, #f9f9f9);
+  color: var(--theme-page-fg-color, #242527);
+  height: auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.primary-content {
+  flex: 1;
+  line-height: 1.875;
+  margin: 0 auto;
+  max-width: var(--page-width);
+  width: 100%;
+  padding: 15px 10px;
+}
+
+a {
+  color: var(--theme-link);
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+//
+// Headings
+//
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 400;
+
+  &::after {
+    content: "";
+    width: 100%;
+    margin: 5px auto 20px;
+    height: 1px;
+    background-color: var(--header-underline, currentColor);
+    display: block;
+  }
+}
+
+h1::after {
+  height: 3px;
+  background-color: var(--h1-underline, var(--header-underline, currentColor));
+}
+
+h2::after {
+  background-color: var(--h2-underline, var(--header-underline, currentColor));
+}
+
+h3::after {
+  background-color: var(--h3-underline, var(--header-underline, currentColor));
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5,
+h6 {
+  font-size: 16px;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+//
+// Images
+//
+
+figure {
+  margin: 10px 0;
+
+  img {
+    display: block;
+  }
+}
+
+figcaption {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.compendium-image-right {
+  float: right;
+  margin-left: 10px;
+  max-width: 325px;
+}
+
+//
+// Tables
+//
+
+.primary-content table {
+  line-height: 1.5;
+}
+
+table {
+  background: white;
+  border: 1px solid #edeae8;
+}
+
+caption {
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  line-height: 1.3;
+}
+
+thead {
+  border-bottom: 3px solid #d0cac5;
+
+  tr {
+    background: var(--theme-table-header-bg-color, #fff);
+    color: var(--theme-table-header-fg-color, #242527);
+  }
+}
+
+tbody {
+  tr {
+    background: var(--theme-table-row-bg-light, #fff);
+    color: var(--theme-table-row-fg-light, #242527);
+    transition: background-color 0.3s;
+
+    &:nth-child(odd) {
+      background: var(--theme-table-row-bg-dark, #faf8f7);
+      color: var(--theme-table-row-fg-dark, #242527);
+    }
+
+    &:hover {
+      background: var(--theme-table-row-bg-hover, #e3f4eb);
+      color: var(--theme-table-row-fg-hover, #242527);
+    }
+  }
+}
+
+th,
+td {
+  border: 1px solid #edeae8;
+  font-size: 14px;
+  overflow-wrap: break-word;
+  padding: 5px 20px;
+  text-align: center;
+
+  p {
+    margin: 0;
+
+    + p {
+      margin-top: 0.75em;
+    }
+  }
+}
+
+th {
+  font-weight: bold;
+  padding: 12px 20px;
+}
+
+.table--left-first {
+  th:first-child,
+  td:first-child {
+    text-align: left;
+  }
+}
+
+//
+// Quote Box
+//
+
+blockquote {
+  background-color: var(--compendium-quote-box-color, #faf8ec);
+  padding: 20px 25px 15px 25px;
+  position: relative;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: var(--compendium-quote-box-border, #620000);
+  color: var(--theme-page-fg-color);
+  margin: 40px 0px;
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+blockquote::before,
+blockquote::after,
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+  content: "";
+  border-radius: 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8px;
+  width: 8px;
+  position: absolute;
+  background-color: var(--compendium-quote-box-corner, #620000);
+}
+
+blockquote::before,
+blockquote::after {
+  background-position: left;
+  left: -4px;
+}
+
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+  background-position: right;
+  right: -4px;
+}
+
+blockquote::before,
+blockquote p:first-of-type::before {
+  top: -4px;
+}
+
+blockquote::after,
+blockquote p:last-of-type::after {
+  bottom: -4px;
+}
+
+blockquote p:last-of-type {
+  margin-bottom: 5px;
+}
+
+//
+// Rules Sidebar
+//
+
+.text--rules-sidebar {
+  background-color: var(--compendium-rules-sidebar-color, #dae4c1);
+  position: relative;
+  margin: 30px 5px;
+  line-height: 1.6;
+  font-size: 14px;
+  padding: 25px 28px 15px 30px;
+  border-width: 3px 1.5px;
+  border-style: solid;
+  border-color: #231f20;
+  border-left-color: #b3b3b3;
+  border-right-color: #b3b3b3;
+  color: var(--theme-page-fg-color);
+  filter: drop-shadow(0px 5px 8px #ccc);
+}
+
+.text--rules-sidebar p:first-child,
+.text--rules-sidebar h4 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 0;
+}
+
+.text--rules-sidebar .action-tooltip,
+.text--rules-sidebar .condition-tooltip,
+.text--rules-sidebar .item-tooltip,
+.text--rules-sidebar .rule-tooltip,
+.text--rules-sidebar .sense-tooltip,
+.text--rules-sidebar .skill-tooltip,
+.text--rules-sidebar .weapon-properties-tooltip,
+.text--rules-sidebar .action-tooltip {
+  color: #129b54;
+}
+
+.text--rules-sidebar::before,
+.text--rules-sidebar::after {
+  content: "";
+  background-image: url("https://media.dndbeyond.com/compendium-images/components/--right-rules.svg"),
+    url("https://media.dndbeyond.com/compendium-images/components/--left-rules.svg");
+  background-position: left, right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 11px;
+  position: absolute;
+  z-index: -1;
+  right: 0.1px;
+  left: 0.1px;
+}
+
+.text--rules-sidebar::before {
+  top: -13px;
+}
+
+.text--rules-sidebar::after {
+  bottom: -13px;
+  transform: scaleY(-1);
+}
+
+//
+// Torn Paper Block
+//
+
+.block-torn-paper {
+  background: var(--theme-quote-bg-color, #fff);
+  color: var(--theme-quote-fg-color, #242527);
+  margin: 40px 0;
+  line-height: 1.6;
+  font-size: 14px;
+  border: solid transparent;
+  border-width: 20px 10px;
+  border-image-source: var(--theme-quote-border, url(https://media.dndbeyond.com/ddb-compendium-client/5f1f1d66d16be68cf09d6ca172f8df92.png));
+  border-image-repeat: repeat;
+  border-image-slice: 20 10 20 10 fill;
+  padding: 10px;
+  position: relative;
+}
+
+.block-torn-paper p:last-of-type {
+  margin-bottom: 5px;
+}
+
+//
+// Header
+//
+
+.header {
+  background: #242527;
+  color: #fff;
+  line-height: 1.3;
+  flex: none;
+}
+
+.header-content {
+  margin: 0 auto;
+  max-width: var(--page-width);
+  padding: 10px 10px;
+  font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+  font-size: 24px;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      text-decoration-color: none;
+    }
+  }
+
+  strong {
+    color: red;
+  }
+
+  span {
+    color: #979aa4;
+  }
+}
+
+//
+// Footer
+//
+
+.footer {
+  background: #242527;
+  color: #979aa4;
+  line-height: 1.3;
+  flex: none;
+  margin-top: 75px;
+}
+
+.footer-content {
+  margin: 0 auto;
+  max-width: var(--page-width);
+  padding: 30px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.footer-logo {
+  flex: 0 0 auto;
+  margin-left: 20px;
+
+  img {
+    display: block;
+  }
+}
+
+.footer-copyright {
+  flex: 1;
+  font-family: "Roboto Condensed", Roboto, Helvetica, sans-serif;
+  font-size: 12px;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
