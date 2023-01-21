@@ -1,0 +1,36 @@
+:root {
+  --h1-underline: #7147d1;
+  --header-underline: #d1a347;
+  --theme-page-bg-image-base: url('https://media-waterdeep.cursecdn.com/attachments/0/84/background_texture.png');
+  --theme-link: #006abe;
+  --theme-table-row-bg-light: #ecf6f8;
+  --theme-table-row-bg-dark: #cbe6e9;
+  --theme-table-row-bg-hover: #a0d4da;
+  --compendium-rules-sidebar-color: #b3e0e7;
+  --compendium-quote-box-color: #cddce7;
+  --compendium-quote-box-border: #00527b;
+  --compendium-quote-box-corner: #00517a;
+  --page-width: 850px;
+}
+
+body {
+  background: var(--theme-page-bg-image-base),
+    var(--theme-page-bg-color, #f9f9f9);
+  color: var(--theme-page-fg-color, #242527);
+}
+
+a {
+  color: var(--theme-link);
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+::selection {
+  background: #242527;
+  color: #fff;
+  text-shadow: none;
+}

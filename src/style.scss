@@ -1,5 +1,15 @@
-@use '_scss/base';
-@use '_scss/dndbeyond';
+@use '_scss/layout';
+@use '_scss/typography';
+
+@use '_scss/footer';
+@use '_scss/header';
+@use '_scss/images';
+@use '_scss/quote-box';
+@use '_scss/rules-sidebar';
+@use '_scss/tables';
+@use '_scss/torn-paper-block';
+
+@use '_scss/theme';
 
 // This is the Sass file
 b {

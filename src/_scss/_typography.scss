@@ -1,0 +1,75 @@
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+p {
+  margin: 0 0 0.75em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+  margin: 20px 0;
+  word-wrap: break-word;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: normal;
+
+  &::after {
+    background-color: var(--header-underline, currentColor);
+    content: '';
+    display: block;
+    height: 1px;
+    margin: 5px auto 20px;
+    width: 100%;
+  }
+}
+
+h1::after {
+  background-color: var(--h1-underline, var(--header-underline, currentColor));
+  height: 3px;
+}
+
+h2::after {
+  background-color: var(--h2-underline, var(--header-underline, currentColor));
+}
+
+h3::after {
+  background-color: var(--h3-underline, var(--header-underline, currentColor));
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5,
+h6 {
+  font-size: 16px;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}

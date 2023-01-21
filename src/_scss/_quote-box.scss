@@ -1,0 +1,52 @@
+blockquote {
+  background-color: var(--compendium-quote-box-color, #faf8ec);
+  border-color: var(--compendium-quote-box-border, #620000);
+  border-left: 1px solid;
+  border-right: 1px solid;
+  color: var(--theme-page-fg-color);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 40px 0;
+  padding: 20px 25px 15px;
+  position: relative;
+}
+
+blockquote::before,
+blockquote::after,
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+  background-color: var(--compendium-quote-box-corner, #620000);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 50%;
+  content: '';
+  height: 8px;
+  position: absolute;
+  width: 8px;
+}
+
+blockquote::before,
+blockquote::after {
+  background-position: left;
+  left: -4px;
+}
+
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+  background-position: right;
+  right: -4px;
+}
+
+blockquote::before,
+blockquote p:first-of-type::before {
+  top: -4px;
+}
+
+blockquote::after,
+blockquote p:last-of-type::after {
+  bottom: -4px;
+}
+
+blockquote p:last-of-type {
+  margin-bottom: 5px;
+}

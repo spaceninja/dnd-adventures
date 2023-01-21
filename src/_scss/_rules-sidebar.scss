@@ -1,0 +1,57 @@
+.text--rules-sidebar {
+  background-color: var(--compendium-rules-sidebar-color, #dae4c1);
+  border-color: #231f20;
+  border-left-color: #b3b3b3;
+  border-right-color: #b3b3b3;
+  border-style: solid;
+  border-width: 3px 1.5px;
+  color: var(--theme-page-fg-color);
+  filter: drop-shadow(0 5px 8px #ccc);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 30px 5px;
+  padding: 25px 28px 15px 30px;
+  position: relative;
+}
+
+.text--rules-sidebar p:first-child,
+.text--rules-sidebar h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.text--rules-sidebar .action-tooltip,
+.text--rules-sidebar .condition-tooltip,
+.text--rules-sidebar .item-tooltip,
+.text--rules-sidebar .rule-tooltip,
+.text--rules-sidebar .sense-tooltip,
+.text--rules-sidebar .skill-tooltip,
+.text--rules-sidebar .weapon-properties-tooltip {
+  color: #129b54;
+}
+
+.text--rules-sidebar::before,
+.text--rules-sidebar::after {
+  background-image: url('https://media.dndbeyond.com/compendium-images/components/--right-rules.svg'),
+    url('https://media.dndbeyond.com/compendium-images/components/--left-rules.svg');
+  background-position: left, right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  content: '';
+  height: 11px;
+  left: 0.1px;
+  position: absolute;
+  right: 0.1px;
+  z-index: -1;
+}
+
+.text--rules-sidebar::before {
+  top: -13px;
+}
+
+.text--rules-sidebar::after {
+  bottom: -13px;
+  transform: scaleY(-1);
+}

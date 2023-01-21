@@ -1,0 +1,21 @@
+.block-torn-paper {
+  background: var(--theme-quote-bg-color, #fff);
+  border: solid transparent;
+  border-image-repeat: repeat;
+  border-image-slice: 20 10 20 10 fill;
+  border-image-source: var(
+    --theme-quote-border,
+    url('https://media.dndbeyond.com/ddb-compendium-client/5f1f1d66d16be68cf09d6ca172f8df92.png')
+  );
+  border-width: 20px 10px;
+  color: var(--theme-quote-fg-color, #242527);
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 40px 0;
+  padding: 10px;
+  position: relative;
+}
+
+.block-torn-paper p:last-of-type {
+  margin-bottom: 5px;
+}

@@ -5,17 +5,27 @@
   "author": "Scott Vandehey",
   "license": "UNLICENSED",
   "scripts": {
+    "start": "npm run watch",
+    "build": "run-p build:*",
     "build:content": "eleventy",
     "build:css": "sass src:dist",
-    "build": "concurrently \"npm:build:*\"",
+    "watch": "run-p watch:*",
     "watch:content": "eleventy --serve",
     "watch:css": "sass --watch src:dist",
-    "watch": "concurrently \"npm:watch:*\"",
-    "start": "npm run watch"
+    "lint": "run-s lint:css lint:prettier",
+    "lint:check": "run-s lint:*:check",
+    "lint:css": "stylelint --fix '**/*.{css,scss}'",
+    "lint:css:check": "stylelint '**/*.{css,scss}'",
+    "lint:prettier": "prettier . --write",
+    "lint:prettier:check": "prettier . --check"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
-    "concurrently": "^7.6.0",
-    "sass": "^1.57.1"
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.3",
+    "sass": "^1.57.1",
+    "stylelint": "^14.16.1",
+    "stylelint-config-prettier": "^9.0.4",
+    "stylelint-config-spaceninja": "^12.0.0"
   }
 }
