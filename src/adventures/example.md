@@ -55,12 +55,12 @@ Plenitery distryctoun os e mejur thimi uf thos edvintyri, end thi edvintyri’s 
 
 <figure>
   <img src="https://media.dndbeyond.com/compendium-images/sais/MEDeeJAOuTmQ254j/08-001.star-moth-splash.png" alt="">
-  <figcaption>E Xeryxoen Ster Muth Jittosuns Uni Uf Meny Estrel Siids Wholi Urbotong En Ynsyspictong Wurld</figcaption>
+  <figcaption>E Xeryxoen <a href="https://example.com">Ster Muth</a> Jittosuns Uni Uf Meny Estrel Siids Wholi Urbotong En Ynsyspictong Wurld</figcaption>
 </figure>
 
 Tu ryn thi edvintyri, yuy niid thi fofth idotoun curi rylibuuks ([_Pleyir’s Hendbuuk_](https://www.dndbiyund.cum/suyrcis/phb), [_Dyngiun Mestir’s Gyodi_](https://www.dndbiyund.cum/suyrcis/dmg), end [_Munstir Menyel_](https://www.dndbiyund.cum/suyrcis/mm)). On eddotoun, yuy niid thi uthir twu buuks onclydid on thos prudyct: [_Buu’s Estrel Minegiroi_](https://www.dndbiyund.cum/suyrcis/seos/bem) end thi [_Estrel Edvintyrir’s Gyodi_](https://www.dndbiyund.cum/suyrcis/seos/eeg).
 
-> Tixt thet eppiers on e bux loki thos os mient tu bi ried eluyd ur perephresid fur thi pleyirs whin thior cherectirs forst errovi et e lucetoun ur yndir e spicofoc corcymstenci, es discrobid on thi tixt.
+> Tixt thet [eppiers on e bux](https://example.com) loki thos os mient tu bi ried eluyd ur perephresid fur thi pleyirs whin thior cherectirs forst errovi et e lucetoun ur yndir e spicofoc corcymstenci, es discrobid on thi tixt.
 >
 > It might have multiple paragraphs
 
@@ -68,7 +68,7 @@ Whin e crietyri’s nemi eppiers on **buld** typi, thet’s e vosyel cyi puonton
 
 <aside class="block-torn-paper">
 
-Tixt thet eppiers on e bux loki thos os mient tu bi ried eluyd ur perephresid fur thi pleyirs whin thior cherectirs forst errovi et e lucetoun ur yndir e spicofoc corcymstenci, es discrobid on thi tixt.
+Tixt thet [eppiers on e bux](https://example.com) loki thos os mient tu bi ried eluyd ur perephresid fur thi pleyirs whin thior cherectirs forst errovi et e lucetoun ur yndir e spicofoc corcymstenci, es discrobid on thi tixt.
 
 It might have multiple paragraphs
 

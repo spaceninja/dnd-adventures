@@ -36,7 +36,7 @@ h3 {
   font-weight: normal;
 
   &::after {
-    background-color: var(--header-underline, currentColor);
+    background-color: var(--color-heading-border, currentColor);
     content: '';
     display: block;
     height: var(--border-thin);
@@ -46,16 +46,25 @@ h3 {
 }
 
 h1::after {
-  background-color: var(--h1-underline, var(--header-underline, currentColor));
+  background-color: var(
+    --color-h1-border,
+    var(--color-heading-border, currentColor)
+  );
   height: var(--border-thick);
 }
 
 h2::after {
-  background-color: var(--h2-underline, var(--header-underline, currentColor));
+  background-color: var(
+    --color-h2-border,
+    var(--color-heading-border, currentColor)
+  );
 }
 
 h3::after {
-  background-color: var(--h3-underline, var(--header-underline, currentColor));
+  background-color: var(
+    --color-h3-border,
+    var(--color-heading-border, currentColor)
+  );
 }
 
 h4 {

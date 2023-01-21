@@ -1,6 +1,7 @@
+// stylelint-disable a11y/media-prefers-reduced-motion, plugin/no-low-performance-animation-properties
 table {
-  background: white;
-  border: var(--border-thin) solid #edeae8;
+  background: var(--color-table-bg, white);
+  border: var(--border-thin) solid var(--color-table-border, lightgrey);
   border-collapse: collapse;
   border-spacing: 0;
   margin: var(--size-l) 0 var(--size-xxxl);
@@ -21,61 +22,46 @@ caption {
 }
 
 thead {
-  border-bottom: var(--border-thick) solid #d0cac5;
+  border-bottom: var(--border-thick) solid
+    var(--color-table-head-border, darkgrey);
 
   tr {
-    background: var(--theme-table-header-bg-color, #fff);
-    color: var(--theme-table-header-fg-color, #242527);
+    background: var(--color-table-head-bg, white);
+    color: var(--color-table-head-fg, currentColor);
   }
 }
 
 tbody {
-  @media screen and (prefers-reduced-motion: reduce) {
-    tr {
-      background: var(--theme-table-row-bg-light, #fff);
-      color: var(--theme-table-row-fg-light, #242527);
-      transition: none;
-
-      &:nth-child(odd) {
-        background: var(--theme-table-row-bg-dark, #faf8f7);
-        color: var(--theme-table-row-fg-dark, #242527);
-      }
-
-      &:hover,
-      &:focus {
-        background: var(--theme-table-row-bg-hover, #e3f4eb);
-        color: var(--theme-table-row-fg-hover, #242527);
-      }
-    }
-  }
-
   tr {
-    background: var(--theme-table-row-bg-light, #fff);
-    color: var(--theme-table-row-fg-light, #242527);
-    // stylelint-disable-next-line plugin/no-low-performance-animation-properties
+    background: var(--color-table-row-bg-light, white);
+    color: var(--color-table-row-fg-light, currentColor);
     transition: background-color 0.3s;
 
     &:nth-child(odd) {
-      background: var(--theme-table-row-bg-dark, #faf8f7);
-      color: var(--theme-table-row-fg-dark, #242527);
+      background: var(--color-table-row-bg-dark, whitesmoke);
+      color: var(--color-table-row-fg-dark, currentColor);
     }
 
     &:hover,
     &:focus {
-      background: var(--theme-table-row-bg-hover, #e3f4eb);
-      color: var(--theme-table-row-fg-hover, #242527);
+      background: var(--color-table-row-bg-hover, beige);
+      color: var(--color-table-row-fg-hover, currentColor);
     }
   }
 }
 
 th,
 td {
-  border: var(--border-thin) solid #edeae8;
+  border: var(--border-thin) solid var(--color-table-border, lightgray);
   font-size: var(--font-size-s);
   overflow-wrap: break-word;
   padding: var(--size-xs) var(--size-l);
   text-align: center;
   vertical-align: top;
+
+  a {
+    color: var(--color-link);
+  }
 
   p {
     margin: 0;

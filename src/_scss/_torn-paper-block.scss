@@ -1,5 +1,5 @@
 .block-torn-paper {
-  background: var(--theme-quote-bg-color, #fff);
+  background: var(--color-theme-quote-bg, white);
   border: solid transparent;
   border-image-repeat: repeat;
   border-image-slice: 20 10 20 10 fill;
@@ -8,12 +8,16 @@
     url('https://media.dndbeyond.com/ddb-compendium-client/5f1f1d66d16be68cf09d6ca172f8df92.png')
   );
   border-width: var(--size-l) var(--size-s);
-  color: var(--theme-quote-fg-color, #242527);
+  color: var(--color-theme-quote-fg, currentcolor);
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);
   margin-block: var(--size-xxxl);
   padding: var(--size-s);
   position: relative;
+
+  a {
+    color: var(--color-link);
+  }
 
   p:last-of-type {
     margin-bottom: var(--size-xs);

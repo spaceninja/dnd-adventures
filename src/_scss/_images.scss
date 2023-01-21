@@ -23,5 +23,5 @@ figcaption {
 .compendium-image-right {
   float: right;
   margin-left: var(--size-s);
-  max-width: calc(var(--page-width) * 0.4);
+  max-width: calc(var(--size-page-width) * 0.4);
 }

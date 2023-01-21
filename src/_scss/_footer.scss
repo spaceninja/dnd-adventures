@@ -1,6 +1,6 @@
 .footer {
-  background: #242527;
-  color: #979aa4;
+  background: var(--color-footer-bg, black);
+  color: var(--color-footer-fg, white);
   flex: none;
   line-height: var(--line-height-s);
   margin-top: calc(var(--size-xl) * 3);
@@ -10,7 +10,7 @@
   align-items: center;
   display: flex;
   margin-inline: auto;
-  max-width: var(--page-width);
+  max-width: var(--size-page-width);
   padding: var(--size-xxl) var(--size-s);
 }
 

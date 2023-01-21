@@ -1,9 +1,9 @@
 blockquote {
-  background-color: var(--compendium-quote-box-color, #faf8ec);
-  border-color: var(--compendium-quote-box-border, #620000);
+  background-color: var(--color-quote-bg, whitesmoke);
+  border-color: var(--color-quote-border, currentcolor);
   border-left: var(--border-thin) solid;
   border-right: var(--border-thin) solid;
-  color: var(--theme-page-fg-color);
+  color: var(--color-theme-page-fg);
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);
   margin: var(--size-xxxl) 0;
@@ -14,7 +14,7 @@ blockquote {
   &::after,
   p:first-of-type::before,
   p:last-of-type::after {
-    background-color: var(--compendium-quote-box-corner, #620000);
+    background-color: var(--color-quote-corner, currentcolor);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 50%;
@@ -44,6 +44,10 @@ blockquote {
   &::after,
   p:last-of-type::after {
     bottom: -4px;
+  }
+
+  a {
+    color: var(--color-link);
   }
 
   p:last-of-type {
