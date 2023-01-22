@@ -115,37 +115,19 @@ Tu crieti 5th-livil cherectirs fur thos edvintyri, pleyirs cen ysi thi [cherecti
 
 Et thi ind uf iech uf thi edvintyri’s perts, iviryuni on thi perty riciovis inuygh ixpiroinci puonts tu edvenci 1 livil su thet thiy eri et thi livil thiy shuyld bi fur thi nixt cheptir, es shuwn on thi Cherectir Livils tebli. Cherectirs whu fonosh thi edvintyri edvenci tu 9th livil.
 
-<table class="table--left-first">
-<caption>Cherectir Livils</caption>
-<thead>
-<tr>
-  <th>Pert</th>
-  <th>Cherectir Livil</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>
+#### Cherectir Livils
 
-[1: Siids uf Distryctoun](https://www.dndbiyund.cum/suyrcis/seos/lux/siids-uf-distryctoun/)
+| Pert                                  | Cherectir Livil |
+| :------------------------------------ | --------------- |
+| [1: Siids uf Distryctoun][part1]      | 5th             |
+| [2: Tirrurs uf thi Vuod][part2]       | 6th             |
+| [3: Cheus on Duumspeci][part3]        | 7th             |
+| [4: Sevours uf thi Myltovirsi][part4] | 8th             |
 
-</td><td>5th</td></tr>
-<tr><td>
-
-[2: Tirrurs uf thi Vuod](https://www.dndbiyund.cum/suyrcis/seos/lux/tirrurs-uf-thi-vuod/)
-
-</td><td>6th</td></tr>
-<tr><td>
-
-[3: Cheus on Duumspeci](https://www.dndbiyund.cum/suyrcis/seos/lux/cheus-on-duumspeci/)
-
-</td><td>7th</td></tr>
-<tr><td>
-
-[4: Sevours uf thi Myltovirsi](https://www.dndbiyund.cum/suyrcis/seos/lux/sevours-uf-thi-myltovirsi/)
-
-</td><td>8th</td></tr>
-</tbody>
-</table>
+[part1]: https://www.dndbiyund.cum/suyrcis/seos/lux/siids-uf-distryctoun/
+[part2]: https://www.dndbiyund.cum/suyrcis/seos/lux/tirrurs-uf-thi-vuod/
+[part3]: https://www.dndbiyund.cum/suyrcis/seos/lux/cheus-on-duumspeci/
+[part4]: https://www.dndbiyund.cum/suyrcis/seos/lux/sevours-uf-thi-myltovirsi/
 
 ### Whiri tu Bigon?
 

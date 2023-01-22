@@ -1,0 +1,125 @@
+.article-header {
+  margin-bottom: var(--size-s);
+}
+
+.adventure-nav {
+  background: var(--color-nav-bg, white);
+  border: var(--border-thin) solid var(--color-nav-border, #cbc6c3);
+  color: var(--color-nav-fg, #878787);
+  display: flex;
+  font-family: var(--font-condensed);
+  font-size: var(--font-size-s);
+  font-weight: bold;
+  line-height: 1.25;
+  padding: var(--size-s);
+  text-transform: uppercase;
+
+  .is-disabled {
+    opacity: 0.25;
+  }
+}
+
+.adventure-nav__item {
+  background-repeat: no-repeat;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.adventure-nav__link {
+  color: var(--color-nav-link, inherit);
+
+  &:hover,
+  &:focus {
+    color: var(--color-nav-link-hover, #47d18c);
+    text-decoration: none;
+  }
+}
+
+.adventure-nav__prev {
+  background-image: url('https://www.dndbeyond.com/file-attachments/0/737/chevron-left-green.svg');
+  padding-left: var(--size-m);
+
+  &.is-disabled {
+    background-image: url('https://www.dndbeyond.com/file-attachments/0/740/chevron-left-disabled.svg');
+  }
+}
+
+.adventure-nav__next {
+  background-image: url('https://www.dndbeyond.com/file-attachments/0/738/chevron-right-green.svg');
+  background-position: right;
+  padding-right: var(--size-m);
+  text-align: right;
+
+  &.is-disabled {
+    background-image: url('https://www.dndbeyond.com/file-attachments/0/739/chevron-right-disabled.svg');
+  }
+}
+
+.adventure-nav__toc {
+  text-align: center;
+
+  .adventure-nav__link {
+    background-image: url('https://www.dndbeyond.com/file-attachments/0/741/comp-icon.svg');
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-inline: var(--size-l);
+  }
+}
+
+.nav-back-to-top {
+  bottom: var(--size-s);
+  position: fixed;
+  right: var(--size-l);
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  .nav-back-to-top__link {
+    background-image: url('https://www.dndbeyond.com/file-attachments/0/742/arrow.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    color: var(--color-top-link, #47d18c);
+    display: block;
+    height: var(--size-xxxl);
+    transition: none;
+    width: var(--size-xxxl);
+
+    &:hover,
+    &:focus {
+      color: var(--color-top-link-hover, #3dbe7e);
+      transform: translateY(-3px);
+    }
+  }
+}
+
+.nav-back-to-top__link {
+  background-image: url('https://www.dndbeyond.com/file-attachments/0/742/arrow.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  color: var(--color-top-link, #47d18c);
+  display: block;
+  height: var(--size-xxxl);
+  transition: transform 0.2s, background-color 0.2s;
+  width: var(--size-xxxl);
+
+  &:hover,
+  &:focus {
+    color: var(--color-top-link-hover, #3dbe7e);
+    transform: translateY(-3px);
+  }
+}
+
+.sr-only {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}

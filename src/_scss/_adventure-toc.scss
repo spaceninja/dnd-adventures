@@ -1,0 +1,115 @@
+.adventure-toc {
+  h1,
+  h2 {
+    background-image: url('https://www.dndbeyond.com/attachments/0/116/500darkbar.png');
+    background-size: 100% 100%;
+    color: white;
+    font-family: var(--font-condensed);
+    font-size: var(--font-size-l);
+    font-weight: bold;
+    line-height: var(--line-height-s);
+    margin: 0;
+    padding: var(--size-m);
+    padding-bottom: var(--size-s);
+    text-transform: uppercase;
+
+    &::after {
+      display: none;
+    }
+  }
+
+  h2 {
+    background-image: url('https://www.dndbeyond.com/attachments/0/507/1180darkbar.png');
+    background-size: 100% 100%;
+    font-size: var(--font-size-m);
+    padding: var(--size-s) var(--size-m);
+  }
+}
+
+.adventure-toc__intro {
+  background: var(--color-toc-bg, white);
+  border-inline: var(--border-thin) solid var(--color-toc-border, #e0dcdc);
+  margin-bottom: var(--size-xxxl);
+  margin-top: var(--size-l);
+  padding-inline: var(--size-l);
+  position: relative;
+
+  &::after,
+  &::before {
+    background-image: url('https://www.dndbeyond.com/content/1-0-2370-0/skins/waterdeep/images/border_texture_wide.png');
+    background-size: 100% 100%;
+    content: '';
+    height: var(--size-l);
+    left: -1px;
+    position: absolute;
+    right: -1px;
+  }
+
+  &::before {
+    top: calc(var(--size-l) * -1);
+    transform: rotateY(180deg);
+  }
+
+  &::after {
+    bottom: calc(var(--size-l) * -1);
+    transform: rotateX(180deg);
+  }
+}
+
+.adventure-toc__content {
+  background: var(--color-toc-bg, white);
+  border-inline: var(--border-thin) solid var(--color-toc-border, #e0dcdc);
+  column-rule: var(--border-thin) solid var(--color-toc-border, #e0dcdc);
+  columns: auto 15rem;
+  line-height: var(--line-height-s);
+  margin-bottom: var(--size-m);
+  padding: var(--size-l) var(--size-m) var(--size-s);
+  position: relative;
+
+  &::after {
+    background-image: url('https://www.dndbeyond.com/attachments/0/508/ddb-borders-1180.png');
+    background-size: 100% 100%;
+    bottom: calc(var(--size-m) * -1);
+    content: '';
+    height: var(--size-m);
+    left: -1px;
+    position: absolute;
+    right: -1px;
+  }
+
+  a {
+    color: var(--color-page-fg);
+    display: block;
+    margin-bottom: var(--size-xs);
+  }
+
+  h3 {
+    font-size: var(--font-size-m);
+    font-weight: bold;
+    margin-bottom: var(--size-xs);
+    margin-top: 0;
+
+    &::after {
+      display: none;
+    }
+
+    a {
+      color: var(--color-toc-heading, #7c1911);
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin-left: var(--size-s);
+    margin-top: 0;
+    padding: 0;
+  }
+
+  li {
+    break-inside: avoid;
+  }
+
+  > * + * {
+    margin-top: var(--size-m);
+  }
+}

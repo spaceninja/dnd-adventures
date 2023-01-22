@@ -1,3 +1,6 @@
+const markdownIt = require('markdown-it');
+const markdownItAnchor = require('markdown-it-anchor');
+
 module.exports = function (eleventyConfig) {
   // Copy over various static files
   eleventyConfig.addPassthroughCopy(
@@ -8,6 +11,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     files: ['dist/**/*.js', 'dist/**/*.css'],
   });
+
+  // Add MarkdownIt plugins
+  let options = {
+    html: true,
+  };
+  let markdownLibrary = markdownIt(options).use(markdownItAnchor);
+  eleventyConfig.setLibrary('md', markdownLibrary);
 
   return {
     dir: {

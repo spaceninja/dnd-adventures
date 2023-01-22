@@ -1,4 +1,4 @@
-// stylelint-disable a11y/media-prefers-reduced-motion, plugin/no-low-performance-animation-properties
+// stylelint-disable a11y/media-prefers-reduced-motion
 table {
   background: var(--color-table-bg, white);
   border: var(--border-thin) solid var(--color-table-border, lightgrey);
@@ -75,11 +75,4 @@ td {
 th {
   font-weight: bold;
   padding: var(--size-s) var(--size-l);
-}
-
-.table--left-first {
-  th:first-child,
-  td:first-child {
-    text-align: left;
-  }
 }
