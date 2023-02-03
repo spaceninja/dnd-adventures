@@ -8,6 +8,58 @@ tags: adventures
 
 Slaad base. Lean into horror science station trope. Chaos in the first room, dead scientists wearing Fresenius Research lab coats. Find journal entries from junior scientist with increasing concern. Advance through rooms, find scattered Slaads and more dead bodies. Should be clear that Head Researcher slowly lost his mind and let them in. They find the head researcher in last room with junior from journal entries strapped to table, about to inject with final formula — Mind Flayer venom — like Slaad venom, it will turn victim into a Mind Flayer. Head Researcher is secretly a mind flayer.
 
+## Introduction
+
+TK
+
+Welcome to In Dire Need, a D&D Adventurers LeagueTM adventure, part of the official D&D Adventurers LeagueTM organized play system and the Storm King's ThunderTM storyline season.
+
+This adventure is designed for **three to seven 5th-10th level characters**, and is optimized for **five 7th-level characters**. Characters outside this level range cannot participate in this adventure. A player with an ineligible character can create a new 1st- level character or use a pregenerated character.
+
+The adventure is set in the Hartsvale region of the Forgotten Realms, predominantly in the Ice Spire Mountains.
+
+### Adjusting the Adventure
+
+Throughout this adventure, sidebars provide information to assist you in making adjustments for smaller or larger groups and characters of higher or lower levels than the adventure is optimized for. This is typically used exclusively for combat encounters. These adjustments are not required, nor are you bound to the suggestions made by the adventure—they are recommendations provided for guidance and convenience.
+
+This adventure is **optimized for a party of five 8th level characters**. To figure out whether you need to adjust the adventure, do the following:
+
+- Add up the total levels of all the characters.
+- Divide the total by the number of characters.
+- Round fractions of .5 or greater up; round fractions of less than .5 down.
+
+You’ve now determined the **average party level (APL)** for the adventure. To figure out the **party strength** for the adventure, consult the following table.
+
+#### Determining Party Strength
+
+|             | 3-4 characters | 5 characters | 6-7 characters |
+| ----------- | -------------- | ------------ | -------------- |
+| **APL < 8** | Very Weak      | Weak         | Average        |
+| **APL = 8** | Weak           | Average      | Strong         |
+| **APL > 8** | Average        | Strong       | Very Strong    |
+
+Average party strength indicates no recommended adjustments to the adventure. Each sidebar may or may not offer suggestions for certain party strengths. If a particular recommendation is not offered for your grou
+
+### Adventure Background
+
+TK
+
+### Adventure Overview
+
+This adventure is divided into X parts.
+
+**Part 1.** TK
+
+### Adventure Hooks
+
+TK
+
+**Hook.** TK
+
+### Designer Notes Sidebar
+
+TK
+
 ## Courtyard
 
 Dead Githzerai guards and Slaad
@@ -24,9 +76,9 @@ In the middle of the courtyard is a folded up paper airplane containing the inte
 
 <aside class="block-torn-paper">
 
-Day One: New job! I’m so excited. As a Githzerai child with no interest or aptitude for martial affairs, I never fit in. I’ve always been interested in science and learning, but those aren’t things our culture places much value on. It’s not that enlisting in the guard is compulsory, it’s more that no one has ever not wanted to enlist before.
+Day One: New job! I’m so excited. As a Githzerai child with no interest or aptitude for psionics or the monastic lifestyle, I never fit in. I’ve always been interested in science and biology, but those aren’t things our culture places much value on.
 
-My parents were confused by me, but supportive, and I was thrilled when my mother called on a contact from her reaving days to get me an internship with the human scientists operating out of the Spawning Stone research station. Their organization, Fresenius Research, was contracted to research the Slaad and find ways to combat the lethal infections they carry. I can’t believe I’m going to help them do science that will benefit everyone in Limbo!
+My parents were confused by me, but supportive, and I was thrilled when my mother called on a contact from her days as a _rrakkma_ to get me an internship with the human scientists operating out of a research station here in Limbo. Their organization, Fresenius Research, was contracted to research the Slaad and find ways to combat the lethal infections they carry. I can’t believe I’m going to help them do science that will benefit everyone in Limbo!
 
 </aside>
 
@@ -46,7 +98,11 @@ One of the tables has a folder with the intern’s name on it. Inside is a torn-
 
 <aside class="block-torn-paper">
 
-Day 17: It’s only been three weeks, but I’m already so glad I came! I’m learning so much (and the waffle bar is delicious!). The scientists here genuinely seem to like me. They do appear to find the idea of a Githzerai scientist unusual, but in a charming way, and seem to have largely adopted me as a sort of lab mascot. They delight in calling me over to show off what they’re doing, and tell me how our (our!) research into the Slaad lifecycle is going to save lives. While they can be a bit patronizing, they obviously mean well.
+Day 17: It’s only been three weeks, but I’m already so glad I came! I’m learning so much (and the waffle bar is delicious!).
+
+There is a squad of Githzeria monks and an anarch here, who keep the research station floating in a bubble of stable space, unaffected by the surrounding chaos. They live in the barracks outside the main building. They are polite but distant.
+
+The scientists here genuinely seem to like me. They do appear to find the idea of a Githzerai scientist unusual, but in a charming way, and seem to have largely adopted me as a sort of lab mascot. They delight in calling me over to show off what they’re doing, and tell me how our (our!) research into the Slaad lifecycle is going to save lives. While they can be a bit patronizing, they obviously mean well.
 
 I even met the head researcher! He’s a charming man with an infectious laugh who came down from the fourth floor specifically to meet me. He asked me a lot of questions and then spoke to the floor director privately. Later, I was told that he’d taken a personal interest in me, and instructed the floor director to promote me to level two! I can’t believe it, but I start tomorrow!
 
