@@ -113,3 +113,21 @@
     margin-top: var(--size-m);
   }
 }
+
+.compendium-disclaimer {
+  background: var(--color-page-bg);
+  border: var(--border-thin) solid var(--color-heading-border);
+  border-radius: 3px;
+  color: var(--color-page-fg-meta);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 0.3px;
+  margin-top: var(--size-xxxl);
+  padding: var(--size-s) var(--size-l);
+  text-transform: uppercase;
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}

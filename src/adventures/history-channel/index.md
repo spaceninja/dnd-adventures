@@ -65,3 +65,9 @@ Can you escape the future before it kills you?
 - [Credits](./credits)
 
 </div>
+
+<div class="compendium-disclaimer">
+
+Disclaimer: Historia Kanalo is not responsible for any instabilities introduced into your personal timeline due to participation, voluntary or otherwise, in any programming. Employees who become their own ancestors may not declare themselves as their own dependent on tax forms. If you find you are fading from existence, please proceed to HR immediately to process your exit paperwork.
+
+</div>
