@@ -17,6 +17,22 @@ The characters awaken in a holding cell (or a clone tank if they died), before t
 
 ## Security
 
+<figure>
+  <a href="/images/deck-02-fogged-labels@2490.webp">
+    <img
+      alt="Map of Deck 2"
+      sizes="(min-width: 850px) 830px, 100vw"
+      src="/images/deck-02-fogged-labels@830.webp"
+      srcset="
+        /images/deck-02-fogged-labels@830.webp 830w,
+        /images/deck-02-fogged-labels@1660.webp 1660w,
+        /images/deck-02-fogged-labels@2490.webp 2490w"
+      width="830"
+      height="476"
+      />
+  </a>
+</figure>
+
 - Controlled by #TeamRatings
 - Exits:
   - Tunnel to Arena (guarded)
@@ -72,6 +88,22 @@ The Champion has become a real pain in the Security Chief’s rear, and if the o
 Reward: better treatment by security
 
 ## Return to the Arena
+
+<figure>
+  <a href="/images/deck-01-labels@2490.webp">
+    <img
+      alt="Map of the Arena"
+      sizes="(min-width: 850px) 830px, 100vw"
+      src="/images/deck-01-labels@830.webp"
+      srcset="
+        /images/deck-01-labels@830.webp 830w,
+        /images/deck-01-labels@1660.webp 1660w,
+        /images/deck-01-labels@2490.webp 2490w"
+      width="830"
+      height="476"
+      />
+  </a>
+</figure>
 
 TODO
 

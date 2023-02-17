@@ -45,6 +45,8 @@ Let the players fight as hard as they like, but the deck is stacked overwhelming
 
 If some or all of the characters somehow manage to survive, have a squad of security guards enter the arena and use their laser pistols to stun the remaining characters. Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
 
+## Description of the Area
+
 ## Arena Contestants
 
 The Arena is filled with “contestants,” who have survived for some time in the Arena and see the characters as fresh meat. They use the stats for [Gladiators](https://www.dndbeyond.com/monsters/gladiator), and fight in packs of 1D4+1.

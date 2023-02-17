@@ -17,6 +17,22 @@ After escaping from the arena, the characters explore the rest of the space stat
 
 ## The Station
 
+<figure class="compendium-image-right">
+  <a href="/images/station@1020.webp">
+    <img
+      alt="External view of the space station"
+      sizes="(min-width: 850px) 340px, 40vw"
+      src="/images/station@340.webp"
+      srcset="
+        /images/station@340.webp 340w,
+        /images/station@680.webp 680w,
+        /images/station@1020.webp 1020w"
+      width="340"
+      height="428"
+      />
+  </a>
+</figure>
+
 The station looks like 5 bicycle wheels spinning around a central post with a glass dome on one end. Each wheel is a deck, and originally they were spun to create gravity, though they have since been retrofitted with artificial gravity. The middle wheel has a double ring, making it larger than the others.
 
 Access to an area controlled by a faction depends on how they view the characters. If the characters are known to be working against the faction or are behaving aggressively, then the faction will attack. If the characters are unknown, but non-threatening, then they will be allowed in, but monitored. If the characters are known to be friendly to the faction, they will be allowed to move around the area unrestricted.

@@ -2,6 +2,7 @@
 layout: layout.njk
 tags: adventures
 main_class: adventure-toc
+body_class: history-channel
 eleventyComputed:
   title: '{{ adventure.title }}'
 ---
@@ -59,8 +60,8 @@ Can you escape the future before it kills you?
 
 ### [Appendices](./appendices)
 
-- [Appendix A: Researching Yourself Minigame](./appendices/#appendix-a-researching-yourself-minigame)
-- [Appendix B: Player Handouts](./appendices/#appendix-b-player-handouts)
-- [Credits](./appendices/#credits)
+- [Appendix A: Researching Yourself Minigame](./appendix-a)
+- [Appendix B: Player Handouts](./appendix-b)
+- [Credits](./credits)
 
 </div>

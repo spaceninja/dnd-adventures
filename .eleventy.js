@@ -4,7 +4,7 @@ const markdownItAnchor = require('markdown-it-anchor');
 module.exports = function (eleventyConfig) {
   // Copy over various static files
   eleventyConfig.addPassthroughCopy(
-    'src/**/*.(gif|ico|jpg|png|svg|woff|woff2)'
+    'src/**/*.(gif|ico|jpg|png|svg|webp|woff|woff2)'
   );
 
   // Refresh without re-building for CSS & JS changes

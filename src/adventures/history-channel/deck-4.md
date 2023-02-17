@@ -13,6 +13,22 @@ next:
 
 # {{ title }}
 
+<figure>
+  <a href="/images/deck-04-labels@2490.webp">
+    <img
+      alt="Map of Deck 4"
+      sizes="(min-width: 850px) 830px, 100vw"
+      src="/images/deck-04-labels@830.webp"
+      srcset="
+        /images/deck-04-labels@830.webp 830w,
+        /images/deck-04-labels@1660.webp 1660w,
+        /images/deck-04-labels@2490.webp 2490w"
+      width="830"
+      height="479"
+      />
+  </a>
+</figure>
+
 TK intro
 
 ## Outer Ring Promenade

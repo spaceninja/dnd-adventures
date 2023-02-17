@@ -1,22 +1,23 @@
 ---
 layout: layout.njk
-title: Appendices
+title: 'Appendix A: Researching Yourself Minigame'
 tags: history_channel
 show_nav: true
 prev:
   url: '../deck-6'
   title: 'Deck 6: Flight Deck'
+next:
+  url: '../appendix-b'
+  title: 'Appendix B: Player Handouts'
 ---
 
 # {{ title }}
 
-## Appendix A: Researching Yourself Minigame
-
 The characters are notorious historical figures, and as a result, they have wiki pages of questionable accuracy dedicated to their lives and crimes. If the characters try to look themselves up, it should trigger a little minigame. For each of the following sections, have the player roll on the table for a prompt.
 
-Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate — this isn’t a character-building prompt, it’s an explanation of why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
+Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate — this isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
 
-### Early Life
+## Early Life
 
 This section of the wiki page helps to establish how the character’s childhood led to their eventual life of crime.
 
@@ -33,7 +34,7 @@ This section of the wiki page helps to establish how the character’s childhood
 | 9   | Remarkable childhood           |
 | 10  | Divine birth (citation needed) |
 
-### Gang Membership
+## Gang Membership
 
 This section of the wiki covers the character’s time with the adventuring party, referred to as the character’s “gang,” and establishes how the future views their participation in the gang’s crimes.
 
@@ -50,7 +51,7 @@ This section of the wiki covers the character’s time with the adventuring part
 | 9   | Gang ringleader          |
 | 10  | Gang founder             |
 
-### Post-Gang Life
+## Post-Gang Life
 
 This section of the wiki covers the character’s life after leaving the gang, and probably includes their death. Encourage the players to go big here. Think “war crimes” not “robbery.” There’s a reason they’re notorious in the future.
 
@@ -67,7 +68,7 @@ This section of the wiki covers the character’s life after leaving the gang, a
 | 9   | Prison                     |
 | 10  | Exploded (citation needed) |
 
-### Historical Perspective
+## Historical Perspective
 
 This section covers the historical consensus of the character and what sort of view the future takes of their crimes and impact on the world.
 
@@ -79,12 +80,12 @@ This section covers the historical consensus of the character and what sort of v
 | 4   | Product of their time                                          |
 | 5   | Revolutionary                                                  |
 | 6   | Mentally ill                                                   |
-| 7   | Actions due to STD                                             |
+| 7   | Actions due to venereal disease                                |
 | 8   | Inspired copycat criminals                                     |
 | 9   | Inspired a political movement                                  |
 | 10  | Used as a metaphorical figure by future generations            |
 
-### Depictions in Popular Culture
+## Depictions in Popular Culture
 
 Encourage the players to have fun with this section, especially if the roleplaying has gotten a bit dark in the previous sections.
 
@@ -100,23 +101,3 @@ Encourage the players to have fun with this section, especially if the roleplayi
 | 8   | Villain of a popular movie series |
 | 9   | Name is used as slang             |
 | 10  | Name is used as a curse word      |
-
-## Appendix B: Player Handouts
-
-TODO
-
-## Credits
-
-**Lead Designer:** Scott Vandehey
-
-**Additional Design:** Chuck Lauer Vose
-
-**Cover:** Martin Atkins
-
-**Editing:** Annie Vandehey
-
-**Playtesters:** Martin Atkins, Steve Calderon, Jen Hammond, Jarrod Jackson, Vicki Li
-
-**Maps** created with [DungeonScrawl.com](https://www.dungeonscrawl.com)
-
-_In memory of our friend Steve Calderon. Thank you for telling stories with us._
