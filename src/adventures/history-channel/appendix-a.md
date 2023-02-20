@@ -13,26 +13,26 @@ next:
 
 # {{ title }}
 
-The characters are notorious historical figures, and as a result, they have wiki pages of questionable accuracy dedicated to their lives and crimes. If the characters try to look themselves up, it should trigger a little minigame. For each of the following sections, have the player roll on the table for a prompt.
+In the eyes of the future, the characters are notorious historical figures, and as a result, they have wiki pages dedicated to their lives and crimes. Of course, like any historical figure who lived more than 1000 years ago, the details are of questionable accuracy. If the characters try to look themselves up, it should trigger a little minigame.
 
-Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate — this isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
+For each of the following sections, have the player roll on the table for a prompt. Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate — this isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
 
 ## Early Life
 
 This section of the wiki page helps to establish how the character’s childhood led to their eventual life of crime.
 
-| d10 | Prompt                         |
-| --- | :----------------------------- |
-| 1   | Born with a tail/evil omen     |
-| 2   | Traumatic childhood            |
-| 3   | Grew up poor                   |
-| 4   | Troubled childhood             |
-| 5   | Unremarkable childhood         |
-| 6   | Unremarkable childhood         |
-| 7   | Spoiled childhood              |
-| 8   | Grew up rich                   |
-| 9   | Remarkable childhood           |
-| 10  | Divine birth (citation needed) |
+| d10 | Prompt                                      |
+| --- | :------------------------------------------ |
+| 1   | Born under an ill omen                      |
+| 2   | Traumatic childhood                         |
+| 3   | Grew up poor                                |
+| 4   | Troubled childhood                          |
+| 7   | Military brat                               |
+| 5   | Unremarkable childhood                      |
+| 6   | Lived in a travelling circus                |
+| 8   | Grew up rich                                |
+| 9   | Remarkably gifted                           |
+| 10  | Divine birth <sup>[*citation needed*]</sup> |
 
 ## Gang Membership
 
@@ -43,11 +43,11 @@ This section of the wiki covers the character’s time with the adventuring part
 | 1   | Not actually in the gang |
 | 2   | Gang mascot              |
 | 3   | Unwilling participant    |
-| 4   | Willing participant      |
-| 5   | Willing participant      |
+| 4   | Reluctant participant    |
+| 5   | Stockholm syndrome       |
 | 6   | Willing participant      |
-| 7   | Willing participant      |
-| 8   | Enthusiastic participant |
+| 7   | Enthusiastic participant |
+| 8   | Overzealous participant  |
 | 9   | Gang ringleader          |
 | 10  | Gang founder             |
 
@@ -55,35 +55,35 @@ This section of the wiki covers the character’s time with the adventuring part
 
 This section of the wiki covers the character’s life after leaving the gang, and probably includes their death. Encourage the players to go big here. Think “war crimes” not “robbery.” There’s a reason they’re notorious in the future.
 
-| d10 | Prompt                     |
-| --- | :------------------------- |
-| 1   | Retired peacefully         |
-| 2   | Died badly                 |
-| 3   | Disappeared                |
-| 4   | Famous invention           |
-| 5   | Committed atrocity         |
-| 6   | Committed atrocities       |
-| 7   | Sexual deviant             |
-| 8   | Cult leader                |
-| 9   | Prison                     |
-| 10  | Exploded (citation needed) |
+| d10 | Prompt                                  |
+| --- | :-------------------------------------- |
+| 1   | Retired peacefully                      |
+| 2   | Died badly                              |
+| 3   | Disappeared                             |
+| 4   | Famous invention                        |
+| 5   | Sexual deviant                          |
+| 6   | Committed atrocity                      |
+| 7   | Prison                                  |
+| 8   | Committed atrocities                    |
+| 9   | Cult leader                             |
+| 10  | Exploded <sup>[*citation needed*]</sup> |
 
 ## Historical Perspective
 
-This section covers the historical consensus of the character and what sort of view the future takes of their crimes and impact on the world.
+This section covers the consensus by historians of the character and what sort of view the future takes of their crimes and impact on the world.
 
-| d10 | Prompt                                                         |
-| --- | :------------------------------------------------------------- |
-| 1   | Widely believed to be fictional                                |
-| 2   | Believed to be an amalgamation of two other historical figures |
-| 3   | Misunderstood                                                  |
-| 4   | Product of their time                                          |
-| 5   | Revolutionary                                                  |
-| 6   | Mentally ill                                                   |
-| 7   | Actions due to venereal disease                                |
-| 8   | Inspired copycat criminals                                     |
-| 9   | Inspired a political movement                                  |
-| 10  | Used as a metaphorical figure by future generations            |
+| d10 | Prompt                                     |
+| --- | :----------------------------------------- |
+| 1   | Likely fictional                           |
+| 2   | Amalgamation of several historical figures |
+| 3   | Misunderstood                              |
+| 4   | Product of their time                      |
+| 5   | Revolutionary                              |
+| 6   | Mentally ill                               |
+| 7   | Actions due to venereal disease            |
+| 8   | Inspired copycat criminals                 |
+| 9   | Inspired a political movement              |
+| 10  | Inspired a religion or cult                |
 
 ## Depictions in Popular Culture
 
@@ -92,8 +92,8 @@ Encourage the players to have fun with this section, especially if the roleplayi
 | d10 | Prompt                            |
 | --- | :-------------------------------- |
 | 1   | None                              |
-| 2   | Song lyrics                       |
-| 3   | Song title                        |
+| 2   | Mentioned in hip-hop lyrics       |
+| 3   | Subject of a well-known musical   |
 | 4   | Documentary                       |
 | 5   | TV miniseries                     |
 | 6   | TV series                         |
