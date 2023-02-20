@@ -24,15 +24,7 @@ Then the research team discovered that continued use of the time portal could ca
 
 The division among station staff escalated to a full-blown mutiny. Corporate evacuated the tourists. The scientists barricaded the science deck and imprisoned the former head of R&D for unethical experimentation. The Director siezed the opportunity to broadcast the conflict as a reality show. The public branded the two factions as **#TeamEthics** and **#TeamRatings**.
 
-Knowing his support from Corporate depended on keeping ratings up, the Director authorized a raid on the Portal Chamber. Team Ethics were able to repel the raiders, but not before the characters were pulled through the portal. For reasons unknown to the players, they are known in the future as legendary villains, and their upcoming debut in the arena has generated a lot of viewer excitement.
-
-<aside class="text--rules-sidebar">
-
-#### Why don’t the NPCs have names?
-
-I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title.
-
-</aside>
+Knowing his support from Corporate depended on keeping ratings up, the Director authorized a raid on the Portal Chamber. Team Ethics were able to repel the raiders, but not before the characters were pulled through the portal. For reasons unknown to the players, they are amongh the future's most legendary villains, and their upcoming debut in the arena has generated a lot of viewer excitement.
 
 ## Adventure Synopsis
 
@@ -43,6 +35,18 @@ The daily arena combat is introduced by the Director, a flamboyant figure who dr
 The characters eventually escape into the main station, where they find the crew in open conflict over the abuse of time travel. The station inhabitants have split into opposing factions: Team Ratings and Team Ethics, as well as the unaffiliated Ops Union who just want to keep the station from exploding.
 
 The characters will need to choose what to do and who to help. Return to the past or stay in the future? Help one faction win over the others, or blow up the portal so it can’t be abused anymore?
+
+<aside class="text--rules-sidebar">
+
+#### A Note on Time Travel
+
+This scenario uses a version of the [multiversal rules of time travel](https://www.bleedingcool.com/2013/09/04/the-new-marvel-rules-of-time-travel-courtesy-of-battle-of-the-atom-spoilers/). In a nutshell: Any time travel creates an additional timeline. This is only one of many possible futures for the characters, and changes they make in the past can keep them from ending up in this timeline.
+
+That said, time travel is a plot device best used in service of your players’ stories, and you should feel free to change or ignore these rules if it makes your game more fun.
+
+Time travel gets messy quickly. If your players are getting bogged down in the mechanics of it, you might gently remind them that: A) their characters are not scientists, B) the actual scientists are still figuring out how it all works, and C) they have more pressing concerns.
+
+</aside>
 
 ## Adventure Hooks
 
@@ -88,20 +92,16 @@ If the players are having fun exploring, let them decide where to go. But if the
 
 **The Professor wants to stop the Director:** Eventually, the players will probably be motivated to make their way to the Portal Chamber, but if they don’t, the Professor could reach out directly to offer a way home if they stop the Director (though they’re probably the last to do so after the Director and the Chief).
 
+<aside class="text--rules-sidebar">
+
+#### Why don’t the NPCs have names?
+
+I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title.
+
+</aside>
+
 ### Suggestions
 
 **Let the players be clever:** This is an open-ended scenario that’s meant to reward creative thinking and solutions over combat. If they find a clever shortcut or way to avoid something you had planned, that’s great! Let the players feel clever while you look for another way to increase the pressure.
 
 **Let the players pick an ending:** Nearly every NPC offers a different way to resolve this scenario. Do your best to avoid picking a “good ending” to steer your players towards. Returning to the past, staying in the future, or even using the portal to go somewhere new are all viable outcomes. Try to run with what your players are interested in.
-
-<aside class="text--rules-sidebar">
-
-#### A Note on Time Travel
-
-This scenario uses a version of the [multiversal rules of time travel](https://www.bleedingcool.com/2013/09/04/the-new-marvel-rules-of-time-travel-courtesy-of-battle-of-the-atom-spoilers/). In a nutshell: Any time travel creates an additional timeline. This is only one of many possible futures for the characters, and changes they make in the past can keep them from ending up in this timeline.
-
-That said, time travel is a plot device best used in service of your players’ stories, and you should feel free to change or ignore these rules if it makes your game more fun.
-
-Time travel gets messy quickly. If your players are getting bogged down in the mechanics of it, you might gently remind them that: A) their characters are not scientists, B) the actual scientists are still figuring out how it all works, and C) they have more pressing concerns.
-
-</aside>
