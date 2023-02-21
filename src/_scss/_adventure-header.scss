@@ -75,32 +75,13 @@
   right: var(--size-l);
 }
 
-@media screen and (prefers-reduced-motion: reduce) {
-  .nav-back-to-top__link {
-    background-image: url('https://www.dndbeyond.com/file-attachments/0/742/arrow.svg');
-    background-position: center;
-    background-repeat: no-repeat;
-    border-radius: 50%;
-    color: var(--color-top-link, #47d18c);
-    display: block;
-    height: var(--size-xxxl);
-    transition: none;
-    width: var(--size-xxxl);
-
-    &:hover,
-    &:focus {
-      color: var(--color-top-link-hover, #3dbe7e);
-      transform: translateY(-3px);
-    }
-  }
-}
-
+// stylelint-disable a11y/media-prefers-reduced-motion
 .nav-back-to-top__link {
+  background-color: var(--color-top-link, #47d18c);
   background-image: url('https://www.dndbeyond.com/file-attachments/0/742/arrow.svg');
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 50%;
-  color: var(--color-top-link, #47d18c);
   display: block;
   height: var(--size-xxxl);
   transition: transform 0.2s, background-color 0.2s;
@@ -108,10 +89,11 @@
 
   &:hover,
   &:focus {
-    color: var(--color-top-link-hover, #3dbe7e);
+    background-color: var(--color-top-link-hover, #3dbe7e);
     transform: translateY(-3px);
   }
 }
+// stylelint-enable a11y/media-prefers-reduced-motion
 
 .sr-only {
   border: 0;

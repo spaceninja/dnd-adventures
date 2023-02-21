@@ -78,6 +78,8 @@ This scenario is designed to be very flexible. However, here are a few key momen
 
 **The Bar is a good first stop:** Once they escape the arena, allow them some time to explore the station and learn about the world they’ve found themselves in. Do your best to steer them towards the Bar, where the Bartender can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
 
+**Encourage exploration:** The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other. The characters can freely move through contested territory, though they may be caught in a firefight or attacked by Security Guards. The guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored. Entry to areas to controlled by #TeamRatings is more challenging, since they'd be arrested on sight. If the players are motivated but having difficulty, help them find a stealthy approach, or a disguise, or even extend an invitation from an NPC inside.
+
 **Security Guards:** Any time the characters are in contested territory, consider throwing a random encounter with Security Guards their direction. Unless they’re actively working with #TeamRatings, Security is probably hunting for them.
 
 **Camera Drones:** Whenever the characters enter contested territory or an area controlled by #TeamRatings, there should be Camera Drones following them. The Director can see anything the Drones see.
