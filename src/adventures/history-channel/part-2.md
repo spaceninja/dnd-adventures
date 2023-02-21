@@ -119,9 +119,9 @@ TODO
 
 The Champion was a notorious marauder, and won the first season of the gladiator show. First prize that season was being returned to your timeline. She was brought back shortly after for an ill-considered All Stars episode.
 
-Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice guy and had a couple kids. Then they abducted her again. She wants only to return to her timeline, but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
+Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice human and had a couple kids. Then they abducted her again. She wants only to return to her timeline, but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
 
-The Champion uses the stats for a [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a named [+2 Longword](https://www.dndbeyond.com/magic-items/weapon-2).
+The Champion uses the stats for a [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [+2 Longsword](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
 #### Quest: Kill the Security Chief
 

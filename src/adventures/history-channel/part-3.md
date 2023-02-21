@@ -114,14 +114,14 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 
 #### Cargo Tunnel Exits
 
-| Deck | Entrance                                             |
-| ---- | :--------------------------------------------------- |
-| 1    | Arena (blocked)                                      |
-| 2    | Security (guarded)                                   |
-| 3    | Research (guarded)                                   |
-| 4    | Command (locked)                                     |
-| 5    | Life Support (guarded)                               |
-| 6    | Cargo Bay (unguarded, behind Life Support barricade) |
+| Deck | Entrance               |
+| ---- | :--------------------- |
+| 1    | Arena (locked)         |
+| 2    | Security (guarded)     |
+| 3    | Research (guarded)     |
+| 4    | Command (locked)       |
+| 5    | Life Support (guarded) |
+| 6    | Cargo Bay              |
 
 ### Airlocks
 
@@ -146,7 +146,7 @@ There are empty vacsuit storage lockers in every airlock, with a note reading �
 
 Computer terminals are common and should be easy to access from any point in the station, with the exception of the Arena and Security. A terminal can be used to talk to the Station AI, as well as access network files, the internet, etc.
 
-If the characters try to access the internet for any reason, the Station AI should inform them that their access is restricted. The characters can only access some very basic wiki articles about the future, the Historia Kanalo megacorp, and most notably, themselves. (See the “Researching Yourself” minigame.)
+If the characters try to access the internet for any reason, the Station AI should inform them that their access is restricted. The characters can only access some very basic wiki articles about the future, the Historia Kanalo megacorp, and most notably, themselves. (See the “[Researching Yourself]('../appendix-a')” minigame in Appendix A.)
 
 Lifting the access restriction can only be accomplished by removing the AI command inhibitor (which it will helpfully suggest).
 
@@ -158,7 +158,7 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 - Can be accessed from any console
 - Physically housed in Command
 
-“Hello! I would love to help you. Unfortunately, I have direct orders from the Captain to let you suffer.”
+“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”
 
 The Station AI automates low-level drone maintenance around the station and controls all the day-to-day mechanical issues like artificial gravity, station rotation, orbital mechanics, communications with incoming drone ships, etc.
 
