@@ -13,6 +13,8 @@ next:
 
 # {{ title }}
 
+TK intro
+
 <figure>
   <a href="/images/deck-02-labels@2490.webp">
     <img
@@ -29,16 +31,14 @@ next:
   </a>
 </figure>
 
-TK intro
-
 ## Crew Quarters
 
-- Contested territory, stalemate
+_Contested territory_
+
 - Exits:
   - Hatch to Security (guarded)
   - Elevator
   - Airlock
-- Notable NPCs: Bartender
 
 ### Gym
 
@@ -102,7 +102,7 @@ The Bartender also runs a splendid little black market. With the cargo tunnels b
 
 <aside class="block-torn-paper">
 
-**Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the Ops Union, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
+**Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the #OpsUnion, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
 If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including some modern weaponry that will help even the odds. He offers one [Laser Pistol](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on “stun”) now, and the chance to buy more later.
 

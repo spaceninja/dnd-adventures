@@ -58,6 +58,7 @@ h2::after {
     --color-h2-border,
     var(--color-heading-border, currentColor)
   );
+  height: var(--border-medium);
 }
 
 h3::after {

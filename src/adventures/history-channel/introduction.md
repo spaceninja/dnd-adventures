@@ -32,7 +32,7 @@ This scenario begins when the characters wake in a holding pen in a large arena.
 
 The daily arena combat is introduced by the Director, a flamboyant figure who dresses and acts like a carnival barker. He can be seen on an enormous screen overhead, which displays what’s being broadcast, a scoreboard, and an unending stream of commentary from viewers.
 
-The characters eventually escape into the main station, where they find the crew in open conflict over the abuse of time travel. The station inhabitants have split into opposing factions: Team Ratings and Team Ethics, as well as the unaffiliated Ops Union who just want to keep the station from exploding.
+The characters eventually escape into the main station, where they find the crew in open conflict over the abuse of time travel. The station inhabitants have split into opposing factions: Team Ratings and Team Ethics, as well as the unaffiliated #OpsUnion who just want to keep the station from exploding.
 
 The characters will need to choose what to do and who to help. Return to the past or stay in the future? Help one faction win over the others, or blow up the portal so it can’t be abused anymore?
 

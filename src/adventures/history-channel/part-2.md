@@ -15,8 +15,6 @@ next:
 
 The characters awaken in a holding cell (or a clone tank if they died), before they are returned to the arena for another round of combat. This repeats until the characters meet the Strategist, who shows them how to escape.
 
-## Security
-
 <figure>
   <a href="/images/deck-02-fogged-labels@2490.webp">
     <img
@@ -33,13 +31,15 @@ The characters awaken in a holding cell (or a clone tank if they died), before t
   </a>
 </figure>
 
-- Controlled by #TeamRatings
+## Security
+
+_Controlled by #TeamRatings_
+
 - Exits:
   - Tunnel to Arena (guarded)
   - Hatch to Quarters (guarded)
   - Cargo Tunnel (guarded)
   - Elevator (locked)
-- Notable NPCs: Security Chief
 
 Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the control room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep, as well as a set of interrogation rooms, holding cells, and offices. All exits from Security are well-guarded and the corridors are patrolled.
 
@@ -96,6 +96,8 @@ The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dn
 
 ## Return to the Arena
 
+TK intro
+
 <figure>
   <a href="/images/deck-01-labels@2490.webp">
     <img
@@ -111,8 +113,6 @@ The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dn
       />
   </a>
 </figure>
-
-TODO
 
 ### The Champion
 

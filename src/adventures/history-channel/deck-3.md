@@ -13,6 +13,8 @@ next:
 
 # {{ title }}
 
+TK intro
+
 <figure>
   <a href="/images/deck-03-labels@2490.webp">
     <img
@@ -29,27 +31,25 @@ next:
   </a>
 </figure>
 
-TK intro
-
 ## Medical
 
-- Controlled by #TeamEthics
+_Controlled by #TeamEthics_
+
 - offices, waiting room, exam rooms, trauma center
 - Exits:
   - Hatch to Research
   - Airlock
   - Elevator (guarded)
-- Notable NPCs: Doctor, Mad Scientist
 
 TODO: Medical should be open, neutral, treating all sides
 
 Lobby looks like any hospital waiting room, but over the shoulder of the receptionist, you can see the facility is overflowing with patients. They are in every room, but also lying on gurneys in the hall or even just standing around and sitting on the floor. Nurses and doctors in lab coats are running around conducting triage, trying to help, but it’s clear they’re running out of key supplies. The patients are mostly in green uniforms, but there are some tan and red uniforms as well.
 
-Eventually the Doctor comes through. She is constantly being interrupted by other doctors and nurses asking her for information or to make a judgement call. She eventually loses her patience moving through and demands that the hallways be cleared by moving patients into the the lobby.
+Eventually the Dcot comes through. She is constantly being interrupted by other doctors and nurses asking her for information or to make a judgement call. She eventually loses her patience moving through and demands that the hallways be cleared by moving patients into the the lobby.
 
-This should give the players a chance to be altruistic. If the doctor sees them trying to help, she will take an interest and strike up a conversation. Unless they are total jerks to her, she’ll invite them back to her office and offer her quest.
+This should give the players a chance to be altruistic. If the Doc sees them trying to help, she will take an interest and strike up a conversation. Unless they are total jerks to her, she’ll invite them back to her office and offer her quest.
 
-### The Doctor
+### The Doc
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
@@ -64,7 +64,7 @@ _Female Elf Cleric_
 - Sounds like Alice Quinn from the Magicians
 - Can be found in Medical
 
-The Doctor had an easy job before the mutiny, with nothing more difficult than the occasional chemical burn or tourist with a sprained ankle. Now, however, her sick bay is crammed full of injuries and they’re running low on supplies. She doesn’t care too much about the ethics of time travel, but wants the fighting to end.
+The Chief Medical Officer (known universally as "the Doc") had an easy job before the mutiny, with nothing more difficult than the occasional chemical burn or tourist with a sprained ankle. Now, however, her sick bay is crammed full of injuries and they’re running low on supplies. She doesn’t care too much about the ethics of time travel, but wants the fighting to end.
 
 She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. She’s willing to use her medical emergency override code to let the characters into the portal chamber if they will stop the broadcast.
 
@@ -72,7 +72,7 @@ She has a plan that she hasn’t told anyone about yet. She believes if the stat
 
 <aside class="block-torn-paper">
 
-**Quest: Stop the Broadcast:** The Doctor think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doctor can get you access to the portal to go home.
+**Quest: Stop the Broadcast:** The Doc think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doc can get you access to the portal to go home.
 
 </aside>
 
@@ -108,14 +108,14 @@ As a reward, she will send the characters anywhere/when they want to go.
 
 ## Research
 
-- Controlled by #TeamEthics
+_Controlled by #TeamEthics_
+
 - offices, labs, monitoring, fabrication, R&D, tunnel
 - Exits
   - Hatch to Medical
   - Hatch to Portal Chamber (guarded)
   - Elevator (barricaded)
   - Cargo Tunnel (guarded)
-- Notable NPCs: Professor
 
 R&D looks like any university science department. Long hallways with corkboards covered in printouts, whiteboards filled with formulas and notes, and many doorways opening to labs filled with harried-looking scientists and engineers doing work. Some unoccupied labs or offices are filled with sleeping guards and off-duty scientists, who clearly have nowhere else to sleep since R&D was blocked off from the rest of the station.
 
@@ -139,7 +139,7 @@ _Sentient Weapon wielded by Male Human Barbarian_
 - (when not in contact, wielder sounds like Conan)
 - Can be found in Research
 
-The Professor is an ancient sentient weapon, dating back to only a century or so after the characters’ time period. Over the centuries, they eventually tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
+The Director of Research & Development is an ancient sentient weapon, who everyone simply calls "The Professor." They date back to only a century or so after the characters’ time period. Over time, they eventually tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
 However, they could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the rebellion when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs and return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 

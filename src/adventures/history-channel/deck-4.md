@@ -13,6 +13,8 @@ next:
 
 # {{ title }}
 
+TK intro
+
 <figure>
   <a href="/images/deck-04-labels@2490.webp">
     <img
@@ -29,11 +31,10 @@ next:
   </a>
 </figure>
 
-TK intro
-
 ## Outer Ring Promenade
 
-- Contested territory, open combat
+_Contested Territory_
+
 - Shopping, food court, souvenirs
 - Exits:
   - Hatch to Broadcasting (locked)
@@ -48,12 +49,12 @@ Smell: ozone and smoke.
 
 ## Broadcasting
 
-- Controlled by #TeamRatings
+_Controlled by #TeamRatings_
+
 - offices, studios, monitoring, facilities, airlock
 - Exits:
   - Hatch to Lobby (locked)
   - Airlock
-- Notable NPCs: Director
 
 ### The Director
 
@@ -90,12 +91,12 @@ If you can remove the Professor from power, then you can stay in the future and 
 
 ## Command
 
-- Controlled by #TeamRatings
+_Controlled by #TeamRatings_
+
 - offices, bridge, briefing room, AI server room
 - Exits:
   - Hatch to Lobby (locked)
   - Cargo Tunnel (locked)
-- Notable NPCs: Station AI
 
 ### The Commander
 

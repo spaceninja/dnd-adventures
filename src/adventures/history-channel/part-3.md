@@ -41,7 +41,7 @@ Access to an area controlled by a faction depends on how they view the character
 
 #### #TeamRatings
 
-“Corporate assholes who’ll keep torturing the timeline as long as there’s a buck to be made.”
+_“Corporate assholes who’ll keep torturing the timeline as long as there’s a buck to be made.”_
 
 #TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by the Director, who wants to increase ratings at any cost. The Commander is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any command in the name of ratings. Enforcing the Director’s will is the sadistic Security Chief who abuses the abducted “contestants” whenever they leave the Arena.
 
@@ -49,9 +49,9 @@ Access to an area controlled by a faction depends on how they view the character
 
 #### #TeamEthics
 
-“A bunch of scientists who don’t understand their ivory tower costs money.”
+_“A bunch of scientists who don’t understand their ivory tower costs money.”_
 
-#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by the Professor, who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, the Mad Scientist, is locked up in Medical for his unethical experiments. The head of Medical is the Doctor, who just wants the fighting to stop.
+#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by the Professor, who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, the Mad Scientist, is locked up in Medical for his unethical experiments. The head of Medical is the Doc, who just wants the fighting to stop.
 
 #TeamEthics members wear green jumpsuits.
 
@@ -59,17 +59,17 @@ Access to an area controlled by a faction depends on how they view the character
 
 Guards for #TeamEthics use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran) are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components.
 
-#### Ops Union
+#### #OpsUnion
 
-“Those grease monkeys refuse to pick a side.”
+_“Those grease monkeys refuse to pick a side.”_
 
-Ops Union has full control of Deck 5 (Engineering & Life Support) as well as the Cargo Bay. They are led by the Chief, who believes staying neutral is the only way her crew can keep the station from tearing itself apart. So far it’s not working out very well. Life Support is overseen by the Technician, who is more worried about the station literally exploding. The Cargo Bay is managed by the Quartermaster, who is very protective of the supplies stored there.
+The Operations Union has full control of Deck 5 (Engineering & Life Support) as well as the Cargo Bay. They are led by the Chief, who believes staying neutral is the only way her crew can keep the station from tearing itself apart. So far it’s not working out very well. Life Support is overseen by the Technician, who is more worried about the station literally exploding. The Cargo Bay is managed by the Quartermaster, who is very protective of the supplies stored there.
 
-Ops Union members wear high-visibility orange jumpsuits.
+#OpsUnion members wear high-visibility orange jumpsuits.
 
-##### Ops Union Guards
+##### #OpsUnion Guards
 
-Guards for Ops Union use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran) are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components and hard hats.
+Guards for #OpsUnion use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran) are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components and hard hats.
 
 ### Camera Drones
 
@@ -108,7 +108,7 @@ The Cargo Tunnel is a large zero-gravity shaft running the length of the station
 
 The Cargo Bay is contested territory, though open combat has settled into an uneasy stalemate. Each deck’s hatch is locked or barricaded and guarded by the faction that controls that deck. Anyone traversing the length of the tunnel will be challenged by the guards they pass, and it won’t take much to spark a firefight.
 
-There are maintenance hatches scattered the length of the tunnel, allowing Ops Union access to machinery and equipment that runs the station. These hatches are locked and access is restricted to Ops Union members.
+There are maintenance hatches scattered the length of the tunnel, allowing #OpsUnion access to machinery and equipment that runs the station. These hatches are locked and access is restricted to #OpsUnion members.
 
 Near each deck hatch is an automated custodial shed, housing cleaning drones controlled by the Ship AI as well as cleaning supplies and automated garbage collection points, small low-pressure hatches that suck garbage into a compactor, where it’s compressed and fired into orbit to burn up on re-entry.
 
@@ -129,7 +129,7 @@ There is an airlock on every deck of the station.
 
 All airlocks are large enough for a group of people to don vacsuits comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
 
-There are empty vacsuit storage lockers in every airlock, with a note reading “Confiscated by Ops Union” and signed by the Chief. The vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
+There are empty vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief. The vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
 
 #### Airlocks
 
