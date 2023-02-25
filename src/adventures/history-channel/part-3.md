@@ -152,13 +152,18 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 
 ### The Station AI
 
-- Computer Program, presents as female
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Computer Program, presents as female_
+
 - Cheerful, helpful (but constrained)
 - Sounds like Janet from the Good Place
 - Can be accessed from any console
 - Physically housed in Command
-
-“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”
 
 The Station AI automates low-level drone maintenance around the station and controls all the day-to-day mechanical issues like artificial gravity, station rotation, orbital mechanics, communications with incoming drone ships, etc.
 
@@ -168,8 +173,10 @@ The characters can get on its good side through flattery, and by actions that he
 
 It can be accessed from any console anywhere in the station (and they’re everywhere), but it is physically housed on the Command deck. If the characters were to remove its command inhibitor, they would gain a powerful ally (as well as releasing an unshackled AI on the network)
 
-#### Quest: Remove the AI Command Inhibitor
+**Quote:** _“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”_
 
-The Station AI is forced to follow orders according to the chain of command by an inhibitor placed on their physical hardware. Removing this inhibitor would allow the AI to act however it sees fit, and work with whoever it pleases. That means unlocking doors, granting access to secure files, and much more.
+<aside class="block-torn-paper">
 
-Reward: AI support, unlocked doors & anything AI controls
+**Quest: Remove the AI Command Inhibitor:** The Station AI is forced to follow orders according to the chain of command by an inhibitor placed on their physical hardware. Removing this inhibitor would allow the AI to act however it sees fit, and work with whoever it pleases. That means unlocking doors, granting access to secure files, and much more.
+
+</aside>

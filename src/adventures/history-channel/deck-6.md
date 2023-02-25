@@ -48,6 +48,14 @@ The Quartermaster moves around the room, following patterns and moving items acc
 
 ### The Quartermaster
 
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Modron Quadrone_
+
 - Nordom, the last Modron
 - Helpful, guileless, optimistic
 - Sounds like Nordom
@@ -89,22 +97,29 @@ It is clear that the battle is only on hold, and will flare up as soon as the ne
 
 ### The Pilot
 
-- Female Tiefling
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Tiefling Rogue_
+
 - Aviator sunglasses, cowboy hat, dark blue scales, flight suit
 - Sneaky, capable
 - Sounds like a female Han Solo
 - Can be found in Shuttle Bay
 
-“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”
-
 The Pilot was stranded on the station when it went into lockdown. She was ferrying employees between the ground and the station and now she can’t leave. She hangs out on her ship, grumbling about not being able to leave.
 
 Secretly, the Pilot is a spy for another Corporation, sent to steal information about the portal. She has a way to blow the locks on her ship and and will fly the characters out if they can acquire the plans for the portal and bring them to her.
 
-#### Quest: Steal the Portal Plans
+**Quote:** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
 
-The Pilot has been hired by a competing megacorp to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber, or can be downloaded from any console if the Station AI grants access.
+<aside class="block-torn-paper">
+
+**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing megacorp to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber, or can be downloaded from any console if the Station AI grants access.
 
 In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
 
-Reward: Escape to the planet
+</aside>

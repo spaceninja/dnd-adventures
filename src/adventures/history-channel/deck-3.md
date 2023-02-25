@@ -51,44 +51,60 @@ This should give the players a chance to be altruistic. If the doctor sees them 
 
 ### The Doctor
 
-- Female Elf
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Elf Cleric_
+
 - Tall, blonde ponytail, glasses, lab coat
 - Frustrated, tense, determined
 - Sounds like Alice Quinn from the Magicians
 - Can be found in Medical
 
-“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”
-
 The Doctor had an easy job before the mutiny, with nothing more difficult than the occasional chemical burn or tourist with a sprained ankle. Now, however, her sick bay is crammed full of injuries and they’re running low on supplies. She doesn’t care too much about the ethics of time travel, but wants the fighting to end.
 
 She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. She’s willing to use her medical emergency override code to let the characters into the portal chamber if they will stop the broadcast.
 
-#### Quest: Stop the Broadcast
+**Quote:** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
 
-The Doctor think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doctor can get you access to the portal to go home.
+<aside class="block-torn-paper">
 
-Reward: Portal access
+**Quest: Stop the Broadcast:** The Doctor think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doctor can get you access to the portal to go home.
+
+</aside>
 
 ### The Mad Scientist
 
-- Female Gnome
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Gnome Wizard_
+
 - Chained to wall, wild lavender hair, big eyes, constantly typing
 - Distracted, twitchy, excitable, flirtatious, unaware she’s a bad guy
 - Sounds like Kate McKinnon in Ghostbusters 2
 - Can be found in Medical
 - Unaffiliated, but imprisoned by #TeamEthics
 
-“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”
-
 The Mad Scientist led the team that discovered how to open time portals, and has been frantically exploiting the tech ever since. She knows it’s only a matter of time (heh) before the secret leaks, and she wants to publish as many papers as possible before that happens.
 
 She dreams of having her name in the history books alongside other greats, and frankly is unconcerned that her experiments might be unethical, or if people die, or even if the timeline itself is destabilized. She believes you can’t make progress being cautious.
 
-#### Quest: Return the Mad Scientist to the Portal Chamber
+**Quote:** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
 
-The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering. As a reward, she will send the characters anywhere/when they want to go.
+<aside class="block-torn-paper">
 
-Reward: Portal access
+**Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering.
+
+As a reward, she will send the characters anywhere/when they want to go.
+
+</aside>
 
 ## Research
 
@@ -109,20 +125,35 @@ Professor’s office is lined with bookcases filled with obscure tomes and resea
 
 ### The Professor
 
-- Sentient Weapon wielded by Male Human
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Sentient Weapon wielded by Male Human Barbarian_
+
 - Huge weapon on back, broad-shouldered, tweed jacket, dark hair in man-bun
 - Intelligent, calm, serious
 - Sounds like Captain Holt from Brooklyn 99
 - (when not in contact, wielder sounds like Conan)
 - Can be found in Research
 
-“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”
-
 The Professor is an ancient sentient weapon, dating back to only a century or so after the characters’ time period. Over the centuries, they eventually tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
 However, they could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the rebellion when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs and return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
 The Professor uses the stats for the [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord).
+
+**Quote:** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
+
+<aside class="block-torn-paper">
+
+**Quest: Remove the Director:** The Professor worries that all the abuse of the timestream by the Director is going to cause catastrophic consequences. It wants to immediately stop all broadcasts, return the prisoners to their proper times, and study the portal more. With luck, the timestream will stabilize, and they can get back to making historical documentaries by sending drones into the past to get footage without risking the timeline.
+
+If you can remove the Director from power, then it will send you back to your time and stop the broadcasts for good.
+
+</aside>
 
 <aside class="text--rules-sidebar">
 
@@ -131,12 +162,6 @@ The Professor uses the stats for the [Hobgoblin Warlord](https://www.dndbeyond.c
 Sentient weapons form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it cannot command someone it has not bonded with.
 
 </aside>
-
-#### Quest: Remove the Director
-
-The Professor worries that all the abuse of the timestream by the Director is going to cause catastrophic consequences. It wants to immediately stop all broadcasts, return the prisoners to their proper times, and study the portal more. With luck, the timestream will stabilize, and they can get back to making historical documentaries by sending drones into the past to get footage without risking the timeline. If you can remove the Director from power, then it will send you back to your time and stop the broadcasts for good.
-
-Reward: Portal access, broadcasts stop
 
 ### Portal Chamber
 

@@ -50,13 +50,18 @@ As you observe, a female dwarf carrying a huge wrench, with braided red hair and
 
 ### The Chief Engineer
 
-- Female Dwarf
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Dwarf Artificer_
+
 - Huge wrench, braided red hair and beard, greasy coveralls
 - Demanding, respected, overworked
 - Sounds like Pam from Archer
 - Can be found in Engineering
-
-“Break’s over, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places. Let’s get to work!”
 
 The Chief is well-regarded by her crew, and takes pride in the safety rating they maintained until combat started. Now her only concern is keeping the station intact. She finds the ethics of the situation incredibly boring, and certainly irrelevant when the station is trying to tear itself apart.
 
@@ -64,13 +69,15 @@ By maintaining a neutral position, her crew has (mostly) been able to access the
 
 If asked for access to the Cargo Bay (or airlocks, or any other facility under Ops Union control), the Chief gives a brusque “No,” explaining those areas are under lockdown to protect the station. She says she’d grant access if the characters helped out with an urgent problem. If they agree, she refers them to the Technician.
 
-#### Quest: Destroy the Portal
+**Quote:** _“Break’s over, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places. Let’s get to work!”_
 
-If the characters success at fixing the coolant leak in the reactor, the Chief will call them back to make them an offer. As she sees it, the cause of all this trouble is the Portal itself. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself, and destroy the portal plans, which are stored on a secure drive in the chamber.
+<aside class="block-torn-paper">
+
+**Quest: Destroy the Portal:** If the characters success at fixing the coolant leak in the reactor, the Chief will call them back to make them an offer. As she sees it, the cause of all this trouble is the Portal itself. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself, and destroy the portal plans, which are stored on a secure drive in the chamber.
 
 If the group can pull this off, she says she can smuggle them off-station to escape to the planet. They wouldn’t be able to return to their time, but they’d have stopped all the abuse of the timeline.
 
-Reward: Escape to the planet
+</aside>
 
 ## Life Support
 
@@ -89,20 +96,27 @@ On one side of the room is a large hatch labeled “Engineering,” which is ung
 
 ### The Technician
 
-- Merman
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Male Merfolk Artificer_
+
 - Green-blue skin, webbed fingers, large eyes
 - Worried, fearful
 - Sounds like a dolphin (Station AI translates)
 - Can be found in Life Support
 
-“Oh, this is bad, this is really bad. If I reroute flow through the tertiary system… shit, that only gives us 30 hours. What am I going to do?”
-
 The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t locate or fix it, and the clock is ticking.
 
-#### Quest: Keep the Station from Exploding
+**Quote:** _“Oh, this is bad, this is really bad. If I reroute flow through the tertiary system… shit, that only gives us 30 hours. What am I going to do?”_
 
-Oh shit, oh shit, oh shit. There’s a coolant leak on the main reactor. It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to put on vacsuits and access the Station Exterior.
+<aside class="block-torn-paper">
+
+**Quest: Keep the Station from Exploding:** Oh shit, oh shit, oh shit. There’s a coolant leak on the main reactor. It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to put on vacsuits and access the Station Exterior.
 
 If you agree to help, the Ops Union will give vacsuits to everyone on the team, granting you access to the airlocks (and a way around station security).
 
-Reward: Airlock access
+</aside>

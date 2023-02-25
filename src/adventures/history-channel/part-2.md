@@ -67,13 +67,18 @@ Security Guards use the stats for [Veterans](https://www.dndbeyond.com/monsters/
 
 ### The Security Chief
 
-- Female Elf
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Elf Fighter_
+
 - Old, short, security armor
 - Sarcastic, threatening
 - Sounds like Lucille Bluth from Arrested Development
 - Can be found in Security
-
-“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”
 
 The Security Chief is delighted with how things have turned out. She was never really happy running security for a calm and orderly tourist hub. In the course of keeping the arena “contestants” in line, she’s discovered a taste for sadistic abuse. After all, no one cares if you violate the rights of history’s most notorious criminals. And if a few prisoners die on her watch, it doesn’t really matter thanks to the clone vats.
 
@@ -81,11 +86,13 @@ She is always surrounded by a squad of at least as many Security Guards as there
 
 The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [Laser Rifle](https://www.dndbeyond.com/equipment/laser-rifle). (For the fire breath weapon, she has a one-shot flamethrower attached to her rifle.)
 
-#### Quest: Defeat the Champion
+**Quote:** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
 
-The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
+<aside class="block-torn-paper">
 
-Reward: better treatment by security
+**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
+
+</aside>
 
 ## Return to the Arena
 
@@ -109,13 +116,18 @@ TODO
 
 ### The Champion
 
-- Female Hobgoblin
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Hobgoblin Barbarian_
+
 - Large, butch haircut, scarred armor with many kill marks
 - Confident, loud, secretly sad
 - Sounds like Kardala from the Adventure Zone
 - Can be found in Arena
-
-“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”
 
 The Champion was a notorious marauder, and won the first season of the gladiator show. First prize that season was being returned to your timeline. She was brought back shortly after for an ill-considered All Stars episode.
 
@@ -123,23 +135,30 @@ Unfortunately, in her timeline, several years had passed, and she had given up h
 
 The Champion uses the stats for a [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [+2 Longsword](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
-#### Quest: Kill the Security Chief
+**Quote:** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
 
-The Champion asks that you kill the Security Chief if you get the opportunity, to end her sadistic treatment of her prisoners.
+<aside class="block-torn-paper">
+
+**Quest: Kill the Security Chief:** The Champion asks that you kill the Security Chief if you get the opportunity, to end her sadistic treatment of her prisoners.
 
 If you do, she will reward you with her favorite weapon. (More importantly, it will reduce the effectiveness of all remaining security forces.)
 
-Reward: Champion’s favorite weapon, reduced security effectiveness
+</aside>
 
 ### The Strategist
 
-- Female Human
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Female Human Ranger_
+
 - Short, mousy, borrowed ill-fitting armor
 - Distracted, annoyed, autistic
 - Sounds like Laurie Bream from Silicon Valley
 - Can be found in Arena
-
-“Oh, um, while you’re inside, don’t look yourself up. It’s… upsetting.”
 
 The Strategist was a war criminal who was expected to be killed quickly in the season she was brought aboard. However, Security didn’t watch her quite carefully enough, and she escaped into the station. She was eventually recaptured, but became a fan favorite when she started posting videos documenting what was happening on the station, which the Director happily allowed as the ratings climbed.
 
@@ -149,10 +168,12 @@ Secretly, she believes (based on some notes she stole from the Mad Scientist) th
 
 The Strategist uses the stats for a [Cultist](https://www.dndbeyond.com/monsters/cultist).
 
-#### Quest: Destroy the Station
+**Quote:** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 
-The Strategist lets you in on her plan: Based on some Mad Scientist notes she saw when she was loose in the station, she believes that causing the station to explode will send a ripple through space-time, effectively “resetting” all time travellers to their home time.
+<aside class="block-torn-paper">
+
+**Quest: Destroy the Station:** The Strategist lets you in on her plan: Based on some Mad Scientist notes she saw when she was loose in the station, she believes that causing the station to explode will send a ripple through space-time, effectively “resetting” all time travellers to their home time.
 
 If you agree to help, she will tell you her secret route out of Security to access the rest of the station.
 
-Reward: Access to station, reset the timeline (maybe?)
+</aside>

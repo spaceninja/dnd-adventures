@@ -57,13 +57,18 @@ Smell: ozone and smoke.
 
 ### The Director
 
-- Male Halfling
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Male Halfling Bard_
+
 - Carnival barker outfit, slicked-back hair, easy smile
 - Bombastic, sleazy
 - Sounds like Tony Stark as a car salesman
 - Can be found in Broadcasting
-
-“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts a distasteful requirement. As I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”
 
 The Director’s confidence and charm masks a deep concern that the ratings are going to drop if he doesn’t keep increasing the stakes. He used every trick he had to capture the characters and is pinning all his hopes on their performance in the Arena.
 
@@ -71,13 +76,17 @@ When the characters break out of the Arena, he’s not upset, because their acti
 
 If the characters ask for anything, he refers them to the Commander, as if he can’t be bothered with such mundane concerns.
 
-#### Quest: Remove the Professor
+**Quote:** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts a distasteful requirement. As I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
-The Director knows when he has a star on his hands. Your squad is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
+<aside class="block-torn-paper">
 
-The protests and mutiny by #TeamEthics is really making it hard to maximize ratings, and it’s time for them to hand over control of the portal. No more scientists getting weak-kneed at the thought of a little blood.. If you can remove the Professor from power, then you can stay in the future and the Director will ensure that you live a life of wealth and fame like you’ve never experienced before. He asks only that you do it in the most entertaining way possible.
+**Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your squad is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
 
-Reward: Stay in the future as a star
+The protests and mutiny by #TeamEthics is really making it hard to maximize ratings, and it’s time for them to hand over control of the portal. No more scientists getting weak-kneed at the thought of a little blood.
+
+If you can remove the Professor from power, then you can stay in the future and the Director will ensure that you live a life of wealth and fame like you’ve never experienced before. He asks only that you do it in the most entertaining way possible.
+
+</aside>
 
 ## Command
 
@@ -90,20 +99,29 @@ Reward: Stay in the future as a star
 
 ### The Commander
 
-- Male Half-Elf
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Male Half-Elf Fighter_
+
 - Balding, sloppy uniform
 - Stubborn, put-upon
 - Sounds like Sheriff Andy from True Blood
 - Can be found in Command
 
-“This shit’s all gonna blow back on me, I just know it.”
-
 In theory, the Commander runs the station, but in reality nearly every decision can be overruled by the Director in the name of ratings, leaving the Commander as a sort of sockpuppet. He chafes at this situation, and feels disrespected.
 
 Most of all, however, he’s under pressure from Corporate to end the open combat on the station so they can resume the profitable business of space tourism. He secretly thinks Corporate would back him moving against the Director as long as ratings didn’t drop too badly, if it restored tourism. Still, he won’t move unless he’s sure it won’t blow up in his face.
 
-#### Quest: Remove the Professor & the Director
+**Quote:** _“This shit’s all gonna blow back on me, I just know it.”_
 
-The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to use the portal for history tourism. He’s got a proposal put together, but doesn’t dare send it, or someone else will take credit for it. If your group can remove both the Director and the Professor, however, he can make his pitch to corporate, and expect their backing. In return, he will send you back to the past. The gladiator program will continue, but less bloodthirsty, and the dip in ratings will be made up for by tourist revenue.
+<aside class="block-torn-paper">
 
-Reward: Portal access, broadcasts continue
+**Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to use the portal for history tourism. He’s got a proposal put together, but doesn’t dare send it, or someone else will take credit for it. If your group can remove both the Director and the Professor, however, he can make his pitch to corporate, and expect their backing.
+
+In return, he will send you back to the past. The gladiator program will continue, but less bloodthirsty, and the dip in ratings will be made up for by tourist revenue.
+
+</aside>

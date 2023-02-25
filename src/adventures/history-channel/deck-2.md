@@ -79,13 +79,18 @@ Inaccessible to the players
 
 ### The Bartender
 
-- Male Human
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+  </div>
+</figure>
+
+_Male Human Rogue_
+
 - Twinkling eyes, dark skin, silk shirt
 - Flirtatious, bargaining
 - Sounds like Lando Calrissian
 - Can be found in Crew Quarters
-
-“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”
 
 The Bartender runs a bar in the contested territory of the Crew Quarters. There is often open combat just outside, but everyone has agreed to treat the bar as neutral ground.
 
@@ -93,10 +98,12 @@ As a result, the Bartender has become a political liaison, gossipmonger, mediato
 
 The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all sides can bring items to the bar to barter with, ensuring that the Bartender is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
 
-#### Quest: Get Supplies from Cargo Bay
+**Quote:** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
 
-The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the Ops Union, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
+<aside class="block-torn-paper">
+
+**Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the Ops Union, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
 If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including some modern weaponry that will help even the odds. He offers one [Laser Pistol](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on “stun”) now, and the chance to buy more later.
 
-Reward: Laser Pistol (stun only), Access to advanced weapon stock
+</aside>

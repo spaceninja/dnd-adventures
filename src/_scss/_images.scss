@@ -25,3 +25,51 @@ figcaption {
   margin-left: var(--size-s);
   max-width: calc(var(--size-page-width) * 0.4);
 }
+
+.npc-portrait,
+.npc-portrait__inner {
+  &::before,
+  &::after {
+    border: var(--border-medium) solid var(--color-heading-border, currentColor);
+    color: var(--color-heading-border, currentColor);
+    content: '•';
+    font-size: var(--size-m);
+    height: var(--size-m);
+    line-height: 12px; // magic number to align the period vertically
+    position: absolute;
+    text-align: center;
+    width: var(--size-m);
+  }
+
+  &::before {
+    top: var(--border-thick);
+  }
+
+  &::after {
+    bottom: var(--border-thick);
+  }
+}
+
+.npc-portrait {
+  border: var(--border-medium) solid var(--color-heading-border, currentColor);
+  padding: var(--border-thick);
+  position: relative;
+
+  &::before,
+  &::after {
+    left: var(--border-thick);
+  }
+
+  img {
+    display: block;
+  }
+}
+
+.npc-portrait__inner {
+  border: var(--border-medium) solid var(--color-heading-border, currentColor);
+
+  &::before,
+  &::after {
+    right: var(--border-thick);
+  }
+}
