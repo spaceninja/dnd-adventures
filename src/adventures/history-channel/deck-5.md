@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/deck-05-labels@2490.webp">
@@ -35,10 +35,14 @@ TK intro
 
 _Controlled by #OpsUnion_
 
+> TODO: read-aloud description
+
 - Exits:
   - Hatch to Life Support
   - Airlock
   - Elevator (guarded)
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 The outer wall of this large space is dominated by two huge pieces of identical machinery with glowing panels, clearly labeled as “Reactor #1” and “Reactor #2”. In front of each is a collection of monitoring stations, staffed by frazzled-looking engineers. Despite your lack of knowledge, it seems like every meter and gauge you see is in the red. You get the sense that the whole system might come crashing down at any time.
 
@@ -87,10 +91,14 @@ If the group can pull this off, she says she can smuggle them off-station to esc
 
 _Controlled by #OpsUnion_
 
+> TODO: read-aloud description
+
 - Exits:
   - Hatch to Engineering
   - Cargo Tunnel (guarded)
   - Elevator (barricaded)
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 This enormous space is filled with oversized machinery, all connected by pipes of various sizes. Some are painted and labeled, some have spinning fans, and others are clear and full of water, including the one that the Technician is swimming in. At various points in the room are computer terminals displaying monitoring displays that don’t mean much to an untrained observer.
 

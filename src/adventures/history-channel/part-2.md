@@ -41,6 +41,8 @@ _Controlled by #TeamRatings_
   - Cargo Tunnel (guarded)
   - Elevator (locked)
 
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
 Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the control room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep, as well as a set of interrogation rooms, holding cells, and offices. All exits from Security are well-guarded and the corridors are patrolled.
 
 ### Clone Room
@@ -56,6 +58,14 @@ Security Guards will mostly ignore characters in the Brig, but every evening the
 #### Secret Hatch
 
 There is a secret hatch under one of the benches. It has been hidden brilliantly, and the characters have no chance of finding it on their own. They will only be able to locate it if they are told of its existence by the Strategist. Once opened, it reveals a tight crawlspace that eventually drops the characters into the Locker Rooms at the Gym in the Crew Quarters.
+
+### Surveillance Room
+
+TODO
+
+### Baracks
+
+TODO
 
 ### Security Guards
 
@@ -113,6 +123,14 @@ TK intro
       />
   </a>
 </figure>
+
+### Airlock, Elevator, and Cargo Tunnel Entrance
+
+TODO
+
+### Stairs to Security
+
+TODO
 
 ### The Champion
 

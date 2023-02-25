@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/deck-03-labels@2490.webp">
@@ -35,11 +35,15 @@ TK intro
 
 _Controlled by #TeamEthics_
 
+> TODO: read-aloud description
+
 - offices, waiting room, exam rooms, trauma center
 - Exits:
   - Hatch to Research
   - Airlock
   - Elevator (guarded)
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 TODO: Medical should be open, neutral, treating all sides
 
@@ -48,6 +52,30 @@ Lobby looks like any hospital waiting room, but over the shoulder of the recepti
 Eventually the Dcot comes through. She is constantly being interrupted by other doctors and nurses asking her for information or to make a judgement call. She eventually loses her patience moving through and demands that the hallways be cleared by moving patients into the the lobby.
 
 This should give the players a chance to be altruistic. If the Doc sees them trying to help, she will take an interest and strike up a conversation. Unless they are total jerks to her, she’ll invite them back to her office and offer her quest.
+
+### Corridor
+
+TODO
+
+### Intensive Care
+
+TODO
+
+### Hospital Wards
+
+TODO
+
+### Surgery
+
+TODO
+
+### Offices
+
+TODO
+
+### Chief Medical Officer's Office
+
+TODO
 
 ### The Doc
 
@@ -75,6 +103,10 @@ She has a plan that she hasn’t told anyone about yet. She believes if the stat
 **Quest: Stop the Broadcast:** The Doc think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doc can get you access to the portal to go home.
 
 </aside>
+
+### Storage
+
+TODO converted to a makeshift cell
 
 ### The Mad Scientist
 
@@ -110,6 +142,8 @@ As a reward, she will send the characters anywhere/when they want to go.
 
 _Controlled by #TeamEthics_
 
+> TODO: read-aloud description
+
 - offices, labs, monitoring, fabrication, R&D, tunnel
 - Exits
   - Hatch to Medical
@@ -117,7 +151,30 @@ _Controlled by #TeamEthics_
   - Elevator (barricaded)
   - Cargo Tunnel (guarded)
 
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
 R&D looks like any university science department. Long hallways with corkboards covered in printouts, whiteboards filled with formulas and notes, and many doorways opening to labs filled with harried-looking scientists and engineers doing work. Some unoccupied labs or offices are filled with sleeping guards and off-duty scientists, who clearly have nowhere else to sleep since R&D was blocked off from the rest of the station.
+
+### Corridor
+
+TODO
+
+### Portal Chamber
+
+- Controlled by #TeamEthics
+- dimensional portal, observation chamber, secure computer
+- Exits
+  - Hatch to Research (guarded)
+
+### Labs
+
+TODO
+
+### Offices
+
+TODO
+
+### Director of Research & Development's Office
 
 The Professor’s office is located down a side hallway, and has a nameplate with the name of the Mad Scientist listed as the head of the department. This has been crudely crossed out and a printed sign hung below with the Professor’s name instead.
 
@@ -162,10 +219,3 @@ If you can remove the Director from power, then it will send you back to your ti
 Sentient weapons form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it cannot command someone it has not bonded with.
 
 </aside>
-
-### Portal Chamber
-
-- Controlled by #TeamEthics
-- dimensional portal, observation chamber, secure computer
-- Exits
-  - Hatch to Research (guarded)

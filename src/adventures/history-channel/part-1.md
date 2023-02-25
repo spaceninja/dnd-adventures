@@ -39,6 +39,8 @@ When everyone is ready to begin, roll for initiative. Then read or paraphrase th
 >
 > Most notably, however, every other gladiator turns on the spot and charges towards your group. Roll initiative.
 
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
 This encounter starts in the heat of battle. The shock leaves the characters overwhelmed and struggling. If players try to make perception checks or learn more about their environment, push back on them a bit. They’re still groggy and disoriented. You can tell them that the area has clearly been an active combat zone for some time: It’s muddy and full of hazards, but there are some signs that this area had a different purpose at one time, perhaps as a public park. For example, a murky pond is crossed a cute stone bridge that seems out of place.
 
 Let the players fight as hard as they like, but the deck is stacked overwhelmingly against them, and the other contestants are fighting to the death. Most likely, the players will eventually be overwhelmed and fall in combat, in which case you should proceed to Part 2 and have the characters wake up in the clone tanks.

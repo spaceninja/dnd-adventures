@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/deck-02-labels@2490.webp">
@@ -40,7 +40,11 @@ _Contested territory_
   - Elevator
   - Airlock
 
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
 ### Gym
+
+> TODO: read-aloud description
 
 The gym is empty, with a sign on the door reading “Closed for maintenance.” There’s a weight room and a swimming pool, as well as a large locker room and sauna.
 

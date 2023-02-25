@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/deck-06-labels@2490.webp">
@@ -35,10 +35,14 @@ TK intro
 
 _Controlled by #OpsUnion_
 
+> TODO: read-aloud description
+
 - Exits
   - Hatch to Shuttle Bay (guarded)
   - Cargo Tunnel (unguarded, behind Life Support barricade)
   - Elevator (barricaded)
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 The Cargo bay is a large semicircular room that mirrors the Cargo Bay it’s connected to. The space is filled with orderly shelves that stretch from floor to ceiling, each filled with meticulously labeled bins and crates. The labels are not in common, and it’s not clear how anyone other than the Quartermaster would find anything in here.
 
@@ -78,10 +82,14 @@ Nordom uses the stats for a [Quadrone](https://www.dndbeyond.com/monsters/quadro
 
 _Contested Territory_
 
+> TODO: read-aloud description
+
 - Exits:
   - Hatch to Cargo Bay (guarded)
   - Elevator
   - Airlock
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 The Shuttle Bay is one large semicircular room with 6 docking hatches spaced evenly along the outside wall. Only one hatch is currently occupied, with a passenger shuttle docked to the station. The room has painted lines on the floor detailing paths to each hatch and various other points. Periodically, a recorded announcement comes over the intercom announcing that all flights have been grounded by order of Corporate, with the exception of automated drone supply ships.
 
@@ -94,6 +102,10 @@ It is clear that the battle is only on hold, and will flare up as soon as the ne
 ### Control Tower
 
 Above the elevator door the Traffic Control Booth juts out, with angled glass walls giving a view of the entire bay. There is a small lift that can be used to access the booth, though it’s locked right now, and the booth is empty due to the flight lockdown.
+
+### Docked Shuttle
+
+TODO
 
 ### Lounge
 

@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/deck-04-labels@2490.webp">
@@ -35,11 +35,15 @@ TK intro
 
 _Contested Territory_
 
+> TODO: read-aloud description
+
 - Shopping, food court, souvenirs
 - Exits:
   - Hatch to Broadcasting (locked)
   - Hatch to Command (locked)
   - Elevator
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 
 See: Neon signs. Boarded storefronts. Laser bolts in the air. Camera drones flying. Combatants moving from cover to cover.
 
@@ -47,14 +51,58 @@ Hear: Shouts and combat commands. Station AI over loudspeaker declaring area is 
 
 Smell: ozone and smoke.
 
+### Food Courts
+
+TODO
+
+### Shops
+
+TODO
+
 ## Broadcasting
 
 _Controlled by #TeamRatings_
+
+> TODO: read-aloud description
 
 - offices, studios, monitoring, facilities, airlock
 - Exits:
   - Hatch to Lobby (locked)
   - Airlock
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
+### Corridor
+
+TODO
+
+### Broadcasting Control
+
+TODO
+
+### Studios
+
+TODO
+
+### Green Room
+
+TODO
+
+### Wardrobe
+
+TODO
+
+### Storage
+
+TODO
+
+### Offices
+
+TODO
+
+### Director's Office
+
+TODO
 
 ### The Director
 
@@ -93,10 +141,38 @@ If you can remove the Professor from power, then you can stay in the future and 
 
 _Controlled by #TeamRatings_
 
+> TODO: read-aloud description
+
 - offices, bridge, briefing room, AI server room
 - Exits:
   - Hatch to Lobby (locked)
   - Cargo Tunnel (locked)
+
+TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+
+### Corridor
+
+TODO
+
+### Bridge
+
+TODO
+
+### Conference Rooms
+
+TODO
+
+### Ready Room
+
+TODO
+
+### Offices
+
+TODO
+
+### Commander's Office
+
+TODO
 
 ### The Commander
 
