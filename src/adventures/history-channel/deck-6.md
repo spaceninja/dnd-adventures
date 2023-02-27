@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-Deck 6 consists of two massive rooms: The Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay is a sprawling labryrinth of shelving and drones overseen by the Quartermaster.
+Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay is a sprawling labyrinth of shelving and drones overseen by the Quartermaster.
 
 <figure>
   <a href="/images/deck-06-labels@2490.webp">
@@ -45,9 +45,9 @@ It is clear that the battle is only on hold, and will flare up as soon as the ne
 
 ### Control Tower
 
-Above the elevator door the Traffic Control Booth juts out, with angled glass walls giving a view of the entire bay. There is a small lift that can be used to access the booth, though it’s locked right now, and the booth is empty due to the flight lockdown.
+Above the elevator door, the Traffic Control Booth juts out, with angled glass walls giving a view of the entire bay. There is a small lift that can be used to access the booth, though it’s locked right now, and the booth is empty due to the flight lockdown.
 
-If the characters gain entrance, there is a chance they could lift the lockdown. The control booth has the power to override in case of emergency. Given some time to review the control board, if the chracters succeed on a DC 25 Intelligence check, they can lift the lockdown.
+If the characters gain entrance, there is a chance they could lift the lockdown. The control booth has the power to override in case of emergency. Given some time to review the control board, if the characters succeed on a DC 25 Intelligence check, they can lift the lockdown.
 
 ### Docking Hatches
 
@@ -57,11 +57,11 @@ The six docking hatches are oversized airlocks designed to allow access to docke
 
 Only one of the docking berths is occupied at the moment, but the hatch is sealed due to the flight lockdown.
 
-If the characters gain entrance, the shuttle has a large open area near the back for cargo, and a few rows of seats for passengers. At the front is the cockpit, with two seats and a confusing array of instruments the characters have no hope of understanding.
+If the characters gain entrance, the shuttle has a large open area near the back for cargo and a few rows of seats for passengers. At the front is the cockpit, with two seats and a confusing array of instruments the characters have no hope of understanding.
 
-### Pilot's Lounge
+### Pilot’s Lounge
 
-To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule-hotel style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
+To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
 
 ### The Pilot
 
@@ -73,11 +73,11 @@ To the left of the elevator is a long room that follows the curve of the inner h
 
 _Female Tiefling Rogue_
 
-The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. Her aviator sunglasses can't conceal the twinkle in her eyes as the beckons the characters over to talk to her.
+The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. Her aviator sunglasses can’t conceal the twinkle in her eyes as the beckons the characters over to talk to her.
 
-She says she was stranded on the station when it went into lockdown. She'd been ferrying employees between the ground and the station and now she can’t leave. She hangs out in the lounge, watching the broadcast, drinking, and grumbling about the lockdown.
+She says she was stranded on the station when it went into lockdown. She’d been ferrying employees between the ground and the station and now she can’t leave. She hangs out in the lounge, watching the broadcast, drinking, and grumbling about the lockdown.
 
-Secretly, the Pilot is a spy for another corporation, sent to steal information about the time portal. She's seen the characters on the broadcast, and thinks they could help her. She has a way to blow the locks on her ship and and will fly the characters out if they can acquire the plans for the portal and bring them to her.
+Secretly, the Pilot is a spy for another corporation, sent to steal information about the time portal. She’s seen the characters on the broadcast and thinks they could help her. She has a way to blow the locks on her ship and will fly the characters out if they can acquire the plans for the portal and bring them to her.
 
 The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
 
@@ -87,7 +87,7 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 <aside class="block-torn-paper">
 
-**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber, or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
+**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
 
 </aside>
 
@@ -95,15 +95,15 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 _Controlled by #OpsUnion_
 
-The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s connected to. The dimly-lit space is filled with orderly shelves that stretch from floor to ceiling, each filled with bins and crates. Although everything is meticulously labeled, it's all in some sort of machine code, and it’s not clear how anyone other than the Quartermaster would find anything in here.
+The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s connected to. The dimly lit space is filled with orderly shelves that stretch from floor to ceiling, each filled with bins and crates. Although everything is meticulously labeled, it’s all in some sort of machine code, and it’s not clear how anyone other than the Quartermaster would find anything in here.
 
 The Quartermaster moves around the room, following patterns and moving items according to a system that only he understands, assisted at all times by a swarm of drones.
 
-A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attack by #TeamRatings or #TeamEthics.
+A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics.
 
-The hatch to the Cargo Tunnel is unguarded because there's another barricade in the tunnel itself, one deck above near Life Support.
+The hatch to the Cargo Tunnel is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support.
 
-The entrance to the elevator has been completely barricaded with storage crates, and is impassable.
+The entrance to the elevator has been completely barricaded with storage crates and is impassable.
 
 ### The Quartermaster
 
@@ -121,7 +121,7 @@ At all times, the Quartermaster is surrounded by and directing a swarm of bird-s
 
 Until the fighting ends, he has orders not to allow anyone to take supplies from the Cargo Bay without permission from the Chief. He finds this whole situation very stressful. #OpsUnion has sent guards to prevent looting and raiding, but until combat ends, all he can do is keep the cargo bay orderly and wait for the dark times to pass.
 
-To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don't remember this (because it hasn't happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remain well-disposed towards the characters and will do what he can to help the them, including introducing them to the Chief if they want.
+To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don’t remember this (because it hasn’t happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remains well-disposed towards the characters and will do what he can to help them, including introducing them to the Chief if they want.
 
 The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
 
