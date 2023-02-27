@@ -10,21 +10,21 @@ next:
 
 # {{ title }}
 
-Abducted to the future and forced to compete in broadcast arena combat, the characters must find a way to escape an endless cycle of violence and death. _The Future Hates You!_ is an adventure for characters of 5th to 10th level. It is set on a space station in the distant future where the characters are known as notorious criminals, and contains science fiction elements, including time travel.
+Abducted to the future and forced to compete in broadcast arena combat, the characters must find a way to escape an endless cycle of violence and death. _The Future Hates You!_ is an adventure for characters of 5th to 10th level. It is set on a space station in the distant future where the characters are known as notorious criminals and contains science fiction elements, including time travel.
 
 ## Adventure Background
 
-The space station was built decades ago by a multinational effort the world had never seen before. At first, the science performed on the station enjoyed broad public support, but over time the funding dried up. Eventually the station was sold to a entertainment megacorp, Historia Kanalo, who kept the R&D department funded by space tourism.
+The space station was built decades ago by a multinational effort the world had never seen before. At first, the science performed on the station enjoyed broad public support, but over time the funding dried up. Eventually, the station was sold to an entertainment megacorp, Historia Kanalo, which kept the R&D department funded by space tourism.
 
-Five years ago, the scientists achieved their greatest breakthrough: time travel. Documentaries with live footage of historical events provided a boost in viewership, but public interest waned. Faced with falling ratings, corporate leadership brought in a new Director based on his pitch for a show about gladiatorial combat between history's most notorious criminals.
+Five years ago, the scientists achieved their greatest breakthrough: time travel. Documentaries with live footage of historical events provided a boost in viewership, but public interest waned. Faced with falling ratings, corporate leadership brought in a new Director based on his pitch for a show about gladiatorial combat between history’s most notorious criminals.
 
 It was a wild success, not least due to the debate around the ethics of the program. The addition of cloning vats allowed a “contestant” to be killed one night and back on the field the next. Ratings and controversy increased in lockstep.
 
 Then the research team discovered that continued use of the time portal could cause instabilities in the timestream. They released a statement calling for the immediate end of the arena combat program, the return of all contestants to their original time period, and resuming less invasive historical drone footage.
 
-The division among station staff escalated to a full-blown mutiny. Corporate evacuated the tourists. The scientists barricaded the science deck and imprisoned the former head of R&D for unethical experimentation. The Director siezed the opportunity to broadcast the conflict as a reality show. The public branded the two factions as **#TeamEthics** and **#TeamRatings**.
+The division among station staff escalated to a full-blown mutiny. Corporate evacuated the tourists. The scientists barricaded the science deck and imprisoned the former head of R&D for unethical experimentation. The Director seized the opportunity to broadcast the conflict as a reality show. The public branded the two factions as **#TeamEthics** and **#TeamRatings**.
 
-Knowing his support from Corporate depended on keeping ratings up, the Director authorized a raid on the Portal Chamber. Team Ethics were able to repel the raiders, but not before the characters were pulled through the portal. For reasons unknown to the players, they are amongh the future's most legendary villains, and their upcoming debut in the arena has generated a lot of viewer excitement.
+Knowing his support from Corporate depended on keeping ratings up, the Director authorized a raid on the Portal Chamber. Team Ethics was able to repel the raiders, but not before the characters were pulled through the portal. For reasons unknown to the players, they are among the future’s most legendary villains, and their upcoming debut in the arena has generated a lot of viewer excitement.
 
 ## Adventure Synopsis
 
@@ -32,7 +32,7 @@ This scenario begins when the characters wake in a holding pen in a large arena.
 
 The daily arena combat is introduced by the Director, a flamboyant figure who dresses and acts like a carnival barker. He can be seen on an enormous screen overhead, which displays what’s being broadcast, a scoreboard, and an unending stream of commentary from viewers.
 
-The characters eventually escape into the main station, where they find the crew in open conflict over the abuse of time travel. The station inhabitants have split into opposing factions: Team Ratings and Team Ethics, as well as the unaffiliated #OpsUnion who just want to keep the station from exploding.
+The characters eventually escape to the main station, where they find the crew in open conflict over the abuse of time travel. The station inhabitants have split into opposing factions: Team Ratings and Team Ethics, as well as the unaffiliated #OpsUnion who just want to keep the station from exploding.
 
 The characters will need to choose what to do and who to help. Return to the past or stay in the future? Help one faction win over the others, or blow up the portal so it can’t be abused anymore?
 
@@ -52,11 +52,11 @@ Time travel gets messy quickly. If your players are getting bogged down in the m
 
 ### How did we get here?
 
-The last thing the characters remember is seeing an unusually bright light, then they find themselves in the arena with no memory of how they came to be here. It feels as though no time has passed and they are extremely disoriented.
+The last thing the characters remember is seeing an unusually bright light, then they find themselves in the arena with no memory of how they came to be there. It feels as though no time has passed and they are extremely disoriented.
 
 ### A shifty recruiter
 
-The characters were approached in a bar by a man wearing odd clothes. He spoke Common, but gave the impression of being foreign. He seemed to know a lot about them, and exactly what to offer to tempt them. In exchange, he asked them to participate in a sort of contest. They remember agreeing, and then awaken in the arena, sensing they were drugged, and cursing the recruiter.
+The characters were approached in a bar by a man wearing odd clothes. He spoke Common but gave the impression of being foreign. He seemed to know a lot about them, and exactly what to offer to tempt them. In exchange, he asked them to participate in a sort of contest. They remember agreeing, and then waking up in the arena, sensing they had been drugged, and cursing the recruiter.
 
 ### Taken by force
 
@@ -68,17 +68,17 @@ This scenario is designed to be very flexible. However, here are a few key momen
 
 ### In the Arena
 
-**They can't win:** Allow the characters to fight, but pull no punches. Let them die, and send them to the cloning vats once or twice to really drive home how bad their situation is. It should be clear that continuing to fight is a losing proposition.
+**They can’t win:** Allow the characters to fight, but pull no punches. Let them die, and send them to the cloning vats once or twice to drive home how bad their situation is. It should be clear that continuing to fight is a losing proposition.
 
-**The Director taunts them:** The Director’s running commentary and the audience reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.
+**The Director taunts them:** The Director’s running commentary and the audience’s reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.
 
-**The Strategist is the way out:** Allow them to spot the Champion, effortlessly holding her own in battle, and hint that she seems to be protecting a small woman (the Strategist) who’s not fighting, but studying odd things in the Arena like welding seams and how deep the dirt floor is, as if she’s looking for weak points. If they don't investigate, have the Champion approach to say the Strategist wants to speak to them.
+**The Strategist is the way out:** Allow them to spot the Champion, effortlessly holding her own in battle, and hint that she seems to be protecting a small woman (the Strategist) who’s not fighting, but studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points. If they don’t investigate, have the Champion approach to say the Strategist wants to speak to them.
 
 ### Exploring
 
-**The Bar is a good first stop:** Once they escape the arena, allow them some time to explore the station and learn about the world they’ve found themselves in. Do your best to steer them towards the Bar, where the Bartender can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
+**The Bar is a good first stop:** Once they escape the arena, allow them some time to explore the station and learn about the world they’ve found themselves in. Do your best to steer them toward the Bar, where the Bartender can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
 
-**Encourage exploration:** The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other. The characters can freely move through contested territory, though they may be caught in a firefight or attacked by Security Guards. The guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored. Entry to areas to controlled by #TeamRatings is more challenging, since they'd be arrested on sight. If the players are motivated but having difficulty, help them find a stealthy approach, or a disguise, or even extend an invitation from an NPC inside.
+**Encourage exploration:** The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other. The characters can freely move through contested territory, though they may be caught in a firefight or attacked by Security Guards. The guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored. Entry to areas to controlled by #TeamRatings is more challenging since they’d be arrested on sight. If the players are motivated but having difficulty, help them find a stealthy approach or a disguise, or even extend an invitation from an NPC inside.
 
 **Security Guards:** Any time the characters are in contested territory, consider throwing a random encounter with Security Guards their direction. Unless they’re actively working with #TeamRatings, Security is probably hunting for them.
 

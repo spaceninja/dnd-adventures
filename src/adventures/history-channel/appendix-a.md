@@ -15,7 +15,7 @@ next:
 
 In the eyes of the future, the characters are notorious historical figures, and as a result, they have wiki pages dedicated to their lives and crimes. Of course, like any historical figure who lived more than 1000 years ago, the details are of questionable accuracy. If the characters try to look themselves up, it should trigger a little minigame.
 
-For each of the following sections, have the player roll on the table for a prompt. Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate — this isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
+For each of the following sections, have the player roll on the table for a prompt. Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate. This isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
 
 ## Early Life
 
@@ -29,7 +29,7 @@ This section of the wiki page helps to establish how the character’s childhood
 | 4   | Troubled childhood                          |
 | 7   | Military brat                               |
 | 5   | Unremarkable childhood                      |
-| 6   | Lived in a travelling circus                |
+| 6   | Lived in a traveling circus                 |
 | 8   | Grew up rich                                |
 | 9   | Remarkably gifted                           |
 | 10  | Divine birth <sup>[*citation needed*]</sup> |
@@ -53,7 +53,7 @@ This section of the wiki covers the character’s time with the adventuring part
 
 ## Post-Gang Life
 
-This section of the wiki covers the character’s life after leaving the gang, and probably includes their death. Encourage the players to go big here. Think “war crimes” not “robbery.” There’s a reason they’re notorious in the future.
+This section of the wiki covers the character’s life after leaving the gang and probably includes their death. Encourage the players to go big here. There’s a reason they’re notorious in the future.
 
 | d10 | Prompt                                  |
 | --- | :-------------------------------------- |
@@ -70,7 +70,7 @@ This section of the wiki covers the character’s life after leaving the gang, a
 
 ## Historical Perspective
 
-This section covers the consensus by historians of the character and what sort of view the future takes of their crimes and impact on the world.
+This section covers the consensus by historians of the character and what sort of view the future takes of their crimes and their impact on the world.
 
 | d10 | Prompt                                     |
 | --- | :----------------------------------------- |

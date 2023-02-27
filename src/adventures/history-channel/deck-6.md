@@ -127,4 +127,4 @@ The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/
 
 **Personality:** Helpful, organized, guileless.
 
-**Quote:** _“It’s good to see you! It has been 38.2 centuries. Please try not to track blood on my floor.”_
+**Quote:** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
