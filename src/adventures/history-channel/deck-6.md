@@ -77,7 +77,7 @@ The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. H
 
 She says she was stranded on the station when it went into lockdown. She'd been ferrying employees between the ground and the station and now she can’t leave. She hangs out in the lounge, watching the broadcast, drinking, and grumbling about the lockdown.
 
-Secretly, the Pilot is a spy for another Corporation, sent to steal information about the portal. She's seen the characters on the broadcast, and thinks they could help her. She has a way to blow the locks on her ship and and will fly the characters out if they can acquire the plans for the portal and bring them to her.
+Secretly, the Pilot is a spy for another corporation, sent to steal information about the time portal. She's seen the characters on the broadcast, and thinks they could help her. She has a way to blow the locks on her ship and and will fly the characters out if they can acquire the plans for the portal and bring them to her.
 
 The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
 
@@ -87,7 +87,7 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 <aside class="block-torn-paper">
 
-**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing megacorp to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber, or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
+**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber, or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
 
 </aside>
 
@@ -121,7 +121,7 @@ At all times, the Quartermaster is surrounded by and directing a swarm of bird-s
 
 Until the fighting ends, he has orders not to allow anyone to take supplies from the Cargo Bay without permission from the Chief. He finds this whole situation very stressful. #OpsUnion has sent guards to prevent looting and raiding, but until combat ends, all he can do is keep the cargo bay orderly and wait for the dark times to pass.
 
-To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don't remember this (because it hasn't happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remain well-disposed towards the characters and will do what it can to help the them, including introducing them to the Chief if they want.
+To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don't remember this (because it hasn't happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remain well-disposed towards the characters and will do what he can to help the them, including introducing them to the Chief if they want.
 
 The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
 
