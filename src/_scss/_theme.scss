@@ -43,6 +43,8 @@
   --color-page-fg-meta: #525c63;
   --color-page-fg-subtle: #979aa4;
   --color-link: #006abe;
+  --color-link-monster: #bc0f0f;
+  --color-link-magic: #704cd9;
 
   // Footer
   --color-footer-bg: var(--color-page-fg);
@@ -93,6 +95,14 @@ a {
   &:hover,
   &:focus {
     text-decoration: underline;
+  }
+
+  strong {
+    color: var(--color-link-monster);
+
+    em {
+      color: var(--color-link-magic);
+    }
   }
 }
 

@@ -47,7 +47,7 @@ It is clear that the battle is only on hold, and will flare up as soon as the ne
 
 Above the elevator door, the Traffic Control Booth juts out, with angled glass walls giving a view of the entire bay. There is a small lift that can be used to access the booth, though it’s locked right now, and the booth is empty due to the flight lockdown.
 
-If the characters gain entrance, there is a chance they could lift the lockdown, which the control booth has the power to override in case of emergency. Given at least 10 minutes to review the control board, if a character succeeds on a DC 25 Intelligence check, they can lift the lockdown.
+If the characters gain entrance, there is a chance they could lift the lockdown, which the control booth has the power to override in case of emergency. Given at least 10 minutes to review the control board, they can lift the lockdown with a successful DC 25 Intelligence (Investigation) check.
 
 ### Docking Hatches
 

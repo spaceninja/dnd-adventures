@@ -73,7 +73,7 @@ Security Guards wear anonymous riot cop-style gear, with face masks and helmets.
 
 Squads of Security Guards will be sent hunt the characters down if they’re loose in the station, and these squads should always show up at the most opportune moments to create the most chaos or disrupt the characters’ plans. However, they are not being paid enough to die, and if they sense the fight is going badly, they will retreat as a group, covering each other’s exits, so they can attack again in the future.
 
-Security Guards use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran), are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol), and wear Security Armor, which is equivalent to Half Plate armor, but vulnerable to piercing damage since it’s designed to resist modern weaponry. Their weapons are biometrically locked, and will deliver a nasty shock to anyone else who tries to use them (which keeps the players from too easily acquiring powerful weaponry).
+Security Guards use the stats for [**Veterans**](https://www.dndbeyond.com/monsters/veteran), are armed with [**_Laser Pistols_**](https://www.dndbeyond.com/equipment/laser-pistol). Their weapons are biometrically locked, and will deliver a nasty shock to anyone else who tries to use them (which keeps the players from too easily acquiring powerful weaponry).
 
 ### The Security Chief
 

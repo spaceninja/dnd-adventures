@@ -36,10 +36,6 @@
     transform: scaleY(-1); // flip vertically
   }
 
-  a {
-    color: var(--color-link);
-  }
-
   p:first-child,
   h4 {
     font-size: var(--font-size-m);
