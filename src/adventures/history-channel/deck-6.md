@@ -39,7 +39,7 @@ The Shuttle Bay is one large semicircular room with 6 docking hatches spaced eve
 
 The Bay has clearly been the location of a longstanding struggle for control. There are laser scorch marks all over the walls, and some lights have been shot, causing them to flicker annoyingly. There are forklifts abandoned in the middle of the room, and one is a gutted wreck, still on fire, though a custodial drone sits nearby trying to spray foam to put out the flames.
 
-A squad from each faction is huddled behind a makeshift shelter and barricade. A squad of [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the rightmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
+A squad from each faction is huddled behind a makeshift shelter and barricade. [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the rightmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
 
 It is clear that the battle is only on hold, and will flare up as soon as the next automated drone supply ship docks with the station.
 
@@ -47,11 +47,11 @@ It is clear that the battle is only on hold, and will flare up as soon as the ne
 
 Above the elevator door, the Traffic Control Booth juts out, with angled glass walls giving a view of the entire bay. There is a small lift that can be used to access the booth, though it’s locked right now, and the booth is empty due to the flight lockdown.
 
-If the characters gain entrance, there is a chance they could lift the lockdown. The control booth has the power to override in case of emergency. Given some time to review the control board, if the characters succeed on a DC 25 Intelligence check, they can lift the lockdown.
+If the characters gain entrance, there is a chance they could lift the lockdown, which the control booth has the power to override in case of emergency. Given at least 10 minutes to review the control board, if a character succeeds on a DC 25 Intelligence check, they can lift the lockdown.
 
 ### Docking Hatches
 
-The six docking hatches are oversized airlocks designed to allow access to docked shuttles. They are all sealed from the inside due to the flight lockdown (though for safety reasons, they can always be opened from the outside).
+The six docking hatches are oversized airlocks designed to allow access to shuttles. They are all sealed from the inside due to the flight lockdown, though for safety reasons, they can always be opened from the outside.
 
 ### Docked Shuttle
 
@@ -61,7 +61,7 @@ If the characters gain entrance, the shuttle has a large open area near the back
 
 ### Pilot’s Lounge
 
-To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
+To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens showing the broadcast, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
 
 ### The Pilot
 
@@ -73,15 +73,15 @@ To the left of the elevator is a long room that follows the curve of the inner h
 
 _Female Tiefling Rogue_
 
-The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. Her aviator sunglasses can’t conceal the twinkle in her eyes as the beckons the characters over to talk to her.
+The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. Her aviator sunglasses can’t conceal the twinkle in her eyes as she beckons the characters over to talk to her.
 
-She says she was stranded on the station when it went into lockdown. She’d been ferrying employees between the ground and the station and now she can’t leave. She hangs out in the lounge, watching the broadcast, drinking, and grumbling about the lockdown.
+She says she was stranded on the station when it went into lockdown. She’d been ferrying employees to and from the surface and now she can’t leave. She hangs out in the lounge, watching the broadcast, drinking, and grumbling about the lockdown.
 
-Secretly, the Pilot is a spy for another corporation, sent to steal information about the time portal. She’s seen the characters on the broadcast and thinks they could help her. She has a way to blow the locks on her ship and will fly the characters out if they can acquire the plans for the portal and bring them to her.
+Secretly, the Pilot is a spy from another corporation, sent to steal information about the time portal. She’s seen the characters on the broadcast and thinks they could help her. She has a way to blow the locks on her ship and will fly the characters out if they can acquire the plans for the portal and bring them to her.
 
 The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
 
-**Personality:** Suave, sneaky, capable.
+**Personality:** Suave, sneaky, good under pressure.
 
 **Quote:** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
 
