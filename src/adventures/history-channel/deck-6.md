@@ -35,13 +35,13 @@ Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shu
 
 _Contested Territory_
 
-The Shuttle Bay is one large semicircular room with 6 docking hatches spaced evenly along the outside wall. The high ceilings have large, industrial light fixtures that brightly illuminate the cavernous space. There are painted lines on the floor detailing paths to each hatch and various other points. Periodically, a recorded announcement comes over the intercom announcing that all flights have been grounded by corporate order, with the exception of automated drone supply ships.
+> The Shuttle Bay has clearly been the location of a longstanding struggle for control. There are laser scorch marks all over the walls, and some lights have been shot, causing them to flicker annoyingly. Guards from each faction huddle behind makeshift barricades. Cargo pallettes and abandoned equipment are scattered around the room. A forklift lays on its side, a burning wreck, despite the diligent efforts of a custodial drone trying to spray foam on the flames.
+>
+> Periodically, a recorded announcement comes over the intercom announcing that all flights have been grounded by corporate order, with the exception of automated drone supply shuttles. It is clear that the battle is only on hold, and will flare up as soon as the next shuttle docks with the station.
 
-The Bay has clearly been the location of a longstanding struggle for control. There are laser scorch marks all over the walls, and some lights have been shot, causing them to flicker annoyingly. There are forklifts abandoned in the middle of the room, and one is a gutted wreck, still on fire, though a custodial drone sits nearby trying to spray foam to put out the flames.
+The Shuttle Bay is one large semicircular room with 6 docking hatches spaced evenly along the outside wall. The high ceilings have large, industrial light fixtures that brightly illuminate the cavernous space. There are painted lines on the floor detailing paths to each hatch and various other points.
 
-A squad from each faction is huddled behind a makeshift shelter and barricade. [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the rightmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
-
-It is clear that the battle is only on hold, and will flare up as soon as the next automated drone supply ship docks with the station.
+A squad from each faction is huddled behind a makeshift shelter and barricade. [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the leftmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
 
 ### Control Tower
 
@@ -81,13 +81,13 @@ Secretly, the Pilot is a spy from another corporation, sent to steal information
 
 The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
 
-**Personality:** Suave, sneaky, good under pressure.
+**Personality.** Suave, sneaky, good under pressure.
 
-**Quote:** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
+**Quote.** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
 
 <aside class="block-torn-paper">
 
-**Quest: Steal the Portal Plans:** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
+**Quest: Steal the Portal Plans.** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
 
 </aside>
 
@@ -95,15 +95,11 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 _Controlled by #OpsUnion_
 
+> The Cargo Bay is a dimly lit warehouse of shelves filled with boxes labeled in a language you can't understand. Small, birdlike drones buzz around the space, shining lights on labels, and sometimes picking up crates that seem far heavier than they should be able to lift. They all seem to be reporting to a Modron who moves through the space following patterns and moving items according to a system that only he understands.
+
 The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s connected to. The dimly lit space is filled with orderly shelves that stretch from floor to ceiling, each filled with bins and crates. Although everything is meticulously labeled, it’s all in some sort of machine code, and it’s not clear how anyone other than the Quartermaster would find anything in here.
 
-The Quartermaster moves around the room, following patterns and moving items according to a system that only he understands, assisted at all times by a swarm of drones.
-
-A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics.
-
-The hatch to the Cargo Tunnel is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support.
-
-The entrance to the elevator has been completely barricaded with storage crates and is impassable.
+A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics. The hatch to the Cargo Tunnel is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support. The entrance to the elevator has been completely barricaded with storage crates and is impassable.
 
 ### The Quartermaster
 
@@ -125,6 +121,6 @@ To the surprise of the characters, The Quartermaster remembers them fondly. He c
 
 The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
 
-**Personality:** Helpful, organized, guileless.
+**Personality.** Helpful, organized, guileless.
 
-**Quote:** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
+**Quote.** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
