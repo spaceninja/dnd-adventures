@@ -11,7 +11,7 @@ eleventyComputed:
 
 <div class="adventure-toc__intro">
 
-<a class="view-cover-art" href="/images/history-channel/station@1020.webp">View Cover Art</a>
+<a class="view-cover-art" href="/images/history-channel/cover@2490.webp">View Cover Art</a>
 
 **Televised arena combat in the far future**
 
