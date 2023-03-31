@@ -16,6 +16,8 @@ prev:
 
 **Cover:** Martin Atkins
 
+**Character Portraits:** Vicki Li
+
 **Editing:** Annie Vandehey
 
 **Playtesters:** Martin Atkins, Steve Calderon, Jen Hammond, Jarrod Jackson, Vicki Li
