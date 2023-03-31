@@ -1,12 +1,32 @@
 ---
 layout: layout.njk
-title: D&D Adventures
+title: D&D Vandeventures
+main_class: sources-toc
 ---
 
+<h1>Adventures</h1>
 <p>Finely crafted D&D adventures by Scott Vandehey.</p>
-
-<ul>
+<ul class="sources-listing">
   {% for post in collections.adventures %}
-    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+    <li class="sources-listing--item-wrapper">
+      <a href="{{ post.page.url }}" class="sources-listing--item">
+        <img
+          alt=""
+          class="sources-listing--item--avatar"
+          src="
+                {%- if post.data.adventure.thumbnail -%}
+                  {{ post.data.adventure.thumbnail }}
+                {%- else -%}
+                  /images/placeholders/elmore-cover@750.webp
+                {%- endif -%}"
+          width="375"
+          height="375"
+          />
+        <div class="sources-listing--item--title">{{ post.data.title }}</div>
+        {%- if post.data.adventure.version -%}
+          <div class="sources-listing--item--version">{{ post.data.adventure.version }}</div>
+        {%- endif -%}
+      </a>
+    </li>
   {% endfor %}
 </ul>

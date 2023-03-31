@@ -1,0 +1,55 @@
+.sources-listing {
+  display: grid;
+  flex-wrap: wrap;
+  gap: var(--size-l);
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  margin: 0 auto;
+  padding: 0;
+}
+
+.sources-listing--item-wrapper {
+  list-style: none;
+}
+
+.sources-listing--item {
+  aspect-ratio: 1;
+  border: var(--border-thin) solid rgba(0 0 0 / 60%);
+  display: block;
+  position: relative;
+}
+
+.sources-listing--item--avatar {
+  display: block;
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  object-position: top;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.sources-listing--item--title {
+  background: rgba(0 0 0 / 80%);
+  bottom: 0;
+  color: white;
+  font-size: var(--font-size-s);
+  left: 0;
+  padding: var(--size-s);
+  position: absolute;
+  right: 0;
+  text-align: center;
+}
+
+.sources-listing--item--version {
+  background: rgba(0 0 0 / 50%);
+  border-bottom-right-radius: 0.25em;
+  color: rgba(255 255 255 / 50%);
+  font-family: var(--font-condensed);
+  font-size: var(--font-size-xs);
+  left: 0;
+  line-height: 1.2;
+  padding: 0.33em 0.75em;
+  position: absolute;
+  top: 0;
+}

@@ -61,7 +61,7 @@ One office is designated for the Chief Engineer. Inside is a large worktable cov
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 
@@ -107,7 +107,7 @@ Running along the inner hull is a series of offices. These all look like auto me
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 

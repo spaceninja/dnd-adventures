@@ -67,7 +67,7 @@ To the left of the elevator is a long room that follows the curve of the inner h
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 
@@ -105,7 +105,7 @@ A makeshift barricade has been constructed a few feet in front of the open hatch
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 

@@ -81,7 +81,7 @@ TODO
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 
@@ -112,7 +112,7 @@ TODO converted to a makeshift cell
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 
@@ -184,7 +184,7 @@ Professor’s office is lined with bookcases filled with obscure tomes and resea
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="https://www.dndbeyond.com/Content/Skins/Waterdeep/images/characters/default-avatar-builder.png" alt="">
+    <img src="/images/placeholders/avatar.webp" alt="">
   </div>
 </figure>
 

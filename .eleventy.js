@@ -7,10 +7,8 @@ module.exports = function (eleventyConfig) {
     'src/**/*.(gif|ico|jpg|png|svg|webp|woff|woff2)'
   );
 
-  // Refresh without re-building for CSS & JS changes
-  eleventyConfig.setBrowserSyncConfig({
-    files: ['dist/**/*.js', 'dist/**/*.css'],
-  });
+  // Watch for CSS changes
+  eleventyConfig.addWatchTarget('./src/_scss/');
 
   // Add MarkdownIt plugins
   let options = {

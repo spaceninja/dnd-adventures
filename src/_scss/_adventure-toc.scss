@@ -135,3 +135,26 @@
     margin-bottom: 0;
   }
 }
+
+.view-cover-art {
+  background: #47d18c;
+  border-radius: 0.25rem;
+  color: white;
+  display: block;
+  float: right;
+  font-family: var(--font-condensed);
+  font-size: var(--font-size-s);
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  padding: var(--size-s) var(--size-l);
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover,
+  &:focus {
+    background: #70dba6;
+    text-decoration: none;
+  }
+}

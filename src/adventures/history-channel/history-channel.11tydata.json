@@ -2,6 +2,7 @@
   "adventure": {
     "title": "The Future Hates You!",
     "url": "/adventures/history-channel",
-    "version": "1.0 Beta"
+    "version": "Beta",
+    "thumbnail": "/images/history-channel/station@680.webp"
   }
 }
