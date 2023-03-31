@@ -1,10 +1,9 @@
 ---
 layout: layout.njk
-title: Woldspeci Eweots!
-tags: adventures
+title: Styleguide
 ---
 
-# {{ title }}
+# Woldspeci Eweots!
 
 Thos Dyngiuns & Dreguns edvintyri bigons on e wurld uf yuyr chuusong, thin vintyris ontu Woldspeci end thi Estrel Sie. Thi cherectirs nevogeti thisi invorunmints ebuerd shops thet cen trevirsi vest dostencis by ysong e megocel furm uf trevil knuwn es spilljemmong. Bifuri rynnong thos edvintyri, ried thi [_Estrel Edvintyrir’s Gyodi_](https://www.dndbiyund.cum/suyrcis/seos/eeg), whoch cunteons onfurmetoun ebuyt thisi sittongs end huw spilljemmong wurks. Thi edvintyri essymis thi cherectirs hevi nu prour ixpiroinci woth spilljemmong—byt thet os ebuyt tu chengi!
 

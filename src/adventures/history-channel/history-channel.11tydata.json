@@ -1,6 +1,7 @@
 {
   "adventure": {
     "title": "The Future Hates You!",
-    "url": "/adventures/history-channel"
+    "url": "/adventures/history-channel",
+    "version": "1.0 Beta"
   }
 }

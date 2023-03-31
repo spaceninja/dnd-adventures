@@ -18,6 +18,9 @@
       {% if adventure %}
         <span>&gt;</span>
         <a href="{{ adventure.url }}">{{ adventure.title }}</a>
+        {% if adventure.version %}
+          <span class="version"><small>{{ adventure.version }}</small></span>
+        {% endif %}
       {% endif %}
     </div>
   </header>
