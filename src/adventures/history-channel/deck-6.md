@@ -16,15 +16,15 @@ next:
 Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay is a sprawling labyrinth of shelving and drones overseen by the Quartermaster.
 
 <figure>
-  <a href="/images/deck-06-labels@2490.webp">
+  <a href="/images/history-channel/deck-06-labels@2490.webp">
     <img
       alt="Map of Deck 6"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/deck-06-labels@830.webp"
+      src="/images/history-channel/deck-06-labels@830.webp"
       srcset="
-        /images/deck-06-labels@830.webp 830w,
-        /images/deck-06-labels@1660.webp 1660w,
-        /images/deck-06-labels@2490.webp 2490w"
+        /images/history-channel/deck-06-labels@830.webp 830w,
+        /images/history-channel/deck-06-labels@1660.webp 1660w,
+        /images/history-channel/deck-06-labels@2490.webp 2490w"
       width="830"
       height="478"
       />

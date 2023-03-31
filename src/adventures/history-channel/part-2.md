@@ -16,15 +16,15 @@ next:
 The characters awaken in a holding cell (or a clone tank if they died), before they are returned to the arena for another round of combat. This repeats until the characters meet the Strategist, who shows them how to escape.
 
 <figure>
-  <a href="/images/deck-02-fogged-labels@2490.webp">
+  <a href="/images/history-channel/deck-02-fogged-labels@2490.webp">
     <img
       alt="Map of Deck 2"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/deck-02-fogged-labels@830.webp"
+      src="/images/history-channel/deck-02-fogged-labels@830.webp"
       srcset="
-        /images/deck-02-fogged-labels@830.webp 830w,
-        /images/deck-02-fogged-labels@1660.webp 1660w,
-        /images/deck-02-fogged-labels@2490.webp 2490w"
+        /images/history-channel/deck-02-fogged-labels@830.webp 830w,
+        /images/history-channel/deck-02-fogged-labels@1660.webp 1660w,
+        /images/history-channel/deck-02-fogged-labels@2490.webp 2490w"
       width="830"
       height="476"
       />
@@ -109,15 +109,15 @@ The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dn
 TK intro
 
 <figure>
-  <a href="/images/deck-01-labels@2490.webp">
+  <a href="/images/history-channel/deck-01-labels@2490.webp">
     <img
       alt="Map of the Arena"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/deck-01-labels@830.webp"
+      src="/images/history-channel/deck-01-labels@830.webp"
       srcset="
-        /images/deck-01-labels@830.webp 830w,
-        /images/deck-01-labels@1660.webp 1660w,
-        /images/deck-01-labels@2490.webp 2490w"
+        /images/history-channel/deck-01-labels@830.webp 830w,
+        /images/history-channel/deck-01-labels@1660.webp 1660w,
+        /images/history-channel/deck-01-labels@2490.webp 2490w"
       width="830"
       height="476"
       />

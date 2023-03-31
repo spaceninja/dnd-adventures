@@ -16,15 +16,15 @@ next:
 Deck 5 consists of two areas: Engineering and Life Support. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
 
 <figure>
-  <a href="/images/deck-05-labels@2490.webp">
+  <a href="/images/history-channel/deck-05-labels@2490.webp">
     <img
       alt="Map of Deck 5"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/deck-05-labels@830.webp"
+      src="/images/history-channel/deck-05-labels@830.webp"
       srcset="
-        /images/deck-05-labels@830.webp 830w,
-        /images/deck-05-labels@1660.webp 1660w,
-        /images/deck-05-labels@2490.webp 2490w"
+        /images/history-channel/deck-05-labels@830.webp 830w,
+        /images/history-channel/deck-05-labels@1660.webp 1660w,
+        /images/history-channel/deck-05-labels@2490.webp 2490w"
       width="830"
       height="478"
       />
