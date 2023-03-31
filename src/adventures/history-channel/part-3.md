@@ -37,6 +37,8 @@ The station looks like 5 bicycle wheels spinning around a central post with a gl
 
 TODO: Common features of the area: lighting, floors, ceiling, doors
 
+Locks: Unless otherwise noted, access to a locked door is controlled by the Station AI. The players can knock, and a guard will speak to them through an intercom, but there's no way to pick the lock without the AI's assitance.
+
 Access to an area controlled by a faction depends on how they view the characters. If the characters are known to be working against the faction or are behaving aggressively, then the faction will attack. If the characters are unknown, but non-threatening, then they will be allowed in, but monitored. If the characters are known to be friendly to the faction, they will be allowed to move around the area unrestricted.
 
 ### Factions

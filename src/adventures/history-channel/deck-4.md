@@ -35,7 +35,9 @@ TODO intro
 
 _Contested Territory_
 
-> TODO: read-aloud description
+> You can tell this is (or rather, was) the nicest part of the station. The carpeting on the floor extends up the walls, and the lighting panels recessed in the ceiling glow warmly. Windows along the outer hull reveal excellent views of the planet rotating past. The hallway from the elevator leads invitingly to the food court, with a promenade wrapping away in either direction filled with shops for visiting tourists.
+>
+> The effect is rather ruined by the fact that the food courts are an active combat zone. The shops are all closed, their neon signs turned off and roll-down gates locked.
 
 - Shopping, food court, souvenirs
 - Exits:
@@ -51,13 +53,34 @@ Hear: Shouts and combat commands. Station AI over loudspeaker declaring area is 
 
 Smell: ozone and smoke.
 
+The hallway to the elevator is clear on both sides, and in the middle of the hall are locked doors to Command and Broadcasting.
+
 ### Food Courts
 
-TODO
+The food courts at opposite ends of the promenade are active combat zones. Squads from all three factions are crouched behind overturned tables or behind the counters of the food stalls, shooting at anything that moves.
+
+This is an incredibly unsafe place for the characters to be. To move through the area they need to succeed on a DC 12 Dexterity (Acrobatics) check or a DC 18 Dexterity (Stealth) check. On a failure, the character takes 3D6 radiant damage from a [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) bolt.
 
 ### Shops
 
-TODO
+All the shops are locked, with roll-down metal gates covering the doors. The lock on a gate can be picked with a successful DC 15 Dexterity (Sleight of Hand) check. There's no one inside and the lights are off. No valuable equipment or coins can be found, but allow the players to roll once on the [Trinkets table](https://www.dndbeyond.com/sources/basic-rules/equipment#Trinkets) if they like.
+
+To describe the shop, choose a random store from your local mall or roll on the following table.
+
+| d12 | Shop sells:                                                         |
+| --- | :------------------------------------------------------------------ |
+| 1   | "Gourmet space-churned butter"                                      |
+| 2   | Novelty masks and toy weapons                                       |
+| 3   | Clothing aimed at tourists: "authentic space jumpsuits!"            |
+| 4   | Books, mostly romance and pulp science fiction                      |
+| 5   | Mobile phones (all inactive)                                        |
+| 6   | Souvenirs: snowglobes, keychains, hats, etc.                        |
+| 7   | Junk food and gossip magazines                                      |
+| 8   | Toys and board games. Large sign promoting a collectible card game. |
+| 9   | Massage parlour                                                     |
+| 10  | Coffee shop                                                         |
+| 11  | Historia Kanalo corporate store                                     |
+| 12  | Books and videos promoting a cult                                   |
 
 ## Broadcasting
 
