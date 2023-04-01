@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TODO intro
+Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two areas: Broadcast and Command. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
 
 <figure>
   <a href="/images/history-channel/deck-04-labels@2490.webp">
@@ -87,46 +87,43 @@ To describe the shop, choose a random store from your local mall or roll on the 
 
 _Controlled by #TeamRatings_
 
-> TODO: read-aloud description
+> Broadcasting is a bustling hive of activity. The corridor is well-lit and crew move quickly from place to place, fetching coffee, delivering updates, and moving equipment. The center of all the activity is Broadcasting Control, where the nonstop broadcast covering the mutiny and the daily gladiatorial combat is managed.
 
-- offices, studios, monitoring, facilities, airlock
-- Exits:
-  - Hatch to Lobby (locked)
-  - Airlock
+If the characters have gained access without invitation and are wearing a red #TeamRatings jumpsuit or Security Armor, they can move along the corridor with a successful DC 15 Charisma (Deception) check. If not, they'll be confronted by the person who spots them.
 
-TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
-
-### Corridor
-
-TODO
+At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Airlock.
 
 ### Broadcasting Control
 
-TODO
+This is the beating heart of the broadcast. The far wall is covered with dozens of viewscreens showing all the available feeds, as well as a much larger screen in the middle displaying the feed currently being broadcast.
+
+Dozens of workstations fill the room, all staffed by crew dedicated to producing graphics, controlling camera drones, and applying effects and post-processing. Coffee cups are everywhere. The broadcast never stops, and the crew here work continually.
+
+Unless he's meeting with the characters in his office, the Director can be found here, in a chair on a raised platform near the back of the room, with a view of everything else. There is a green screen behind it and several cameras facing it, so the Director can provide his color commentary on the broadcast from his seat of power.
 
 ### Studios
 
-TODO
+The smaller studios see less use now that the Director has shifted to continual broadcast reality programming, but each has a large filming area with multiple backdrops and sets from their days in use creating history documentaries.
 
 ### Green Room
 
-TODO
+Originally used for documentary hosts and broadcast guests, this room has been converted into a break room for crew. At any given time, three or four broadcast personelle can be found here, napping on the couch, eating their lunch, or making coffee.
 
 ### Wardrobe
 
-TODO
+This large room is filled with racks and storage bins of clothing designed to allow a researcher to dress for any period in history. All of that is covered in dust cloths now, and only one rack is in use — the Director's outfits. Each is more guady than the last, designed to be eyecatching on camera as he narrates the gladiator combat.
 
 ### Storage
 
-TODO
+Props, historical weaponry, equipment and gear are stored here in bins. All of it was designed to help researchers blend in when they visited the past. It all looks good, but they're all reproductions and a close inspection reveals they're all worthless.
 
 ### Offices
 
-TODO
+A handful of offices can be found here for the heads of various departments such as visual effects, camera drone operations, and editing. Each has a desk, a workstation, and a few chairs for visitors. They sit empty most of the time, as the department heads prefer to work from Broadcasting Control.
 
 ### Director's Office
 
-TODO
+The walls of the Director's office are covered with awards, photos of the Director with famous people, magazine covers and press clippings. The desk has a workstation that clearly sees little use, and an oversized office chair with a pointlessly tall back. There are no chairs facing the desk, the Director preferring to make people stand while he talks to them.
 
 ### The Director
 
@@ -138,15 +135,19 @@ TODO
 
 _Neutral Halfling Bard_
 
-The Director’s confidence and charm masks a deep concern that the ratings are going to drop if he doesn’t keep increasing the stakes. He used every trick he had to capture the characters and is pinning all his hopes on their performance in the Arena.
+The Director’s confidence and charm mask a deep concern that the ratings are going to drop if he doesn’t keep raising the stakes. He used every trick he had to abduct the characters from the past, and he pinned all his hopes on their performance in the Arena.
 
-When the characters break out of the Arena, he’s not upset, because their actions in the station are driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of good TV.
+But when they broke out, he wasn’t upset, because their actions on the station are driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of entertainment.
+
+If the characters end up in front of him, he treats it like a negotiation in which he has the upper hand. He may even summon them if he thinks they might listen. It likely wouldn't occur to him to be threatened by the characters, since he assumes that everyone operates like him, always shifting to gain an advantage.
+
+He will do just about anything that results in spectacle or drama, including offering the characters fame and fortune, and, of course, stabbing them in the back if it suits him.
 
 If the characters ask for anything, he refers them to the Commander, as if he can’t be bothered with such mundane concerns.
 
 **Personality.** Bombastic, manipulative, opportunistic.
 
-**Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts a distasteful requirement. As I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”_
+**Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts 'distasteful,' but the way I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
 <aside class="block-torn-paper">
 
@@ -166,7 +167,7 @@ _Controlled by #TeamRatings_
 
 The Command corridor has a red stripe running along the wall. It is mostly unoccupied, since most #TeamRatings crew have been drafted into the fighting elsewhere in the station. A handful of offices are occupied, as well as the skeleton crew on the bridge, and the Commander in his office. At any moment, one of them could enter the corridor.
 
-If the characters have gained access and are wearing a red #TeamRatings jumpsuide or Security Guard armor, they can pass without notice. If not, they'll be confronted by the person who spots them.
+If the characters have gained access without invitation and are wearing a red #TeamRatings jumpsuit or Security Armor, they can pass without notice. If not, they'll be confronted by the person who spots them.
 
 At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Cargo Tunnel, which is locked.
 
