@@ -29,6 +29,7 @@ TODO intro
       height="479"
       />
   </a>
+  <figcaption>TODO: Update map to add AI server room</figcaption>
 </figure>
 
 ## Outer Ring Promenade
@@ -135,12 +136,7 @@ TODO
   </div>
 </figure>
 
-_Male Halfling Bard_
-
-- Carnival barker outfit, slicked-back hair, easy smile
-- Bombastic, sleazy
-- Sounds like Tony Stark as a car salesman
-- Can be found in Broadcasting
+_Neutral Halfling Bard_
 
 The Director’s confidence and charm masks a deep concern that the ratings are going to drop if he doesn’t keep increasing the stakes. He used every trick he had to capture the characters and is pinning all his hopes on their performance in the Arena.
 
@@ -148,13 +144,15 @@ When the characters break out of the Arena, he’s not upset, because their acti
 
 If the characters ask for anything, he refers them to the Commander, as if he can’t be bothered with such mundane concerns.
 
-**Quote:** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts a distasteful requirement. As I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”_
+**Personality.** Bombastic, manipulative, opportunistic.
+
+**Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts a distasteful requirement. As I see it, we’re providing a valuable service. Public interest in history is at an all time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
 <aside class="block-torn-paper">
 
-**Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your squad is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
+**Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your group is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
 
-The protests and mutiny by #TeamEthics is really making it hard to maximize ratings, and it’s time for them to hand over control of the portal. No more scientists getting weak-kneed at the thought of a little blood.
+The mutiny and protests by #TeamEthics are really making it hard to maximize ratings, and it’s time to take control of the portal. No more scientists getting weak-kneed at the thought of a little blood.
 
 If you can remove the Professor from power, then you can stay in the future and the Director will ensure that you live a life of wealth and fame like you’ve never experienced before. He asks only that you do it in the most entertaining way possible.
 
@@ -164,38 +162,45 @@ If you can remove the Professor from power, then you can stay in the future and 
 
 _Controlled by #TeamRatings_
 
-> TODO: read-aloud description
+> The Command Section feels unnaturally quiet. The layout of the place implies there should be a bustle of activity, as crew go about the business of operating the station. However, most have joined the fighting elsewhere, leaving only a handful here.
 
-- offices, bridge, briefing room, AI server room
-- Exits:
-  - Hatch to Lobby (locked)
-  - Cargo Tunnel (locked)
+The Command corridor has a red stripe running along the wall. It is mostly unoccupied, since most #TeamRatings crew have been drafted into the fighting elsewhere in the station. A handful of offices are occupied, as well as the skeleton crew on the bridge, and the Commander in his office. At any moment, one of them could enter the corridor.
 
-TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
+If the characters have gained access and are wearing a red #TeamRatings jumpsuide or Security Guard armor, they can pass without notice. If not, they'll be confronted by the person who spots them.
 
-### Corridor
+At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Cargo Tunnel, which is locked.
 
-TODO
+### AI Server Room
+
+You might expect the room housing the station's AI to be heavily guarded. Instead, the AI server room is just a standard office that was converted after the fact during a station renovation. It has a standard lock on the door that will open for anyone with #TeamRatings access. Inside the temperature is chilly, and the bulk of the room is taken up by a large server rack covered in blinking lights.
+
+The characters would struggle to make any sense of the server rack itself. They can remove the command inhibitor with a successful DC 30 Intelligence (Investigation) check (or DC 10 if given instructions by the AI).
+
+The AI itself can be disabled by attacking the server rack. It has AC 10 and 30 hit points, but attacking it will make a lot of noise and likely attract attention from nearby crew. A squad of 4-5 [**Security Guards**](../part-2/#security-guards) will arrive in five minutes.
+
+Disabling the AI would be catastrophic, as systems it regulates begin to fall apart. An evacuation alarm would begin sounding almost immediately. The reactors would go critical within an hour, killing anyone left aboard and destroying the time portal.
 
 ### Bridge
 
-TODO
+Unlike the bridge on popular science fiction shows, the station's command deck is a bit shabby. The computer displays have dimmed over time, and the carpeting is a bit worn in spots. Most station operations like rotation and orbital adjustments have long ago been automated or taken over by the Station AI.
+
+At any given time, a skeleton crew of two or three is stationed here, monitoring systems and (when they think they can get away with it) playing cards.
 
 ### Conference Rooms
 
-TODO
+The conference rooms, which are mostly used to communicate with Corporate, are spotless. The lighting is bright, the tables are clean, and the video conferencing is top of the line. Each conference room has a single long table with a large viewscreen at one end, and seating for around twelve people. They are likely unoccupied.
 
 ### Ready Room
 
-TODO
+A holdover from the days when the bridge crew had more to do, the ready room is now more of a break room or lounge. A large wraparound sofa has been installed in one corner, facing a viewscreen with a gaming console. A small cafeteria table with a few chairs sits near a kitchenette with a rather nice coffee machine.
 
 ### Offices
 
-TODO
+Most of the Command section is taken up with offices for command staff. Due to the fighting, most are unoccupied. In each office is a desk with a workstation and a small collection of personal items like family photos.
 
 ### Commander's Office
 
-TODO
+The Commander's office is no different from any of the others. Certainly it's no larger. A few chairs face the desk, and a small shelf of books is mounted to the wall. The Commander can often be found here, stressing about the situation.
 
 ### The Commander
 
@@ -205,23 +210,18 @@ TODO
   </div>
 </figure>
 
-_Male Half-Elf Fighter_
+_Lawful Neutral Half-Elf Fighter_
 
-- Balding, sloppy uniform
-- Stubborn, put-upon
-- Sounds like Sheriff Andy from True Blood
-- Can be found in Command
+In theory, the Commander runs the station, but in reality nearly every decision can be overruled by the Director in the name of ratings, leaving the Commander as a sort of figurehead. He chafes at this situation, and feels disrespected.
 
-In theory, the Commander runs the station, but in reality nearly every decision can be overruled by the Director in the name of ratings, leaving the Commander as a sort of sockpuppet. He chafes at this situation, and feels disrespected.
+Most of all, he’s under pressure from Corporate to end the open combat on the station so they can resume the profitable business of space tourism. He secretly thinks Corporate would back him moving against the Director as long as ratings didn’t drop too badly and it restored tourism. Still, he won’t act unless he’s confident it will work out in his favor.
 
-Most of all, however, he’s under pressure from Corporate to end the open combat on the station so they can resume the profitable business of space tourism. He secretly thinks Corporate would back him moving against the Director as long as ratings didn’t drop too badly, if it restored tourism. Still, he won’t move unless he’s sure it won’t blow up in his face.
+**Personality.** Pessimistic, stressed, put-upon.
 
-**Quote:** _“This shit’s all gonna blow back on me, I just know it.”_
+**Quote.** _“This shit’s all gonna blow back on me, I just know it.”_
 
 <aside class="block-torn-paper">
 
-**Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to use the portal for history tourism. He’s got a proposal put together, but doesn’t dare send it, or someone else will take credit for it. If your group can remove both the Director and the Professor, however, he can make his pitch to corporate, and expect their backing.
-
-In return, he will send you back to the past. The gladiator program will continue, but less bloodthirsty, and the dip in ratings will be made up for by tourist revenue.
+**Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to end the gladiator program and use the portal for history tourism. He’s got a proposal put together, but doesn’t dare send it, or someone else will take credit for it. If you can remove both the Director and the Professor, however, he can make his pitch to corporate, and expect their backing. In return, he will send you back to the past.
 
 </aside>

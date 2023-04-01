@@ -89,7 +89,7 @@ Inaccessible to the players
   </div>
 </figure>
 
-_Male Human Rogue_
+_Neutral Good Human Rogue_
 
 - Twinkling eyes, dark skin, silk shirt
 - Flirtatious, bargaining
@@ -102,7 +102,9 @@ As a result, the Bartender has become a political liaison, gossipmonger, mediato
 
 The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all sides can bring items to the bar to barter with, ensuring that the Bartender is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
 
-**Quote:** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
 
 <aside class="block-torn-paper">
 

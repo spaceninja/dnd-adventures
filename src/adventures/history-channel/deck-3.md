@@ -85,7 +85,7 @@ TODO
   </div>
 </figure>
 
-_Female Elf Cleric_
+_Lawful Good Elf Cleric_
 
 - Tall, blonde ponytail, glasses, lab coat
 - Frustrated, tense, determined
@@ -96,7 +96,9 @@ The Chief Medical Officer (known universally as "the Doc") had an easy job befor
 
 She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. She’s willing to use her medical emergency override code to let the characters into the portal chamber if they will stop the broadcast.
 
-**Quote:** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
 
 <aside class="block-torn-paper">
 
@@ -116,7 +118,7 @@ TODO converted to a makeshift cell
   </div>
 </figure>
 
-_Female Gnome Wizard_
+_Chaotic Evil Gnome Wizard_
 
 - Chained to wall, wild lavender hair, big eyes, constantly typing
 - Distracted, twitchy, excitable, flirtatious, unaware she’s a bad guy
@@ -128,7 +130,9 @@ The Mad Scientist led the team that discovered how to open time portals, and has
 
 She dreams of having her name in the history books alongside other greats, and frankly is unconcerned that her experiments might be unethical, or if people die, or even if the timeline itself is destabilized. She believes you can’t make progress being cautious.
 
-**Quote:** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
 
 <aside class="block-torn-paper">
 
@@ -188,7 +192,7 @@ Professor’s office is lined with bookcases filled with obscure tomes and resea
   </div>
 </figure>
 
-_Sentient Weapon wielded by Male Human Barbarian_
+_Lawful Neutral Sentient Weapon wielded by Human Barbarian_
 
 - Huge weapon on back, broad-shouldered, tweed jacket, dark hair in man-bun
 - Intelligent, calm, serious
@@ -202,7 +206,9 @@ However, they could not ignore the Mad Scientist’s abuses of space-time for lo
 
 The Professor uses the stats for the [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord).
 
-**Quote:** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
 
 <aside class="block-torn-paper">
 

@@ -65,7 +65,7 @@ One office is designated for the Chief Engineer. Inside is a large worktable cov
   </div>
 </figure>
 
-_Female Dwarf Artificer_
+_Lawful Good Dwarf Artificer_
 
 The Chief is always moving. Any conversation had with her takes place as she walks from station to station, and is constantly interrupted by crew asking her questions, or her shouting an order to someone as she passes. If the characters manage to engage her for more than a minute or two, she may bring them to her office so she can focus on what they’re saying.
 
@@ -111,7 +111,7 @@ Running along the inner hull is a series of offices. These all look like auto me
   </div>
 </figure>
 
-_Male Merfolk Artificer_
+_Lawful Neutral Merfolk Artificer_
 
 The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief, but he’s worried that other more urgent problems may leave this until it’s too late.
 

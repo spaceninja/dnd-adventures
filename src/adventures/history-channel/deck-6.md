@@ -71,7 +71,7 @@ To the left of the elevator is a long room that follows the curve of the inner h
   </div>
 </figure>
 
-_Female Tiefling Rogue_
+_Chaotic Neutral Tiefling Rogue_
 
 The Pilot cuts a dashing figure at the bar, in her flight suit and cowboy hat. Her aviator sunglasses can’t conceal the twinkle in her eyes as she beckons the characters over to talk to her.
 
@@ -109,7 +109,7 @@ A makeshift barricade has been constructed a few feet in front of the open hatch
   </div>
 </figure>
 
-_Rogue Modron Quadrone_
+_Lawful Good Rogue Modron Quadrone_
 
 Rogue modrons are vanishingly rare, but highly sought after due to their organizational skills, and the Quartermaster has become particularly well-regarded on the station, running an orderly cargo bay and keeping supplies moving smoothly through the cargo tunnels.
 

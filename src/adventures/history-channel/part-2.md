@@ -83,7 +83,7 @@ Security Guards use the stats for [**Veterans**](https://www.dndbeyond.com/monst
   </div>
 </figure>
 
-_Female Elf Fighter_
+_Lawful Evil Elf Fighter_
 
 - Old, short, security armor
 - Sarcastic, threatening
@@ -96,7 +96,9 @@ She is always surrounded by a squad of at least as many Security Guards as there
 
 The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [Laser Rifle](https://www.dndbeyond.com/equipment/laser-rifle). (For the fire breath weapon, she has a one-shot flamethrower attached to her rifle.)
 
-**Quote:** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
 
 <aside class="block-torn-paper">
 
@@ -140,7 +142,7 @@ TODO
   </div>
 </figure>
 
-_Female Hobgoblin Barbarian_
+_Chaotic Good Hobgoblin Barbarian_
 
 - Large, butch haircut, scarred armor with many kill marks
 - Confident, loud, secretly sad
@@ -153,7 +155,9 @@ Unfortunately, in her timeline, several years had passed, and she had given up h
 
 The Champion uses the stats for a [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [+2 Longsword](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
-**Quote:** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
 
 <aside class="block-torn-paper">
 
@@ -171,7 +175,7 @@ If you do, she will reward you with her favorite weapon. (More importantly, it w
   </div>
 </figure>
 
-_Female Human Ranger_
+_Neutral Human Ranger_
 
 - Short, mousy, borrowed ill-fitting armor
 - Distracted, annoyed, autistic
@@ -186,7 +190,9 @@ Secretly, she believes (based on some notes she stole from the Mad Scientist) th
 
 The Strategist uses the stats for a [Cultist](https://www.dndbeyond.com/monsters/cultist).
 
-**Quote:** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
+**Personality.** TK, TK, TK.
+
+**Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 
 <aside class="block-torn-paper">
 
