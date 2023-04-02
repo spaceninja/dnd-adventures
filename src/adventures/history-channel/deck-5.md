@@ -77,6 +77,8 @@ If asked for access to the Cargo Bay (or airlocks, or any other facility under #
 
 If the characters succeed at fixing the coolant leak for the Technician, the Chief will call them back to make an offer. As she sees it, the time portal is the cause of all the fighting, and therefore it’s putting the station at risk. If they can destroy the portal, she promises to get them off the station and down to the surface. They wouldn’t be able to return to their time, but at least they’d be free.
 
+The Chief uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/17045-veteran).
+
 **Personality.** Demanding, respected, overworked.
 
 **Quote.** _“I don’t know what you want, but unless something’s on fire or you’re here to help, it’ll have to wait.”_
@@ -118,6 +120,8 @@ The Technician is a fluid mechanics specialist who lives in the water tanks and 
 If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_vacsuit_**](../part-3/#vacsuits) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
 
 If the players listen to his instructions, they can find the correct panel with a successful DC 10 Intelligence (Investigation) check, and fix the leak with a successful DC 12 Dexterity (Sleight of Hand) check. If they don’t listen, the difficulty to find the panel rises to DC 15, and DC 18 to fix the leak.
+
+The Technician uses the stats for [**Merfolk**](https://www.dndbeyond.com/monsters/16955-merfolk).
 
 **Personality.** Stressed, urgent, desperate.
 

@@ -96,6 +96,8 @@ The Chief Medical Officer (known universally as "the Doc") had an easy job befor
 
 She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. She’s willing to use her medical emergency override code to let the characters into the portal chamber if they will stop the broadcast.
 
+The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/16985-priest).
+
 **Personality.** TK, TK, TK.
 
 **Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
@@ -129,6 +131,8 @@ _Chaotic Evil Gnome Wizard_
 The Mad Scientist led the team that discovered how to open time portals, and has been frantically exploiting the tech ever since. She knows it’s only a matter of time (heh) before the secret leaks, and she wants to publish as many papers as possible before that happens.
 
 She dreams of having her name in the history books alongside other greats, and frankly is unconcerned that her experiments might be unethical, or if people die, or even if the timeline itself is destabilized. She believes you can’t make progress being cautious.
+
+The Mad Scientist uses the stats for a [**Cult Fanatic**](https://www.dndbeyond.com/monsters/16836-cult-fanatic).
 
 **Personality.** TK, TK, TK.
 
@@ -192,29 +196,21 @@ Professor’s office is lined with bookcases filled with obscure tomes and resea
   </div>
 </figure>
 
-_Lawful Neutral Sentient Weapon wielded by Human Barbarian_
+_Lawful Good Sentient Weapon wielded by Human Barbarian_
 
-- Huge weapon on back, broad-shouldered, tweed jacket, dark hair in man-bun
-- Intelligent, calm, serious
-- Sounds like Captain Holt from Brooklyn 99
-- (when not in contact, wielder sounds like Conan)
-- Can be found in Research
+The Director of Research & Development is an ancient sentient weapon, who everyone simply calls "The Professor." They date back to only a century or so after the characters’ time period. They eventually tired of mindless combat, became a pacifist, and started studying. Over time, they grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
-The Director of Research & Development is an ancient sentient weapon, who everyone simply calls "The Professor." They date back to only a century or so after the characters’ time period. Over time, they eventually tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
+However, they could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
-However, they could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the rebellion when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs and return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
+The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), but is a pacifist and will not fight under any circumstances.
 
-The Professor uses the stats for the [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord).
-
-**Personality.** TK, TK, TK.
+**Personality.** Intelligent, calm, serious.
 
 **Quote.** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
 
 <aside class="block-torn-paper">
 
-**Quest: Remove the Director:** The Professor worries that all the abuse of the timestream by the Director is going to cause catastrophic consequences. It wants to immediately stop all broadcasts, return the prisoners to their proper times, and study the portal more. With luck, the timestream will stabilize, and they can get back to making historical documentaries by sending drones into the past to get footage without risking the timeline.
-
-If you can remove the Director from power, then it will send you back to your time and stop the broadcasts for good.
+**Quest: Remove the Director:** The Professor worries that all the abuse of the timestream by the Director is going to cause catastrophic consequences. They want to immediately stop all broadcasts, return the “contestants” to their proper times, and conduct more study of the portal itself. If you can remove the Director from power, then the Professor will send you back to your time and stop the abductions for good.
 
 </aside>
 
@@ -222,6 +218,6 @@ If you can remove the Director from power, then it will send you back to your ti
 
 #### Sentient Weapons
 
-Sentient weapons form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it cannot command someone it has not bonded with.
+[Sentient weapons](https://www.dndbeyond.com/sources/basic-rules/magic-items#SentientMagicItems) form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it cannot command someone it has not bonded with.
 
 </aside>

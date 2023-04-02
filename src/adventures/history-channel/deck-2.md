@@ -102,6 +102,8 @@ As a result, the Bartender has become a political liaison, gossipmonger, mediato
 
 The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all sides can bring items to the bar to barter with, ensuring that the Bartender is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
 
+The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/monsters/17340-swashbuckler).
+
 **Personality.** TK, TK, TK.
 
 **Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
@@ -110,6 +112,6 @@ The Bartender also runs a splendid little black market. With the cargo tunnels b
 
 **Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the #OpsUnion, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
-If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including some modern weaponry that will help even the odds. He offers one [Laser Pistol](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on “stun”) now, and the chance to buy more later.
+If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including some modern weaponry that will help even the odds. He offers one [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on “stun”) now, and the chance to buy more later.
 
 </aside>

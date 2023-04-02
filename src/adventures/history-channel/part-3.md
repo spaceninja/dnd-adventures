@@ -61,7 +61,7 @@ _“A bunch of eggheads who don’t understand their ivory tower costs money.”
 
 ##### #TeamEthics Guards
 
-Guards for #TeamEthics use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran) are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components.
+Guards for #TeamEthics use the stats for [**Veterans**](https://www.dndbeyond.com/monsters/veteran) are armed with [**_Laser Pistols_**](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components, which is equivalent to scale mail, but resistant to radiant damage and vulnerable to piercing or slashing damage since it's designed to resist modern weaponry.
 
 #### #OpsUnion
 
@@ -73,7 +73,7 @@ The Operations Union has full control of Deck 5 (Engineering & Life Support) as 
 
 ##### #OpsUnion Guards
 
-Guards for #OpsUnion use the stats for [Veterans](https://www.dndbeyond.com/monsters/veteran) are armed with [Laser Pistols](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components and hard hats.
+Guards for #OpsUnion use the stats for [**Veterans**](https://www.dndbeyond.com/monsters/veteran) are armed with [**_Laser Pistols_**](https://www.dndbeyond.com/equipment/laser-pistol). They wear a cobbled-together collection of armor, mostly composed of 3D printed components and hard hats, which is equivalent to scale mail, but resistant to radiant damage and vulnerable to piercing or slashing damage since it's designed to resist modern weaponry.
 
 ### Camera Drones
 

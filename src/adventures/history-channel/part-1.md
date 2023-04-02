@@ -51,6 +51,6 @@ If some or all of the characters somehow manage to survive, have a squad of secu
 
 ## Arena Contestants
 
-The Arena is filled with “contestants,” who have survived for some time in the Arena and see the characters as fresh meat. They use the stats for [Gladiators](https://www.dndbeyond.com/monsters/gladiator), and fight in packs of 1D4+1.
+The Arena is filled with “contestants,” who have survived for some time in the Arena and see the characters as fresh meat. They use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator), and fight in packs of three to five.
 
 Despite using the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They appear to have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.

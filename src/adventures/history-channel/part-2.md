@@ -94,7 +94,7 @@ The Security Chief is delighted with how things have turned out. She was never r
 
 She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
-The Security Chief uses the stats for a [Half-Red Dragon Veteran](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [Laser Rifle](https://www.dndbeyond.com/equipment/laser-rifle). (For the fire breath weapon, she has a one-shot flamethrower attached to her rifle.)
+The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath weapon with a single-shot flamethrower attached to her rifle.)
 
 **Personality.** TK, TK, TK.
 
@@ -153,7 +153,7 @@ The Champion was a notorious marauder, and won the first season of the gladiator
 
 Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice human and had a couple kids. Then they abducted her again. She wants only to return to her timeline, but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
 
-The Champion uses the stats for a [Hobgoblin Warlord](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [+2 Longsword](https://www.dndbeyond.com/magic-items/5282-longsword-2).
+The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
 **Personality.** TK, TK, TK.
 
@@ -188,7 +188,7 @@ She claims to have a plan to stop what’s happening, but she is extremely diffi
 
 Secretly, she believes (based on some notes she stole from the Mad Scientist) that if they can blow up the station, it will destabilize the portal and “reset” everyone to their proper place in the timestream.
 
-The Strategist uses the stats for a [Cultist](https://www.dndbeyond.com/monsters/cultist).
+The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
 
 **Personality.** TK, TK, TK.
 

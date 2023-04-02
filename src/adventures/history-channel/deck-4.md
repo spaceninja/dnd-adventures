@@ -131,6 +131,8 @@ He will do just about anything that results in spectacle or drama, including off
 
 If the characters ask for anything, he refers them to the Commander, as if he can’t be bothered with such mundane concerns.
 
+The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/17328-bard).
+
 **Personality.** Bombastic, manipulative, opportunistic.
 
 **Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
@@ -202,6 +204,8 @@ _Lawful Neutral Half-Elf Fighter_
 In theory, the Commander runs the station, but in reality, nearly every decision can be overruled by the Director in the name of ratings, leaving the Commander as a sort of figurehead. He chafes at this situation and feels disrespected.
 
 Most of all, he’s under pressure from Corporate to end the open combat on the station so they can resume the profitable business of space tourism. He secretly thinks Corporate would back him moving against the Director as long as ratings didn’t drop too badly and it restored tourism. Still, he won’t act unless he’s confident it will work out in his favor.
+
+The Commander uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/17045-veteran).
 
 **Personality.** Pessimistic, stressed, put-upon.
 
