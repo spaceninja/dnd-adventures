@@ -94,7 +94,7 @@ The Security Chief is delighted with how things have turned out. She was never r
 
 She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
-The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath weapon with a single-shot flamethrower attached to her rifle.)
+The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
 
 **Personality.** TK, TK, TK.
 
@@ -142,7 +142,7 @@ TODO
   </div>
 </figure>
 
-_Chaotic Good Hobgoblin Barbarian_
+_Chaotic Good Orc Barbarian_
 
 - Large, butch haircut, scarred armor with many kill marks
 - Confident, loud, secretly sad
