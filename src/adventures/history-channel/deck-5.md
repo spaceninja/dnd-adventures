@@ -117,7 +117,7 @@ _Lawful Neutral Merfolk Artificer_
 
 The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief, but he’s worried that other more urgent problems may leave this until it’s too late.
 
-If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_vacsuit_**](../part-3/#vacsuits) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
+If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_Vacsuit_**](../part-3/#vacsuits) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
 
 If the players listen to his instructions, they can find the correct panel with a successful DC 10 Intelligence (Investigation) check, and fix the leak with a successful DC 12 Dexterity (Sleight of Hand) check. If they don’t listen, the difficulty to find the panel rises to DC 15, and DC 18 to fix the leak.
 
@@ -129,6 +129,6 @@ The Technician uses the stats for [**Merfolk**](https://www.dndbeyond.com/monste
 
 <aside class="block-torn-paper">
 
-**Quest: Keep the Station from Exploding.** Oh shit, There’s a coolant leak in reactor one! It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to put on a vacsuit and access the station exterior. If you agree to help, the #OpsUnion will give vacsuits to everyone on the team, granting you access to the airlocks (and a way around station security).
+**Quest: Keep the Station from Exploding.** Oh shit, There’s a coolant leak in reactor one! It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to access the station exterior. If you agree to help, the #OpsUnion will give Vacsuits to everyone on the team, granting you access to the airlocks (and a way around station security).
 
 </aside>

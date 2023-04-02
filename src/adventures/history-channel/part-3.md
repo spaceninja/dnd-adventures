@@ -131,13 +131,13 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 
 There is an airlock on every deck of the station.
 
-All airlocks are large enough for a group of people to don vacsuits comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
+All airlocks are large enough for a group of people to don Vacsuits comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
 
-There are empty vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief. The vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
+There are empty Vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief. The Vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
 
 #### Vacsuits
 
-A Vacsuit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. While wearing a vacsuit, a character has a reliable air supply, even in vacuum. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. The suit is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character's air supply. The character cannot access any gear in the vacsuit, but it is covered in pockets and clips for attaching tools.
+A Vacsuit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. While wearing a Vacsuit, a character has a reliable air supply, even in vacuum. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. The suit is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character's air supply. The character cannot access any gear in the Vacsuit, but it is covered in pockets and clips for attaching tools.
 
 #### Airlocks
 
