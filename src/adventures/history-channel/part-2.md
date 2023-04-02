@@ -79,7 +79,7 @@ Security Guards use the stats for [**Veterans**](https://www.dndbeyond.com/monst
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/security-chief@512.webp" alt="">
   </div>
 </figure>
 
@@ -138,7 +138,7 @@ TODO
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/champion@512.webp" alt="">
   </div>
 </figure>
 

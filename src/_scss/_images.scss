@@ -66,6 +66,7 @@ figcaption {
 }
 
 .npc-portrait__inner {
+  background: url('/images/history-channel/bg-avatar.webp');
   border: var(--border-medium) solid var(--color-heading-border, currentColor);
 
   &::before,

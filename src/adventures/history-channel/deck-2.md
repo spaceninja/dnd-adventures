@@ -85,7 +85,7 @@ Inaccessible to the players
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/bartender@512.webp" alt="">
   </div>
 </figure>
 
