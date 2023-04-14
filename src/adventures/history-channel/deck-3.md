@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 3 is divided into two sections: Medical and Research & Development. Medical is TODO one sentence summary. R&D is TODO one sentence summary.
+Deck 3 is divided into two sections: Medical and Research & Development. Medical is controlled by #TeamEthics, but will treat anyone, and is nearly overwhelmed with injuries from the ongoing fighting. In R&D, the brain trust of scientists continue their research as best they can with the time portal itself on lockdown.
 
 <figure>
   <a href="/images/history-channel/deck-03-labels@2490.webp">
@@ -34,49 +34,37 @@ Deck 3 is divided into two sections: Medical and Research & Development. Medical
 
 ## Medical
 
-_Controlled by #TeamEthics_
+_Controlled by #TeamEthics, but open to everyone_
 
-> TODO: read-aloud description
+> It is clear at a glance that the station's medical staff are overwhelmed by the number of injuries from the fighting. Patients are everywhere, laying on gurneys, leaning against the walls, or even just sitting on the floor. A small team of doctors and nurses move around the room trying to stabilize incoming patients and determine where to send them next. The Doc moves through the room, constantly interrupted by other doctors and nurses asking her for information, or to make a judgement call.
 
-- offices, waiting room, exam rooms, trauma center
-- Exits:
-  - Hatch to Research
-  - Airlock
-  - Elevator (guarded)
+Although the Medical section is technically controlled by #TeamEthics, the Doc tries to remain neutral and will treat anyone. [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are stationed by the elevator. Anyone who isn't part of #TeamEthics is required to turn over their weapons before entering, with assurances that their items will be returned when they leave.
 
-TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
-
-TODO: Medical should be open, neutral, treating all sides
-
-Lobby looks like any hospital waiting room, but over the shoulder of the receptionist, you can see the facility is overflowing with patients. They are in every room, but also lying on gurneys in the hall or even just standing around and sitting on the floor. Nurses and doctors in lab coats are running around conducting triage, trying to help, but it’s clear they’re running out of key supplies. The patients are mostly in green uniforms, but there are some tan and red uniforms as well.
-
-Eventually the Dcot comes through. She is constantly being interrupted by other doctors and nurses asking her for information or to make a judgement call. She eventually loses her patience moving through and demands that the hallways be cleared by moving patients into the the lobby.
-
-This should give the players a chance to be altruistic. If the Doc sees them trying to help, she will take an interest and strike up a conversation. Unless they are total jerks to her, she’ll invite them back to her office and offer her quest.
-
-### Corridor
-
-TODO
+At either end of the long semicircular hallway that runs the length of the Medical section are locked doors to the R&D section. These will only open for people with #TeamEthics access. A pair of guards are also stationed by the storage room where they keep the Mad Scientist locked up.
 
 ### Intensive Care
 
-TODO
+The intensive care unit handles the most urgent injuries, which lately means a lot of wounds from laser blasters, and even broken bones from hand to hand fighting. A squad of nurses and doctors are performing triage here at all times, processing incoming injuries, trying to stabilize people, and get them moved to other parts of Medical to free up space.
+
+The Doc can be found here, directing efforts and doing her best to keep things running smoothly. If the characters try to speak with her, she brushes them off, saying something like "Sorry, but unless you're here to help, I'm not available."
+
+If the characters want to help, the Doc can direct them to several patients with less serious wounds who need assistance. They can try to stabilize a patient by making a successful DC 12 Wisdom (Medicine) check, by casting any healing spell, or by using a healing potion. If they stabilize 3 or more patients, the Doc will invite them back to her office to thank them, hear what they have to say, and if she thinks they'll be receptive, offer them a quest to shut down the broadcast.
 
 ### Hospital Wards
 
-TODO
+Each of the hospital wards is filled to bursting with patients recovering from all manner of injuries associated with the ongoing fighting. Extra cots have been made from components the R&D team can produce on their fabricators, and each room is at least at double capacity. The small team of nurses does their best to stay on top of the patient's needs, but they're clearly short staffed.
 
 ### Surgery
 
-TODO
+The surgery section is broken into several operating rooms, each with bright lighting, operating tables, and surgical supplies. Half the operating rooms are in use at any given moment.
 
 ### Offices
 
-TODO
+A small number of offices are set aside for the station's doctors to allow private calls and meetings with patients. They are decorated in calming colors, lighting that emulates a sunny day, and comfortable seating. One of the offices has been converted into a makeshift sleeping area, with a few cots for doctors and nurses coming off long shifts.
 
 ### Chief Medical Officer's Office
 
-TODO
+Since the mutiny, the Doc mostly uses her office as a conference room for meeting with her department heads. The desk has been pushed back in the corner to make room for two couches and a number of folding chairs. She spends little time in here otherwise, mostly being busy with a constant influx of patients. If she agrees to meet with the characters, she'll bring them here. Otherwise, she can be found on the floor.
 
 ### The Doc
 
@@ -88,18 +76,15 @@ TODO
 
 _Lawful Good Elf Cleric_
 
-- Tall, blonde ponytail, glasses, lab coat
-- Frustrated, tense, determined
-- Sounds like Alice Quinn from the Magicians
-- Can be found in Medical
-
 The Chief Medical Officer (known universally as "the Doc") had an easy job before the mutiny, with nothing more difficult than the occasional chemical burn or tourist with a sprained ankle. Now, however, her sick bay is crammed full of injuries and they’re running low on supplies. She doesn’t care too much about the ethics of time travel, but wants the fighting to end.
 
-She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. She’s willing to use her medical emergency override code to let the characters into the portal chamber if they will stop the broadcast.
+If the characters helped out around the hospital (making Medicine checks, casting healing spells, or giving healing potions to injured people), then the Doc is motivated to help them. She can't offer healing supplies, but she may put in a good word for them with someone in #TeamEthics, or even get them on the #TeamEthics access list so they can pass through locked doors.
+
+She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast were destroyed, then the factions would have nothing left to fight about, and things would settle down. If the characters are able to stop the broadcast, she's willing to use her medical emergency override code to let the characters into the portal chamber.
 
 The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/16985-priest).
 
-**Personality.** TK, TK, TK.
+**Personality.** Frustrated, tense, determined
 
 **Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
 
@@ -111,9 +96,9 @@ The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/169
 
 </aside>
 
-### Storage
+### Storage/Jail Cell
 
-TODO converted to a makeshift cell
+A storage closet at the far end of Medical has been cleared out and converted into a makeshift jail cell to hold the former head of R&D, the Mad Scientist. A pair of bored-looking guards are stationed outside the door at all times.
 
 ### The Mad Scientist
 
@@ -125,29 +110,21 @@ TODO converted to a makeshift cell
 
 _Chaotic Evil Gnome Wizard_
 
-- Chained to wall, wild lavender hair, big eyes, constantly typing
-- Distracted, twitchy, excitable, flirtatious, unaware she’s a bad guy
-- Sounds like Kate McKinnon in Ghostbusters 2
-- Can be found in Medical
-- Unaffiliated, but imprisoned by #TeamEthics
-
-The Mad Scientist led the team that discovered how to open time portals, and has been frantically exploiting the tech ever since. She knows it’s only a matter of time (heh) before the secret leaks, and she wants to publish as many papers as possible before that happens.
+The Mad Scientist led the team that discovered how to open time portals, and has been frantically exploiting the tech ever since. She knows it’s only a matter of time before the secret leaks, and she wants to publish as many papers as possible before that happens.
 
 She dreams of having her name in the history books alongside other greats, and frankly is unconcerned that her experiments might be unethical, or if people die, or even if the timeline itself is destabilized. She believes you can’t make progress being cautious.
 
 The Mad Scientist uses the stats for a [**Cult Fanatic**](https://www.dndbeyond.com/monsters/16836-cult-fanatic).
 
-**Personality.** TK, TK, TK.
+**Personality.** Distracted, twitchy, excitable, flirtatious
 
-**Quote.** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
+**Quote.** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve dictated 3 papers to the computer since they locked me up, but they won’t allow me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
 
 **Suggested Names.** Irma Dazzlebranch, Kate Wobblespell, Tatiana Buzzwire
 
 <aside class="block-torn-paper">
 
-**Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering.
-
-As a reward, she will send the characters anywhere/when they want to go.
+**Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering. As a reward, she will send the characters anywhere/when they want to go.
 
 </aside>
 
