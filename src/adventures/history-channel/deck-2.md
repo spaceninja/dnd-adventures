@@ -92,11 +92,6 @@ Inaccessible to the players
 
 _Neutral Good Human Rogue_
 
-- Twinkling eyes, dark skin, silk shirt
-- Flirtatious, bargaining
-- Sounds like Lando Calrissian
-- Can be found in Crew Quarters
-
 The Bartender runs a bar in the contested territory of the Crew Quarters. There is often open combat just outside, but everyone has agreed to treat the bar as neutral ground.
 
 As a result, the Bartender has become a political liaison, gossipmonger, mediator, and go-between. Everyone implicitly understands the value of this role, so no one abuses it (and if anyone tries, the other patrons generally sort it out quickly by removing the offender and making it clear they’re not welcome any longer).
@@ -105,7 +100,7 @@ The Bartender also runs a splendid little black market. With the cargo tunnels b
 
 The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/monsters/17340-swashbuckler).
 
-**Personality.** TK, TK, TK.
+**Personality.** Charming, flirtatious, bargaining
 
 **Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
 

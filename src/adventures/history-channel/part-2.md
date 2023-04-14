@@ -86,18 +86,13 @@ Security Guards use the stats for [**Veterans**](https://www.dndbeyond.com/monst
 
 _Lawful Evil Elf Fighter_
 
-- Old, short, security armor
-- Sarcastic, threatening
-- Sounds like Lucille Bluth from Arrested Development
-- Can be found in Security
-
 The Security Chief is delighted with how things have turned out. She was never really happy running security for a calm and orderly tourist hub. In the course of keeping the arena “contestants” in line, she’s discovered a taste for sadistic abuse. After all, no one cares if you violate the rights of history’s most notorious criminals. And if a few prisoners die on her watch, it doesn’t really matter thanks to the clone vats.
 
 She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
 The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
 
-**Personality.** TK, TK, TK.
+**Personality.** Sarcastic, threatening, sadistic
 
 **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
 
@@ -111,7 +106,7 @@ The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://ww
 
 ## Return to the Arena
 
-TK intro
+TODO intro
 
 <figure>
   <a href="/images/history-channel/deck-01-labels@2490.webp">
@@ -147,18 +142,13 @@ TODO
 
 _Chaotic Good Orc Barbarian_
 
-- Large, butch haircut, scarred armor with many kill marks
-- Confident, loud, secretly sad
-- Sounds like Kardala from the Adventure Zone
-- Can be found in Arena
-
 The Champion was a notorious marauder, and won the first season of the gladiator show. First prize that season was being returned to your timeline. She was brought back shortly after for an ill-considered All Stars episode.
 
 Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice human and had a couple kids. Then they abducted her again. She wants only to return to her timeline, but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
 
 The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
-**Personality.** TK, TK, TK.
+**Personality.** Confident, loud, secretly sad
 
 **Quote.** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
 
@@ -182,11 +172,6 @@ If you do, she will reward you with her favorite weapon. (More importantly, it w
 
 _Neutral Human Ranger_
 
-- Short, mousy, borrowed ill-fitting armor
-- Distracted, annoyed, autistic
-- Sounds like Laurie Bream from Silicon Valley
-- Can be found in Arena
-
 The Strategist was a war criminal who was expected to be killed quickly in the season she was brought aboard. However, Security didn’t watch her quite carefully enough, and she escaped into the station. She was eventually recaptured, but became a fan favorite when she started posting videos documenting what was happening on the station, which the Director happily allowed as the ratings climbed.
 
 She claims to have a plan to stop what’s happening, but she is extremely difficult to communicate with. Mostly the Champion and her crew protect her as she pokes around various parts of the Arena, looking for weaknesses.
@@ -195,7 +180,7 @@ Secretly, she believes (based on some notes she stole from the Mad Scientist) th
 
 The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
 
-**Personality.** TK, TK, TK
+**Personality.** Brilliant, distracted, annoyed
 
 **Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 

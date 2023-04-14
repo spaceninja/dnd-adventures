@@ -10,7 +10,7 @@ Slaad base. Lean into horror science station trope. Chaos in the first room, dea
 
 ## Introduction
 
-TK
+TODO
 
 Welcome to In Dire Need, a D&D Adventurers LeagueTM adventure, part of the official D&D Adventurers LeagueTM organized play system and the Storm King's ThunderTM storyline season.
 
@@ -42,23 +42,23 @@ Average party strength indicates no recommended adjustments to the adventure. Ea
 
 ### Adventure Background
 
-TK
+TODO
 
 ### Adventure Overview
 
 This adventure is divided into X parts.
 
-**Part 1.** TK
+**Part 1.** TODO
 
 ### Adventure Hooks
 
-TK
+TODO
 
-**Hook.** TK
+**Hook.** TODO
 
 ### Designer Notes Sidebar
 
-TK
+TODO
 
 ## Courtyard
 
@@ -192,7 +192,7 @@ Head researcher is unveiled as mind flayer testing his mind flayer venom on a gi
 
 Beyond the double doors you find an operating room. The lights glow a sickly red, and reveal a Githyanki youth strapped down to a table, looking terrified. Standing over him, injecting a fluid into an IV bag already connected to the kid’s arm, is a kindly-looking human scientist. There is a strong air of illusion magic around him.
 
-He does not move, but keeps his hand on the knob that will start the drip. He will try to smooth talk them, get them talking. The whole time, he’s using TK to move needles full of the poison to inject into the players. If anyone makes a perception check of 30, they’ll notice the needles. Otherwise, have the group make a dexterity saving throw to avoid being infected with Illithid Phage.
+He does not move, but keeps his hand on the knob that will start the drip. He will try to smooth talk them, get them talking. The whole time, he’s using telekinesis to move needles full of the poison to inject into the players. If anyone makes a perception check of 30, they’ll notice the needles. Otherwise, have the group make a dexterity saving throw to avoid being infected with Illithid Phage.
 
 While infected, the target can’t regain hit points, and its hit point maximum is reduced by 10 (3d6) every round. If the disease reduces the target’s hit point maximum to 0, the target passes out and must make death saving throws to avoid being transformed into a mind flayer.
 

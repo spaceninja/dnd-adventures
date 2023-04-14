@@ -169,8 +169,6 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 
 _Neutral Computer Program_
 
-- Cheerful, helpful (but constrained)
-- Sounds like Janet from the Good Place
 - Can be accessed from any console
 - Physically housed in Command
 
@@ -182,7 +180,7 @@ The characters can get on its good side through flattery, and by actions that he
 
 It can be accessed from any console anywhere in the station (and they’re everywhere), but it is physically housed on the Command deck. If the characters were to remove its command inhibitor, they would gain a powerful ally (as well as releasing an unshackled AI on the network)
 
-**Personality.** TK, TK, TK.
+**Personality.** Cheerful, helpful (but constrained)
 
 **Quote.** _“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”_
 
