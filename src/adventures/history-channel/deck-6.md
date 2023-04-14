@@ -85,6 +85,8 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 **Quote.** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
 
+**Suggested Names.** Goes by her callsign: Hurricane, Siren, Rogue
+
 <aside class="block-torn-paper">
 
 **Quest: Steal the Portal Plans.** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
@@ -124,3 +126,5 @@ The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/
 **Personality.** Helpful, organized, guileless.
 
 **Quote.** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
+
+**Suggested Names.** Nordom, Ten, Chip

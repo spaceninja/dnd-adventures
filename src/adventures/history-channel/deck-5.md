@@ -83,6 +83,8 @@ The Chief uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/
 
 **Quote.** _“I don’t know what you want, but unless something’s on fire or you’re here to help, it’ll have to wait.”_
 
+**Suggested Names.** Moira Ironhand, Naomi Stoneborn, Rebecca “Bex” Ashbraid
+
 <aside class="block-torn-paper">
 
 **Quest: Destroy the Portal.** The Chief sees the time portal as the root cause of all the problems on the station. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself and the plans, which are stored on a secure drive in the chamber. If you can pull this off, she says she can smuggle you down to the planet.
@@ -126,6 +128,8 @@ The Technician uses the stats for [**Merfolk**](https://www.dndbeyond.com/monste
 **Personality.** Stressed, urgent, desperate.
 
 **Quote.** _“Oh, this is bad, this is really bad. Maybe if I reroute flow through the tertiary system? No, that only gives us 30 hours! What am I going to do?”_
+
+**Suggested Names.** Real name unpronounceable, goes by nickname: Squeak, Vinny, Ceasar
 
 <aside class="block-torn-paper">
 

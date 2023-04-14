@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-After escaping from the arena, the characters explore the rest of the space station. They learn that the crew is actively mutinying
+After escaping from the arena, the characters explore the rest of the space station. They learn that the crew is actively mutinying TODO write better
 
 ## The Station
 
@@ -184,6 +184,8 @@ It can be accessed from any console anywhere in the station (and they’re every
 **Personality.** TK, TK, TK.
 
 **Quote.** _“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”_
+
+**Suggested Names.** Janet, Holly, Ava
 
 <aside class="block-torn-paper">
 

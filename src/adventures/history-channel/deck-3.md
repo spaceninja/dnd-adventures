@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TODO intro
+Deck 3 is divided into two sections: Medical and Research & Development. Medical is TODO one sentence summary. R&D is TODO one sentence summary.
 
 <figure>
   <a href="/images/history-channel/deck-03-labels@2490.webp">
@@ -102,6 +102,8 @@ The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/169
 
 **Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
 
+**Suggested Names.** Alice Hargraven, Quinn Elgrove, Erin Ardhave
+
 <aside class="block-torn-paper">
 
 **Quest: Stop the Broadcast:** The Doc think she’s found the solution to the problem: If there’s no broadcast, there’s no reason for everyone to keep fighting over the broadcast. If you can stop the broadcast by sabotaging the equipment (either from Broadcasting itself, or by destroying the comms gear on the Station Exterior), the Doc can get you access to the portal to go home.
@@ -137,6 +139,8 @@ The Mad Scientist uses the stats for a [**Cult Fanatic**](https://www.dndbeyond.
 **Personality.** TK, TK, TK.
 
 **Quote.** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve written 3 papers since they locked me up, but they won’t let me submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
+
+**Suggested Names.** Irma Dazzlebranch, Kate Wobblespell, Tatiana Buzzwire
 
 <aside class="block-torn-paper">
 
@@ -207,6 +211,8 @@ The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/mons
 **Personality.** Intelligent, calm, serious.
 
 **Quote.** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
+
+**Suggested Names.** Durendal, Masamune, Mac an Luin
 
 <aside class="block-torn-paper">
 

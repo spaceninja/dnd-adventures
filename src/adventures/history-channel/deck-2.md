@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-TODO intro
+Deck 2 is split into two sections: Security and Habitation. Security is TODO one sentence summary. Habitation is TODO one sentence summary.
 
 <figure>
   <a href="/images/history-channel/deck-02-labels@2490.webp">
@@ -31,7 +31,7 @@ TODO intro
   </a>
 </figure>
 
-## Crew Quarters
+## Habitation
 
 _Contested territory_
 
@@ -107,6 +107,8 @@ The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/
 **Personality.** TK, TK, TK.
 
 **Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
+
+**Suggested Names.** Kentucky Bourbon, Arturo Fuente, Cristobal Baccarat
 
 <aside class="block-torn-paper">
 

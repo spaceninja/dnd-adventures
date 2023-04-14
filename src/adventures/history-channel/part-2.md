@@ -100,6 +100,8 @@ The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://ww
 
 **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
 
+**Suggested Names.** Lucille Walter-Dreyfus, Emma Hunton-Blather, Mae Peirce-Ashton
+
 <aside class="block-torn-paper">
 
 **Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
@@ -159,6 +161,8 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 **Quote.** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
 
+**Suggested Names.** Neena Skullcleaver, Yelena Doomhammer, Magga Bonecrusher
+
 <aside class="block-torn-paper">
 
 **Quest: Kill the Security Chief:** The Champion asks that you kill the Security Chief if you get the opportunity, to end her sadistic treatment of her prisoners.
@@ -190,9 +194,11 @@ Secretly, she believes (based on some notes she stole from the Mad Scientist) th
 
 The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
 
-**Personality.** TK, TK, TK.
+**Personality.** Lauren Breem, Vivian Renaud, Margaret Lynch
 
 **Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
+
+**Suggested Names.**
 
 <aside class="block-torn-paper">
 

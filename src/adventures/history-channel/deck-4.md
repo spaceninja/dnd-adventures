@@ -13,7 +13,7 @@ next:
 
 # {{ title }}
 
-Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two areas: Broadcast and Command. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
+Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two sections: Broadcast and Command. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
 
 <figure>
   <a href="/images/history-channel/deck-04-labels@2490.webp">
@@ -137,6 +137,8 @@ The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/
 
 **Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
+**Suggested Names.** A.R. Cadenski, Bertram Lockhart, George Claude Barnum
+
 <aside class="block-torn-paper">
 
 **Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your group is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
@@ -210,6 +212,8 @@ The Commander uses the stats for a [**Veteran**](https://www.dndbeyond.com/monst
 **Personality.** Pessimistic, stressed, put-upon.
 
 **Quote.** _“This shit’s all gonna blow back on me, I just know it.”_
+
+**Suggested Names.** Andrew Ottarsson, Sven Arngrim, Harold Egilsson
 
 <aside class="block-torn-paper">
 
