@@ -194,11 +194,11 @@ Secretly, she believes (based on some notes she stole from the Mad Scientist) th
 
 The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
 
-**Personality.** Lauren Breem, Vivian Renaud, Margaret Lynch
+**Personality.** TK, TK, TK
 
 **Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 
-**Suggested Names.**
+**Suggested Names.** Lauren Breem, Vivian Renaud, Margaret Lynch
 
 <aside class="block-torn-paper">
 
