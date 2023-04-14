@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Appendix A: Researching Yourself Minigame'
 tags: history_channel
+date: 0000-04-01
 show_nav: true
 prev:
   url: '../deck-6'

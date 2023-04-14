@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Part 2: Escaping the Arena'
 tags: history_channel
+date: 0000-02-00
 show_nav: true
 prev:
   url: '../part-1'

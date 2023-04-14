@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Deck 5: Engineering'
 tags: history_channel
+date: 0000-03-05
 show_nav: true
 prev:
   url: '../deck-4'

@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Deck 3: Science'
 tags: history_channel
+date: 0000-03-03
 show_nav: true
 prev:
   url: '../deck-2'

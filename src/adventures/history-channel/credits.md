@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Credits
 tags: history_channel
+date: 0000-04-03
 show_nav: true
 prev:
   url: '../appendix-b'

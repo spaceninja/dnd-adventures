@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Appendix B: Player Handouts'
 tags: history_channel
+date: 0000-04-02
 show_nav: true
 prev:
   url: '../appendix-a'

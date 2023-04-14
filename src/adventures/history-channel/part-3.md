@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Part 3 - Exploring the Station
 tags: history_channel
+date: 0000-03-00
 show_nav: true
 prev:
   url: '../part-2'

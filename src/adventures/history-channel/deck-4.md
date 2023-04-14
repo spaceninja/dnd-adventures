@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Deck 4: Promenade & Admin'
 tags: history_channel
+date: 0000-03-04
 show_nav: true
 prev:
   url: '../deck-3'

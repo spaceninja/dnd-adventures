@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Deck 6: Flight Deck'
 tags: history_channel
+date: 0000-03-06
 show_nav: true
 prev:
   url: '../deck-5'

@@ -1,0 +1,10 @@
+---
+layout: layout.njk
+title: 'The Future Hates You!'
+---
+
+{% for post in collections.history_channel %}
+  <section>
+    {{ post.content | safe }}
+  </section>
+{% endfor %}

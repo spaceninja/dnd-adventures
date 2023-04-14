@@ -2,6 +2,7 @@
 layout: layout.njk
 title: 'Deck 2: Habitation'
 tags: history_channel
+date: 0000-03-02
 show_nav: true
 prev:
   url: '../part-3'

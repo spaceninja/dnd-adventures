@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Introduction
 tags: history_channel
+date: 0000-00-00
 show_nav: true
 next:
   url: '../part-1'
