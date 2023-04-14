@@ -151,47 +151,39 @@ As a reward, she will send the characters anywhere/when they want to go.
 
 </aside>
 
-## Research
+## Research & Development
 
 _Controlled by #TeamEthics_
 
-> TODO: read-aloud description
+> The walls of the R&D corridor are lined with corkboards filled with printouts, and whiteboards covered in formulas and notes. The doorways open onto labs filled with distracted scientists and engineers doing their best to continue their research. A few offices are occupied by sleeping guards and off-duty scientists. Security is heavy near the entrance to the Portal Chamber.
 
-- offices, labs, monitoring, fabrication, R&D, tunnel
-- Exits
-  - Hatch to Medical
-  - Hatch to Portal Chamber (guarded)
-  - Elevator (barricaded)
-  - Cargo Tunnel (guarded)
-
-TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
-
-R&D looks like any university science department. Long hallways with corkboards covered in printouts, whiteboards filled with formulas and notes, and many doorways opening to labs filled with harried-looking scientists and engineers doing work. Some unoccupied labs or offices are filled with sleeping guards and off-duty scientists, who clearly have nowhere else to sleep since R&D was blocked off from the rest of the station.
-
-### Corridor
-
-TODO
+A pair of guards man a checkpoint near the cargo tunnel entrance, and the elevator door has been blockaded on this side to prevent access. The doors at either end of the long semicircular hallway open onto Medical, and are locked, allowing access only to #TeamEthics.
 
 ### Portal Chamber
 
-- Controlled by #TeamEthics
-- dimensional portal, observation chamber, secure computer
-- Exits
-  - Hatch to Research (guarded)
+The Portal chamber might be the most heavily guarded spot on the station. The guards are particularly vigiliant since the recent #TeamRatings raid (when they abducted the characters), and they are unlikely to gain entrance without permission from the Professor.
+
+Inside is a large room dominated by the portal itself: a large metal circle bristling with sensors and mechanical connections. The portal is currently inactive, and the chamber itself unoccupied, by order of the Professor.
+
+When active, the center of the circle fills with a haze that emits a dull coppery light. The circle crackles with electricity, and through the haze a dim vision of the connected location is visible.
+
+Surrounding the portal are multiple workstations, all displaying readouts with data from the portal. A large computer is build into the primary console, used to control the portal. Attached to it is a secure drive containing the schematics and blueprints for the portal. The secure drive can be removed easily, but unless they have been told what to look for by the Pilot, the characters must make a successful DC 15 Intelligence (Investigation) check to identify it.
 
 ### Labs
 
-TODO
+The labs are filled with advanced equipment that the players can barely understand. There are no microscopes, bunsen burners, or bubbling flasks here. Instead, complex machinery and sensors are connected to computer workstations. Whirring fabricators have been put to use printing armor for guards. Caution signs warn of active lasers and toxic fumes. Safety equipment is abdundant, including fire extinguishers and eye wash stations.
 
 ### Offices
 
-TODO
+The offices are all shared by at least 3-4 researchers. Each office has several desks, laptops and tablet computers, bookshelves filled with complicated reference material the characters can't understand. Several whiteboards are covered with diagrams and formulas, sometimes with sticky notes reading "DO NOT ERASE!!!"
 
 ### Director of Research & Development's Office
 
-The Professor’s office is located down a side hallway, and has a nameplate with the name of the Mad Scientist listed as the head of the department. This has been crudely crossed out and a printed sign hung below with the Professor’s name instead.
+The Professor’s office has a sign with the name of the Mad Scientist listed as the head of the department. This has been crudely crossed out and a printed sign hung below with the Professor’s name instead.
 
-Professor’s office is lined with bookcases filled with obscure tomes and research, and a large standing desk that the Professor works from. There is a couch and several chairs in the room for meetings.
+Inside, the wall is lined with bookcases willed with both antique leather-bound tomes and more current periodicals and books. An ornate-looking wooden desk has been shoved into the corner and replaced with a simple standing desk that the Professor works from. There is a comfortable couch along one wall and several chairs for meetings.
+
+At any given time, the Professor is likely to be standing at their desk writing something, or sitting with their department heads discussing plans.
 
 ### The Professor
 
