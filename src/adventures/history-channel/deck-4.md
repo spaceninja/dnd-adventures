@@ -137,7 +137,7 @@ The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/
 
 **Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
-**Suggested Names.** A.R. Cadenski, Bertram Lockhart, George Claude Barnum
+**Suggested Names.** A.J. Cadinski, Bertram Lockhart, George Claude Barnum
 
 <aside class="block-torn-paper">
 
