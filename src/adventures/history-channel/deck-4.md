@@ -35,6 +35,8 @@ Deck Four is a double ring. The tourist shops of the outer ring Promenade have a
 
 ## Outer Ring Promenade
 
+_Contested territory_
+
 > You can tell this is (or rather, was) the nicest part of the station. The carpeting on the floor extends up the walls, and the lighting panels recessed in the ceiling glow warmly. Windows along the outer hull reveal excellent views of the planet rotating past. The hallway from the elevator leads invitingly to the food court, with a promenade wrapping away in either direction filled with shops for visiting tourists.
 >
 > The effect is rather ruined by the fact that the food courts are an active combat zone. The shops are all closed, their neon signs turned off and roll-down gates locked. Camera drones dodge constant laser fire. The air is filled with the smell of ozone and smoke. Combatants move from cover to cover. You hear shouts and commands, as well as the Station AI over a loudspeaker declaring the area unsafe. Red flashing lights strobe as two fire drones try to put out a burning barricade.
