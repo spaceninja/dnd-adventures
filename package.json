@@ -5,7 +5,7 @@
   "author": "Scott Vandehey",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "npm run watch",
+    "start": "yarn watch",
     "build": "run-p build:*",
     "build:content": "eleventy",
     "build:css": "sass src:dist",
