@@ -104,7 +104,7 @@ A storage closet at the far end of Medical has been cleared out and converted in
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/mad-scientist@512.webp" alt="">
   </div>
 </figure>
 

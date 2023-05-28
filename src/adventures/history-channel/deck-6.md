@@ -68,7 +68,7 @@ To the left of the elevator is a long room that follows the curve of the inner h
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/pilot@512.webp" alt="">
   </div>
 </figure>
 
