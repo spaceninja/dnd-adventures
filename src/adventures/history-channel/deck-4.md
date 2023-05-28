@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two sections: Broadcast and Command. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
+Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two sections: Broadcast and Command, both controlled by #TeamRatings. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
 
 <figure>
   <a href="/images/history-channel/deck-04-labels@2490.webp">
@@ -124,11 +124,11 @@ The walls of the Director’s office are covered with awards, photos of the Dire
 
 _Neutral Halfling Bard_
 
-The Director’s confidence and charm mask a deep concern that the ratings are going to drop if he doesn’t keep raising the stakes. He used every trick he had to abduct the characters from the past, and he pinned all his hopes on their performance in the Arena.
+The Director’s confidence and charm mask a deep concern that the ratings are going to drop if he doesn’t keep raising the stakes. He played every card he had to abduct the characters from the past, and has pinned all his hopes on their performance in the Arena.
 
-But when they broke out, he wasn’t upset, because their actions on the station are driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of entertainment.
+When they escaped the Arena, he wasn’t upset, because their actions on the station are driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of entertainment.
 
-If the characters end up in front of him, he treats it like a negotiation in which he has the upper hand. He may even summon them if he thinks they might listen. It likely wouldn’t occur to him to be threatened by the characters, since he assumes that everyone operates like him, always shifting to gain an advantage.
+If the characters end up in front of him, he treats it like a negotiation in which he has the upper hand. He may even summon them if he thinks they might listen. It likely wouldn’t occur to him to be threatened by the characters, since he assumes that everyone operates like him, always shifting to gain an advantage. (Also, he is flanked at all times by two [**Security Guards**](../part-2/#security-guards).)
 
 He will do just about anything that results in spectacle or drama, including offering the characters fame and fortune, and, of course, stabbing them in the back if it suits him.
 

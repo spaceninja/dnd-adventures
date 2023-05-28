@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 5 consists of two areas: Engineering and Life Support. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
+Deck 5 consists of two areas, Engineering and Life Support, both controlled by #OpsUnion. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
 
 <figure>
   <a href="/images/history-channel/deck-05-labels@2490.webp">

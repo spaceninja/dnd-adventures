@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 3 is divided into two sections: Medical and Research & Development. Medical is controlled by #TeamEthics, but will treat anyone, and is nearly overwhelmed with injuries from the ongoing fighting. In R&D, the brain trust of scientists continue their research as best they can with the time portal itself on lockdown.
+Deck 3 is divided into two sections: Medical and Research & Development, both controlled by #TeamEthics. Medical is nearly overwhelmed with injuries from the ongoing fighting. In R&D, the brain trust of scientists continue their research as best they can with the time portal itself on lockdown.
 
 <figure>
   <a href="/images/history-channel/deck-03-labels@2490.webp">
@@ -172,9 +172,9 @@ At any given time, the Professor is likely to be standing at their desk writing 
 
 _Lawful Good Sentient Weapon wielded by Human Barbarian_
 
-The Director of Research & Development is an ancient sentient weapon, who everyone simply calls "The Professor." They date back to only a century or so after the characters’ time period. They eventually tired of mindless combat, became a pacifist, and started studying. Over time, they grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
+The Director of Research & Development is an ancient sentient weapon, who everyone simply calls "The Professor." They date back to around the characters’ time period. Over the centuries, they grew tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
-However, they could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
+However, The Professor could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
 The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), but is a pacifist and will not fight under any circumstances.
 

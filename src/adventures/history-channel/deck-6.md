@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay is a sprawling labyrinth of shelving and drones overseen by the Quartermaster.
+Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay, controlled by #OpsUnion, is a sprawling labyrinth of shelving and drones overseen by the Quartermaster.
 
 <figure>
   <a href="/images/history-channel/deck-06-labels@2490.webp">
