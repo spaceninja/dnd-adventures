@@ -30,7 +30,6 @@ Deck Four is a double ring. The tourist shops of the outer ring Promenade have a
       height="479"
       />
   </a>
-  <figcaption>TODO: Update map to add AI server room</figcaption>
 </figure>
 
 ## Outer Ring Promenade

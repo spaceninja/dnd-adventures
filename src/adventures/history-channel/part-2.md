@@ -92,6 +92,8 @@ She is always surrounded by a squad of at least as many Security Guards as there
 
 The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
 
+TODO: if defeated, effect on security forces
+
 **Personality.** Sarcastic, threatening, sadistic
 
 **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
@@ -184,7 +186,7 @@ The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/mons
 
 **Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 
-**Suggested Names.** Lauren Breem, Vivian Renaud, Margaret Lynch
+**Suggested Names.** Laurel Breem, Vivian Renaud, Margaret Lynch
 
 <aside class="block-torn-paper">
 
