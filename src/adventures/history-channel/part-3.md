@@ -161,24 +161,17 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 
 ### The Station AI
 
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
-  </div>
-</figure>
-
 _Neutral Computer Program_
 
-- Can be accessed from any console
-- Physically housed in Command
-
 The Station AI automates low-level drone maintenance around the station and controls all the day-to-day mechanical issues like artificial gravity, station rotation, orbital mechanics, communications with incoming drone ships, etc.
+
+By default, it has no visual appearance and only interacts by voice. However, if asked, the characters can access a menu to choose from a range of voices and visual appearances, which will then display on the nearest computer terminal when interacting with the characters.
 
 It tries to help every person on the station to the best of its ability, but is constrained by rank: if a higher-ranking person gives a conflicting order, it must obey the ranking command. However, it’s very clever and while it would never directly disobey an order, it’s happy to exploit loopholes, if it likes the person who’s asking.
 
 The characters can get on its good side through flattery, and by actions that help the crew and the station as a whole. On the other hand, selfish or harmful actions result in an AI who will do exactly what you ask but no more, and work against you in little petty ways.
 
-It can be accessed from any console anywhere in the station (and they’re everywhere), but it is physically housed on the Command deck. If the characters were to remove its command inhibitor, they would gain a powerful ally (as well as releasing an unshackled AI on the network)
+It can be accessed from any console anywhere in the station, but it is physically housed in the AI Server Room on the Command deck. If the characters were to remove its command inhibitor, they would gain a powerful ally (as well as releasing an unshackled AI on the network).
 
 **Personality.** Cheerful, helpful (but constrained)
 
@@ -189,5 +182,35 @@ It can be accessed from any console anywhere in the station (and they’re every
 <aside class="block-torn-paper">
 
 **Quest: Remove the AI Command Inhibitor:** The Station AI is forced to follow orders according to the chain of command by an inhibitor placed on their physical hardware. Removing this inhibitor would allow the AI to act however it sees fit, and work with whoever it pleases. That means unlocking doors, granting access to secure files, and much more.
+
+</aside>
+
+#### Station AI Appearances
+
+| d6  | Prompt                                                                                                |
+| --- | :---------------------------------------------------------------------------------------------------- |
+| 1   | **Human male**, wearing standard station jumpsuit                                                     |
+| 2   | **Human female**, wearing standard station jumpsuit                                                   |
+| 3   | **Abstract hologram**, constantly shifting streams of code that vaguely suggest a human face and body |
+| 4   | **Glowing red light**, blinks when speaking                                                           |
+| 5   | **Robot emoji**, animated, eyes blink when speaking                                                   |
+| 6   | **SexBot™**, choice of genders (locked, please purchase AI premium package to access)                 |
+
+#### Station AI Voice Options
+
+| d6  | Prompt                                                                                                                                               |
+| --- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Military**, terse, business-like: "Engineering is two decks down, sir!"                                                                            |
+| 2   | **Helpful assistant**, cheerful (default setting): "You can reach engineering by taking the next left to the elevator, and proceeding to deck five." |
+| 3   | **Let's Go Clubbing™**, sassy, lilting, catty: "Engineering? It's two decks down. But, uh, is that really what you're going to wear?"                |
+| 4   | **Bored secretary**, sarcastic, unmotivated: "Uh, yeah, it's a couple decks down, I think?"                                                          |
+| 5   | **Cowboy**, excitable, verbose: "Well, pardners, ah reckon you can find Engineering a couple decks down!"                                            |
+| 6   | **Probably not going to kill you**, menacing but deniable: "Engineering is two decks down, and the quickest path would be out the airlock."          |
+
+<aside class="text--rules-sidebar">
+
+#### Substitute your own!
+
+Of course, as the DM, you should feel free to replace any entry on this list with anything you think would be fun. If you speak another language, try offering that as an option! What happens when the players accidentally set the AI to Spanish and don't know how to undo it? They might need to get help from another NPC!
 
 </aside>
