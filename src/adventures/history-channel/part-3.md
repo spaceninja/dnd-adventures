@@ -94,24 +94,24 @@ On most decks, one door has been blocked off from the outside, so the passengers
 
 #### Elevator Exits
 
-| Deck | Destination               |
-| ---- | :------------------------ |
-| 1    | Arena (locked)            |
-| 2    | Security (locked)         |
-| 2    | Crew Quarters             |
-| 3    | Research (barricaded)     |
-| 3    | Medical (guarded)         |
-| 4    | Lobby                     |
-| 5    | Engineering (guarded)     |
-| 5    | Life Support (barricaded) |
-| 6    | Shuttle Bay               |
-| 6    | Cargo Bay (barricaded)    |
+| Deck | Destination                                                          |
+| ---- | :------------------------------------------------------------------- |
+| 1    | Arena (locked)                                                       |
+| 2    | Security (locked)                                                    |
+| 2    | Crew Quarters (open)                                                 |
+| 3    | Research (barricaded)                                                |
+| 3    | Medical (guarded by [**#TeamEthics Guards**](#%23teamethics-guards)) |
+| 4    | Lobby (open)                                                         |
+| 5    | Engineering (guarded by [**#OpsUnion Guards**](#%23opsunion-guards)) |
+| 5    | Life Support (barricaded)                                            |
+| 6    | Shuttle Bay (open)                                                   |
+| 6    | Cargo Bay (barricaded)                                               |
 
 ### Cargo Tunnel
 
 The Cargo Tunnel is a large zero-gravity shaft running the length of the station, large enough for shipping containers to be moved from the Cargo Bay to any deck on the station. The tunnel is well-lit, with caution stripes painted on any protruding surfaces and warning lights near every hatch and opening. It smells faintly of burned plastic and there are laser gun scorch marks scattered randomly across the walls.
 
-The Cargo Bay is contested territory, though open combat has settled into an uneasy stalemate. Each deck’s hatch is locked or barricaded and guarded by the faction that controls that deck. Anyone traversing the length of the tunnel will be challenged by the guards they pass, and it won’t take much to spark a firefight.
+The Cargo Bay is contested territory, though open combat has settled into an uneasy stalemate. Each deck’s hatch is locked or guarded by the faction that controls that deck. Anyone traversing the length of the tunnel will be challenged by the guards they pass, and it won’t take much to spark a firefight.
 
 There are maintenance hatches scattered the length of the tunnel, allowing #OpsUnion access to machinery and equipment that runs the station. These hatches are locked and access is restricted to #OpsUnion members.
 
@@ -119,14 +119,14 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 
 #### Cargo Tunnel Exits
 
-| Deck | Entrance               |
-| ---- | :--------------------- |
-| 1    | Arena (locked)         |
-| 2    | Security (guarded)     |
-| 3    | Research (guarded)     |
-| 4    | Command (locked)       |
-| 5    | Life Support (guarded) |
-| 6    | Cargo Bay              |
+| Deck | Entrance                                                                |
+| ---- | :---------------------------------------------------------------------- |
+| 1    | Arena (locked)                                                          |
+| 2    | Security (guarded by [**Security Guards**](../part-2/#security-guards)) |
+| 3    | Research (guarded [**#TeamEthics Guards**](#%23teamethics-guards))      |
+| 4    | Command (locked)                                                        |
+| 5    | Life Support (guarded by [**#OpsUnion Guards**](#%23opsunion-guards))   |
+| 6    | Cargo Bay (open)                                                        |
 
 ### Airlocks
 
@@ -138,7 +138,9 @@ There are empty Vacsuit storage lockers in every airlock, with a note reading �
 
 #### Vacsuits
 
-A Vacsuit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. While wearing a Vacsuit, a character has a reliable air supply, even in vacuum. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. The suit is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character's air supply. The character cannot access any gear in the Vacsuit, but it is covered in pockets and clips for attaching tools.
+A Vacsuit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. While wearing a Vacsuit, a character has a reliable air supply, even in vacuum. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. The suit is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character's air supply. The character cannot access any gear while wearing the Vacsuit, but it is covered in pockets and clips for attaching tools they might need.
+
+TODO add magic item
 
 #### Airlocks
 
@@ -155,7 +157,7 @@ A Vacsuit is a large, one-size-fits-all garment that slips on over whatever a ch
 
 Computer terminals are common and should be easy to access from any point in the station, with the exception of the Arena and Security. A terminal can be used to talk to the Station AI, as well as access network files, the internet, etc.
 
-If the characters try to access the internet for any reason, the Station AI should inform them that their access is restricted. The characters can only access some very basic wiki articles about the future, the Historia Kanalo megacorp, and most notably, themselves. (See the “[Researching Yourself]('../appendix-a')” minigame in Appendix A.)
+If the characters try to access the internet for any reason, the Station AI should inform them that their access is restricted. The characters only have access to wiki entries on the Historia Kanalo megacorp, the history of the station (see the [Adventure Background]('../introduction/#adventure-background')), and most notably, themselves. (See the “[Researching Yourself]('../appendix-a')” minigame in Appendix A.)
 
 Lifting the access restriction can only be accomplished by removing the AI command inhibitor (which it will helpfully suggest).
 
@@ -187,14 +189,14 @@ It can be accessed from any console anywhere in the station, but it is physicall
 
 #### Station AI Appearances
 
-| d6  | Prompt                                                                                                |
-| --- | :---------------------------------------------------------------------------------------------------- |
-| 1   | **Human male**, wearing standard station jumpsuit                                                     |
-| 2   | **Human female**, wearing standard station jumpsuit                                                   |
-| 3   | **Abstract hologram**, constantly shifting streams of code that vaguely suggest a human face and body |
-| 4   | **Glowing red light**, blinks when speaking                                                           |
-| 5   | **Robot emoji**, animated, eyes blink when speaking                                                   |
-| 6   | **SexBot™**, choice of genders (locked, please purchase AI premium package to access)                 |
+| d6  | Prompt                                                                                                                                                                                                         |
+| --- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Human male**, wearing standard station jumpsuit                                                                                                                                                              |
+| 2   | **Human female**, wearing standard station jumpsuit                                                                                                                                                            |
+| 3   | **Historia Kanalo Mascot**, 3D cartoon of an older man wearing a fedora and carrying a whip                                                                                                                    |
+| 4   | **Hologram**, constantly shifting streams of code that vaguely suggest a human face and body                                                                                                                   |
+| 5   | **Glowing red light**, blinks when speaking                                                                                                                                                                    |
+| 6   | **Xanathar**, An odd choice, but the AI can take the appearance of the legendary beholder crime lord. It’s probably not the actual Xanathar spying on you, I mean he must have been dead for centuries… right? |
 
 #### Station AI Voice Options
 
@@ -202,8 +204,8 @@ It can be accessed from any console anywhere in the station, but it is physicall
 | --- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Military**, terse, business-like: "Engineering is two decks down, sir!"                                                                            |
 | 2   | **Helpful assistant**, cheerful (default setting): "You can reach engineering by taking the next left to the elevator, and proceeding to deck five." |
-| 3   | **Let's Go Clubbing™**, sassy, lilting, catty: "Engineering? It's two decks down. But, uh, is that really what you're going to wear?"                |
-| 4   | **Bored secretary**, sarcastic, unmotivated: "Uh, yeah, it's a couple decks down, I think?"                                                          |
+| 3   | **Let’s Go Clubbing™**, sassy, lilting, catty: "Engineering? It’s two decks down. But, uh, is that really what you’re going to wear?"                |
+| 4   | **Bored secretary**, sarcastic, unmotivated: "Uh, yeah, it’s a couple decks down, I think?"                                                          |
 | 5   | **Cowboy**, excitable, verbose: "Well, pardners, ah reckon you can find Engineering a couple decks down!"                                            |
 | 6   | **Probably not going to kill you**, menacing but deniable: "Engineering is two decks down, and the quickest path would be out the airlock."          |
 
