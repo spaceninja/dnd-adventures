@@ -36,11 +36,13 @@ Deck 5 consists of two areas, Engineering and Life Support, both controlled by #
 
 _Controlled by #OpsUnion_
 
-> The outer wall of this large space is dominated by three huge pieces of identical machinery with glowing panels, clearly labeled as Reactors One, Two, and Three. In front of each is a collection of monitoring stations, staffed by frazzled-looking engineers. Despite your lack of knowledge, it seems like every meter and gauge you see is in the red. You get the sense that the whole system might come crashing down at any time.
+> This large space is dominated by three huge pieces of machinery, clearly labeled as Reactors One, Two, and Three. In front of each is a monitoring station, staffed by frazzled-looking engineers. Despite your lack of knowledge, it seems like every meter and gauge you see is in the red.
 >
-> As you observe, the Chief, a female dwarf carrying a huge wrench, with braided hair and beard, and greasy coveralls stands in the center of the room and hollers to get everyone’s attention:
+> Around the monitoring stations, engineers move with purpose, replacing parts, adjusting knobs, and tightening connections. You see one engineer strapped into some sort of mechanical exoskeleton carrying an incredibly heavy bit of machinery across the room.
 >
-> “Break’s over, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places. Let’s get to work!”
+> As you look around, the Chief, a female dwarf carrying a huge wrench, with braided hair and beard, and greasy coveralls stands in the center of the room and hollers to get everyone’s attention:
+>
+> “Keep it moving, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places.”
 
 Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly-marked cubbies. Caution stripes and flashing lights are omnipresent.
 
@@ -49,6 +51,14 @@ A pair of guards man a checkpoint near the elevator and to one side of the react
 ### Reactors
 
 The reactors are large, complex machines that the characters have no hope of understanding. Despite that, it should seem clear to them that things are not operating well at the moment. Everything about the reactors and the crew working on them should give the impression of a system stressed to its limits.
+
+### Exoskeleton
+
+If the characters somehow aquire the mechanical exoskeleton, it is a one-size-fits all mechanical framework of yellow metal pipes and tubes that fits over their armor. While a character is wearing it, their AC is increased by 1, their Strength score becomes 23, they gain advantage on any strength checks, their speed is reduced by 5 feet, and they gain disadvantage on any dexterity or stealth checks. The character can either use their hands as normal, or to control the oversized mechanical grabbers.
+
+The exoskeleton comes with a single [energy cell](TODO). A single charge provides an hour of operation. When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 foot by 6 inches, with a carrying handle. Expanding or collapsing the exoskeleton takes an action, and can only be done when it is not being worn. Entering or exiting the exoskeleton also takes an action.
+
+TODO: add magic item entry, detail attacks with mechanical grabbers
 
 ### Offices
 
