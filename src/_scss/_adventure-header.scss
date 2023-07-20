@@ -84,7 +84,9 @@
   border-radius: 50%;
   display: block;
   height: var(--size-xxxl);
-  transition: transform 0.2s, background-color 0.2s;
+  transition:
+    transform 0.2s,
+    background-color 0.2s;
   width: var(--size-xxxl);
 
   &:hover,

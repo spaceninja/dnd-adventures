@@ -204,7 +204,7 @@ It can be accessed from any console anywhere in the station, but it is physicall
 | --- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Military**, terse, business-like: "Engineering is two decks down, sir!"                                                                            |
 | 2   | **Helpful assistant**, cheerful (default setting): "You can reach engineering by taking the next left to the elevator, and proceeding to deck five." |
-| 3   | **Let’s Go Clubbing™**, sassy, lilting, catty: "Engineering? It’s two decks down. But, uh, is that really what you’re going to wear?"                |
+| 3   | **Let’s Go Clubbing™**, sassy, lilting, catty: "Engineering? It’s two decks down. But, uh, is that really what you’re going to wear?"               |
 | 4   | **Bored secretary**, sarcastic, unmotivated: "Uh, yeah, it’s a couple decks down, I think?"                                                          |
 | 5   | **Cowboy**, excitable, verbose: "Well, pardners, ah reckon you can find Engineering a couple decks down!"                                            |
 | 6   | **Probably not going to kill you**, menacing but deniable: "Engineering is two decks down, and the quickest path would be out the airlock."          |
