@@ -60,15 +60,15 @@ The [Elevator](../part-3/#elevator) is also unlocked, and the characters can use
 
 Every crew cabin is locked and inaccessible to the players. Some are clearly occupied, as the characters can hear voices inside. Knocking or ringing the bell gets no answer.
 
-If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew jumpsuits.
+If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew jumpsuits. Any crew members inside flee immediately.
 
 ### Bar
 
-> As you approach the bar, you see someone get thrown out. Two brawly bouncers physically hurl a crew member in a red uniform across the hall, where he slams into the wall and hits the ground with a thud. He stands up and starts to protest, explaining that he didn’t mean anything by it, but the bouncers just glare at him until he leaves. When you approach, the bouncers look you up and down, but allow you to pass unchallenged.
+> As you near the bar, you see two brawly bouncers physically hurl a crew member in a red uniform across the hall, where he slams into the wall and hits the ground with a thud. He stands up and starts to protest, explaining that he didn’t mean anything by it, but the bouncers just glare at him until he leaves. When you approach, the bouncers look you up and down, but allow you to pass unchallenged.
 >
 > The attitude changes completely when you enter the bar. The room is full of crew members from every faction, drinking and laughing and relaxing together. Lo-fi music plays from a jukebox in the corner. You see a couple making out in a booth, wearing uniforms from opposing factions. Most of the light comes from neon signs on the wall. A large hand-written poster with the rules is hung near the bar, and a smaller sign reading “Help Wanted” is taped below that.
 >
-> Standing behind the bar, polishing a glass, is the bartender, a handsome human man with twinkling eyes, dark skin, and a silk shirt. He sees you looking around and smiles, gesturing for you to approach the bar.
+> Standing behind the bar, polishing a glass, is the bartender, a handsome human man with twinkling eyes, dark skin, and a silk shirt. He sees you enter and smiles, gesturing for you to come closer.
 
 <aside class="block-torn-paper">
 
@@ -81,9 +81,9 @@ If the characters somehow force access, they find unremarkable housing units wit
 
 </aside>
 
-The Bar is a large space with booths around three walls, tables in the center, and a long bar with stools along the back wall. There's a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
+The Bar is a large space with booths around three walls, tables in the center, and a long bartop with stools along the back wall. There's a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
 
-If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will lock himself in the back room.
+If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a laser rifle from below the bar and start shooting.
 
 ### The Bartender
 
@@ -97,7 +97,7 @@ _Neutral Good Human Rogue_
 
 There may be open combat just outside, but the Bartender strictly enforces the Bar as neutral territory. As a result, he has become a political liaison, gossipmonger, mediator, and go-between. Everyone implicitly understands the value of this role, so no one abuses it (and if anyone tries, the other patrons generally sort it out quickly by removing the offender and making it clear they’re not welcome any longer).
 
-The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all sides can bring items to the bar to barter with, ensuring that he is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
+The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all factions can bring items to the bar to barter with, ensuring that he is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
 
 The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/monsters/17340-swashbuckler).
 
@@ -111,7 +111,7 @@ The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/
 
 **Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the #OpsUnion, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
-If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including some modern weaponry that will help even the odds. He offers one [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on stun, deals nonlethal damage only) now, and the chance to buy more later.
+If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including modern weaponry. He offers one [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on stun, deals nonlethal damage only) now, and the chance to buy more when you bring back the supplies.
 
 </aside>
 

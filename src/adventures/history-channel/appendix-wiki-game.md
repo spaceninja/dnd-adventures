@@ -1,15 +1,15 @@
 ---
 layout: layout.njk
-title: 'Appendix A: Researching Yourself Minigame'
+title: 'Appendix C: Researching Yourself Minigame'
 tags: history_channel
-date: 0000-04-01
+date: 0000-04-03
 show_nav: true
 prev:
-  url: '../deck-6'
-  title: 'Deck 6: Flight Deck'
+  url: '../appendix-magic-items'
+  title: 'Appendix B: Magic Items'
 next:
-  url: '../appendix-b'
-  title: 'Appendix B: Player Handouts'
+  url: '../appendix-handouts'
+  title: 'Appendix D: Player Handouts'
 ---
 
 # {{ title }}

@@ -8,8 +8,8 @@ prev:
   url: '../deck-5'
   title: 'Deck 5: Engineering'
 next:
-  url: '../appendix-a'
-  title: 'Appendix A: Researching Yourself Minigame'
+  url: '../appendix-npcs'
+  title: 'Appendix A: NPC Statistics'
 ---
 
 # {{ title }}

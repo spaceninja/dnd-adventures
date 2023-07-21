@@ -1,14 +1,14 @@
 ---
 layout: layout.njk
-title: 'Appendix B: Player Handouts'
+title: 'Appendix D: Player Handouts'
 tags: history_channel
-date: 0000-04-02
+date: 0000-04-04
 show_nav: true
 prev:
-  url: '../appendix-a'
-  title: 'Appendix A: Researching Yourself Minigame'
+  url: '../appendix-wiki-game'
+  title: 'Appendix C: Researching Yourself Minigame'
 next:
-  url: '../credits'
+  url: '../appendix-credits'
   title: 'Credits'
 ---
 

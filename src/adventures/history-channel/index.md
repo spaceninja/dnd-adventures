@@ -60,11 +60,13 @@ Can you escape the future before it kills you?
   - [Cargo Bay](./deck-6/#cargo-bay)
   - [Shuttle Bay](./deck-6/#shuttle-bay)
 
-### [Appendices](./appendix-a)
+### [Appendices](./appendix-npcs)
 
-- [Appendix A: Researching Yourself Minigame](./appendix-a)
-- [Appendix B: Player Handouts](./appendix-b)
-- [Credits](./credits)
+- [Appendix A: NPC Statistics](./appendix-npcs)
+- [Appendix B: Magic Items](./appendix-magic-items)
+- [Appendix C: Researching Yourself Minigame](./appendix-wiki-game)
+- [Appendix D: Player Handouts](./appendix-handouts)
+- [Credits](./appendix-credits)
 
 </div>
 
