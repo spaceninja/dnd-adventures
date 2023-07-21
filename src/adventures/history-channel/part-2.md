@@ -46,6 +46,8 @@ Whenever a character is killed, they awaken in the Clone Room, falling out of a 
 
 ### Brig
 
+> TODO: add description
+
 About half the space in Security is taken up by the Brig: four large prison cells used to hold the groups of "contestants" after each night's broadcast.
 
 The cells are large rooms with a plain metal floor, walls and ceiling. Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The walls are covered with graffiti, mostly rude comments about the Security Chief. There is dried blood on the floor that no one has bothered to clean.
@@ -125,6 +127,8 @@ After spending the day recovering in security (allow the characters to take a lo
       />
   </a>
 </figure>
+
+> TODO: add description
 
 The Broadcast should start the same as last time, with a bombastic intro by the Director, who references what happened last time and promises an even more exciting time tonight! Then the alert sounds, and the bars of the holding pen retract into the ground once more.
 
