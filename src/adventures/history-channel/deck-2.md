@@ -62,6 +62,14 @@ Every crew cabin is locked and inaccessible to the players. Some are clearly occ
 
 If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew jumpsuits. Any crew members inside flee immediately.
 
+<aside class="text--rules-sidebar">
+
+#### The Bar is a good first stop
+
+Once the characters escape the arena, do your best to steer them toward [the Bar](../deck-2/#bar), where [the Bartender](../deck-2/#the-bartender) can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
+
+</aside>
+
 ### Bar
 
 > As you near the bar, you see two brawly bouncers physically hurl a crew member in a red uniform across the hall, where he slams into the wall and hits the ground with a thud. He stands up and starts to protest, explaining that he didn’t mean anything by it, but the bouncers just glare at him until he leaves. When you approach, the bouncers look you up and down, but allow you to pass unchallenged.
@@ -119,15 +127,13 @@ If you bring back the supplies, the Bartender will grant you access to his “sp
 
 The Bar has a back room, mostly filled with crates of bottles, bar supplies, and assorted items the Bartender has taken in trade. There are weapons, armor, medical supplies, any much more. If the Bartender agrees to trade with the characters, he will bring them back here.
 
+If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering, because the Bartender will not accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
+
 <aside class="text--rules-sidebar">
 
-**What Does the Bartender Sell?**
+#### Modern Weaponry
 
-This should really be at the discretion of the DM. Giving the players access to modern weaponry and gear can help them feel more powerful. On the other hand, it may cause problems if the characters return to the past with modern gear. You could find an excuse to remove modern gear before they return home, or let them take it, but with a limited number of charges, and no way to reload.
-
-If the players have completed the job, a good suggestion is to allow each character to choose one item from the table for free. Anything else would require bartering. Remember the Bartender will not accept any form of currency. He will barter for useful items (and consider that anything the characters might be carrying may not be particularly valuable to people in the future). Some items the players could acquire that the Bartender would value include Vac Suits, medical supplies, and modern weaponry.
-
-The following table is just a suggestion. Feel free to add or remove items as you see fit.
+Giving the players access to modern weaponry and gear can help them feel more powerful. On the other hand, it may cause problems if the characters return to the past with modern gear. You could find an excuse to remove modern gear before they return home, or let them take it, but with a limited number of charges, and no way to reload.
 
 </aside>
 
@@ -136,5 +142,8 @@ The following table is just a suggestion. Feel free to add or remove items as yo
 | Security Armor                                                         | equivalent to half plate armor, but resistant to radiant damage, and vulnerable to piercing or slashing damage                                                        | 6     |
 | [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) | comes with a single fully charged energy cell (50 shots)                                                                                                              | 5     |
 | [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle)   | comes with a single fully charged energy cell (30 shots)                                                                                                              | 1     |
+| Pulse Grenade                                                          | equivalent to a [**_fragmentation grenade_**](https://www.dndbeyond.com/equipment/grenade-fragmentation), but deals radiant damage.                                   | 3     |
 | Healing Pack                                                           | equivalent to a [**_Potion of Greater Healing_**](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater)                                               | 3     |
 | Uniforms                                                               | Jumpsuits in the proper color schemes for any faction (does not count as a disguise by itself, but could be part of one, or help with stealth checks to go unnoticed) | 20    |
+
+TODO: add to magic items page

@@ -46,12 +46,20 @@ This encounter starts in the heat of battle. The shock leaves the characters ove
 
 Let the players fight as hard as they like, but the deck is stacked overwhelmingly against them, and the other contestants are fighting to the death. Most likely, the players will eventually be overwhelmed and fall in combat, in which case you should proceed to Part 2 and have the characters wake up in the clone tanks.
 
-If some or all of the characters somehow manage to survive, have a squad of security guards enter the arena and use their laser pistols to stun the remaining characters. Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
+If some or all of the characters somehow manage to survive, after an hour the broadcast ends, and a thick gas is released into the Arena rendering everyon unconsious. (If any characters are immune to poison, have a squad of security guards enter the arena and use their laser pistols to stun any characters left standing.) Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
 
 ## Description of the Area
 
 ## Arena Contestants
 
-The Arena is filled with “contestants,” who have survived for some time in the Arena and see the characters as fresh meat. They use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator), and fight in packs of three to five.
+The Arena is filled with “contestants,” who have survived for some time in the Arena and see the characters as fresh meat. They use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator), and fight in six packs of five contestants each.
 
 Despite using the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They appear to have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
+
+Each round during combat, add a new pack of five contestants to the encounter, all fighting the characters.
+
+### DM Tips
+
+**They can’t win.** Allow the characters to fight, but pull no punches. Let them die, and send them to the cloning vats once or twice to drive home how bad their situation is. It should be clear that continuing to fight is a losing proposition.
+
+**The Director taunts them.** [The Director](../deck-4/#the-director)’s running commentary and the audience’s reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.

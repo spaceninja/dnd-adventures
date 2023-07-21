@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-The characters awaken in a holding cell (or a clone tank if they died), before they are returned to the arena for another round of combat. This repeats until the characters meet the Strategist, who shows them how to escape.
+The characters awaken in a holding cell (or a clone tank if they died), before they are returned to the Arena for another round of combat. This repeats until the characters meet the Strategist, who shows them how to escape.
 
 <figure>
   <a href="/images/history-channel/deck-02-fogged-labels@2490.webp">
@@ -36,15 +36,9 @@ The characters awaken in a holding cell (or a clone tank if they died), before t
 
 _Controlled by #TeamRatings_
 
-- Exits:
-  - Tunnel to Arena (guarded)
-  - Hatch to Quarters (guarded)
-  - Cargo Tunnel (guarded)
-  - Elevator (locked)
+Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the control room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
 
-TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
-
-Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the control room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep, as well as a set of interrogation rooms, holding cells, and offices. All exits from Security are well-guarded and the corridors are patrolled.
+There are four exits from Security, all guarded. The elevator door is locked and will only open for people with #TeamRatings permissions. The hatch to the Cargo Tunnel and the door to Habitation are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
 ### Clone Room
 
@@ -52,9 +46,17 @@ Whenever a character is killed, they awaken in the Clone Room, falling out of a 
 
 ### Brig
 
-The brig is a large room with a plain metal floor, walls and ceiling with harsh light panels recessed into the ceiling. There are a set of benches affixed to the walls and a single toilet. The walls are covered with graffiti (perception 20: symbol of Bane), mostly rude comments about the Security Chief. There is dried blood on the floor that no one has bothered to clean.
+About half the space in Security is taken up by the Brig: four large prison cells used to hold the groups of "contestants" after each night's broadcast.
 
-Security Guards will mostly ignore characters in the Brig, but every evening they will come through and collect the prisoners and march them down the corridor, where they will be shoved unceremoniously back into the Arena, in time for that night’s broadcast.
+The cells are large rooms with a plain metal floor, walls and ceiling. Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The walls are covered with graffiti, mostly rude comments about the Security Chief. There is dried blood on the floor that no one has bothered to clean.
+
+The cell across from the clone tanks, where the characters find themselves, has a crude hand-lettered sign on the door reading "VIP Room." The Security Guards think this is hilarious.
+
+While the characters are in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her.
+
+Security Guards will mostly ignore characters in the Brig. They'll bring by food once a day, but make a point of spitting in it before slipping it through a slot in the door.
+
+Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding cells in the Arena, in time for that night’s broadcast.
 
 #### Secret Hatch
 
@@ -62,19 +64,15 @@ There is a secret hatch under one of the benches. It has been hidden brilliantly
 
 ### Surveillance Room
 
-TODO
+This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from camera drones in contested territory, or even from body cams of Security Guards on patrol. Any character succeeding on a DC 12 Perception check will notice there are no camera feeds from Deck 3 or 5.
+
+The Security Chief spends most of her time in this room, coordinating Security Guard patrols and monitoring the status of the station.
 
 ### Baracks
 
-TODO
+This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty Security Guards are in this room, sleeping, eating, or watching videos.
 
-### Security Guards
-
-Security Guards wear anonymous riot cop-style gear, with face masks and helmets. While on-duty, they will be armed with (mostly) non-lethal weapons like stun batons and riot shields and will fight to subdue. However, if the characters resist too much or have gotten on the bad side of Security, they will escalate from cracking heads to shooting to kill.
-
-Squads of Security Guards will be sent hunt the characters down if they’re loose in the station, and these squads should always show up at the most opportune moments to create the most chaos or disrupt the characters’ plans. However, they are not being paid enough to die, and if they sense the fight is going badly, they will retreat as a group, covering each other’s exits, so they can attack again in the future.
-
-Security Guards use the stats for [**Veterans**](https://www.dndbeyond.com/monsters/veteran), are armed with [**_Laser Pistols_**](https://www.dndbeyond.com/equipment/laser-pistol), and wear Security Armor, which is equivalent to half plate armor, but resistant to radiant damage and vulnerable to piercing or slashing damage since it's designed to resist modern weaponry. Their weapons are biometrically locked, and will deliver a nasty shock to anyone else who tries to use them (which keeps the players from too easily acquiring powerful weaponry).
+Racks of Security Armor, Laser Pisols, and Laser Rifles are kept by the door. At any given time, there are 6D6 sets of Security Armor, 4D6 Laser Pistols, and 2D6 Laser Rifles.
 
 ### The Security Chief
 
@@ -90,9 +88,9 @@ The Security Chief is delighted with how things have turned out. She was never r
 
 She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
-The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace the fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
+The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace her fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
 
-TODO: if defeated, effect on security forces
+If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. When in combat, any time a Security Guard is defeated, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
 
 **Personality.** Sarcastic, threatening, sadistic
 
@@ -102,13 +100,15 @@ TODO: if defeated, effect on security forces
 
 <aside class="block-torn-paper">
 
-**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
+**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. She's already hacked the cloning computer to scramble the Champion's data, so the cloning process will fail, and she'll die permanently.
+
+In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
 
 </aside>
 
 ## Return to the Arena
 
-TODO intro
+After spending the day recovering in security (allow the characters to take a long rest), they are escorted back to the Arena and placed in the same holding pen as last time.
 
 <figure>
   <a href="/images/history-channel/deck-01-labels@2490.webp">
@@ -126,13 +126,29 @@ TODO intro
   </a>
 </figure>
 
-### Airlock, Elevator, and Cargo Tunnel Entrance
+The Broadcast should start the same as last time, with a bombastic intro by the Director, who references what happened last time and promises an even more exciting time tonight! Then the alert sounds, and the bars of the holding pen retract into the ground once more.
 
-TODO
+However, this time the other groups of combatants do not immediately gang up on the characters. Skirmishes break out, and groups fight with each other, but the characters should have enough time to observe the area and spot [the Champion](../part-2/#the-champion), effortlessly holding her own in battle. She fights with a small crew of others, who seem to be protecting a small woman who’s not fighting. This is [the Strategist](../part-2/#the-strategist), who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
+
+The Champion notices the characters, and waves for them to approach, all while swinging a massive longsword against another group of fighters.
+
+If the characters don’t approach, have the Champion split off from her group to come closer and say [the Strategist](../part-2/#the-strategist) wants to speak to them.
+
+If the characters still don't want to meet her, let them do what they want (though other actions should bring them into combat with another squad of fighters). If the second day ends without the meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
+
+### Features of the Area
+
+The Arena is a large open space with a domed glass ceiling stretching high overhead revealing a view of a crowded sea of stars and the surface of the planet. The room has a dirt floor, but it's uneven, with small hills and valleys, even a few dead trees.
+
+A DC 12 Perception check reveals that this space used to be some sort of park. There are still indications of it in the stone walls bordering what used to be a pond, or a small wooden bridge that has been uprooted for use as a barricade.
+
+### Airlock, Elevator, and Cargo Tunnel Entrances
+
+The Arena has been secured to prevent the "contestants" from escaping. The hatch to the Airlock has been welded shut. The only evidence that the Elevator and Cargo Tunnel used to open on this deck is two circular depressions in the dirt floor in the middle of the Arena. If the characters were to dig down, they would find those hatches have also been welded shut.
 
 ### Stairs to Security
 
-TODO
+The only remaining exit from the Arena is the stairwell down to Security. It is heavily guarded at all times by a squad of six Security Guards with laser rifles set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the stairs will only result in being knocked unconscious, and waking up in the Brig.
 
 ### The Champion
 
@@ -158,9 +174,7 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 <aside class="block-torn-paper">
 
-**Quest: Kill the Security Chief:** The Champion asks that you kill the Security Chief if you get the opportunity, to end her sadistic treatment of her prisoners.
-
-If you do, she will reward you with her favorite weapon. (More importantly, it will reduce the effectiveness of all remaining security forces.)
+**Quest: Kill the Security Chief:** The Champion asks that you kill the Security Chief if you get the opportunity, to end her sadistic treatment of her prisoners. If you do, she will reward you with her favorite weapon.
 
 </aside>
 
@@ -176,9 +190,11 @@ _Neutral Human Ranger_
 
 The Strategist was a war criminal who was expected to be killed quickly in the season she was brought aboard. However, Security didn’t watch her quite carefully enough, and she escaped into the station. She was eventually recaptured, but became a fan favorite when she started posting videos documenting what was happening on the station, which the Director happily allowed as the ratings climbed.
 
-She claims to have a plan to stop what’s happening, but she is extremely difficult to communicate with. Mostly the Champion and her crew protect her as she pokes around various parts of the Arena, looking for weaknesses.
+She claims to have a plan to stop what’s happening, but she is easily distracted and difficult to communicate with. The Champion believes in the plan, and she and her crew protect the Strategist as she pokes around various parts of the Arena, looking for weaknesses.
 
-Secretly, she believes (based on some notes she stole from the Mad Scientist) that if they can blow up the station, it will destabilize the portal and “reset” everyone to their proper place in the timestream.
+She believes (based on some notes she stole from the Mad Scientist) that if they can blow up the station, it will destabilize the portal and “reset” everyone to their proper place in the timestream.
+
+She offers to tell the characters how to escape the Brig and access the rest of the Station, if they agree to consider her plan. If the players seem resistant, she will still help as long as the players promise to look for some means of sending all the prisoners home (though she doesn't believe there is any other way to do so). If the players agree, she tells them about the secret hatch in the Brig, and gives them printed maps of each deck of the station with her handwritten notes. (See [Appendix D: Handouts](../appendix-handouts).)
 
 The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
 
@@ -190,8 +206,6 @@ The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/mons
 
 <aside class="block-torn-paper">
 
-**Quest: Destroy the Station:** The Strategist lets you in on her plan: Based on some Mad Scientist notes she saw when she was loose in the station, she believes that causing the station to explode will send a ripple through space-time, effectively “resetting” all time travellers to their home time.
-
-If you agree to help, she will tell you her secret route out of Security to access the rest of the station.
+**Quest: Destroy the Station:** The Strategist lets you in on her plan: She believes that causing the station to explode will send a ripple through space-time, effectively “resetting” all time travellers to their home time. If you agree to help, she will tell you her secret route out of Security to access the rest of the station.
 
 </aside>

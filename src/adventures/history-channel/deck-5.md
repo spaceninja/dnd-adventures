@@ -52,14 +52,6 @@ A pair of guards man a checkpoint near the elevator and to one side of the react
 
 The reactors are large, complex machines that the characters have no hope of understanding. Despite that, it should seem clear to them that things are not operating well at the moment. Everything about the reactors and the crew working on them should give the impression of a system stressed to its limits.
 
-### Exoskeleton
-
-If the characters somehow aquire the mechanical exoskeleton, it is a one-size-fits all mechanical framework of yellow metal pipes and tubes that fits over their armor. While a character is wearing it, their AC is increased by 1, their Strength score becomes 23, they gain advantage on any strength checks, their speed is reduced by 5 feet, and they gain disadvantage on any dexterity or stealth checks. The character can either use their hands as normal, or to control the oversized mechanical grabbers.
-
-The exoskeleton comes with a single [energy cell](TODO). A single charge provides an hour of operation. When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 foot by 6 inches, with a carrying handle. Expanding or collapsing the exoskeleton takes an action, and can only be done when it is not being worn. Entering or exiting the exoskeleton also takes an action.
-
-TODO: add magic item entry, detail attacks with mechanical grabbers
-
 ### Offices
 
 Running along the inner hull is a series of offices. These all look like auto mechanic shop offices, with half-height windows granting a clear view of the surrounding area. Most seem to be crowded with clutter, spare parts, and printed diagrams that you can’t make sense of.

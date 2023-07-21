@@ -72,6 +72,18 @@ The Operations Union has full control of Engineering & Life Support on Deck 5 as
 
 #OpsUnion members wear high-visibility orange jumpsuits.
 
+<aside class="text--rules-sidebar">
+
+#### Encourage exploration
+
+The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other.
+
+- The characters can freely move through contested territory, though they may be caught in a firefight or attacked by [**Security Guards**](../part-2/#security-guards).
+- Guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored.
+- Entry to areas to controlled by #TeamRatings is more challenging since they’d be arrested on sight.
+
+</aside>
+
 ### Controlled Areas
 
 Access to an area controlled by a faction depends on how they view the characters.
@@ -90,7 +102,11 @@ Some areas of the station, such as the Promenade on Deck 4 or the Shuttle Bay on
 
 #### Camera Drones
 
-Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1D6 Camera Drones following them. The Director can see anything the Drones see. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and will not move between decks.
+Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1D6 Camera Drones following them. Anything the drones can see will likely be included in the broadcast, and NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and will not move between decks.
+
+#### Security Guards.
+
+Any time the characters are in contested territory, consider throwing a random encounter with [**Security Guards**](../part-2/#security-guards) their direction. Unless they’re actively working with #TeamRatings, Security is probably hunting for them.
 
 ### The Elevator
 
