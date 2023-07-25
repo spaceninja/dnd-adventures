@@ -100,13 +100,11 @@ Due to the ongoing conflict, any space on the station controlled by a single fac
 
 Some areas of the station, such as the Promenade on Deck 4 or the Shuttle Bay on Deck 6, are not under control of a single faction. Often there are active skirmishes between groups trying to prevent each other from seizing control. Moving through these areas can be dangerous, and the characters are likely to be caught in the crossfire or even actively come under attack.
 
-#### Camera Drones
+#### Surveillance
 
 Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1D6 Camera Drones following them. Anything the drones can see will likely be included in the broadcast, and NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and will not move between decks.
 
-#### Security Guards.
-
-Any time the characters are in contested territory, consider throwing a random encounter with [**Security Guards**](../part-2/#security-guards) their direction. Unless they’re actively working with #TeamRatings, Security is probably hunting for them.
+Within a few minutes of being spotted by Camera Drones, a squad of [**Security Guards**](../part-2/#security-guards) should arrive in the area and attempt to capture them.
 
 ### The Elevator
 

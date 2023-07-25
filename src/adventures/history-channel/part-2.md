@@ -46,17 +46,17 @@ Whenever a character is killed, they awaken in the Clone Room, falling out of a 
 
 ### Brig
 
-> TODO: add description
+> You awaken to find yourself in a harshly lit prison cell. The bare metal walls are covered in graffitti. There is dried blood on the floor. A handwritten sign reading "VIP Suite" is taped to the bars of the door. It faces a hallway of a style you've never seen before.
+>
+> Across from your cell is a smooth door with no handle, labeled "Clone Room". As you watch, it retracts into the wall, and a burly guard wearing heavy black armor drags an unconcious person covered in pink goo down the hall, and throws them into another cell. You recognize some of the prisoners in that cell as the people who attacked you in the Arena. They jeer and catcall when they see you looking.
+>
+> A guard approaches, carrying a tray of unappetizing food. "I see our new contestants are awake. I'm sure you worked up an appetite out there, so I brought your meal." He sneers as he spits in the food and slides it through a slot in the bars. "Nothing but the best for our VIP guests!" He laughs as he walks away, disappearing around the bend in the hall.
 
 About half the space in Security is taken up by the Brig: four large prison cells used to hold the groups of "contestants" after each night's broadcast.
 
-The cells are large rooms with a plain metal floor, walls and ceiling. Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The walls are covered with graffiti, mostly rude comments about the Security Chief. There is dried blood on the floor that no one has bothered to clean.
-
-The cell across from the clone tanks, where the characters find themselves, has a crude hand-lettered sign on the door reading "VIP Room." The Security Guards think this is hilarious.
+Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The graffiti on the walls is mostly rude comments about the Security Chief.
 
 While the characters are in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her.
-
-Security Guards will mostly ignore characters in the Brig. They'll bring by food once a day, but make a point of spitting in it before slipping it through a slot in the door.
 
 Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding cells in the Arena, in time for that night’s broadcast.
 

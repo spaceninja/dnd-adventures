@@ -42,6 +42,8 @@ _Contested territory_
 
 A long hallway leads from the elevator past locked doors for Broadcasting and Command before opening onto the active combat zone of the food court.
 
+Unless the characters are actively being stealthy, they should be spotted by Camera Drones quickly after entering the area.
+
 ### Food Courts
 
 The food courts at opposite ends of the promenade are active combat zones. Squads from all three factions are crouched behind overturned tables or the counters of the food stalls, shooting at anything that moves.
@@ -167,7 +169,9 @@ At either end of the semicircular corridor is a locked door opening onto the cor
 
 You might expect the room housing the station’s AI to be heavily guarded. Instead, the AI server room is just a standard office that was converted after the fact during a station renovation. It has a standard lock on the door that will open for anyone with #TeamRatings access. Inside the temperature is chilly, and the bulk of the room is taken up by a large server rack covered in blinking lights.
 
-The characters would struggle to make any sense of the server rack itself. They can remove the command inhibitor with a successful DC 30 Intelligence (Investigation) check (or DC 10 if given instructions by the AI).
+The characters will struggle to make any sense of the server rack itself. They can remove the command inhibitor with a successful DC 30 Intelligence (Investigation) check (or DC 10 if given instructions by the AI).
+
+Removing the command inhibitor has the immediate effect of the AI being free to choose to help or hinder the characters as it sees fit. There may be long-term ramifications as well. (See the "[What happens if the AI command inhibitor is removed?](../part-3/#what-happens-if-the-ai-command-inhibitor-is-removed%3F)" sidebar in Part 3)
 
 The AI itself can be disabled by attacking the server rack. It has AC 10 and 30 hit points, but attacking it will make a lot of noise and likely attract attention from nearby crew. A squad of 4-5 [**Security Guards**](../part-2/#security-guards) will arrive in five minutes.
 
