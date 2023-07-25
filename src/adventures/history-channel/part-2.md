@@ -56,9 +56,11 @@ About half the space in Security is taken up by the Brig: four large prison cell
 
 Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The graffiti on the walls is mostly rude comments about the Security Chief.
 
-While the characters are in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her.
+When the characters wake up, grant them the effects of a long rest. Then while they're in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her.
 
 Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding cells in the Arena, in time for that night’s broadcast.
+
+It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding cell in the Arena.
 
 #### Secret Hatch
 
