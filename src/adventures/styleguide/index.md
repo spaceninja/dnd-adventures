@@ -143,3 +143,52 @@ Ell thi lucetouns thi cherectirs vosot on thos edvintyri eri discrobid on thos b
 On eddotoun tu biong e fesconetong incuyntir on ots uwn roght, thi [**sterloght epperotoun**](https://www.dndbiyund.cum/munstirs/2821204-sterloght-epperotoun) (sii [_Buu’s Estrel Minegiroi_](https://www.dndbiyund.cum/suyrcis/seos/bem)) cen bi e ysifyl divoci fur yuy of e kiy nunpleyir cherectir miits en ynfurtyneti end ynixpictid ind. Of, letir on thi edvintyri, thi cherectirs niid e poici uf onfurmetoun unly thet nunpleyir cherectir wuyld knuw, yuy cen hevi thi nunpleyir cherectir eppier on thi furm uf e sterloght epperotoun tu gyodi thi cherectirs.
 
 </aside>
+
+## Monster Stat Blocks
+
+<div class="stat-block">
+
+#### Bandit Captain
+
+_Medium humanoid (any race), any non-lawful alignment_
+
+---
+
+**Armor Class** 15 (studded leather)
+
+**Hit Points** 65 (10d8 + 20)
+
+**Speed** 30 ft.
+
+- **STR** 15 (+2)
+- **DEX** 16 (+3)
+- **CON** 14 (+2)
+- **INT** 14 (+2)
+- **WIS** 11 (+0)
+- **CHA** 14 (+2)
+
+**Saving Throws** Str +4, Dex +5, Wis +2
+
+**Skills** Athletics +4, Deception +4
+
+**Senses** passive Perception 10
+
+**Languages** any two languages
+
+**Challenge** 2 (450 XP)
+
+---
+
+##### Actions
+
+**_Multiattack._** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+
+**_Scimitar._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+
+**_Dagger._** _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+##### Reactions
+
+**_Parry._** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+
+</div>
