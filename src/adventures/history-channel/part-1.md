@@ -18,27 +18,33 @@ The characters find themselves in a confusing new reality and are immediately ca
 
 ## Into the Fray
 
-When everyone is ready to begin, roll for initiative. Then read or paraphrase the following aloud:
+When everyone is ready to begin, read or paraphrase the following aloud, then have everyone roll for initiative.
 
-> You awaken on one side of a large open space. You sit up, wiping a layer of gritty sand and dirt from your hair. The air smells of sweat and blood. There are a number of hazards scattered around, like large logs bristling with spikes. The arena is filled with perhaps three dozen combatants, fighting alone or in small groups. Shouts, grunts, battle cries, and cursing fill the air. Fuck. You don’t remember it happening, but you must have been abducted and sold to a gladiator arena.
+> You wake up on sandy ground with your head pounding. Wiping grit from your face, you take in your surroundings. The bright light hurts your eyes. The air is hot, and smells of sweat and blood. You and your group are in a circular holding pen formed by metal bars protruding from the earth.
 >
-> After a moment, however, you realize that where you would expect to see open sky, you can see a metal and glass dome overhead, offering a view of stars and a planet. Between this sight and the fact that gravity doesn’t feel quite right, you are sure this is no sorcerer’s trick. Your first thought is that you have died and entered the realm of the gods, and are being forced to fight for their pleasure.
+> The area outside your cage looks like a battlefield. The uneven ground is broken up by small hills and the occasional dead tree or muddy pond. You can see several other holding pens, all filled with angry warriors. When they see you looking, they begin shouting threats and taunting you. Although you don't remember it happening, you can't escape the grim realization that you've been abducted and sold to a gladiator arena.
 >
-> But there are little hints that make you think this isn’t any sort of afterlife. Everything feels and smells too real for that. Plus, as you dodge an arrow flying your way, you notice it looks like this place wasn’t always a gladiator arena. If you didn’t know better, you’d guess it was a public park. There’s a small pond over there with a decorative bridge over it. The water is muddy and bloody now, but you can imagine it clean.
+> High overhead, a colossal glass dome covers the entire arena. Through it, you see the night sky, crowded with stars, but something is wrong with the moon. It's much larger and brighter than usual, and the wrong color. It takes you a moment to realize those streaks of white are clouds, swirling over blue oceans and green land. Your head swims as your perspective adjusts. You're not looking _up_ at the moon, you're looking _down_ at the planet.
 >
-> Over on the far wall, there’s what looks like a doorway that has been sealed shut, and the sign mounted above it has been hastily painted over, but the paint is flaking off enough to make out that it said “Cargo Tunnel.” Now that you look around, you spot similar doors around the space. The one marked “Elevator” is closed and has a glowing red lock symbol on the wall near it. The one marked “Airlock” has been sealed shut with metal bars welded across. The only open door is the one marked “Security,” which is guarded a group of men, though you don’t recognize the type of armor they wear.
+> A large black panel suspended from the dome crackles to life, revealing the leering face of a halfling. His hair is slicked back, and his smile is almost painfully broad.
 >
-> There’s a loud squealing noise that fills the space, causing all fighting to halt, and everyone to wince. All eyes turn in your direction, though it takes you a moment to realize they are not looking at you, but at a large sign behind you. Turning to look, you see the sign is covered with moving words and pictures, and divided into several sections. On the left side of the sign is a constantly scrolling wall of text. It’s written in Common, but you can’t understand the most of the words. Perhaps some form of guild language or dialect? The only thing that makes sense is that the text is regularly interspersed with small pictograms of smiling or cheering faces. You get the impression that many hundreds of people are all somehow putting their thoughts on the sign.
+> “Ladies and gentlemen of the audience, I’m so glad you’ve chosen to join us this evening! It’s a very special night here on Historia Kanalo Arena Combat. Now, we’ve had some real bad hombres in here before. You know them, you hate them, you love watching them fight and die. But joining us tonight? Ooooh, I get shivers just thinking about them. Joining our broadcast with an exclusive contract — you won’t see them anywhere else! — are the most notorious criminals of all time!”
 >
-> The rest of the sign is divided into a grid, showing moving images from various places around the arena. Looking back and forth, you suddenly realize that the images you see are being captured by a group of what you first assumed were birds, but can now see are some sort of automaton, each with one large eye in the middle of their head. They swoop around the arena, following particular fighters. You realize there are several pointed directly at you.
+> The halfling's triumphant face is replaced with a view of you and your group. The angle makes it clear it's being captured by something you assumed was a bird, but can now see is some sort of automaton, with one large eye in the middle of its head. There are dozens of them swooping around the arena, watching everything.
 >
-> One image in the grid does not show the arena, however. It shows the looming face of a male halfling wearing some sort of ornate uniform made from the most gaudy colors you’ve ever seen. His hair is slicked back, and his smile is almost painfully broad. As he speaks, the last lingering bits of combat die down.
+> "It's their first night here, so I hope our other contestants will help make it memorable. Now, with no further ado, let's COMMENCE! THE! CARNAGE!"
 >
-> “Ladies and Gentlemen, I’m so glad you’ve chosen to join us this evening! It’s a very special night here on Historia Kanalo Arena Combat. Now, we’ve had some real bad hombres in here before. You know them, you love them, you love to watch them get killed. But joining us tonight? Ooooh, I get shivers just thinking about them. Joining our show with an exclusive contract — you won’t see them anywhere else! — are the most notorious criminals of all time. Introducing, for the first time in broadcast history: The MULMASTER COUNTY VOLUNTEER FIRE DEPARTMENT!”
->
-> As he says your group’s name, several things happen. Nearly every eye drone in the space turns to face you. The sound of air horns fills the air and confetti rains from the air. The pictograms on the board almost all change to jeering faces and thumbs-down signs, as well as other, more rude gestures.
->
-> Most notably, however, every other gladiator turns on the spot and charges towards your group. Roll initiative.
+> The metal bars retract into the ground, and every other fighter in the arena charges straight for you.
+
+### Features of the Area
+
+The Arena is a large open space with a domed glass ceiling stretching high overhead revealing a view of a crowded sea of stars and the surface of the planet. The room has a dirt floor, but it's uneven, with small hills and valleys, even a few dead trees.
+
+A DC 12 Perception check reveals that this space used to be some sort of park. There are still indications of it in the stone walls bordering what used to be a pond, or a small wooden bridge that has been uprooted for use as a barricade.
+
+There are a number of hazards scattered around, like large logs bristling with spikes. The arena is filled with perhaps three dozen combatants, fighting alone or in small groups.
+
+you see the sign is covered with moving words and pictures, and divided into several sections. On the left side of the sign is a constantly scrolling wall of text. It’s written in Common, but you can’t understand the most of the words. Perhaps some form of guild language or dialect? The only thing that makes sense is that the text is regularly interspersed with small pictograms of smiling or cheering faces. You get the impression that many hundreds of people are all somehow putting their thoughts on the sign.
 
 TODO features of the area: light, ceiling, floors, walls, doors, sounds, smells
 

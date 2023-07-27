@@ -142,19 +142,13 @@ If the characters don’t approach, have the Champion split off from her group t
 
 If the characters still don't want to meet her, let them do what they want (though other actions should bring them into combat with another squad of fighters). If the second day ends without the meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
 
-### Features of the Area
-
-The Arena is a large open space with a domed glass ceiling stretching high overhead revealing a view of a crowded sea of stars and the surface of the planet. The room has a dirt floor, but it's uneven, with small hills and valleys, even a few dead trees.
-
-A DC 12 Perception check reveals that this space used to be some sort of park. There are still indications of it in the stone walls bordering what used to be a pond, or a small wooden bridge that has been uprooted for use as a barricade.
-
 ### Airlock, Elevator, and Cargo Tunnel Entrances
 
 The Arena has been secured to prevent the "contestants" from escaping. The hatch to the Airlock has been welded shut. The only evidence that the Elevator and Cargo Tunnel used to open on this deck is two circular depressions in the dirt floor in the middle of the Arena. If the characters were to dig down, they would find those hatches have also been welded shut.
 
 ### Stairs to Security
 
-The only remaining exit from the Arena is the stairwell down to Security. It is heavily guarded at all times by a squad of six Security Guards with laser rifles set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the stairs will only result in being knocked unconscious, and waking up in the Brig.
+The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six Security Guards with laser rifles set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
 
 ### The Champion
 
