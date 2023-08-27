@@ -34,13 +34,14 @@ Can you escape the future before it kills you?
 
 ### [Part 1: The Arena](./part-1)
 
-- [Into the Fray](./part-1/#into-the-fray)
-- [Arena Contestants](./part-1/#arena-contestants)
+- [Let's Make History](./part-1/#lets-make-history)
 
 ### [Part 2: Escaping the Arena](./part-2)
 
 - [Security](./part-2/#security)
 - [Return to the Arena](./part-2/#return-to-the-arena)
+
+<br style="break-after: column">
 
 ### [Part 3: Exploring the Station](./part-3)
 
