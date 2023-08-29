@@ -60,8 +60,6 @@ When the characters wake up, grant them the effects of a long rest. Then while t
 
 Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding cells in the Arena, in time for that night’s broadcast.
 
-It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding cell in the Arena.
-
 #### Secret Hatch
 
 There is a secret hatch under one of the benches. It has been hidden brilliantly, and the characters have no chance of finding it on their own. They will only be able to locate it if they are told of its existence by the Strategist. Once opened, it reveals a tight crawlspace that eventually drops the characters into the Locker Rooms at the Gym in the Crew Quarters.
@@ -72,7 +70,7 @@ This room is filled with banks of monitors displaying views from around the stat
 
 The Security Chief spends most of her time in this room, coordinating Security Guard patrols and monitoring the status of the station.
 
-### Baracks
+### Barracks
 
 This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty Security Guards are in this room, sleeping, eating, or watching videos.
 
@@ -114,6 +112,8 @@ In exchange, she offers better treatment while the characters are in custody. Be
 
 After spending the day recovering in security (allow the characters to take a long rest), they are escorted back to the Arena and placed in the same holding pen as last time.
 
+It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding cell in the Arena.
+
 <figure>
   <a href="/images/history-channel/deck-01-labels@2490.webp">
     <img
@@ -130,17 +130,23 @@ After spending the day recovering in security (allow the characters to take a lo
   </a>
 </figure>
 
-> TODO: add description
+> Once again, you find yourself in a holding pen in the arena. The view of the planet overhead still feels uncanny. Looking around, the "contestants" in the other holding pens continue to shout threats and taunts, but they appear to have settled back into established rivalries, and their attention is no longer aimed only at you.
+>
+> The panel overhead crackles to life, showing the now-familiar face of the Director.
+>
+> "Hello, and welcome to another evening of _Historia Kanalo Arena Combat_! We had a very exciting time last night, and I've had a wonderful day reviewing the discussion boards. I've seen you all sharing your favorite clips, the most dramatic blows! Well, let's not waste any more time, let's see what our newest contestants can do now that they've been introduced. Ladies and gentleman, LET'S! MAKE! HISTORY!"
+>
+> As before, an alarm sounds, and the metal bars retract into the ground. But unlike last night, the other "contestants" do not immediately gang up on you. Instead, they scatter around the arena, moving to claim favorable locations, with a casual ease that tells you how long some of them have been stuck here.
+>
+> As you look around, you see an enormous Orc woman carrying a viscious longsword. She's with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. She notices you, grins, and waves for you to approach.
 
-The Broadcast should start the same as last time, with a bombastic intro by the Director, who references what happened last time and promises an even more exciting time tonight! Then the alert sounds, and the bars of the holding pen retract into the ground once more.
+The Orc woman is [the Champion](../part-2/#the-champion), who is protecting [the Strategist](../part-2/#the-strategist), who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
 
-However, this time the other groups of combatants do not immediately gang up on the characters. Skirmishes break out, and groups fight with each other, but the characters should have enough time to observe the area and spot [the Champion](../part-2/#the-champion), effortlessly holding her own in battle. She fights with a small crew of others, who seem to be protecting a small woman who’s not fighting. This is [the Strategist](../part-2/#the-strategist), who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
+If the characters don’t approach, have the Champion split off from her group to come closer and say the Strategist wants to speak with them.
 
-The Champion notices the characters, and waves for them to approach, all while swinging a massive longsword against another group of fighters.
+If the characters still don't want to meet her, let them do what they want (though pretty much any other actions would bring them into combat with another squad of contestants).
 
-If the characters don’t approach, have the Champion split off from her group to come closer and say [the Strategist](../part-2/#the-strategist) wants to speak to them.
-
-If the characters still don't want to meet her, let them do what they want (though other actions should bring them into combat with another squad of fighters). If the second day ends without the meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
+If the second day ends without the meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
 
 ### Airlock, Elevator, and Cargo Tunnel Entrances
 
@@ -163,6 +169,8 @@ _Chaotic Good Orc Barbarian_
 The Champion was a notorious marauder, and won the first season of the gladiator show. First prize that season was being returned to your timeline. She was brought back shortly after for an ill-considered All Stars episode.
 
 Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice human and had a couple kids. Then they abducted her again. She wants only to return to her timeline, but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
+
+If attacked, the Champion will fight without hesitation to defend herself and the Champion, though she will make it clear she wants to talk, and will stop fighting if the characters do.
 
 The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 
