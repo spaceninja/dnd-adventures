@@ -13,8 +13,6 @@ next:
 
 Abducted to the future and forced to compete in broadcast arena combat, the characters must find a way to escape an endless cycle of violence and death. _The Future Hates You!_ is an adventure for characters of 5th to 10th level. It is set on a space station in the distant future where the characters are known as notorious criminals and contains science fiction elements, including time travel.
 
-TODO add "adjusting this adventure" section
-
 ## Adventure Background
 
 The space station was built decades ago by a multinational effort the world had never seen before. At first, the science performed on the station enjoyed broad public support, but over time the funding dried up. Eventually, the station was sold to an entertainment megacorp, Historia Kanalo, which kept the R&D department funded with space tourism.
