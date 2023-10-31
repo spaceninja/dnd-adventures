@@ -77,7 +77,7 @@ If the players are having fun exploring, let them decide where to go. But if the
 
 #### Why don’t the NPCs have names?
 
-I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title. But if you prefer, I've left some suggested names in each NPC's details.
+I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title. But if you prefer, I've left some suggested names in each NPC's profile.
 
 </aside>
 

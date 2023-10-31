@@ -46,6 +46,8 @@ _Controlled by #OpsUnion_
 
 Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly-marked cubbies. Caution stripes and flashing lights are omnipresent.
 
+One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which is enabling her to move a bit of equipment far larger than a single person could move unassisted.
+
 A pair of guards man a checkpoint near the elevator and to one side of the reactors is an airlock hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
 
 ### Reactors
@@ -122,7 +124,7 @@ _Lawful Neutral Merfolk Artificer_
 
 The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief, but he’s worried that other more urgent problems may leave this until it’s too late.
 
-If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_Vacsuit_**](../part-3/#vacsuits) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
+If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_Vacsuit_**](../appendix-magic-items/#vacsuit) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
 
 If the players listen to his instructions, they can find the correct panel with a successful DC 10 Intelligence (Investigation) check, and fix the leak with a successful DC 12 Dexterity (Sleight of Hand) check. If they don’t listen, the difficulty to find the panel rises to DC 15, and DC 18 to fix the leak.
 

@@ -6,7 +6,7 @@ date: 0000-04-03
 show_nav: true
 prev:
   url: '../appendix-magic-items'
-  title: 'Appendix B: Magic Items'
+  title: 'Appendix B: Magic Items & Equipment'
 next:
   url: '../appendix-handouts'
   title: 'Appendix D: Player Handouts'

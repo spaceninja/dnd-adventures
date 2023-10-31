@@ -48,7 +48,7 @@ Unless the characters are actively being stealthy, they should be spotted by Cam
 
 The food courts at opposite ends of the promenade are active combat zones. Squads from all three factions are crouched behind overturned tables or the counters of the food stalls, shooting at anything that moves.
 
-This is an incredibly unsafe place for the characters to be. To move through the area they need to succeed on a DC 12 Dexterity (Acrobatics) check or a DC 18 Dexterity (Stealth) check. On a failure, the character takes 3D6 radiant damage from a [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) bolt.
+This is an incredibly unsafe place for the characters to be. To move through the area they need to succeed on a DC 12 Dexterity (Acrobatics) check or a DC 18 Dexterity (Stealth) check. On a failure, the character takes 3D6 radiant damage from a [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) bolt.
 
 ### Shops
 
@@ -79,7 +79,7 @@ _Controlled by #TeamRatings_
 
 > Broadcasting is a bustling hive of activity. The corridor is well-lit and crew move quickly from place to place, fetching coffee, delivering updates, and moving equipment. The center of all the activity is Broadcasting Control, where the nonstop broadcast covering the mutiny and the daily gladiatorial combat is managed.
 
-If the characters have gained access without invitation and are wearing a red #TeamRatings jumpsuit or Security Armor, they can move along the corridor with a successful DC 15 Charisma (Deception) check. If not, they’ll be confronted by the person who spots them.
+If the characters have gained access without invitation and are wearing a red #TeamRatings [**_Jumpsuit_**](../appendix-magic-items/#uniform) or [**_Security Armor_**](../appendix-magic-items/#faction-armor), they can move along the corridor with a successful DC 15 Charisma (Deception) check. If not, they’ll be confronted by the person who spots them.
 
 At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Airlock.
 
@@ -105,7 +105,7 @@ This large room is filled with racks and storage bins of clothing designed to al
 
 ### Storage
 
-Props, historical weaponry, equipment, and gear are stored here in bins. All of it was designed to help researchers blend in when they visited the past. It all looks good, but they’re all reproductions and a close inspection reveals they’re all worthless.
+Props, historical weaponry, equipment, and gear are stored here in bins. All of it was designed to help researchers blend in when they visited the past. It all looks good, but they’re reproductions and a close inspection reveals they’re worthless.
 
 ### Offices
 
@@ -161,7 +161,7 @@ _Controlled by #TeamRatings_
 
 The Command corridor has a red stripe running along the wall. It is nearly unoccupied since most #TeamRatings crew have been drafted into the fighting elsewhere in the station. A handful of offices are occupied, as well as the skeleton crew on the bridge, and the Commander in his office. At any moment, one of them could enter the corridor.
 
-If the characters have gained access without invitation and are wearing a red #TeamRatings jumpsuit or Security Armor, they can pass without notice. If not, they’ll be confronted by the person who spots them.
+If the characters have gained access without invitation and are wearing a red #TeamRatings [**_Jumpsuit_**](../appendix-magic-items/#uniform) or [**_Security Armor_**](../appendix-magic-items/#faction-armor), they can pass without notice. If not, they’ll be confronted by the person who spots them.
 
 At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Cargo Tunnel, which is locked.
 

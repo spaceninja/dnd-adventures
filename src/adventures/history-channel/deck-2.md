@@ -40,7 +40,7 @@ _Contested territory_
 
 > The secret corridor from the Brig drops you into an empty changing room. Rows of lockers, benches, and showers sit unused. Stepping into the main space of the Gym you see a wide array of exercise equipment, but no people. At the exit to the corridor, you find a sign reading "Closed for maintenance."
 
-If the characters search the lockers they find little of interest beyond a pile of clean towels, some sweat-stained workout clothes, and a single crew jumpsuit in #OpsUnion orange.
+If the characters search the lockers they find little of interest beyond a pile of clean towels, some sweat-stained workout clothes, and a single crew [**_Jumpsuit_**](../appendix-magic-items/#uniform) in #OpsUnion orange.
 
 #### Secret Hatch
 
@@ -52,7 +52,7 @@ There is a secret hatch behind a ventilation cover on the ceiling of the locker 
 
 The long semicircular corridor has dozens of locked doors to officer's cabins and crew sleeping pods. At one end is a locked doorway to Security. There are no guards visible, but there is a camera above the door, and if the characters linger near the Security door, a squad of guards will come out to capture them.
 
-Midway along the corridor is an [Airlock](../part-3/#airlocks). The inner door is unlocked, but the vacsuit storage lockers are empty, with a note that the suits have been confiscated by #OpsUnion.
+Midway along the corridor is an [Airlock](../part-3/#airlocks). The inner door is unlocked, but the [**_Vacsuit_**](../appendix-magic-items/#vacsuit) storage lockers are empty, with a note that the suits have been confiscated by #OpsUnion.
 
 The [Elevator](../part-3/#elevator) is also unlocked, and the characters can use it to travel to other decks.
 
@@ -60,7 +60,7 @@ The [Elevator](../part-3/#elevator) is also unlocked, and the characters can use
 
 Every crew cabin is locked and inaccessible to the players. Some are clearly occupied, as the characters can hear voices inside. Knocking or ringing the bell gets no answer.
 
-If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew jumpsuits. Any crew members inside flee immediately.
+If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew [**_Jumpsuits_**](../appendix-magic-items/#uniform). Any crew members inside flee immediately.
 
 <aside class="text--rules-sidebar">
 
@@ -91,7 +91,7 @@ Once the characters escape the arena, do your best to steer them toward [the Bar
 
 The Bar is a large space with booths around three walls, tables in the center, and a long bartop with stools along the back wall. There's a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
 
-If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a laser rifle from below the bar and start shooting.
+If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon) from below the bar and start shooting.
 
 ### The Bartender
 
@@ -119,7 +119,7 @@ The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/
 
 **Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the #OpsUnion, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
-If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including modern weaponry. He offers one [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) (stuck on stun, deals nonlethal damage only) now, and the chance to buy more when you bring back the supplies.
+If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including modern weaponry. He offers one [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) (stuck on stun, deals nonlethal damage only) now, and the chance to buy more when you bring back the supplies.
 
 </aside>
 
@@ -137,13 +137,11 @@ Giving the players access to modern weaponry and gear can help them feel more po
 
 </aside>
 
-| Item                                                                   | Notes                                                                                                                                                                 | Stock |
-| :--------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Security Armor                                                         | equivalent to half plate armor, but resistant to radiant damage, and vulnerable to piercing or slashing damage                                                        | 6     |
-| [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) | comes with a single fully charged energy cell (50 shots)                                                                                                              | 5     |
-| [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle)   | comes with a single fully charged energy cell (30 shots)                                                                                                              | 1     |
-| Pulse Grenade                                                          | equivalent to a [**_fragmentation grenade_**](https://www.dndbeyond.com/equipment/grenade-fragmentation), but deals radiant damage.                                   | 3     |
-| Healing Pack                                                           | equivalent to a [**_Potion of Greater Healing_**](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater)                                               | 3     |
-| Uniforms                                                               | Jumpsuits in the proper color schemes for any faction (does not count as a disguise by itself, but could be part of one, or help with stealth checks to go unnoticed) | 20    |
-
-TODO: add to magic items page
+| Item                                                           | Notes                                                                            | Stock |
+| :------------------------------------------------------------- | :------------------------------------------------------------------------------- | ----- |
+| [**_Security Armor_**](../appendix-magic-items/#faction-armor) | Grants resistance to radiant damage and advantage on Charisma (Deception) checks | 6     |
+| [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon)    | Deals 3d6 radiant damage, 50 shots                                               | 5     |
+| [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon)     | Deals 3d8 radiant damage, 30 shots                                               | 1     |
+| [**_Pulse Grenade_**](../appendix-magic-items/#pulse-grenade)  | Deals 5d6 radiant damage in a 20 foot radius                                     | 3     |
+| [**_Healing Pack_**](../appendix-magic-items/#healing-pack)    | Heals 4d4 + 4 hit points                                                         | 3     |
+| [**_Uniform_**](../appendix-magic-items/#uniform)              | Jumpsuit in the proper color scheme for any faction                              | 20    |

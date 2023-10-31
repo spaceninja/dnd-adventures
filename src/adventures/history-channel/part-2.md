@@ -36,9 +36,9 @@ The characters awaken in a holding cell (or a clone tank if they died), before t
 
 _Controlled by #TeamRatings_
 
-Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the control room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
+Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
 
-There are four exits from Security, all guarded. The elevator door is locked and will only open for people with #TeamRatings permissions. The hatch to the Cargo Tunnel and the door to Habitation are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
+There are four exits from Security, all guarded. The elevator door is locked and will only open for people with #TeamRatings permissions. The hatch to the Cargo Tunnel and the door to the Habitation section are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
 ### Clone Room
 
@@ -56,13 +56,13 @@ About half the space in Security is taken up by the Brig: four large prison cell
 
 Harsh lighting comes from battered but durable fixtures recessed into the ceiling. A set of metal benches are affixed to the walls, as well as a single metal toilet. The graffiti on the walls is mostly rude comments about the Security Chief.
 
-When the characters wake up, grant them the effects of a long rest. Then while they're in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her.
+When the characters wake up, grant them the effects of a long rest. Then while they're in the Brig, have the Security Chief visit them, to offer better treatment if they'll kill the Champion for her. (See the Security Chief's profile for more information about this quest.)
 
-Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding cells in the Arena, in time for that night’s broadcast.
+Every evening the groups of prisoners are collected in small groups and marched upstairs, where they are shoved unceremoniously back into the holding pens in the Arena, in time for that night’s broadcast.
 
 #### Secret Hatch
 
-There is a secret hatch under one of the benches. It has been hidden brilliantly, and the characters have no chance of finding it on their own. They will only be able to locate it if they are told of its existence by the Strategist. Once opened, it reveals a tight crawlspace that eventually drops the characters into the Locker Rooms at the Gym in the Crew Quarters.
+There is a secret hatch under one of the benches. It has been hidden brilliantly, and the characters have no chance of finding it on their own. They will only be able to locate it if they are told of its existence by the Strategist. Once opened, it reveals a tight crawlspace that eventually drops the characters into the Locker Room at the Gym in the Habitation section.
 
 ### Surveillance Room
 
@@ -74,7 +74,7 @@ The Security Chief spends most of her time in this room, coordinating Security G
 
 This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty Security Guards are in this room, sleeping, eating, or watching videos.
 
-Racks of Security Armor, Laser Pisols, and Laser Rifles are kept by the door. At any given time, there are 6D6 sets of Security Armor, 4D6 Laser Pistols, and 2D6 Laser Rifles.
+Racks of armor and weapons are kept by the door. At any given time, there are 6D6 sets of [**_Security Armor_**](../appendix-magic-items/#faction-armor), 4D6 [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon), and 2D6 [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon).
 
 ### The Security Chief
 
@@ -90,9 +90,9 @@ The Security Chief is delighted with how things have turned out. She was never r
 
 She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
-The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle). (Replace her fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
+The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon). (Replace her fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
 
-If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. When in combat, any time a Security Guard is defeated, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
+If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. If this happens, any time a Security Guard is defeated in combat, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
 
 **Personality.** Sarcastic, threatening, sadistic
 
@@ -102,9 +102,9 @@ If the Security Chief is defeated, it has a demoralizing effect on all Security 
 
 <aside class="block-torn-paper">
 
-**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. She's already hacked the cloning computer to scramble the Champion's data, so the cloning process will fail, and she'll die permanently.
+**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. She's already hacked the cloning computer to scramble the Champion's data, so the cloning process will fail, and the Champion will die permanently.
 
-In exchange, she offers better treatment while the characters are in custody. Better food, rest, respect. She may even be willing to look the other way when it comes to contraband or sneaking out into the main station, and may ask the Security Guards to go easy on the characters. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of thing. She thinks she has the upper hand and is not likely to negotiate.
+In exchange, she offers improved treatment while the characters are in custody. Better food, rest, respect. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of deal. She knows she has the upper hand and is not likely to negotiate.
 
 </aside>
 
@@ -112,7 +112,7 @@ In exchange, she offers better treatment while the characters are in custody. Be
 
 After spending the day recovering in security (allow the characters to take a long rest), they are escorted back to the Arena and placed in the same holding pen as last time.
 
-It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding cell in the Arena.
+It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding pen in the Arena.
 
 <figure>
   <a href="/images/history-channel/deck-01-labels@2490.webp">
@@ -134,27 +134,27 @@ It should be clear to the characters that they are dramatically outnumbered by t
 >
 > The panel overhead crackles to life, showing the now-familiar face of the Director.
 >
-> "Hello, and welcome to another evening of _Historia Kanalo Arena Combat_! We had a very exciting time last night, and I've had a wonderful day reviewing the discussion boards. I've seen you all sharing your favorite clips, the most dramatic blows! Well, let's not waste any more time, let's see what our newest contestants can do now that they've been introduced. Ladies and gentleman, LET'S! MAKE! HISTORY!"
+> "Hello, and welcome to another evening of _Historia Kanalo Arena Combat_! We had a very exciting time last night, and I've had a wonderful day reviewing the discussion boards. I've seen you all sharing your favorite clips, the most dramatic blows! Well, let's not waste any more time, let's see what our newest contestants can do now that they've been introduced. Ladies and gentlemen, LET'S! MAKE! HISTORY!"
 >
 > As before, an alarm sounds, and the metal bars retract into the ground. But unlike last night, the other "contestants" do not immediately gang up on you. Instead, they scatter around the arena, moving to claim favorable locations, with a casual ease that tells you how long some of them have been stuck here.
 >
-> As you look around, you see an enormous Orc woman carrying a viscious longsword. She's with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. She notices you, grins, and waves for you to approach.
+> As you look around, you see an enormous Orc woman carrying a viscious longsword. She's with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. The Orc woman notices you, grins, and waves for you to approach.
 
 The Orc woman is [the Champion](../part-2/#the-champion), who is protecting [the Strategist](../part-2/#the-strategist), who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
 
-If the characters don’t approach, have the Champion split off from her group to come closer and say the Strategist wants to speak with them.
+If the characters don’t approach, have the Champion split off from her group to come closer to say the Strategist wants to speak with them.
 
 If the characters still don't want to meet her, let them do what they want (though pretty much any other actions would bring them into combat with another squad of contestants).
 
-If the second day ends without the meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
+If the second day ends without a meeting, then the Strategist bribes a guard to be moved into the VIP Brig cell with the characters after the broadcast, where she can make her pitch.
 
 ### Airlock, Elevator, and Cargo Tunnel Entrances
 
-The Arena has been secured to prevent the "contestants" from escaping. The hatch to the Airlock has been welded shut. The only evidence that the Elevator and Cargo Tunnel used to open on this deck is two circular depressions in the dirt floor in the middle of the Arena. If the characters were to dig down, they would find those hatches have also been welded shut.
+The Arena has been secured to prevent the contestants from escaping. The hatch to the Airlock has been welded shut. The only evidence that the Elevator and Cargo Tunnel used to open on this deck is two circular depressions in the dirt floor in the middle of the Arena. If the characters were to dig down, they would find those hatches have also been welded shut.
 
 ### Stairs to Security
 
-The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six Security Guards with laser rifles set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
+The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six Security Guards with [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon) set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
 
 ### The Champion
 
@@ -196,7 +196,7 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 _Neutral Human Ranger_
 
-The Strategist was a war criminal who was expected to be killed quickly in the season she was brought aboard. However, Security didn’t watch her quite carefully enough, and she escaped into the station. She was eventually recaptured, but became a fan favorite when she started posting videos documenting what was happening on the station, which the Director happily allowed as the ratings climbed.
+The Strategist was a war criminal from more modern times who was expected to be killed quickly in the season she was brought aboard. However, Security didn’t watch her quite carefully enough, and she escaped into the station. She was eventually recaptured, but became a fan favorite when she started posting videos documenting what was happening on the station, which the Director happily allowed as the ratings climbed.
 
 She claims to have a plan to stop what’s happening, but she is easily distracted and difficult to communicate with. The Champion believes in the plan, and she and her crew protect the Strategist as she pokes around various parts of the Arena, looking for weaknesses.
 

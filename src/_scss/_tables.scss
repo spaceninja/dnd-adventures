@@ -56,7 +56,7 @@ td {
   border: var(--border-thin) solid var(--color-table-border, lightgray);
   font-size: var(--font-size-s);
   overflow-wrap: break-word;
-  padding: var(--size-xs) var(--size-l);
+  padding: var(--size-s) var(--size-l);
   text-align: center;
   vertical-align: top;
 
@@ -75,5 +75,4 @@ td {
 
 th {
   font-weight: bold;
-  padding: var(--size-s) var(--size-l);
 }

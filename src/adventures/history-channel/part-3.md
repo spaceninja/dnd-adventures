@@ -54,7 +54,7 @@ _“Corporate assholes who’ll keep torturing the timeline as long as there’s
 
 #TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by the Director, who wants to increase ratings at any cost. The Commander is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any order in the name of ratings. Enforcing the Director’s will is the sadistic Security Chief who abuses the abducted “contestants” whenever they end up in Security.
 
-#TeamRatings members wear red jumpsuits.
+#TeamRatings members wear red [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
 #### #TeamEthics
 
@@ -62,7 +62,7 @@ _“A bunch of eggheads who don’t understand their ivory tower costs money.”
 
 #TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by the Professor, who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, the Mad Scientist, is locked up in Medical as a result of her unethical experiments. The head of Medical is the Doc, who just wants the fighting to stop.
 
-#TeamEthics members wear green jumpsuits.
+#TeamEthics members wear green [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
 #### #OpsUnion
 
@@ -70,7 +70,7 @@ _“Those grease monkeys refuse to pick a side.”_
 
 The Operations Union has full control of Engineering & Life Support on Deck 5 as well as the Cargo Bay on Deck 6. They are led by the Chief, who believes staying neutral is the only way her crew can keep the station operating. Life Support is overseen by the Technician, who is more worried about the station literally exploding. The Cargo Bay is managed by the Quartermaster, who is very protective of the supplies stored there.
 
-#OpsUnion members wear high-visibility orange jumpsuits.
+#OpsUnion members wear high-visibility orange [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
 <aside class="text--rules-sidebar">
 
@@ -154,7 +154,7 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 
 There is an airlock on every deck of the station.
 
-All airlocks are large enough for a group of people to don Vacsuits comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
+All airlocks are large enough for a group of people to don [**_Vacsuits_**](../appendix-magic-items/#vacsuit) comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
 
 There are empty Vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief. The Vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
 
@@ -209,8 +209,8 @@ This question is left to the discretion of the DM. If the AI likes the character
 
 | d6  | Prompt                                                                                                                                                                                                         |
 | --- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Human male**, wearing standard station jumpsuit                                                                                                                                                              |
-| 2   | **Human female**, wearing standard station jumpsuit                                                                                                                                                            |
+| 1   | **Human male**, wearing standard station uniform                                                                                                                                                               |
+| 2   | **Human female**, wearing standard station uniform                                                                                                                                                             |
 | 3   | **Historia Kanalo Mascot**, 3D cartoon of an older man wearing a fedora and carrying a whip                                                                                                                    |
 | 4   | **Hologram**, constantly shifting streams of code that vaguely suggest a human face and body                                                                                                                   |
 | 5   | **Glowing red light**, blinks when speaking                                                                                                                                                                    |

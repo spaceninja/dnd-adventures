@@ -44,7 +44,7 @@ At either end of the long semicircular hallway that runs the length of the Medic
 
 ### Intensive Care
 
-The intensive care unit handles the most urgent injuries, which lately means a lot of wounds from laser blasters, and even broken bones from hand to hand fighting. A squad of nurses and doctors are performing triage here at all times, processing incoming injuries, trying to stabilize people, and get them moved to other parts of Medical to free up space.
+The intensive care unit handles the most urgent injuries, which lately means a lot of laser wounds, and even broken bones from hand to hand fighting. A squad of nurses and doctors are performing triage here at all times, processing incoming injuries, trying to stabilize people, and get them moved to other parts of Medical to free up space.
 
 The Doc can be found here, directing efforts and doing her best to keep things running smoothly. If the characters try to speak with her, she brushes them off, saying something like "Sorry, but unless you're here to help, I'm not available."
 
@@ -176,7 +176,7 @@ The Director of Research & Development is an ancient sentient weapon, who everyo
 
 However, The Professor could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
-The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/hobgoblin-warlord), but is a pacifist and will not fight under any circumstances.
+The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/2560752-champion), but is a pacifist and will not fight under any circumstances.
 
 **Personality.** Intelligent, calm, serious.
 

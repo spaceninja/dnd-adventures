@@ -64,7 +64,7 @@ Can you escape the future before it kills you?
 ### [Appendices](./appendix-npcs)
 
 - [Appendix A: NPC Statistics](./appendix-npcs)
-- [Appendix B: Magic Items](./appendix-magic-items)
+- [Appendix B: Magic Items & Equipment](./appendix-magic-items)
 - [Appendix C: Researching Yourself Minigame](./appendix-wiki-game)
 - [Appendix D: Player Handouts](./appendix-handouts)
 - [Credits](./appendix-credits)
