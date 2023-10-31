@@ -40,7 +40,7 @@ _Contested territory_
 >
 > The effect is rather ruined by the fact that the food courts are an active combat zone. The shops are all closed, their neon signs turned off and roll-down gates locked. Camera drones dodge constant laser fire. The air is filled with the smell of ozone and smoke. Combatants move from cover to cover. You hear shouts and commands, as well as the Station AI over a loudspeaker declaring the area unsafe. Red flashing lights strobe as two fire drones try to put out a burning barricade.
 
-A long hallway leads from the elevator past locked doors for Broadcasting and Command before opening onto the active combat zone of the food court.
+A long hallway leads from the [Elevator](../part-3/#elevator) past locked doors for Broadcasting and Command before opening onto the active combat zone of the food court.
 
 Unless the characters are actively being stealthy, they should be spotted by Camera Drones quickly after entering the area.
 
@@ -81,7 +81,7 @@ _Controlled by #TeamRatings_
 
 If the characters have gained access without invitation and are wearing a red #TeamRatings [**_Jumpsuit_**](../appendix-magic-items/#uniform) or [**_Security Armor_**](../appendix-magic-items/#faction-armor), they can move along the corridor with a successful DC 15 Charisma (Deception) check. If not, they’ll be confronted by the person who spots them.
 
-At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Airlock.
+At either end of the semicircular corridor is a locked door opening onto the corridor from the [Elevator](../part-3/#elevator) to the promenade. Near the middle is a branching corridor leading to the [Airlock](../part-3/#airlocks).
 
 ### Broadcasting Control
 
@@ -163,7 +163,7 @@ The Command corridor has a red stripe running along the wall. It is nearly unocc
 
 If the characters have gained access without invitation and are wearing a red #TeamRatings [**_Jumpsuit_**](../appendix-magic-items/#uniform) or [**_Security Armor_**](../appendix-magic-items/#faction-armor), they can pass without notice. If not, they’ll be confronted by the person who spots them.
 
-At either end of the semicircular corridor is a locked door opening onto the corridor from the elevator to the promenade. Near the middle is a branching corridor leading to the Cargo Tunnel, which is locked.
+At either end of the semicircular corridor is a locked door opening onto the corridor from the [Elevator](../part-3/#elevator) to the promenade. Near the middle is a branching corridor leading to the [Cargo Tunnel](../part-3/#the-cargo-tunnel), which is locked.
 
 ### AI Server Room
 

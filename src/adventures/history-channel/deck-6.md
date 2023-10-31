@@ -42,7 +42,7 @@ _Contested Territory_
 
 The Shuttle Bay is one large semicircular room with 6 docking hatches spaced evenly along the outside wall. The high ceilings have large, industrial light fixtures that brightly illuminate the cavernous space. There are painted lines on the floor detailing paths to each hatch and various other points.
 
-A squad from each faction is huddled behind a makeshift shelter and barricade. [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the leftmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
+The [Elevator](../part-3/#elevator) opens directly into the Shuttle Bay, revealing that a squad from each faction is huddled behind a makeshift shelter and barricade. [**Security Guards**](../part-2/#security-guards) from #TeamRatings have a choice spot near the leftmost docking hatch, while [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are camped out behind an overturned shipping container across the bay. The [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are resting behind a tall barricade constructed in front of the large open hatch to the Cargo Bay.
 
 ### Control Tower
 
@@ -102,7 +102,7 @@ _Controlled by #OpsUnion_
 
 The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s connected to. The dimly lit space is filled with orderly shelves that stretch from floor to ceiling, each filled with bins and crates. Although everything is meticulously labeled, it’s all in some sort of machine code, and it’s not clear how anyone other than the Quartermaster would find anything in here.
 
-A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics. The hatch to the Cargo Tunnel is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support. The entrance to the elevator has been completely barricaded with storage crates and is impassable.
+A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support. The entrance to the [Elevator](../part-3/#elevator) has been completely barricaded with storage crates and is impassable.
 
 ### The Quartermaster
 
@@ -114,7 +114,7 @@ A makeshift barricade has been constructed a few feet in front of the open hatch
 
 _Lawful Good Rogue Modron Quadrone_
 
-Rogue modrons are vanishingly rare, but highly sought after due to their organizational skills, and the Quartermaster has become particularly well-regarded on the station, running an orderly cargo bay and keeping supplies moving smoothly through the cargo tunnels.
+Rogue modrons are vanishingly rare, but highly sought after due to their organizational skills, and the Quartermaster has become particularly well-regarded on the station, running an orderly cargo bay and keeping supplies moving smoothly through the cargo tunnel.
 
 At all times, the Quartermaster is surrounded by and directing a swarm of bird-sized drones, who communicate via short bursts of what sounds like static and chirping. He will periodically interrupt a conversation to respond to a particularly urgent-looking drone. It is unclear to an observer what these drones are doing or capable of.
 

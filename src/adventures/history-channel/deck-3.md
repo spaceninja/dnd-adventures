@@ -38,7 +38,7 @@ _Controlled by #TeamEthics, but open to everyone_
 
 > It is clear at a glance that the station's medical staff are overwhelmed by the number of injuries from the fighting. Patients are everywhere, laying on gurneys, leaning against the walls, or even just sitting on the floor. A small team of doctors and nurses move around the room trying to stabilize incoming patients and determine where to send them next. The Doc moves through the room, constantly interrupted by other doctors and nurses asking her for information, or to make a judgement call.
 
-Although the Medical section is technically controlled by #TeamEthics, the Doc tries to remain neutral and will treat anyone. [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are stationed by the elevator. Anyone who isn't part of #TeamEthics is required to turn over their weapons before entering, with assurances that their items will be returned when they leave.
+Although the Medical section is technically controlled by #TeamEthics, the Doc tries to remain neutral and will treat anyone. [**#TeamEthics Guards**](../part-3/#%23teamethics-guards) are stationed by the [Elevator](../part-3/#elevator). Anyone who isn't part of #TeamEthics is required to turn over their weapons before entering, with assurances that their items will be returned when they leave.
 
 At either end of the long semicircular hallway that runs the length of the Medical section are locked doors to the R&D section. These will only open for people with #TeamEthics access. A pair of guards are also stationed by the storage room where they keep the Mad Scientist locked up.
 
@@ -134,7 +134,7 @@ _Controlled by #TeamEthics_
 
 > The walls of the R&D corridor are lined with corkboards filled with printouts, and whiteboards covered in formulas and notes. The doorways open onto labs filled with distracted scientists and engineers doing their best to continue their research. A few offices are occupied by sleeping guards and off-duty scientists. Security is heavy near the entrance to the Portal Chamber.
 
-A pair of guards man a checkpoint near the cargo tunnel entrance, and the elevator door has been blockaded on this side to prevent access. The doors at either end of the long semicircular hallway open onto Medical, and are locked, allowing access only to #TeamEthics.
+A pair of guards man a checkpoint near the [Cargo Tunnel](../part-3/#the-cargo-tunnel) entrance, and the [Elevator](../part-3/#elevator) door has been blockaded on this side to prevent access. The doors at either end of the long semicircular hallway open onto Medical, and are locked, allowing access only to #TeamEthics.
 
 ### Portal Chamber
 

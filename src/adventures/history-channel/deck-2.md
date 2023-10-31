@@ -66,7 +66,7 @@ If the characters somehow force access, they find unremarkable housing units wit
 
 #### The Bar is a good first stop
 
-Once the characters escape the arena, do your best to steer them toward [the Bar](../deck-2/#bar), where [the Bartender](../deck-2/#the-bartender) can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
+Once the characters escape the arena, do your best to steer them toward the Bar, where the Bartender can offer them a job to retrieve supplies from the Cargo Bay, which will get them moving through the station.
 
 </aside>
 

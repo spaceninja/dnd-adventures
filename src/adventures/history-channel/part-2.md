@@ -38,7 +38,7 @@ _Controlled by #TeamRatings_
 
 Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
 
-There are four exits from Security, all guarded. The elevator door is locked and will only open for people with #TeamRatings permissions. The hatch to the Cargo Tunnel and the door to the Habitation section are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
+There are four exits from Security, all guarded. The [Elevator](../part-3/#elevator) door is locked and will only open for people with #TeamRatings permissions. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) and the door to the Habitation section are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
 ### Clone Room
 
