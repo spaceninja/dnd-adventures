@@ -86,6 +86,6 @@ Overlaid on the right side of the screen is a constant scrolling wall of text. I
 
 #### The Director taunts them.
 
-[The Director](../deck-4/#the-director)’s running commentary and the audience’s reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.
+The Director’s running commentary and the audience’s reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.
 
 </aside>

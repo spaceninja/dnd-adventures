@@ -140,7 +140,7 @@ It should be clear to the characters that they are dramatically outnumbered by t
 >
 > As you look around, you see an enormous Orc woman carrying a viscious longsword. She's with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. The Orc woman notices you, grins, and waves for you to approach.
 
-The Orc woman is [the Champion](../part-2/#the-champion), who is protecting [the Strategist](../part-2/#the-strategist), who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
+The Orc woman is the Champion, who is protecting the Strategist, who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
 
 If the characters don’t approach, have the Champion split off from her group to come closer to say the Strategist wants to speak with them.
 

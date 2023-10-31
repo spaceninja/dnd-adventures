@@ -60,7 +60,7 @@ Only one of the docking berths is occupied at the moment, but the hatch is seale
 
 If the characters gain entrance, the shuttle has a large open area near the back for cargo and a few rows of seats for passengers. At the front is the cockpit, with two seats and a confusing array of instruments the characters have no hope of understanding.
 
-### Pilot’s Lounge
+### Pilots’ Lounge
 
 To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens showing the broadcast, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
 
@@ -118,9 +118,9 @@ Rogue modrons are vanishingly rare, but highly sought after due to their organiz
 
 At all times, the Quartermaster is surrounded by and directing a swarm of bird-sized drones, who communicate via short bursts of what sounds like static and chirping. He will periodically interrupt a conversation to respond to a particularly urgent-looking drone. It is unclear to an observer what these drones are doing or capable of.
 
-Until the fighting ends, he has orders not to allow anyone to take supplies from the Cargo Bay without permission from the Chief. He finds this whole situation very stressful. #OpsUnion has sent guards to prevent looting and raiding, but until combat ends, all he can do is keep the cargo bay orderly and wait for the dark times to pass.
+Until the fighting ends, he has orders not to allow anyone to take supplies from the Cargo Bay without permission from the Chief Engineer. He finds this whole situation very stressful. #OpsUnion has sent guards to prevent looting and raiding, but until combat ends, all he can do is keep the cargo bay orderly and wait for the dark times to pass.
 
-To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don’t remember this (because it hasn’t happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remains well-disposed towards the characters and will do what he can to help them, including introducing them to the Chief if they want.
+To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don’t remember this (because it hasn’t happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remains well-disposed towards the characters and will do what he can to help them, including introducing them to the Chief Engineer if they want.
 
 The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
 

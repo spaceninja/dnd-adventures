@@ -67,11 +67,11 @@ The characters were ambushed on the road. Their attackers wore strange black arm
 
 If the players are having fun exploring, let them decide where to go. But if they seem unsure what to do next, consider having an NPC summon them directly to a meeting via the nearest computer terminal.
 
-**The Director wants to make them stars.** Consider having [The Director](../deck-4/#the-director) summon them to a meeting personally, where he can explain that he’d like to make them stars if they take out the Professor.
+**The Director wants to make them stars.** Consider having [**The Director**](../deck-4/#the-director) summon them to a meeting personally, where he can explain that he’d like to make them stars if they take out the Professor.
 
-**The Chief needs to keep the station from exploding.** If they don’t head towards Engineering at some point, try having some panicked engineers run past, or some alarming announcements over the intercom to make it clear the station is in danger of exploding. If all else fails, perhaps [the Chief](../deck-5/#the-chief) could contact the characters to ask for help.
+**The Chief Engineer needs to keep the station from exploding.** If they don’t head towards Engineering at some point, try having some panicked engineers run past, or some alarming announcements over the intercom to make it clear the station is in danger of exploding. If all else fails, perhaps [**the Chief Engineer**](../deck-5/#the-chief-engineer) could contact the characters to ask for help.
 
-**The Professor wants to stop the Director.** Eventually, the players will probably be motivated to make their way to [the Portal Chamber](../deck-3/#portal-chamber), but if they don’t, [the Professor](../deck-3/#the-professor) could reach out directly to propose working together, offering a way home if they can stop the Director.
+**The Professor wants to stop the Director.** Eventually, the players will probably be motivated to make their way to the Portal Chamber, but if they don’t, [**the Professor**](../deck-3/#the-professor) could reach out directly to propose working together, offering a way home if they can stop the Director.
 
 <aside class="text--rules-sidebar">
 

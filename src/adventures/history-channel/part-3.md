@@ -52,7 +52,7 @@ The station looks like five bicycle wheels spinning around a central post with a
 
 _“Corporate assholes who’ll keep torturing the timeline as long as there’s a buck to be made.”_
 
-#TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by the Director, who wants to increase ratings at any cost. The Commander is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any order in the name of ratings. Enforcing the Director’s will is the sadistic Security Chief who abuses the abducted “contestants” whenever they end up in Security.
+#TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by [**the Director**](../deck-4/#the-director), who wants to increase ratings at any cost. [**The Commander**](../deck-4/#the-commander) is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any order in the name of ratings. Enforcing the Director’s will is [**the Security Chief**](../part-2/#the-security-chief), who abuses the abducted “contestants” whenever they end up in the Brig.
 
 #TeamRatings members wear red [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -60,7 +60,7 @@ _“Corporate assholes who’ll keep torturing the timeline as long as there’s
 
 _“A bunch of eggheads who don’t understand their ivory tower costs money.”_
 
-#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by the Professor, who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, the Mad Scientist, is locked up in Medical as a result of her unethical experiments. The head of Medical is the Doc, who just wants the fighting to stop.
+#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by [**the Professor**](../deck-3/#the-professor), who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, [**the Mad Scientist**](../deck-3/#the-mad-scientist), is locked up in Medical as a result of her unethical experiments. The head of Medical is [**the Doc**](../deck-3/#the-doc), who just wants the fighting to stop.
 
 #TeamEthics members wear green [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -68,7 +68,7 @@ _“A bunch of eggheads who don’t understand their ivory tower costs money.”
 
 _“Those grease monkeys refuse to pick a side.”_
 
-The Operations Union has full control of Engineering & Life Support on Deck 5 as well as the Cargo Bay on Deck 6. They are led by the Chief, who believes staying neutral is the only way her crew can keep the station operating. Life Support is overseen by the Technician, who is more worried about the station literally exploding. The Cargo Bay is managed by the Quartermaster, who is very protective of the supplies stored there.
+The Operations Union has full control of Engineering & Life Support on Deck 5 as well as the Cargo Bay on Deck 6. They are led by [**the Chief Engineer**](../deck-5/#the-chief-engineer), who believes staying neutral is the only way her crew can keep the station operating. Life Support is overseen by [**the Technician**](../deck-5/#the-technician), who is more worried about the station literally exploding. The Cargo Bay is managed by [**the Quartermaster**](../deck-6/#the-quartermaster), who is very protective of the supplies stored there.
 
 #OpsUnion members wear high-visibility orange [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -89,7 +89,7 @@ The station is full of locked doors and guarded passages, but for the most part,
 Access to an area controlled by a faction depends on how they view the characters.
 
 - **Hostile.** If a faction is hostile towards the characters (such as #TeamRatings at the start of the adventure), they will not be given access to any controlled areas. Further, guards for the faction will likely attack and attempt to capture the characters if spotted. Guards will pursue the characters, but won't leave the controlled space.
-- **Neutral.** If a faction is neutral towards the characters (such as #TeamEthics and the #OpsUnion at the start of the adventure), they may be granted limited access to controlled areas. For instance, if the characters ask to speak to the Chief, a guard will escort them to meet her.
+- **Neutral.** If a faction is neutral towards the characters (such as #TeamEthics and the #OpsUnion at the start of the adventure), they may be granted limited access to controlled areas. For instance, if the characters ask to speak to the Chief Engineer, a guard will escort them to meet her.
 - **Friendly.** If the characters have earned a faction's trust (for example, the characters can grain the #OpsUnion's trust by repairing the coolant leak), they will be granted unescorted access to controlled areas (with some exceptions, like the Portal Chamber).
 
 #### Guards
@@ -156,7 +156,7 @@ There is an airlock on every deck of the station.
 
 All airlocks are large enough for a group of people to don [**_Vacsuits_**](../appendix-magic-items/#vacsuit) comfortably. The walls are bare metal with yellow caution stripes and dramatic looking warnings next to the instructions on how to properly operate the double doors that open to space.
 
-There are empty Vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief. The Vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
+There are empty Vacsuit storage lockers in every airlock, with a note reading “Confiscated by #OpsUnion” and signed by the Chief Engineer. The Vacsuits are all in the Cargo Bay, protected by the Quartermaster to prevent station sabotage.
 
 #### Airlocks
 

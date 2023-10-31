@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 5 consists of two areas, Engineering and Life Support, both controlled by #OpsUnion. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
+Deck 5 consists of two areas, Engineering and Life Support, both controlled by #OpsUnion. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief Engineer tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
 
 <figure>
   <a href="/images/history-channel/deck-05-labels@2490.webp">
@@ -40,7 +40,7 @@ _Controlled by #OpsUnion_
 >
 > Around the monitoring stations, engineers move with purpose, replacing parts, adjusting knobs, and tightening connections. You see one engineer strapped into some sort of mechanical exoskeleton carrying an incredibly heavy bit of machinery across the room.
 >
-> As you look around, the Chief, a female dwarf carrying a huge wrench, with braided hair and beard, and greasy coveralls stands in the center of the room and hollers to get everyone’s attention:
+> As you look around, the Chief Engineer, a female dwarf carrying a huge wrench, with braided hair and beard, and greasy coveralls stands in the center of the room and hollers to get everyone’s attention:
 >
 > “Keep it moving, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places.”
 
@@ -60,9 +60,9 @@ Running along the inner hull is a series of offices. These all look like auto me
 
 ### Chief Engineer’s Office
 
-One office is designated for the Chief Engineer. Inside is a large worktable covered in binders, tablets, and rolled-up blueprints. A sleeping bag and pillow are piled on the couch, and a semicircle of folding chairs makes it clear that the Chief often meets here with her department heads.
+One office is designated for the Chief Engineer. Inside is a large worktable covered in binders, tablets, and rolled-up blueprints. A sleeping bag and pillow are piled on the couch, and a semicircle of folding chairs makes it clear that the Chief Engineer often meets here with her department heads.
 
-### The Chief
+### The Chief Engineer
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
@@ -72,17 +72,17 @@ One office is designated for the Chief Engineer. Inside is a large worktable cov
 
 _Lawful Good Dwarf Artificer_
 
-The Chief is always moving. Any conversation had with her takes place as she walks from station to station, and is constantly interrupted by crew asking her questions, or her shouting an order to someone as she passes. If the characters manage to engage her for more than a minute or two, she may bring them to her office so she can focus on what they’re saying.
+The Chief Engineer is always moving. Any conversation had with her takes place as she walks from station to station, and is constantly interrupted by crew asking her questions, or her shouting an order to someone as she passes. If the characters manage to engage her for more than a minute or two, she may bring them to her office so she can focus on what they’re saying.
 
 She is well-regarded by her crew and takes pride in the safety rating they maintained until combat started. Now her only concern is keeping the station intact. She finds the politics of the situation incredibly boring, and certainly irrelevant while the station is trying to tear itself apart.
 
 By maintaining a neutral position, her crew has mostly been able to access the parts of the station they need to solve problems, but it’s been difficult, and things are getting worse as the fighting intensifies and her crew gets more and more exhausted.
 
-If asked for access to the Cargo Bay (or airlocks, or any other facility under #OpsUnion control), the Chief gives a brusque “No,” explaining those areas are under lockdown to protect the station. However, she says she’d grant access if the characters help out with an urgent problem. If they agree, she refers them to the Technician in Life Support.
+If asked for access to the Cargo Bay (or airlocks, or any other facility under #OpsUnion control), the Chief Engineer gives a brusque “No,” explaining those areas are under lockdown to protect the station. However, she says she’d grant access if the characters help out with an urgent problem. If they agree, she refers them to the Technician in Life Support.
 
-If the characters succeed at fixing the coolant leak for the Technician, the Chief will call them back to make an offer. As she sees it, the time portal is the cause of all the fighting, and therefore it’s putting the station at risk. If they can destroy the portal, she promises to get them off the station and down to the surface. They wouldn’t be able to return to their time, but at least they’d be free.
+If the characters succeed at fixing the coolant leak for the Technician, the Chief Engineer will call them back to make an offer. As she sees it, the time portal is the cause of all the fighting, and therefore it’s putting the station at risk. If they can destroy the portal, she promises to get them off the station and down to the surface. They wouldn’t be able to return to their time, but at least they’d be free.
 
-The Chief uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/17045-veteran).
+The Chief Engineer uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/17045-veteran).
 
 **Personality.** Demanding, respected, overworked.
 
@@ -92,7 +92,7 @@ The Chief uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/
 
 <aside class="block-torn-paper">
 
-**Quest: Destroy the Portal.** The Chief sees the time portal as the root cause of all the problems on the station. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself and the plans, which are stored on a secure drive in the chamber. If you can pull this off, she says she can smuggle you down to the planet.
+**Quest: Destroy the Portal.** The Chief Engineer sees the time portal as the root cause of all the problems on the station. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself and the plans, which are stored on a secure drive in the chamber. If you can pull this off, she says she can smuggle you down to the planet.
 
 </aside>
 
@@ -122,7 +122,7 @@ Running along the inner hull is a series of offices. These all look like auto me
 
 _Lawful Neutral Merfolk Artificer_
 
-The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief, but he’s worried that other more urgent problems may leave this until it’s too late.
+The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief Engineer, but he’s worried that other more urgent problems may leave this until it’s too late.
 
 If the characters volunteer to help, he is overwhelmingly grateful. He authorizes them to each get a [**_Vacsuit_**](../appendix-magic-items/#vacsuit) from the Cargo Bay, and tries to give them clear instructions for using an [airlock](../part-3/#airlocks), finding the access panel outside, and fixing the leak.
 
