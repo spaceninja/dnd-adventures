@@ -14,11 +14,48 @@ next:
 
 # {{ title }}
 
-##### Camera Drones
+### Camera Drones
 
-These drones are quadcopters about the size of a football. They have the equivalent of Perception +4, but they’re not very smart and can be tricked, misdirected, or avoided fairly easily (opposed Wisdom check: Wis 12, +1). If the characters successfully dodge all the drones following them, the drones will relocate them within 3D6 minutes.
+Camera drones are quadcopters about the size of a football that follow characters around, broadcasting what they can see back to the Director.
 
-They are extremely agile and will try to dodge any attempt to interfere with them. (Dex 18, +4) They can be disabled by submerging or dousing them with water, hitting them with electricity, or by a shot from a [**_laser weapon_**](../appendix-magic-items/#laser-weapon) in stun mode. If disabled, the drone falls out of the air and lays on the floor sparking and smoking until a cleaning drone comes to collect it. Disabled drones will be replaced within the hour, or the next time the characters enter contested or #TeamRatings territory.
+They are not very smart and can be tricked, misdirected, or avoided fairly easily. If the characters successfully dodge all the drones following them, the drones will relocate them within 3D6 minutes.
+
+They are extremely agile and will try to dodge any attempt to interfere with them. They can be disabled by submerging or dousing them with water, hitting them with electricity, or by a shot from a [**_laser weapon_**](../appendix-magic-items/#laser-weapon) in stun mode. If disabled, the drone falls out of the air and lays on the floor sparking and smoking until a cleaning drone comes to collect it. Disabled drones will be replaced within the hour, or the next time the characters enter contested or #TeamRatings territory.
+
+<section>
+
+#### Camera Drone
+
+_Tiny construct, neutral_
+
+---
+
+- **Armor Class** 15
+- **Hit Points** 1 (1d4 - 1)
+- **Speed** fly 30 ft.
+
+---
+
+- **STR** 8 (-1)
+- **DEX** 20 (+5)
+- **CON** 8 (-1)
+- **INT** 8 (-1)
+- **WIS** 12 (+1)
+- **CHA** 10 (+0)
+
+---
+
+- **Skills** Perception +3
+- **Senses** Darkvision 60ft., Passive Perception 13
+- **Languages** --
+- **Challenge** 0 (10 XP)
+- **Proficiency Bonus** +2
+
+---
+
+**Flyby.** The camera drone doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
+
+</section>
 
 ### Security Guards
 
