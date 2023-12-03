@@ -1,0 +1,97 @@
+.stat-block {
+  background: white;
+  border: 1px solid #d4d0ce;
+  box-shadow: 0 0 5px #979aa4;
+  clear: both;
+  font-size: 14px;
+  margin: var(--size-l) 0;
+  padding: 15px;
+  position: relative;
+
+  @media (width >= 768px) {
+    column-count: 2;
+  }
+
+  &::before,
+  &::after {
+    background-image: url(https://www.dndbeyond.com/content/1-0-2598-0/skins/waterdeep/images/MMStatBar_lrg.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    content: '';
+    display: inline-block;
+    height: 4px;
+    left: -3px;
+    position: absolute;
+    right: -3px;
+  }
+
+  &::before {
+    top: -3px;
+  }
+
+  &::after {
+    bottom: -3px;
+  }
+
+  > :first-child {
+    margin-top: 0;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+  h4 {
+    color: #bc0f0f;
+    font-family: 'Roboto Condensed', Roboto, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-right: 8px;
+    text-transform: uppercase;
+  }
+
+  h5 {
+    border-bottom: 1px solid #bc0f0f;
+    font-family: 'Roboto Condensed', Roboto, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+
+  p {
+    margin-bottom: 10px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  hr {
+    border: 0;
+    border-top: 2px solid #bc0f0f;
+    margin: 10px 0;
+  }
+}
+
+.stat-block__ability-scores {
+  ul {
+    border-bottom: 2px solid #bc0f0f;
+    border-top: 2px solid #bc0f0f;
+    break-inside: avoid;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 0;
+  }
+
+  li {
+    flex: 1;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  strong {
+    display: block;
+    font-size: 15px;
+  }
+}
