@@ -1,11 +1,11 @@
 .stat-block {
-  background: white;
-  border: 1px solid #d4d0ce;
-  box-shadow: 0 0 5px #979aa4;
+  background: var(--color-page-bg);
+  border: var(--border-thin) solid var(--color-table-head-border);
+  box-shadow: 0 0 var(--size-xs) var(--color-page-fg-subtle);
   clear: both;
-  font-size: 14px;
+  font-size: var(--font-size-s);
   margin: var(--size-l) 0;
-  padding: 15px;
+  padding: var(--size-m);
   position: relative;
 
   @media (width >= 768px) {
@@ -14,7 +14,7 @@
 
   &::before,
   &::after {
-    background-image: url(https://www.dndbeyond.com/content/1-0-2598-0/skins/waterdeep/images/MMStatBar_lrg.jpg);
+    background-image: url('https://www.dndbeyond.com/content/1-0-2598-0/skins/waterdeep/images/MMStatBar_lrg.jpg');
     background-position: center;
     background-size: 100% 100%;
     content: '';
@@ -42,23 +42,23 @@
   }
 
   h4 {
-    color: #bc0f0f;
-    font-family: 'Roboto Condensed', Roboto, Helvetica, sans-serif;
-    font-size: 18px;
+    color: var(--color-link-monster);
+    font-family: var(--font-condensed);
+    font-size: var(--font-size-l);
     margin-bottom: 0;
-    margin-right: 8px;
+    margin-right: var(--size-s);
     text-transform: uppercase;
   }
 
   h5 {
-    border-bottom: 1px solid #bc0f0f;
-    font-family: 'Roboto Condensed', Roboto, Helvetica, sans-serif;
-    font-size: 16px;
-    padding-bottom: 2px;
+    border-bottom: var(--border-thin) solid var(--color-link-monster);
+    font-family: var(--font-condensed);
+    font-size: var(--font-size-m);
+    padding-bottom: var(--border-medium);
   }
 
   p {
-    margin-bottom: 10px;
+    margin-bottom: var(--size-s);
   }
 
   ul {
@@ -69,29 +69,28 @@
 
   hr {
     border: 0;
-    border-top: 2px solid #bc0f0f;
-    margin: 10px 0;
+    border-top: var(--border-medium) solid var(--color-link-monster);
+    margin: var(--size-s) 0;
   }
 }
 
 .stat-block__ability-scores {
   ul {
-    border-bottom: 2px solid #bc0f0f;
-    border-top: 2px solid #bc0f0f;
+    border-bottom: var(--border-medium) solid var(--color-link-monster);
+    border-top: var(--border-medium) solid var(--color-link-monster);
     break-inside: avoid;
     display: flex;
     flex-wrap: wrap;
-    margin: 10px 0;
+    margin: var(--size-s) 0;
   }
 
   li {
     flex: 1;
-    padding: 10px 0;
+    padding: var(--size-s) 0;
     text-align: center;
   }
 
   strong {
     display: block;
-    font-size: 15px;
   }
 }
