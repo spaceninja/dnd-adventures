@@ -14,8 +14,8 @@
 
   &::before,
   &::after {
-    background-image: url('https://media.dndbeyond.com/compendium-images/components/--right-rules.svg'),
-      url('https://media.dndbeyond.com/compendium-images/components/--left-rules.svg');
+    background-image: url('/images/right-rules.svg'),
+      url('/images/left-rules.svg');
     background-position: left, right;
     background-repeat: no-repeat;
     background-size: contain;

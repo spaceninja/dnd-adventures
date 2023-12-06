@@ -1,7 +1,7 @@
 .adventure-toc {
   h1,
   h2 {
-    background-image: url('https://www.dndbeyond.com/attachments/0/116/500darkbar.png');
+    background-image: url('/images/500darkbar.png');
     background-size: 100% 100%;
     color: white;
     font-family: var(--font-condensed);
@@ -19,7 +19,7 @@
   }
 
   h2 {
-    background-image: url('https://www.dndbeyond.com/attachments/0/507/1180darkbar.png');
+    background-image: url('/images/1180darkbar.png');
     background-size: 100% 100%;
     font-size: var(--font-size-m);
     padding: var(--size-s) var(--size-m);
@@ -36,7 +36,7 @@
 
   &::after,
   &::before {
-    background-image: url('https://www.dndbeyond.com/content/1-0-2370-0/skins/waterdeep/images/border_texture_wide.png');
+    background-image: url('/images/border_texture_wide.png');
     background-size: 100% 100%;
     content: '';
     height: var(--size-l);
@@ -67,7 +67,7 @@
   position: relative;
 
   &::after {
-    background-image: url('https://www.dndbeyond.com/attachments/0/508/ddb-borders-1180.png');
+    background-image: url('/images/ddb-borders-1180.png');
     background-size: 100% 100%;
     bottom: calc(var(--size-m) * -1);
     content: '';

@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1035 1612">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+      }
+    </style>
+  </defs>
+  <title>chevron-left-disabled</title>
+  <path class="cls-1" d="M1184,90q26.5,0,45.5,19l165,166q19,19,19,45t-19,45l-531,531,531,531q19,19,19,45t-19,45l-165,166q-19,19-45.5,19t-45.5-19l-741-742q-19-19-19-45t19-45l741-742Q1157.5,90,1184,90Z" transform="translate(-378.5 -90)"/>
+</svg>
