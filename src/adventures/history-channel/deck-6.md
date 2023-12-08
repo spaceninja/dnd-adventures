@@ -9,7 +9,7 @@ prev:
   title: 'Deck 5: Engineering'
 next:
   url: '../appendix-npcs'
-  title: 'Appendix A: NPC Statistics'
+  title: 'Appendix A: Monsters & NPCs'
 ---
 
 # {{ title }}

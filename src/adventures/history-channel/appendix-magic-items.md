@@ -6,7 +6,7 @@ date: 0000-04-02
 show_nav: true
 prev:
   url: '../appendix-npcs'
-  title: 'Appendix A: NPC Statistics'
+  title: 'Appendix A: Monsters & NPCs'
 next:
   url: '../appendix-wiki-game'
   title: 'Appendix C: Researching Yourself Minigame'

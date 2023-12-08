@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: 'Appendix A: NPC Statistics'
+title: 'Appendix A: Monsters and NPCs'
 tags: history_channel
 date: 0000-04-01
 show_nav: true

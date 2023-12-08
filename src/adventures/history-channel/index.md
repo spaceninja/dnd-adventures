@@ -28,13 +28,13 @@ Can you escape the future before it kills you?
 ### [Introduction](./introduction)
 
 - [Adventure Background](./introduction/#adventure-background)
-- [Adventure Synpopsis](./introduction/#adventure-synopsis)
+- [Adventure Overview](./introduction/#adventure-overview)
 - [Adventure Hooks](./introduction/#adventure-hooks)
-- [DM Overview](./introduction/#dm-overview)
+- [DM Advice](./introduction/#dm-advice)
 
 ### [Part 1: The Arena](./part-1)
 
-- [Let's Make History](./part-1/#lets-make-history)
+- [Let's Make History!](./part-1/#lets-make-history)
 
 ### [Part 2: Escaping the Arena](./part-2)
 
@@ -46,10 +46,10 @@ Can you escape the future before it kills you?
 ### [Part 3: Exploring the Station](./part-3)
 
 - [**Deck 2: Habitation**](./deck-2)
-  - [Crew Quarters](./deck-2/#crew-quarters)
+  - [Habitation](./deck-2/#habitation)
 - [**Deck 3: Science**](./deck-3)
   - [Medical](./deck-3/#medical)
-  - [Research](./deck-3/#research)
+  - [Research & Development](./deck-3/#research-%26-development)
 - [**Deck 4: Promenade & Admin**](./deck-4)
   - [Outer Ring Promenade](./deck-4/#outer-ring-promenade)
   - [Broadcasting](./deck-4/#broadcasting)
@@ -58,12 +58,12 @@ Can you escape the future before it kills you?
   - [Engineering](./deck-5/#engineering)
   - [Life Support](./deck-5/#life-support)
 - [**Deck 6: Flight Deck**](./deck-6)
-  - [Cargo Bay](./deck-6/#cargo-bay)
   - [Shuttle Bay](./deck-6/#shuttle-bay)
+  - [Cargo Bay](./deck-6/#cargo-bay)
 
 ### [Appendices](./appendix-npcs)
 
-- [Appendix A: NPC Statistics](./appendix-npcs)
+- [Appendix A: Monsters & NPCs](./appendix-npcs)
 - [Appendix B: Magic Items & Equipment](./appendix-magic-items)
 - [Appendix C: Researching Yourself Minigame](./appendix-wiki-game)
 - [Appendix D: Player Handouts](./appendix-handouts)
