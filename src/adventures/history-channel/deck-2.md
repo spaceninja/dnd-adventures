@@ -50,7 +50,7 @@ There is a secret hatch behind a ventilation cover on the ceiling of the locker 
 
 > Upon entering the Crew Quarters your first impression is simmering tension. Everywhere you walk, you feel suspicious eyes on you. Some of the doorways have been barricaded. Members of the crew move around in small groups, not lingering any longer than needed. Opposing factions, recognizable from the color of their jumpsuits, stare each other down, silently daring the others to start something. It feels like one spark could cause this place to erupt into open combat.
 
-The long semicircular corridor has dozens of locked doors to officer's cabins and crew sleeping pods. At one end is a locked doorway to Security. There are no guards visible, but there is a camera above the door, and if the characters linger near the Security door, a squad of guards will come out to capture them.
+The long semicircular corridor has dozens of locked doors to officer's cabins and crew sleeping pods. At one end is a locked doorway to Security. There are no guards visible, but there is a camera above the door, and if the characters linger near the Security door, a squad of [**Security Guards**](../appendix-npcs/#security-guard) will come out to capture them.
 
 Midway along the corridor is an [Airlock](../part-3/#airlocks). The inner door is unlocked, but the [**_Vacsuit_**](../appendix-magic-items/#vacsuit) storage lockers are empty, with a note that the suits have been confiscated by #OpsUnion.
 

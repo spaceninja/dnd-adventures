@@ -18,7 +18,7 @@ next:
 
 _Armor, uncommon_
 
-The different factions wear different types of Armor. Security Guards wear Security Armor, which is high quality anti-riot gear. The other factions wear Improvised Armor, which is cobbled together from found items and 3D printed parts.
+The different factions wear different types of Armor. [**Security Guards**](../appendix-npcs/#security-guard) wear Security Armor, which is high quality anti-riot gear. The other factions wear Improvised Armor, which is cobbled together from found items and 3D printed parts.
 
 | Name                   | Type   | AC                        | Strength | Stealth | Weight |
 | ---------------------- | ------ | ------------------------- | -------- | ------- | ------ |
@@ -50,7 +50,15 @@ Laser weapons can be set to "stun" mode, which will deal nonlethal damage.
 
 A laser weapon comes with a single fully-charged energy cell.
 
-Note that laser weapons carried by Security Guards are biometrically locked, and will deliver a nasty shock to anyone else who tries to use them.
+Note that laser weapons carried by [**Security Guards**](../appendix-npcs/#security-guard) are biometrically locked, and will deliver a nasty shock to anyone else who tries to use them.
+
+### [**_Longsword, +2_**](#longsword%2C-%2B2)
+
+_Weapon (longsword), rare_
+
+You have a +2 bonus to attack and damage rolls made with this magic weapon.
+
+Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
 
 ### [**_Mechanical Exoskeleton_**](#mechanical-exoskeleton)
 

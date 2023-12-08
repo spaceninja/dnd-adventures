@@ -48,7 +48,7 @@ Engineering is a large space, bustling with activity. Bright lights illuminate t
 
 One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which is enabling her to move a bit of equipment far larger than a single person could move unassisted.
 
-A pair of guards man a checkpoint near the [Elevator](../part-3/#elevator) and to one side of the reactors is an [Airlock](../part-3/#airlocks) hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
+A pair of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) man a checkpoint near the [Elevator](../part-3/#elevator) and to one side of the reactors is an [Airlock](../part-3/#airlocks) hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
 
 ### Reactors
 
@@ -82,7 +82,7 @@ If asked for access to the Cargo Bay (or airlocks, or any other facility under #
 
 If the characters succeed at fixing the coolant leak for the Technician, the Chief Engineer will call them back to make an offer. As she sees it, the time portal is the cause of all the fighting, and therefore it’s putting the station at risk. If they can destroy the portal, she promises to get them off the station and down to the surface. They wouldn’t be able to return to their time, but at least they’d be free.
 
-The Chief Engineer uses the stats for a [**Veteran**](https://www.dndbeyond.com/monsters/17045-veteran).
+The Chief Engineer uses the stats for an [**#OpsUnion Guard**](../appendix-npcs/#faction-guard).
 
 **Personality.** Demanding, respected, overworked.
 
@@ -106,7 +106,7 @@ _Controlled by #OpsUnion_
 >
 > Shit, shit, shit, I gotta find someone who can get outside or we’re all gonna die!”
 
-On either side of the semicircular room are large, open hatches labeled “Engineering,” which are unguarded. In the middle of the inner hull are two further exits. The door to the [Elevator](../part-3/#elevator) has been completely blocked by a stack of large cargo containers. Through the hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel), you can see a squad of [**#OpsUnion guards**](../part-3/#%23opsunion-guards) manning a barricade constructed to stop anyone from coming down the Tunnel to Life Support, or past it to the Cargo Bay.
+On either side of the semicircular room are large, open hatches labeled “Engineering,” which are unguarded. In the middle of the inner hull are two further exits. The door to the [Elevator](../part-3/#elevator) has been completely blocked by a stack of large cargo containers. Through the hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel), you can see a squad of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) manning a barricade constructed to stop anyone from coming down the Tunnel to Life Support, or past it to the Cargo Bay.
 
 ### Offices
 

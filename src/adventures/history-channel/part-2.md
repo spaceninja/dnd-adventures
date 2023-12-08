@@ -36,9 +36,9 @@ The characters awaken in a holding cell (or a clone tank if they died), before t
 
 _Controlled by #TeamRatings_
 
-Security is clean, well-lit, and orderly. Security Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the Security Guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
+Security is clean, well-lit, and orderly. Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has a barracks where the guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to ressurect anyone killed in the Arena.
 
-There are four exits from Security, all guarded. The [Elevator](../part-3/#elevator) door is locked and will only open for people with #TeamRatings permissions. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) and the door to the Habitation section are both watched by a pair of Security Guards at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
+There are four exits from Security, all guarded. The [Elevator](../part-3/#elevator) door is locked and will only open for people with #TeamRatings permissions. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) and the door to the Habitation section are both watched by a pair of [**Security Guards**](../appendix-npcs/#security-guard) at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
 ### Clone Room
 
@@ -66,13 +66,13 @@ There is a secret hatch under one of the benches. It has been hidden brilliantly
 
 ### Surveillance Room
 
-This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from camera drones in contested territory, or even from body cams of Security Guards on patrol. Any character succeeding on a DC 12 Perception check will notice there are no camera feeds from Deck 3 or 5.
+This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from drones in contested territory, or even from body cams of guards on patrol. Any character succeeding on a DC 12 Perception check will notice there are no camera feeds from Deck 3 or 5.
 
-The Security Chief spends most of her time in this room, coordinating Security Guard patrols and monitoring the status of the station.
+The Security Chief spends most of her time in this room, coordinating guard patrols and monitoring the status of the station.
 
 ### Barracks
 
-This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty Security Guards are in this room, sleeping, eating, or watching videos.
+This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty [**Security Guards**](../appendix-npcs/#security-guard) are in this room, sleeping, eating, or watching videos.
 
 Racks of armor and weapons are kept by the door. At any given time, there are 6D6 sets of [**_Security Armor_**](../appendix-magic-items/#faction-armor), 4D6 [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon), and 2D6 [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon).
 
@@ -88,9 +88,7 @@ _Lawful Evil Elf Fighter_
 
 The Security Chief is delighted with how things have turned out. She was never really happy running security for a calm and orderly tourist hub. In the course of keeping the arena “contestants” in line, she’s discovered a taste for sadistic abuse. After all, no one cares if you violate the rights of history’s most notorious criminals. And if a few prisoners die on her watch, it doesn’t really matter thanks to the clone vats.
 
-She is always surrounded by a squad of at least as many Security Guards as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
-
-The Security Chief uses the stats for a [**Half-Red Dragon Veteran**](https://www.dndbeyond.com/monsters/half-red-dragon-veteran), and carries a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon). (Replace her fire breath attack with a single-shot flamethrower attached to her rifle using the same stats.)
+She is always surrounded by a squad of at least as many [**Security Guards**](../appendix-npcs/#security-guard) as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
 If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. If this happens, any time a Security Guard is defeated in combat, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
 
@@ -112,7 +110,7 @@ In exchange, she offers improved treatment while the characters are in custody. 
 
 After spending the day recovering in security (allow the characters to take a long rest), they are escorted back to the Arena and placed in the same holding pen as last time.
 
-It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of Security Guards, and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding pen in the Arena.
+It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of [**Security Guards**](../appendix-npcs/#security-guard), and add a extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding pen in the Arena.
 
 <figure>
   <a href="/images/history-channel/deck-01-labels@2490.webp">
@@ -154,7 +152,7 @@ The Arena has been secured to prevent the contestants from escaping. The hatch t
 
 ### Stairs to Security
 
-The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six Security Guards with [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon) set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
+The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six [**Security Guards**](../appendix-npcs/#security-guard) with [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon) set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
 
 ### The Champion
 

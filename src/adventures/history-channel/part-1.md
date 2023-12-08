@@ -38,11 +38,11 @@ When everyone is ready to begin, read or paraphrase the following aloud, then ha
 
 This encounter starts in the heat of battle. The shock leaves the characters overwhelmed and struggling. If players try to make perception checks or learn more about their environment, have them do so at disadvantage. They’re groggy, disoriented, and fighting for their lives.
 
-There are six groups of five Arena Contestants, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator), and are all targeting the characters. Start the combat with one group of five, and add an additional group of five every round.
+There are six groups of four [**Gladiators**](../appendix-npcs/#gladiator), and they are all targeting the characters. Start the combat with one group of four, and add an additional group of four every round.
 
 Let the players fight as hard as they like, but the deck is stacked overwhelmingly against them, and the other contestants are fighting to the death. Most likely, the players will eventually be overwhelmed and fall in combat, in which case you should proceed to Part 2 and have the characters wake up in the clone tanks.
 
-If some or all of the characters manage to survive, after ten rounds of combat, the broadcast ends, and a thick gas is released into the Arena rendering everyone unconsious. (If any characters are immune to poison, have a squad of Security Guards enter the arena and use their [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon) to stun any characters left standing.) Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
+If some or all of the characters manage to survive, after ten rounds of combat, the broadcast ends, and a thick gas is released into the Arena rendering everyone unconsious. (If any characters are immune to poison, have a squad of five [**Security Guards**](../appendix-npcs/#security-guard) enter the arena and use their [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon) to stun any characters left standing.) Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
 
 <aside class="text--rules-sidebar">
 
@@ -54,7 +54,7 @@ A no-win scenario can be frustrating for players. But much like low-level charac
 
 ### Arena Contestants
 
-The other “contestants” have survived for some time in the Arena and see the characters as fresh meat. Although they all use the [**Gladiator**](https://www.dndbeyond.com/monsters/gladiator) stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
+The other “contestants” have survived for some time in the Arena and see the characters as fresh meat. Although they all use the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
 
 ### The Arena
 
