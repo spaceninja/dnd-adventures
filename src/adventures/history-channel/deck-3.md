@@ -70,7 +70,7 @@ Since the mutiny, the Doc mostly uses her office as a conference room for meetin
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/doc@512.webp" alt="">
   </div>
 </figure>
 

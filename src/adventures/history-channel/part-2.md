@@ -188,7 +188,7 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img src="/images/history-channel/strategist@512.webp" alt="">
   </div>
 </figure>
 
