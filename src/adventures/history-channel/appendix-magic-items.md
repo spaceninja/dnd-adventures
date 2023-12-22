@@ -18,16 +18,16 @@ next:
 
 _Armor, uncommon_
 
-The different factions wear different types of Armor. [**Security Guards**](../appendix-npcs/#security-guard) wear Security Armor, which is high quality anti-riot gear. The other factions wear Improvised Armor, which is cobbled together from found items and 3D printed parts.
+The different factions wear different types of Armor. [**Security Guards**](../appendix-npcs/#security-guard) wear Security Armor, which is high-quality anti-riot gear. The other factions wear Improvised Armor, which is cobbled together from found items and 3D-printed parts.
 
 | Name                   | Type   | AC                        | Strength | Stealth | Weight |
 | ---------------------- | ------ | ------------------------- | -------- | ------- | ------ |
 | **_Improvised Armor_** | Medium | 13 + Dex modifier (max 2) | --       | --      | 8 lb.  |
 | **_Security Armor_**   | Medium | 14 + Dex modifier (max 2) | --       | --      | 10 lb. |
 
-**_Improvised Armor._** This armor has been hastily cobbled together from common station items and 3D printed components.
+**_Improvised Armor._** This armor has been hastily cobbled together from common station items and 3D-printed components.
 
-**_Security Armor._** This armor is made from a reflective black material designed to protect against laser weapons, and includes a helmet with an anonymizing face mask. While wearing this armor, you have resistance to radiant damage and advantage on Charisma (Deception) checks.
+**_Security Armor._** This armor is made from a reflective black material designed to protect against laser weapons and includes a helmet with an anonymizing face mask. While wearing this armor, you have resistance to radiant damage and advantage on Charisma (Deception) checks.
 
 ### [**_Healing Pack_**](#healing-pack)
 
@@ -46,7 +46,7 @@ It’s up to you to decide whether a character has proficiency with a firearm. C
 | [**_Laser Pistol_**](https://www.dndbeyond.com/equipment/laser-pistol) | Firearms Ranged | 3d6 radiant | 2 lb.  | Ammunition (Firearms), (Range 40/120), reload (50 shots)              |
 | [**_Laser Rifle_**](https://www.dndbeyond.com/equipment/laser-rifle)   | Firearms Ranged | 3d8 radiant | 7 lb.  | Ammunition (Firearms), (Range 100/300), reload (30 shots), two-handed |
 
-Laser weapons can be set to "stun" mode, which will deal nonlethal damage.
+Laser weapons can be set to “stun” mode, which will deal nonlethal damage.
 
 A laser weapon comes with a single fully-charged energy cell.
 
@@ -64,7 +64,7 @@ Proficiency with a longsword allows you to add your proficiency bonus to the att
 
 _Wonderous Item, very rare_
 
-The mechanical exoskeleton is a one-size-fits all framework of yellow metal pipes and cables that fits over a character's armor. The arms end in oversized manipulator claws suitable for moving large objects. Entering or exiting the exoskeleton takes an action.
+The mechanical exoskeleton is a one-size-fits-all framework of yellow metal pipes and cables that fit over a character’s armor. The arms end in oversized manipulator claws suitable for moving large objects. Entering or exiting the exoskeleton takes an action.
 
 While wearing the exoskeleton, you gain the following benefits:
 
@@ -76,7 +76,7 @@ While wearing the exoskeleton, you gain the following benefits:
 
 The exoskeleton can accept only one energy cell at a time. It is found with one energy cell attached, containing 12 charges. Each charge provides 1 hour of operation. When the energy cell is drained or removed, the exoskeleton is inoperable. The user can still enter and exit as normal, but the exoskeleton remains frozen in place.
 
-When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 foot by 6 inches, with a carrying handle, weighing 20 pounds. Expanding or collapsing the exoskeleton takes an action, and can only be done when it is not being worn.
+When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 feet by 6 inches, with a carrying handle, weighing 20 pounds. Expanding or collapsing the exoskeleton takes an action, and can only be done when it is not being worn.
 
 ### [**_Pulse Grenade_**](#pulse-grenade)
 
@@ -100,4 +100,4 @@ A Vacsuit (short for vacuum suit) is designed to allow a crew member to operate 
 
 While wearing a Vacsuit, a character gains a self-contained air supply for one hour. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. It also allows the wearer to speak to anyone else wearing a Vacsuit within line of sight.
 
-The suit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. The character cannot access any gear inside the Vacsuit, but it is covered in pockets and clips for attaching tools they might need. It is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character's air supply.
+The suit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. The character cannot access any gear inside the Vacsuit, but it is covered in pockets and clips for attaching tools they might need. It is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character’s air supply.

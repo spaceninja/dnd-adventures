@@ -14,7 +14,7 @@ next:
 
 # {{ title }}
 
-Deck 2 is split into two sections: Security and Habitation. Security (described in [Part 2](../part-2/#security)) is controlled by #TeamRatings, and used to control the gladiator contests in the Arena. Habitation consists of crew facilities such as the gym and officer's quarters. This area is contested, with the exception of the Bar, which is neutral territory.
+Deck 2 is split into two sections: Security and Habitation. Security (described in [Part 2](../part-2/#security)) is controlled by #TeamRatings and used to control the gladiator contests in the Arena. Habitation consists of crew facilities such as the gym and officers’ quarters. This area is contested, except for the Bar, which is neutral territory.
 
 <figure>
   <a href="/images/history-channel/deck-02-labels@2490.webp">
@@ -38,7 +38,7 @@ _Contested territory_
 
 ### Gym
 
-> The secret corridor from the Brig drops you into an empty changing room. Rows of lockers, benches, and showers sit unused. Stepping into the main space of the Gym you see a wide array of exercise equipment, but no people. At the exit to the corridor, you find a sign reading "Closed for maintenance."
+> The secret corridor from the Brig drops you into an empty changing room. Rows of lockers, benches, and showers sit unused. Stepping into the main space of the Gym you see a wide array of exercise equipment, but no people. At the exit to the corridor, you find a sign reading “Closed for maintenance.”
 
 If the characters search the lockers they find little of interest beyond a pile of clean towels, some sweat-stained workout clothes, and a single crew [**_Jumpsuit_**](../appendix-magic-items/#uniform) in #OpsUnion orange.
 
@@ -50,7 +50,7 @@ There is a secret hatch behind a ventilation cover on the ceiling of the locker 
 
 > Upon entering the Crew Quarters your first impression is simmering tension. Everywhere you walk, you feel suspicious eyes on you. Some of the doorways have been barricaded. Members of the crew move around in small groups, not lingering any longer than needed. Opposing factions, recognizable from the color of their jumpsuits, stare each other down, silently daring the others to start something. It feels like one spark could cause this place to erupt into open combat.
 
-The long semicircular corridor has dozens of locked doors to officer's cabins and crew sleeping pods. At one end is a locked doorway to Security. There are no guards visible, but there is a camera above the door, and if the characters linger near the Security door, a squad of [**Security Guards**](../appendix-npcs/#security-guard) will come out to capture them.
+The long semicircular corridor has dozens of locked doors to officers’ cabins and crew sleeping pods. At one end is a locked doorway to Security. There are no guards visible, but there is a camera above the door, and if the characters linger near the Security door, a squad of [**Security Guards**](../appendix-npcs/#security-guard) will come out to capture them.
 
 Midway along the corridor is an [Airlock](../part-3/#airlocks). The inner door is unlocked, but the [**_Vacsuit_**](../appendix-magic-items/#vacsuit) storage lockers are empty, with a note that the suits have been confiscated by #OpsUnion.
 
@@ -58,7 +58,7 @@ The [Elevator](../part-3/#elevator) is also unlocked, and the characters can use
 
 ### Crew Cabins
 
-Every crew cabin is locked and inaccessible to the players. Some are clearly occupied, as the characters can hear voices inside. Knocking or ringing the bell gets no answer.
+Every crew cabin is locked and inaccessible to the players. Some are occupied, as the characters can hear voices inside. Knocking or ringing the bell gets no answer.
 
 If the characters somehow force access, they find unremarkable housing units with no valuables beyond crew [**_Jumpsuits_**](../appendix-magic-items/#uniform). Any crew members inside flee immediately.
 
@@ -72,9 +72,9 @@ Once the characters escape the arena, do your best to steer them toward the Bar,
 
 ### Bar
 
-> As you near the bar, you see two brawly bouncers physically hurl a crew member in a red uniform across the hall, where he slams into the wall and hits the ground with a thud. He stands up and starts to protest, explaining that he didn’t mean anything by it, but the bouncers just glare at him until he leaves. When you approach, the bouncers look you up and down, but allow you to pass unchallenged.
+> As you near the bar, you see two brawny bouncers physically hurl a crew member in a red uniform across the hall, where he slams into the wall and hits the ground with a thud. He stands up and starts to protest, explaining that he didn’t mean anything by it, but the bouncers just glare at him until he leaves. When you approach, the bouncers look you up and down but allow you to pass unchallenged.
 >
-> The attitude changes completely when you enter the bar. The room is full of crew members from every faction, drinking and laughing and relaxing together. Lo-fi music plays from a jukebox in the corner. You see a couple making out in a booth, wearing uniforms from opposing factions. Most of the light comes from neon signs on the wall. A large hand-written poster with the rules is hung near the bar, and a smaller sign reading “Help Wanted” is taped below that.
+> The attitude changes completely when you enter the bar. The room is full of crew members from every faction, drinking, laughing, and relaxing together. Lo-fi music plays from a jukebox in the corner. You see a couple making out in a booth, wearing uniforms from opposing factions. Most of the light comes from neon signs on the wall. A large hand-written poster with the rules is hung near the bar, and a smaller sign reading “Help Wanted” is taped below that.
 >
 > Standing behind the bar, polishing a glass, is the bartender, a handsome human man with twinkling eyes, dark skin, and a silk shirt. He sees you enter and smiles, gesturing for you to come closer.
 
@@ -89,7 +89,7 @@ Once the characters escape the arena, do your best to steer them toward the Bar,
 
 </aside>
 
-The Bar is a large space with booths around three walls, tables in the center, and a long bartop with stools along the back wall. There's a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
+The Bar is a large space with booths around three walls, tables in the center, and a long bar top with stools along the back wall. There’s a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
 
 If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon) from below the bar and start shooting.
 
@@ -125,9 +125,9 @@ If you bring back the supplies, the Bartender will grant you access to his “sp
 
 ### Back Room
 
-The Bar has a back room, mostly filled with crates of bottles, bar supplies, and assorted items the Bartender has taken in trade. There are weapons, armor, medical supplies, any much more. If the Bartender agrees to trade with the characters, he will bring them back here.
+The Bar has a back room, mostly filled with crates of bottles, bar supplies, and assorted items the Bartender has taken in trade. There are weapons, armor, medical supplies, and much more. If the Bartender agrees to trade with the characters, he will bring them back here.
 
-If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering, because the Bartender will not accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
+If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering because the Bartender will not accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
 
 <aside class="text--rules-sidebar">
 
@@ -142,6 +142,6 @@ Giving the players access to modern weaponry and gear can help them feel more po
 | [**_Security Armor_**](../appendix-magic-items/#faction-armor) | Grants resistance to radiant damage and advantage on Charisma (Deception) checks | 6     |
 | [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon)    | Deals 3d6 radiant damage, 50 shots                                               | 5     |
 | [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon)     | Deals 3d8 radiant damage, 30 shots                                               | 1     |
-| [**_Pulse Grenade_**](../appendix-magic-items/#pulse-grenade)  | Deals 5d6 radiant damage in a 20 foot radius                                     | 3     |
+| [**_Pulse Grenade_**](../appendix-magic-items/#pulse-grenade)  | Deals 5d6 radiant damage in a 20-foot radius                                     | 3     |
 | [**_Healing Pack_**](../appendix-magic-items/#healing-pack)    | Heals 4d4 + 4 hit points                                                         | 3     |
 | [**_Uniform_**](../appendix-magic-items/#uniform)              | Jumpsuit in the proper color scheme for any faction                              | 20    |

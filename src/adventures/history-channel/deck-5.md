@@ -44,9 +44,9 @@ _Controlled by #OpsUnion_
 >
 > “Keep it moving, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places.”
 
-Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly-marked cubbies. Caution stripes and flashing lights are omnipresent.
+Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly marked cubbies. Caution stripes and flashing lights are omnipresent.
 
-One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which is enabling her to move a bit of equipment far larger than a single person could move unassisted.
+One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which enables her to move a piece of equipment far larger than a single person could move unassisted.
 
 A pair of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) man a checkpoint near the [Elevator](../part-3/#elevator) and to one side of the reactors is an [Airlock](../part-3/#airlocks) hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
 
@@ -104,7 +104,7 @@ _Controlled by #OpsUnion_
 >
 > As you watch, a merman swims past you down a water pipe in the direction of an alarm squawking from the far side of the room. You hear muffled squeaks and clicks from the pipe as he passes, which are translated into Common by the station AI and heard through the nearest monitoring station.
 >
-> Shit, shit, shit, I gotta find someone who can get outside or we’re all gonna die!”
+> “Shit, shit, shit, I gotta find someone who can get outside or we’re all gonna die!”
 
 On either side of the semicircular room are large, open hatches labeled “Engineering,” which are unguarded. In the middle of the inner hull are two further exits. The door to the [Elevator](../part-3/#elevator) has been completely blocked by a stack of large cargo containers. Through the hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel), you can see a squad of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) manning a barricade constructed to stop anyone from coming down the Tunnel to Life Support, or past it to the Cargo Bay.
 

@@ -15,13 +15,13 @@ Abducted to the future and forced to compete in broadcast arena combat, the char
 
 ## Adventure Background
 
-The space station was built decades ago by a multinational effort the world had never seen before. At first, the science performed on the station enjoyed broad public support, but over time the funding dried up. Eventually, the station was sold to an entertainment megacorp, Historia Kanalo, which kept the R&D department funded with space tourism.
+The space station was built decades ago by a multinational effort the world had never seen before. At first, the science performed on the station enjoyed broad public support, but over time the funding dried up. Eventually, the station was sold to an entertainment megacorp, Historia Kanalo, which kept the R&D department funded by space tourism.
 
 Five years ago, the scientists achieved their greatest breakthrough: time travel. Documentaries with live footage of historical events provided a boost in viewership, but public interest waned. Faced with falling ratings, corporate leadership brought in a new Director based on his pitch for a show about gladiatorial combat between history’s most notorious criminals.
 
 It was a wild success, not least due to the debate around the ethics of the program. The addition of cloning vats allowed a “contestant” to be killed one night and back on the field the next. Ratings and controversy increased in lockstep.
 
-Then the research team discovered that continued use of the time portal could cause instabilities in the timestream. They released a statement calling for the immediate end of the arena combat program, the return of all contestants to their original time period, and resuming less invasive historical drone footage.
+Then the research team discovered that continued use of the time portal could cause instabilities in the timestream. They released a statement calling for the immediate end of the arena combat program, the return of all contestants to their original time period, and the resumption of less invasive historical drone footage.
 
 The division among station staff escalated to a full-blown mutiny. Corporate evacuated the tourists. The scientists barricaded the science deck and imprisoned the former head of R&D for unethical experimentation. The Director seized the opportunity to broadcast the conflict as a reality show. The public branded the two factions as #TeamEthics and #TeamRatings.
 
@@ -31,7 +31,7 @@ Knowing his support from Corporate depends on keeping ratings up, the Director a
 
 #### A Note on Time Travel
 
-This scenario uses a version of the [multiversal rules of time travel](https://bleedingcool.com/comics/the-new-marvel-rules-of-time-travel-courtesy-of-battle-of-the-atom-spoilers/#:~:text=Mark%20Gruenwald%27s%20Rules%20Of%20Time%20Travel). In a nutshell: Any time travel creates an additional timeline. Therefore, this is only one of _many_ possible futures for the characters, and changes they make when they return the past could keep them from ending up in this timeline.
+This scenario uses a version of the [multiversal rules of time travel](https://bleedingcool.com/comics/the-new-marvel-rules-of-time-travel-courtesy-of-battle-of-the-atom-spoilers/#:~:text=Mark%20Gruenwald%27s%20Rules%20Of%20Time%20Travel). In a nutshell: Any time travel creates an additional timeline. Therefore, this is only one of _many_ possible futures for the characters, and changes they make when they return to the past could keep them from ending up in this timeline.
 
 That said, time travel is a plot device best used in service of your players’ stories, and you should feel free to change or ignore these rules if it makes your game more fun.
 
@@ -55,7 +55,7 @@ The last thing the characters remember is seeing an unusually bright light, then
 
 ### A shifty recruiter
 
-The characters were approached in a bar by a man wearing odd clothes. He spoke Common but gave the impression of being foreign. He asked them to participate in some sort of contest. He seemed to know a lot about them, and exactly what to offer to tempt them. They remember agreeing, and then woke up in the arena feeling drugged and cursing the recruiter.
+The characters were approached in a bar by a man wearing odd clothes. He spoke Common but gave the impression of being foreign. He asked them to participate in some sort of contest. He seemed to know a lot about them, and exactly what to offer to tempt them. They remember agreeing and then woke up in the arena feeling drugged and cursing the recruiter.
 
 ### Taken by force
 
@@ -77,7 +77,7 @@ If the players are having fun exploring, let them decide where to go. But if the
 
 #### Why don’t the NPCs have names?
 
-I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title. But if you prefer, I've left some suggested names in each NPC's profile.
+I prefer to let my players name all my NPCs. I’ve found it helps the players feel some ownership over the story, and they always come up with more creative and funny names than I would anyway. As a result, I refer to all the NPCs by title. But if you prefer, I’ve left some suggested names in each NPC’s profile.
 
 </aside>
 

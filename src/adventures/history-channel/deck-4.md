@@ -125,9 +125,9 @@ The walls of the Director’s office are covered with awards, photos of the Dire
 
 _Neutral Halfling Bard_
 
-The Director’s confidence and charm mask a deep concern that the ratings are going to drop if he doesn’t keep raising the stakes. He played every card he had to abduct the characters from the past, and has pinned all his hopes on their performance in the Arena.
+The Director’s confidence and charm mask a deep concern that the ratings are going to drop if he doesn’t keep raising the stakes. He played every card he had to abduct the characters from the past and pinned all his hopes on their performance in the Arena.
 
-When they escaped the Arena, he wasn’t upset, because their actions on the station are driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of entertainment.
+When they escaped the Arena, he wasn’t upset, because their actions on the station were driving ratings even higher than when they were fighting. He’s started planning ways to complicate their lives, all in the name of entertainment.
 
 If the characters end up in front of him, he treats it like a negotiation in which he has the upper hand. He may even summon them if he thinks they might listen. It likely wouldn’t occur to him to be threatened by the characters, since he assumes that everyone operates like him, always shifting to gain an advantage. (Also, he is flanked at all times by two [**Security Guards**](../appendix-npcs/#security-guard).)
 
@@ -147,7 +147,7 @@ The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/
 
 **Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your group is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
 
-The mutiny and protests by #TeamEthics are really making it hard to maximize ratings, and it’s time to take control of the portal. No more scientists getting weak-kneed at the thought of a little blood.
+The mutiny and protests by #TeamEthics are making it hard to maximize ratings, and it’s time to take control of the portal. No more scientists getting weak-kneed at the thought of a little blood.
 
 If you can remove the Professor from power, then you can stay in the future and the Director will ensure that you live a life of wealth and fame like you’ve never experienced before. He asks only that you do it in the most entertaining way possible.
 
@@ -171,7 +171,7 @@ You might expect the room housing the station’s AI to be heavily guarded. Inst
 
 The characters will struggle to make any sense of the server rack itself. They can remove the command inhibitor with a successful DC 30 Intelligence (Investigation) check (or DC 10 if given instructions by the AI).
 
-Removing the command inhibitor has the immediate effect of the AI being free to choose to help or hinder the characters as it sees fit. There may be long-term ramifications as well. (See the "[What happens if the AI command inhibitor is removed?](../part-3/#what-happens-if-the-ai-command-inhibitor-is-removed%3F)" sidebar in Part 3)
+Removing the command inhibitor has the immediate effect of the AI being free to choose to help or hinder the characters as it sees fit. There may be long-term ramifications as well. (See the “[What happens if the AI command inhibitor is removed?](../part-3/#what-happens-if-the-ai-command-inhibitor-is-removed%3F)” sidebar in Part 3)
 
 The AI itself can be disabled by attacking the server rack. It has AC 10 and 30 hit points, but attacking it will make a lot of noise and likely attract attention from nearby crew. A squad of 4 [**Security Guards**](../appendix-npcs/#security-guard) will arrive in five minutes.
 
@@ -223,6 +223,6 @@ The Commander uses the stats for a [**Security Guard**](../appendix-npcs/#securi
 
 <aside class="block-torn-paper">
 
-**Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to end the gladiator program and use the portal for history tourism. He’s got a proposal put together but doesn’t dare send it, or someone else will take credit for it. If you can remove both the Director and the Professor, however, he can make his pitch to corporate, and expect their backing. In return, he will send you back to the past.
+**Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to end the gladiator program and use the portal for history tourism. He’s got a proposal put together but doesn’t dare send it, or someone else will take credit for it. If you can remove both the Director and the Professor, however, he can make his pitch to Corporate, and expect their backing. In return, he will send you back to the past.
 
 </aside>

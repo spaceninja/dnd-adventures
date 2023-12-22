@@ -12,7 +12,7 @@ Slaad base. Lean into horror science station trope. Chaos in the first room, dea
 
 TODO
 
-Welcome to In Dire Need, a D&D Adventurers LeagueTM adventure, part of the official D&D Adventurers LeagueTM organized play system and the Storm King's ThunderTM storyline season.
+Welcome to In Dire Need, a D&D Adventurers LeagueTM adventure, part of the official D&D Adventurers LeagueTM organized play system and the Storm King’s ThunderTM storyline season.
 
 This adventure is designed for **three to seven 5th-10th level characters**, and is optimized for **five 7th-level characters**. Characters outside this level range cannot participate in this adventure. A player with an ineligible character can create a new 1st- level character or use a pregenerated character.
 

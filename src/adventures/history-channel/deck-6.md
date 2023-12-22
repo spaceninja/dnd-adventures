@@ -36,9 +36,9 @@ Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shu
 
 _Contested Territory_
 
-> The Shuttle Bay has clearly been the location of a longstanding struggle for control. There are laser scorch marks all over the walls, and some lights have been shot, causing them to flicker annoyingly. Guards from each faction huddle behind makeshift barricades. Cargo pallettes and abandoned equipment are scattered around the room. A forklift lays on its side, a burning wreck, despite the diligent efforts of a custodial drone trying to spray foam on the flames.
+> The Shuttle Bay has clearly been the location of a longstanding struggle for control. There are laser scorch marks all over the walls, and some lights have been shot, causing them to flicker annoyingly. Guards from each faction huddle behind makeshift barricades. Cargo palettes and abandoned equipment are scattered around the room. A forklift lays on its side, a burning wreck, despite the diligent efforts of a custodial drone trying to spray foam on the flames.
 >
-> Periodically, a recorded announcement comes over the intercom announcing that all flights have been grounded by corporate order, with the exception of automated drone supply shuttles. It is clear that the battle is only on hold, and will flare up as soon as the next shuttle docks with the station.
+> Periodically, a recorded announcement comes over the intercom announcing that all flights have been grounded by corporate order, except automated drone supply shuttles. It is clear that the battle is only on hold, and will flare up as soon as the next shuttle docks with the station.
 
 The Shuttle Bay is one large semicircular room with 6 docking hatches spaced evenly along the outside wall. The high ceilings have large, industrial light fixtures that brightly illuminate the cavernous space. There are painted lines on the floor detailing paths to each hatch and various other points.
 
@@ -62,7 +62,7 @@ If the characters gain entrance, the shuttle has a large open area near the back
 
 ### Pilots’ Lounge
 
-To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens showing the broadcast, and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
+To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens showing the broadcast and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
 
 ### The Pilot
 
@@ -98,7 +98,7 @@ The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/1702
 
 _Controlled by #OpsUnion_
 
-> The Cargo Bay is a dimly lit warehouse of shelves filled with boxes labeled in a language you can't understand. Small, birdlike drones buzz around the space, shining lights on labels, and sometimes picking up crates that seem far heavier than they should be able to lift. They all seem to be reporting to a Modron who moves through the space following patterns and moving items according to a system that only he understands.
+> The Cargo Bay is a dimly lit warehouse of shelves filled with boxes labeled in a language you can’t understand. Small, birdlike drones buzz around the space, shining lights on labels, and sometimes picking up crates that seem far heavier than they should be able to lift. They all seem to be reporting to a Modron who moves through the space following patterns and moving items according to a system that only he understands.
 
 The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s connected to. The dimly lit space is filled with orderly shelves that stretch from floor to ceiling, each filled with bins and crates. Although everything is meticulously labeled, it’s all in some sort of machine code, and it’s not clear how anyone other than the Quartermaster would find anything in here.
 
