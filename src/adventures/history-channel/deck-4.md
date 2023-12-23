@@ -69,7 +69,7 @@ To describe the shop, choose a random store from your local mall or roll on the 
 | 7   | Junk food and gossip magazines                                      |
 | 8   | Toys and board games. Large sign promoting a collectible card game. |
 | 9   | Massage parlour                                                     |
-| 10  | Coffee shop                                                         |
+| 10  | Cafe                                                                |
 | 11  | Historia Kanalo corporate store                                     |
 | 12  | Books and videos promoting a strange cult                           |
 
@@ -77,7 +77,7 @@ To describe the shop, choose a random store from your local mall or roll on the 
 
 _Controlled by #TeamRatings_
 
-> Broadcasting is a bustling hive of activity. The corridor is well-lit and crew move quickly from place to place, fetching coffee, delivering updates, and moving equipment. The center of all the activity is Broadcasting Control, where the nonstop broadcast covering the mutiny and the daily gladiatorial combat is managed.
+> Broadcasting is a bustling hive of activity. The corridor is well-lit and crew move quickly from place to place, fetching items, delivering updates, and moving equipment. The center of all the activity is Broadcasting Control, where the nonstop broadcast covering the mutiny and the daily gladiatorial combat is managed.
 
 If the characters have gained access without invitation and are wearing a red #TeamRatings [**_Jumpsuit_**](../appendix-magic-items/#uniform) or [**_Security Armor_**](../appendix-magic-items/#faction-armor), they can move along the corridor with a successful DC 15 Charisma (Deception) check. If not, they’ll be confronted by the person who spots them.
 
@@ -87,7 +87,7 @@ At either end of the semicircular corridor is a locked door opening onto the cor
 
 This is the beating heart of the broadcast. The far wall is covered with dozens of viewscreens showing all the available feeds, as well as a much larger screen in the middle displaying the feed currently being broadcast.
 
-Dozens of workstations fill the room, all staffed by crew dedicated to producing graphics, controlling camera drones, and applying effects and post-processing. Coffee cups are everywhere. The broadcast never stops, and the crew here work continually.
+Dozens of workstations fill the room, all staffed by crew dedicated to producing graphics, controlling camera drones, and applying effects and post-processing. Mugs are everywhere. The broadcast never stops, and the crew here work continually.
 
 Unless he’s meeting with the characters in his office, the Director can be found here, in a chair on a raised platform near the back of the room, with a view of everything else. There is a green screen behind it and several cameras facing it, so the Director can provide his color commentary on the broadcast from his seat of power.
 
@@ -97,7 +97,7 @@ The smaller studios see less use now that the Director has shifted to continual 
 
 ### Green Room
 
-Originally used for documentary hosts and broadcast guests, this room has been converted into a break room for crew. At any given time, three or four broadcast personnel can be found here, napping on the couch, eating their lunch, or making coffee.
+Originally used for documentary hosts and broadcast guests, this room has been converted into a break room for crew. At any given time, three or four broadcast personnel can be found here, napping on the couch or eating their lunch.
 
 ### Wardrobe
 
@@ -189,7 +189,7 @@ The conference rooms, which are mostly used to communicate with Corporate, are s
 
 ### Ready Room
 
-A holdover from the days when the bridge crew had more to do, the ready room is now more of a break room or lounge. A large wraparound sofa has been installed in one corner, facing a viewscreen with a gaming console. A small cafeteria table with a few chairs sits near a kitchenette with a rather nice coffee machine.
+A holdover from the days when the bridge crew had more to do, the ready room is now more of a break room or lounge. A large wraparound sofa has been installed in one corner, facing a viewscreen with a gaming console. A small cafeteria table with a few chairs sits near a kitchenette with a rather nice vending machine.
 
 ### Offices
 

@@ -98,7 +98,7 @@ One of the tables has a folder with the intern’s name on it. Inside is a torn-
 
 <aside class="block-torn-paper">
 
-Day 17: It’s only been three weeks, but I’m already so glad I came! I’m learning so much (and the waffle bar is delicious!).
+Day 17: It’s only been three tendays, but I’m already so glad I came! I’m learning so much (and the waffle bar is delicious!).
 
 There is a squad of Githzeria monks and an anarch here, who keep the research station floating in a bubble of stable space, unaffected by the surrounding chaos. They live in the barracks outside the main building. They are polite but distant.
 

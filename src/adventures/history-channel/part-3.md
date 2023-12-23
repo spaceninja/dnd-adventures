@@ -58,7 +58,7 @@ _“Corporate assholes who’ll keep torturing the timeline as long as there’s
 
 #### #TeamEthics
 
-_“A bunch of eggheads who don’t understand their ivory tower costs money.”_
+_“A bunch of eggheads who don’t understand their ivory tower requires coin.”_
 
 #TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by [**the Professor**](../deck-3/#the-professor), who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, [**the Mad Scientist**](../deck-3/#the-mad-scientist), is locked up in Medical as a result of her unethical experiments. The head of Medical is [**the Doc**](../deck-3/#the-doc), who just wants the fighting to stop.
 
