@@ -52,7 +52,7 @@ A pair of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) man a checkpoi
 
 ### Reactors
 
-The reactors are large, complex machines that the characters have no hope of understanding. Despite that, it should seem clear to them that things are not operating well at the moment. Everything about the reactors and the crew working on them should give the impression of a system stressed to its limits.
+The reactors are large, complex machines that the characters have no hope of understanding. Despite that, it should seem clear to them that things aren’t operating well at the moment. Everything about the reactors and the crew working on them should give the impression of a system stressed to its limits.
 
 ### Offices
 

@@ -91,7 +91,7 @@ Once the characters escape the arena, do your best to steer them toward the Bar,
 
 The Bar is a large space with booths around three walls, tables in the center, and a long bar top with stools along the back wall. There’s a jukebox, restrooms, and about 15-20 people at any given time. The door is guarded by two Bouncers, who use the stats for [**Gladiators**](https://www.dndbeyond.com/monsters/gladiator).
 
-If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they will not be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon) from below the bar and start shooting.
+If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they won’t be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon) from below the bar and start shooting.
 
 ### The Bartender
 
@@ -127,7 +127,7 @@ If you bring back the supplies, the Bartender will grant you access to his “sp
 
 The Bar has a back room, mostly filled with crates of bottles, bar supplies, and assorted items the Bartender has taken in trade. There are weapons, armor, medical supplies, and much more. If the Bartender agrees to trade with the characters, he will bring them back here.
 
-If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering because the Bartender will not accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
+If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering because the Bartender won’t accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
 
 <aside class="text--rules-sidebar">
 

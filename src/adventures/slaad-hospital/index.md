@@ -14,13 +14,13 @@ TODO
 
 Welcome to In Dire Need, a D&D Adventurers LeagueTM adventure, part of the official D&D Adventurers LeagueTM organized play system and the Storm King’s ThunderTM storyline season.
 
-This adventure is designed for **three to seven 5th-10th level characters**, and is optimized for **five 7th-level characters**. Characters outside this level range cannot participate in this adventure. A player with an ineligible character can create a new 1st- level character or use a pregenerated character.
+This adventure is designed for **three to seven 5th-10th level characters**, and is optimized for **five 7th-level characters**. Characters outside this level range can’t participate in this adventure. A player with an ineligible character can create a new 1st- level character or use a pregenerated character.
 
 The adventure is set in the Hartsvale region of the Forgotten Realms, predominantly in the Ice Spire Mountains.
 
 ### Adjusting the Adventure
 
-Throughout this adventure, sidebars provide information to assist you in making adjustments for smaller or larger groups and characters of higher or lower levels than the adventure is optimized for. This is typically used exclusively for combat encounters. These adjustments are not required, nor are you bound to the suggestions made by the adventure—they are recommendations provided for guidance and convenience.
+Throughout this adventure, sidebars provide information to assist you in making adjustments for smaller or larger groups and characters of higher or lower levels than the adventure is optimized for. This is typically used exclusively for combat encounters. These adjustments aren’t required, nor are you bound to the suggestions made by the adventure—they are recommendations provided for guidance and convenience.
 
 This adventure is **optimized for a party of five 8th level characters**. To figure out whether you need to adjust the adventure, do the following:
 
@@ -38,7 +38,7 @@ You’ve now determined the **average party level (APL)** for the adventure. To 
 | **APL = 8** | Weak           | Average      | Strong         |
 | **APL > 8** | Average        | Strong       | Very Strong    |
 
-Average party strength indicates no recommended adjustments to the adventure. Each sidebar may or may not offer suggestions for certain party strengths. If a particular recommendation is not offered for your grou
+Average party strength indicates no recommended adjustments to the adventure. Each sidebar may or may not offer suggestions for certain party strengths. If a particular recommendation isn’t offered for your grou
 
 ### Adventure Background
 
@@ -124,13 +124,13 @@ Treasure: The research here can be collected and delivered to the Limbo Drakegua
 
 <aside class="block-torn-paper">
 
-Day 36: I’m experiencing some doubts about the research they’re doing here. On the first floor, it was all what I expected. Taking samples from captive Slaad and conducting research. But level two is different. There are no Slaad up here, only human prisoners. The scientists here are less friendly and more guarded about their research, but it’s not hard to work out.
+Day 36: I’m experiencing some doubts about the research they’re doing here. On the first floor, it was all what I expected. Taking samples from captive Slaad and conducting research. But level two is different. There are no Slaad up here, only human prisoners. The scientists here are less friendly and more guarded about their research, but it isn’t hard to work out.
 
 They’re deliberately infecting the prisoners with both chaos phage and Slaad eggs, harvested from level one. The prisoners are kept sedated, so they don’t seem to be suffering, and some of the research appears to be investigating how to control the speed of the infection or incubation process.
 
 I tell myself they’re looking for ways to slow it down, but I have my doubts. I’ve shared my concerns with a few scientists, but they just brush it off by explaining that these prisoners are “the worst of the worst” from the material plane, where they all have death sentences.
 
-Only one man understood my concerns. He called me over during lunch one day and told me to stop asking so many questions. I protested, pointing out that the work we’re doing seems unethical. He didn’t deny it, but only implied that objecting would get me in trouble. The next day he was gone. I’ve been keeping my head down, focusing on my research. The floor supervisor says the head researching is still asking about me, but I think I have to say something, even if it means they fire me.
+Only one person understood my concerns. He called me over during lunch one day and told me to stop asking so many questions. I protested, pointing out that the work we’re doing seems unethical. He didn’t deny it, but only implied that objecting would get me in trouble. The next day he was gone. I’ve been keeping my head down, focusing on my research. The floor supervisor says the head researching is still asking about me, but I think I have to say something, even if it means they fire me.
 
 </aside>
 
@@ -156,7 +156,7 @@ Day 42: I had the strangest conversation with the level two supervisor. I sat hi
 
 Now I find myself here, in this dimly lit place. The science here is even more abstract. We’re still operating on prisoners, but whatever we’re testing on them is different. The details are jealously guarded, but I think it’s a modified version of Chaos Phage. I’m not sure how it’s been changed, but I can see from the observation records that it’s much faster acting. Who knows if that’s all they’ve done to it.
 
-These men have no concern for the health of the subjects. The sedation is often insufficient, and I hear the prisoners moan and struggling against their straps. Whatever we’re doing here, it’s clear that it’s no longer about Slaad or saving lives. I can’t imagine the head researcher approves of this. I’m going to find a way to take my concerns directly to him.
+These people have no concern for the health of the subjects. The sedation is often insufficient, and I hear the prisoners moan and struggling against their straps. Whatever we’re doing here, it’s clear that it’s no longer about Slaad or saving lives. I can’t imagine the head researcher approves of this. I’m going to find a way to take my concerns directly to him.
 
 </aside>
 
@@ -174,7 +174,7 @@ The desk belongs to the head researcher. The notes are written in Undercommon. I
 
 Day 55. I’m in a cage. How could I have been so foolish? Of course the head researcher knew. I was fooled by his charming demeanor. But when I pulled him aside during one of his rare visits to level three and shared my concerns he just smiled and laughed that easy laugh of his. Then I blacked out and woke up here.
 
-There are a few other imprisoned scientists in the other cells, including the researcher from level two who warned me to keep my head down. Now I know where he disappeared to, I guess. He tells me that every day the head researcher takes one of us into the operating theater. We never see them again, but the bodies that are wheeled past us are not Slaad. They’re purple and have horrible tentacled faces that I’ve only seen in my nightmares…
+There are a few other imprisoned scientists in the other cells, including the researcher from level two who warned me to keep my head down. Now I know where he disappeared to, I guess. He tells me that every day the head researcher takes one of us into the operating theater. We never see them again, but the bodies that are wheeled past us aren’t Slaad. They’re purple and have horrible tentacled faces that I’ve only seen in my nightmares…
 
 I’ve torn the first page from my journal and threw it out the window with a cry for help. Maybe one of the Githzerai guards will see it. I can’t believe they could be in on this depravity.
 
@@ -192,7 +192,7 @@ Head researcher is unveiled as mind flayer testing his mind flayer venom on a gi
 
 Beyond the double doors you find an operating room. The lights glow a sickly red, and reveal a Githyanki youth strapped down to a table, looking terrified. Standing over him, injecting a fluid into an IV bag already connected to the kid’s arm, is a kindly-looking human scientist. There is a strong air of illusion magic around him.
 
-He does not move, but keeps his hand on the knob that will start the drip. He will try to smooth talk them, get them talking. The whole time, he’s using telekinesis to move needles full of the poison to inject into the players. If anyone makes a perception check of 30, they’ll notice the needles. Otherwise, have the group make a dexterity saving throw to avoid being infected with Illithid Phage.
+He doesn’t move, but keeps his hand on the knob that will start the drip. He will try to smooth talk them, get them talking. The whole time, he’s using telekinesis to move needles full of the poison to inject into the players. If anyone succeeds on a DC 30 Wisdom (Perception) check, they’ll notice the needles. Otherwise, have the group make a Dexterity saving throw to avoid being infected with Illithid Phage.
 
 While infected, the target can’t regain hit points, and its hit point maximum is reduced by 10 (3d6) every round. If the disease reduces the target’s hit point maximum to 0, the target passes out and must make death saving throws to avoid being transformed into a mind flayer.
 

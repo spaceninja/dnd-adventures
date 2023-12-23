@@ -48,7 +48,7 @@ Unless the characters are actively being stealthy, they should be spotted by Cam
 
 The food courts at opposite ends of the promenade are active combat zones. Squads from all three factions are crouched behind overturned tables or the counters of the food stalls, shooting at anything that moves.
 
-This is an incredibly unsafe place for the characters to be. To move through the area they need to succeed on a DC 12 Dexterity (Acrobatics) check or a DC 18 Dexterity (Stealth) check. On a failure, the character takes 3D6 radiant damage from a [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) bolt.
+This is an incredibly unsafe place for the characters to be. To move through the area they need to succeed on a DC 12 Dexterity (Acrobatics) check or a DC 18 Dexterity (Stealth) check. On a failure, the character takes 3d6 radiant damage from a [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) bolt.
 
 ### Shops
 

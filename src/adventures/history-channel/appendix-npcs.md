@@ -538,9 +538,9 @@ _Medium Humanoid (Elf), Lawful Evil_
 
 **_Stun Baton._** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage, plus 7 (2d6) radiant damage.
 
-**_Laser Rifle._** _Ranged Weapon Attack:_ +3 to hit, range 100/300 ft., one target. _Hit:_ 14 (3d8 + 1) radiant damage. Her laser rifle is biometrically locked and will deliver a nasty shock (3d6) to anyone else who tries to use it.
+**_Laser Rifle._** _Ranged Weapon Attack:_ +3 to hit, range 100/300 ft., one target. _Hit:_ 14 (3d8 + 1) radiant damage. Her Laser Rifle is biometrically locked and will deliver a nasty shock (3d6) to anyone else who tries to use it.
 
-**_Flamethrower (1/Day)._** A single-use flamethrower is mounted under the security chief’s rifle, which throws fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+**_Flamethrower (1/Day)._** A single-use flamethrower is mounted under the security chief’s Laser Rifle, which throws fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
 </section>
 

@@ -88,7 +88,7 @@ The station is full of locked doors and guarded passages, but for the most part,
 
 Access to an area controlled by a faction depends on how they view the characters.
 
-- **Hostile.** If a faction is hostile towards the characters (such as #TeamRatings at the start of the adventure), they will not be given access to any controlled areas. Further, guards for the faction will likely attack and attempt to capture the characters if spotted. Guards will pursue the characters, but won’t leave the controlled space.
+- **Hostile.** If a faction is hostile towards the characters (such as #TeamRatings at the start of the adventure), they won’t be given access to any controlled areas. Further, guards for the faction will likely attack and attempt to capture the characters if spotted. Guards will pursue the characters, but won’t leave the controlled space.
 - **Neutral.** If a faction is neutral towards the characters (such as #TeamEthics and the #OpsUnion at the start of the adventure), they may be granted limited access to controlled areas. For instance, if the characters ask to speak to the Chief Engineer, a guard will escort them to meet her.
 - **Friendly.** If the characters have earned a faction’s trust (for example, the characters can gain the #OpsUnion’s trust by repairing the coolant leak), they will be granted unescorted access to controlled areas (with some exceptions, like the Portal Chamber).
 
@@ -100,19 +100,19 @@ Due to the ongoing conflict, any space on the station controlled by a single fac
 
 [**Security Guards**](../appendix-npcs/#security-guard) wear anonymous riot cop-style [**_Security Armor_**](../appendix-magic-items/#faction-armor), with face masks and helmets. While on duty, they will be armed with (mostly) non-lethal weapons like batons and will fight to subdue. However, if the characters resist too much or have gotten on the bad side of Security, they will escalate from cracking heads to shooting to kill.
 
-Squads of Security Guards will be sent to hunt the characters down if they’re loose in the station, and these squads should always show up at the most opportune moments to create the most chaos or disrupt the characters’ plans. However, they are not being paid enough to die, and if they sense the fight is going badly, they will retreat as a group, covering each other’s exits, so they can attack again in the future.
+Squads of Security Guards will be sent to hunt the characters down if they’re loose in the station, and these squads should always show up at the most opportune moments to create the most chaos or disrupt the characters’ plans. However, they aren’t being paid enough to die, and if they sense the fight is going badly, they will retreat as a group, covering each other’s exits, so they can attack again in the future.
 
 ##### Faction Guards
 
-[**#TeamEthics Guards**](../appendix-npcs/#faction-guard) and [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) are not as well equipped as security guards. They wear [**_Improvised Armor_**](../appendix-magic-items/#faction-armor) cobbled together from common station items and 3D printed components.
+[**#TeamEthics Guards**](../appendix-npcs/#faction-guard) and [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) aren’t as well equipped as security guards. They wear [**_Improvised Armor_**](../appendix-magic-items/#faction-armor) cobbled together from common station items and 3D printed components.
 
 ### Contested Areas
 
-Some areas of the station, such as the Promenade on Deck 4 or the Shuttle Bay on Deck 6, are not under the control of a single faction. Often there are active skirmishes between groups trying to prevent each other from seizing control. Moving through these areas can be dangerous, and the characters are likely to be caught in the crossfire or even actively come under attack.
+Some areas of the station, such as the Promenade on Deck 4 or the Shuttle Bay on Deck 6, aren’t under the control of a single faction. Often there are active skirmishes between groups trying to prevent each other from seizing control. Moving through these areas can be dangerous, and the characters are likely to be caught in the crossfire or even actively come under attack.
 
 #### Surveillance
 
-Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1D6 Camera Drones following them. Anything the drones can see will likely be included in the broadcast, and NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and will not move between decks.
+Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1d6 Camera Drones following them. Anything the drones can see will likely be included in the broadcast, and NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and won’t move between decks.
 
 Within a few minutes of being spotted by Camera Drones, a squad of [**Security Guards**](../part-2/#security-guards) should arrive in the area and attempt to capture them.
 
@@ -120,9 +120,9 @@ Within a few minutes of being spotted by Camera Drones, a squad of [**Security G
 
 [**Camera Drones**](../appendix-npcs/#camera-drone) are quadcopters about the size of a football that follow characters around, broadcasting what they can see back to the Director.
 
-They are not very smart and can be tricked, misdirected, or avoided fairly easily. If the characters successfully dodge all the drones following them, the drones will relocate them within 3D6 minutes.
+They aren’t very smart and can be tricked, misdirected, or avoided fairly easily. If the characters successfully dodge all the drones following them, the drones will relocate them within 3d6 minutes.
 
-They are extremely agile and will try to dodge any attempt to interfere with them. They can be disabled by submerging or dousing them with water, hitting them with electricity, or by a shot from a [**_laser weapon_**](../appendix-magic-items/#laser-weapon) in stun mode. If disabled, the drone falls out of the air and lays on the floor sparking and smoking until a cleaning drone comes to collect it. Disabled drones will be replaced within the hour, or the next time the characters enter contested or #TeamRatings territory.
+They are extremely agile and will try to dodge any attempt to interfere with them. They can be disabled by submerging or dousing them with water, hitting them with electricity, or by a shot from a [**_Laser Weapon_**](../appendix-magic-items/#laser-weapon) in stun mode. If disabled, the drone falls out of the air and lays on the floor sparking and smoking until a cleaning drone comes to collect it. Disabled drones will be replaced within the hour, or the next time the characters enter contested or #TeamRatings territory.
 
 ### The Elevator
 
@@ -149,7 +149,7 @@ On most decks, one door has been blocked off from the outside, so the passengers
 
 ### The Cargo Tunnel
 
-The Cargo Tunnel is a large zero-gravity shaft running the length of the station, large enough for shipping containers to be moved from the Cargo Bay to any deck on the station. The tunnel is well-lit, with caution stripes painted on any protruding surfaces and warning lights near every hatch and opening. It smells faintly of burned plastic and there are laser gun scorch marks scattered randomly across the walls.
+The Cargo Tunnel is a large zero-gravity shaft running the length of the station, large enough for shipping containers to be moved from the Cargo Bay to any deck on the station. The tunnel is well-lit, with caution stripes painted on any protruding surfaces and warning lights near every hatch and opening. It smells faintly of burned plastic and there are laser scorch marks scattered randomly across the walls.
 
 The Cargo Bay is contested territory, though open combat has settled into an uneasy stalemate. Each deck’s hatch is locked or guarded by the faction that controls that deck. Anyone traversing the length of the tunnel will be challenged by the guards they pass, and it won’t take much to spark a firefight.
 

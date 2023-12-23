@@ -35,7 +35,7 @@ This scenario uses a version of the [multiversal rules of time travel](https://b
 
 That said, time travel is a plot device best used in service of your players’ stories, and you should feel free to change or ignore these rules if it makes your game more fun.
 
-Thinking about the mechanics of time travel can get messy quickly. If your players are getting bogged down speculating about it, you might gently remind them that their characters are not scientists, the scientists on the station are still figuring out how it all works, and they have more pressing concerns.
+Thinking about the mechanics of time travel can get messy quickly. If your players are getting bogged down speculating about it, you might gently remind them that their characters aren’t scientists, the scientists on the station are still figuring out how it all works, and they have more pressing concerns.
 
 </aside>
 

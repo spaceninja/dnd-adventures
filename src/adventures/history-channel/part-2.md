@@ -36,7 +36,7 @@ The characters awaken in a holding cell (or a clone tank if they died) before th
 
 _Controlled by #TeamRatings_
 
-Security is clean, well-lit, and orderly. Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she’s not afraid to head into the field. The area has barracks where the guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to resurrect anyone killed in the Arena.
+Security is clean, well-lit, and orderly. Guards move through the area with purpose, supervised by the Security Chief. She can often be found in the surveillance room, observing the banks of cameras and giving orders, but she isn’t afraid to head into the field. The area has barracks where the guards sleep as well as a set of holding cells for prisoners and a room filled with clone tanks to resurrect anyone killed in the Arena.
 
 There are four exits from Security, all guarded. The [Elevator](../part-3/#elevator) door is locked and will only open for people with #TeamRatings permissions. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) and the door to the Habitation section are both watched by a pair of [**Security Guards**](../appendix-npcs/#security-guard) at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
@@ -66,7 +66,7 @@ There is a secret hatch under one of the benches. It has been hidden brilliantly
 
 ### Surveillance Room
 
-This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from drones in contested territory, or even from body cams of guards on patrol. Any character succeeding on a DC 12 Perception check will notice there are no camera feeds from Deck 3 or 5.
+This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from drones in contested territory, or even from body cams of guards on patrol. Any character succeeding on a DC 12 Wisdom (Perception) check will notice there are no camera feeds from Deck 3 or 5.
 
 The Security Chief spends most of her time in this room, coordinating guard patrols and monitoring the status of the station.
 
@@ -74,7 +74,7 @@ The Security Chief spends most of her time in this room, coordinating guard patr
 
 This long room is filled with row after row of bunk beds. At any given time, about 20 off-duty [**Security Guards**](../appendix-npcs/#security-guard) are in this room, sleeping, eating, or watching videos.
 
-Racks of armor and weapons are kept by the door. At any given time, there are 6D6 sets of [**_Security Armor_**](../appendix-magic-items/#faction-armor), 4D6 [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon), and 2D6 [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon).
+Racks of armor and weapons are kept by the door. At any given time, there are 6d6 sets of [**_Security Armor_**](../appendix-magic-items/#faction-armor), 4d6 [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon), and 2d6 [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon).
 
 ### The Security Chief
 
@@ -88,7 +88,7 @@ _Lawful Evil Elf Fighter_
 
 The Security Chief is delighted with how things have turned out. She was never really happy running security for a calm and orderly tourist hub. In the course of keeping the arena “contestants” in line, she’s discovered a taste for sadistic abuse. After all, no one cares if you violate the rights of history’s most notorious criminals. And if a few prisoners die on her watch, it doesn’t matter thanks to the clone vats.
 
-She is always surrounded by a squad of at least as many [**Security Guards**](../appendix-npcs/#security-guard) as there are characters (more if she feels threatened). She cannot be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
+She is always surrounded by a squad of at least as many [**Security Guards**](../appendix-npcs/#security-guard) as there are characters (more if she feels threatened). She can’t be reasoned with, manipulated, or bribed. The current situation suits her just fine, and she will do whatever it takes to maintain the status quo.
 
 If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. If this happens, any time a Security Guard is defeated in combat, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
 
@@ -102,7 +102,7 @@ If the Security Chief is defeated, it has a demoralizing effect on all Security 
 
 **Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. She’s already hacked the cloning computer to scramble the Champion’s data, so the cloning process will fail, and the Champion will die permanently.
 
-In exchange, she offers improved treatment while the characters are in custody. Better food, rest, respect. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of deal. She knows she has the upper hand and is not likely to negotiate.
+In exchange, she offers improved treatment while the characters are in custody. Better food, rest, respect. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of deal. She knows she has the upper hand and isn’t likely to negotiate.
 
 </aside>
 
@@ -134,11 +134,11 @@ It should be clear to the characters that they are dramatically outnumbered by t
 >
 > “Hello, and welcome to another evening of _Historia Kanalo Arena Combat_! We had a very exciting time last night, and I’ve had a wonderful day reviewing the discussion boards. I’ve seen you all sharing your favorite clips, the most dramatic blows! Well, let’s not waste any more time, let’s see what our newest contestants can do now that they’ve been introduced. Ladies and gentlemen, LET’S! MAKE! HISTORY!”
 >
-> As before, an alarm sounds, and the metal bars retract into the ground. But unlike last night, the other “contestants” do not immediately gang up on you. Instead, they scatter around the arena, moving to claim favorable locations, with a casual ease that tells you how long some of them have been stuck here.
+> As before, an alarm sounds, and the metal bars retract into the ground. But unlike last night, the other “contestants” don’t immediately gang up on you. Instead, they scatter around the arena, moving to claim favorable locations, with a casual ease that tells you how long some of them have been stuck here.
 >
-> As you look around, you see an enormous Orc woman carrying a vicious longsword. She’s with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. The Orc woman notices you, grins, and waves for you to approach.
+> As you look around, you see an enormous female Orc carrying a vicious longsword. She’s with a small crew of other warriors, who are all protecting a small woman in ill-fitting armor, poking at the ground where the metal bars retracted. The Orc notices you, grins, and waves for you to approach.
 
-The Orc woman is the Champion, who is protecting the Strategist, who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
+The Orc is the Champion, who is protecting the Strategist, who is studying odd things in the Arena like welding seams and the depth of the dirt floor, as if she’s looking for weak points.
 
 If the characters don’t approach, have the Champion split off from her group to come closer to say the Strategist wants to speak with them.
 

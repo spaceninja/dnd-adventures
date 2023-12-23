@@ -48,7 +48,7 @@ The intensive care unit handles the most urgent injuries, which lately means a l
 
 The Doc can be found here, directing efforts and doing her best to keep things running smoothly. If the characters try to speak with her, she brushes them off, saying something like “Sorry, but unless you’re here to help, I’m not available.”
 
-If the characters want to help, the Doc can direct them to several patients with less serious wounds who need assistance. They can try to stabilize a patient by making a successful DC 12 Wisdom (Medicine) check, by casting any healing spell, or by using a healing potion. If they stabilize 3 or more patients, the Doc will invite them back to her office to thank them, hear what they have to say, and if she thinks they’ll be receptive, offer them a quest to shut down the broadcast.
+If the characters want to help, the Doc can direct them to several patients with less serious wounds who need assistance. They can try to stabilize a patient by succeeding on a DC 12 Wisdom (Medicine) check, by casting any healing spell, or by using a healing potion. If they stabilize 3 or more patients, the Doc will invite them back to her office to thank them, hear what they have to say, and if she thinks they’ll be receptive, offer them a quest to shut down the broadcast.
 
 ### Hospital Wards
 
@@ -144,7 +144,7 @@ Inside is a large room dominated by the portal itself: a large metal circle bris
 
 When active, the center of the circle fills with a haze that emits a dull coppery light. The circle crackles with electricity, and through the haze a dim vision of the connected location is visible.
 
-Surrounding the portal are multiple workstations, all displaying readouts with data from the portal. A large computer is built into the primary console, used to control the portal. Attached to it is a secure drive containing the schematics and blueprints for the portal. The secure drive can be removed easily, but unless they have been told what to look for by the Pilot, the characters must make a successful DC 15 Intelligence (Investigation) check to identify it.
+Surrounding the portal are multiple workstations, all displaying readouts with data from the portal. A large computer is built into the primary console, used to control the portal. Attached to it is a secure drive containing the schematics and blueprints for the portal. The secure drive can be removed easily, but unless they have been told what to look for by the Pilot, the characters must succeed on a DC 15 Intelligence (Investigation) check to identify it.
 
 ### Labs
 
@@ -174,9 +174,9 @@ _Lawful Good Sentient Weapon wielded by Human Barbarian_
 
 The Director of Research & Development is an ancient sentient weapon, who everyone simply calls “The Professor.” They date back to around the characters’ time period. Over the centuries, they grew tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
-However, The Professor could not ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
+However, The Professor couldn’t ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
-The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/2560752-champion) but is a pacifist and will not fight under any circumstances.
+The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/2560752-champion) but is a pacifist and won’t fight under any circumstances.
 
 **Personality.** Intelligent, calm, serious.
 
@@ -194,6 +194,6 @@ The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/mons
 
 #### Sentient Weapons
 
-[Sentient weapons](https://www.dndbeyond.com/sources/basic-rules/magic-items#SentientMagicItems) form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it cannot command someone it has not bonded with.
+[Sentient weapons](https://www.dndbeyond.com/sources/basic-rules/magic-items#SentientMagicItems) form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it can’t command someone it hasn’t bonded with.
 
 </aside>

@@ -36,7 +36,7 @@ When everyone is ready to begin, read or paraphrase the following aloud, then ha
 >
 > The metal bars retract into the ground, and every fighter in the arena charges straight for you.
 
-This encounter starts in the heat of battle. The shock leaves the characters overwhelmed and struggling. If players try to make perception checks or learn more about their environment, have them do so at disadvantage. They’re groggy, disoriented, and fighting for their lives.
+This encounter starts in the heat of battle. The shock leaves the characters overwhelmed and struggling. If players try to make Perception checks or learn more about their environment, have them do so with disadvantage. They’re groggy, disoriented, and fighting for their lives.
 
 There are six groups of four [**Gladiators**](../appendix-npcs/#gladiator), and they are all targeting the characters. Start the combat with one group of four, and add an additional group of four every round.
 
@@ -60,7 +60,7 @@ The other “contestants” have survived for some time in the Arena and see the
 
 The Arena is a large, well-lit, open space with a domed glass ceiling stretching high overhead revealing a view of a crowded sea of stars and the surface of the planet. The room has a dirt floor, but it’s uneven, with small hills and valleys, even a few dead trees.
 
-A DC 12 Perception check reveals that this space used to be some sort of park. There are still indications of it in the stone borders of a scummy pond, or a small wooden bridge that has been uprooted for use as a barricade.
+A successful DC 12 Wisdom (Perception) check reveals that this space used to be some sort of park. There are still indications of it in the stone borders of a scummy pond, or a small wooden bridge that has been uprooted for use as a barricade.
 
 There are several hazards scattered around, like large logs bristling with spikes. If any characters look for opportunities in combat, suggest something like this, and let them have a small victory by tricking another contestant into damaging themselves on the hazard. It won’t affect the overall battle, but it will help the players feel a sense of agency despite the odds being stacked against them.
 

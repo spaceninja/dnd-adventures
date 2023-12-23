@@ -76,7 +76,7 @@ While wearing the exoskeleton, you gain the following benefits:
 
 The exoskeleton can accept only one energy cell at a time. It is found with one energy cell attached, containing 12 charges. Each charge provides 1 hour of operation. When the energy cell is drained or removed, the exoskeleton is inoperable. The user can still enter and exit as normal, but the exoskeleton remains frozen in place.
 
-When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 feet by 6 inches, with a carrying handle, weighing 20 pounds. Expanding or collapsing the exoskeleton takes an action, and can only be done when it is not being worn.
+When not in use, the exoskeleton can be collapsed into a compact package about 3 feet by 2 feet by 6 inches, with a carrying handle, weighing 20 pounds. Expanding or collapsing the exoskeleton takes an action, and can only be done when it isn’t being worn.
 
 ### [**_Pulse Grenade_**](#pulse-grenade)
 
@@ -90,7 +90,7 @@ Each creature within 20 feet of an exploding pulse grenade must make a DC 15 Dex
 
 _Adventuring Gear, common_
 
-The crew of the station wear jumpsuits in the proper color scheme for their faction (Red for #TeamRatings, Green for #TeamEthics, and high-visibility orange for #OpsUnion). Wearing a uniform does not count as a disguise by itself, but it could help a character blend in with other crew.
+The crew of the station wear jumpsuits in the proper color scheme for their faction (Red for #TeamRatings, Green for #TeamEthics, and high-visibility orange for #OpsUnion). Wearing a uniform doesn’t count as a disguise by itself, but it could help a character blend in with other crew.
 
 ### [**_Vacsuit_**](#vacsuit)
 
