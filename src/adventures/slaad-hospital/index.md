@@ -1,7 +1,8 @@
 ---
 layout: layout.njk
-title: Slaad Hospital
 tags: adventures
+eleventyComputed:
+  title: '{{ publication.title }}'
 ---
 
 # {{ title }}

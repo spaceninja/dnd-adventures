@@ -15,11 +15,11 @@
   <header class="header" id="top">
     <div class="header-content">
       <a href="/"><strong>D&D</strong> Vandeventures</a>
-      {% if adventure %}
+      {% if publication %}
         <span>&#10095;</span>
-        <a href="{{ adventure.url }}">{{ adventure.title }}</a>
-        {% if adventure.version %}
-          <span class="version"><small>&#10095; {{ adventure.version }}</small></span>
+        <a href="{{ publication.url }}">{{ publication.title }}</a>
+        {% if publication.version %}
+          <span class="version"><small>&#10095; {{ publication.version }}</small></span>
         {% endif %}
       {% endif %}
     </div>

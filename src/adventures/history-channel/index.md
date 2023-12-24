@@ -4,7 +4,7 @@ tags: adventures
 main_class: adventure-toc
 body_class: history-channel
 eleventyComputed:
-  title: '{{ adventure.title }}'
+  title: '{{ publication.title }}'
 ---
 
 # {{ title }}

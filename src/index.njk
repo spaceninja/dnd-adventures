@@ -4,8 +4,10 @@ title: D&D Vandeventures
 main_class: sources-toc
 ---
 
-<h1>Adventures</h1>
-<p>Finely crafted D&D adventures by Scott Vandehey.</p>
+<h1>Sources</h1>
+<p>Finely crafted D&D publications by Scott Vandehey.</p>
+
+<h2>Adventures</h2>
 <ul class="sources-listing">
   {% for post in collections.adventures %}
     <li class="sources-listing--item-wrapper">
@@ -14,8 +16,34 @@ main_class: sources-toc
           alt=""
           class="sources-listing--item--avatar"
           src="
-                {%- if post.data.adventure.thumbnail -%}
-                  {{ post.data.adventure.thumbnail }}
+                {%- if post.data.publication.thumbnail -%}
+                  {{ post.data.publication.thumbnail }}
+                {%- else -%}
+                  /images/placeholders/elmore-cover@750.webp
+                {%- endif -%}"
+          width="375"
+          height="375"
+          />
+        <div class="sources-listing--item--title">{{ post.data.publication.title }}</div>
+        {%- if post.data.publication.version -%}
+          <div class="sources-listing--item--version">{{ post.data.publication.version }}</div>
+        {%- endif -%}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Sourcebooks</h2>
+<ul class="sources-listing">
+  {% for post in collections.sourcebooks %}
+    <li class="sources-listing--item-wrapper">
+      <a href="{{ post.page.url }}" class="sources-listing--item">
+        <img
+          alt=""
+          class="sources-listing--item--avatar"
+          src="
+                {%- if post.data.publication.thumbnail -%}
+                  {{ post.data.publication.thumbnail }}
                 {%- else -%}
                   /images/placeholders/elmore-cover@750.webp
                 {%- endif -%}"
@@ -23,10 +51,22 @@ main_class: sources-toc
           height="375"
           />
         <div class="sources-listing--item--title">{{ post.data.title }}</div>
-        {%- if post.data.adventure.version -%}
-          <div class="sources-listing--item--version">{{ post.data.adventure.version }}</div>
+        {%- if post.data.publication.version -%}
+          <div class="sources-listing--item--version">{{ post.data.publication.version }}</div>
         {%- endif -%}
       </a>
     </li>
   {% endfor %}
 </ul>
+
+<aside class="text--rules-sidebar">
+  <h4>Versioning</h4>
+  <ul>
+    <li><strong>Draft.</strong> Early work-in-progress draft.</li>
+    <li><strong>Alpha.</strong> Content complete, not yet edited.</li>
+    <li><strong>Beta.</strong> Edited, in final review before publishing.</li>
+    <li><strong>1.0.</strong> First published version</li>
+    <li><strong>1.<em>N</em>.</strong> Minor changes like typos.</li>
+    <li><strong><em>N</em>.0.</strong> Significant "breaking" change.</li>
+  </ul>
+</aside>
