@@ -9,7 +9,7 @@
     "build": "run-p build:*",
     "build:content": "eleventy",
     "build:css": "sass src:dist",
-    "build:pdf": "node build-pdf.mjs",
+    "pdf": "node build-pdf.mjs",
     "watch": "run-p watch:*",
     "watch:content": "eleventy --serve",
     "watch:css": "sass --watch src:dist",
