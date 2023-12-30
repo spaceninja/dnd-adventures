@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Part 2: Escaping the Arena'
-tags: history_channel
+tags: future_hate
 date: 0000-02-00
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 The characters awaken in a holding cell (or a clone tank if they died) before they are returned to the Arena for another round of combat. This repeats until the characters meet the Strategist, who shows them how to escape.
 
 <figure>
-  <a href="/images/history-channel/deck-02-fogged-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-02-fogged-labels@2490.webp">
     <img
       alt="Map of Deck 2"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-02-fogged-labels@830.webp"
+      src="/images/the-future-hates-you/deck-02-fogged-labels@830.webp"
       srcset="
-        /images/history-channel/deck-02-fogged-labels@830.webp 830w,
-        /images/history-channel/deck-02-fogged-labels@1660.webp 1660w,
-        /images/history-channel/deck-02-fogged-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-02-fogged-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-02-fogged-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-02-fogged-labels@2490.webp 2490w"
       width="830"
       height="476"
       />
@@ -80,7 +80,7 @@ Racks of armor and weapons are kept by the door. At any given time, there are 6d
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/security-chief@512.webp" alt="">
+    <img src="/images/the-future-hates-you/security-chief@512.webp" alt="">
   </div>
 </figure>
 
@@ -113,15 +113,15 @@ After spending the day recovering in security (allowing the characters to take a
 It should be clear to the characters that they are dramatically outnumbered by the guards, but in case they try to fight, start with a five-person squad of [**Security Guards**](../appendix-npcs/#security-guard), and add an extra squad every round until the characters surrender or are all defeated. Then grant them a short rest and have them wake up in the holding pen in the Arena.
 
 <figure>
-  <a href="/images/history-channel/deck-01-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-01-labels@2490.webp">
     <img
       alt="Map of the Arena"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-01-labels@830.webp"
+      src="/images/the-future-hates-you/deck-01-labels@830.webp"
       srcset="
-        /images/history-channel/deck-01-labels@830.webp 830w,
-        /images/history-channel/deck-01-labels@1660.webp 1660w,
-        /images/history-channel/deck-01-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-01-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-01-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-01-labels@2490.webp 2490w"
       width="830"
       height="476"
       />
@@ -158,7 +158,7 @@ The only remaining exit from the Arena is the stairwell down to Security. It has
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/champion@512.webp" alt="">
+    <img src="/images/the-future-hates-you/champion@512.webp" alt="">
   </div>
 </figure>
 
@@ -188,7 +188,7 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/strategist@512.webp" alt="">
+    <img src="/images/the-future-hates-you/strategist@512.webp" alt="">
   </div>
 </figure>
 

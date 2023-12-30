@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Appendix B: Magic Items & Equipment'
-tags: history_channel
+tags: future_hate
 date: 0000-04-02
 show_nav: true
 prev:

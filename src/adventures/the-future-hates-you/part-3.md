@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: Part 3 - Exploring the Station
-tags: history_channel
+tags: future_hate
 date: 0000-03-00
 show_nav: true
 prev:
@@ -19,15 +19,15 @@ After escaping from the arena, the characters explore the rest of the space stat
 ## The Station
 
 <figure class="compendium-image-right">
-  <a href="/images/history-channel/station@1020.webp">
+  <a href="/images/the-future-hates-you/station@1020.webp">
     <img
       alt="External view of the space station"
       sizes="(min-width: 850px) 340px, 40vw"
-      src="/images/history-channel/station@340.webp"
+      src="/images/the-future-hates-you/station@340.webp"
       srcset="
-        /images/history-channel/station@340.webp 340w,
-        /images/history-channel/station@680.webp 680w,
-        /images/history-channel/station@1020.webp 1020w"
+        /images/the-future-hates-you/station@340.webp 340w,
+        /images/the-future-hates-you/station@680.webp 680w,
+        /images/the-future-hates-you/station@1020.webp 1020w"
       width="340"
       height="428"
       />

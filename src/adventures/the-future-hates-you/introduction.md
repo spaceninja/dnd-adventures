@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: Introduction
-tags: history_channel
+tags: future_hate
 date: 0000-00-00
 show_nav: true
 next:

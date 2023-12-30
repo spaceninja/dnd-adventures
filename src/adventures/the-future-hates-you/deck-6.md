@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Deck 6: Flight Deck'
-tags: history_channel
+tags: future_hate
 date: 0000-03-06
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shuttle Bay is the site of an ongoing battle as the factions fight for resources on the automated supply shuttles that dock periodically. The Cargo Bay, controlled by #OpsUnion, is a sprawling labyrinth of shelving and drones overseen by the Quartermaster.
 
 <figure>
-  <a href="/images/history-channel/deck-06-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-06-labels@2490.webp">
     <img
       alt="Map of Deck 6"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-06-labels@830.webp"
+      src="/images/the-future-hates-you/deck-06-labels@830.webp"
       srcset="
-        /images/history-channel/deck-06-labels@830.webp 830w,
-        /images/history-channel/deck-06-labels@1660.webp 1660w,
-        /images/history-channel/deck-06-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-06-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-06-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-06-labels@2490.webp 2490w"
       width="830"
       height="478"
       />
@@ -68,7 +68,7 @@ To the left of the elevator is a long room that follows the curve of the inner h
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/pilot@512.webp" alt="">
+    <img src="/images/the-future-hates-you/pilot@512.webp" alt="">
   </div>
 </figure>
 

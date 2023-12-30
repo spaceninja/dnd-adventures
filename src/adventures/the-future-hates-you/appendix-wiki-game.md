@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Appendix C: Researching Yourself Minigame'
-tags: history_channel
+tags: future_hate
 date: 0000-04-03
 show_nav: true
 prev:

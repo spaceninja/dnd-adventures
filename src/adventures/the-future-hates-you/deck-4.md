@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Deck 4: Promenade & Admin'
-tags: history_channel
+tags: future_hate
 date: 0000-03-04
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 Deck Four is a double ring. The tourist shops of the outer ring Promenade have all been closed by active combat between factions in the food courts. The inner ring is divided into two sections: Broadcast and Command, both controlled by #TeamRatings. The Director has converted Broadcasting from a facility focused on creating historical documentaries to reality programming around the ongoing mutiny and the daily gladiatorial combat. Command is a ghost town, most operations having been automated by the Station AI and the crew drafted into the fighting elsewhere on the station.
 
 <figure>
-  <a href="/images/history-channel/deck-04-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-04-labels@2490.webp">
     <img
       alt="Map of Deck 4"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-04-labels@830.webp"
+      src="/images/the-future-hates-you/deck-04-labels@830.webp"
       srcset="
-        /images/history-channel/deck-04-labels@830.webp 830w,
-        /images/history-channel/deck-04-labels@1660.webp 1660w,
-        /images/history-channel/deck-04-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-04-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-04-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-04-labels@2490.webp 2490w"
       width="830"
       height="479"
       />

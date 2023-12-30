@@ -1,3 +1,4 @@
+const { EleventyRenderPlugin } = require('@11ty/eleventy');
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
 
@@ -9,6 +10,9 @@ module.exports = function (eleventyConfig) {
 
   // Watch for CSS changes
   eleventyConfig.addWatchTarget('./src/_scss/');
+
+  // Add Eleventy Render Plugin
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   // Add MarkdownIt plugins
   let options = {

@@ -1,0 +1,1 @@
+Disclaimer: Historia Kanalo is not responsible for any instabilities introduced to your timeline due to participation, voluntary or otherwise, in any broadcast. Employees who become their own ancestors may not declare themselves as a dependent on tax forms. If you find you are fading from existence, please proceed to HR immediately to process your exit paperwork.

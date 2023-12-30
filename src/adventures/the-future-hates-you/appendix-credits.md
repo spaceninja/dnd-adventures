@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: Credits
-tags: history_channel
+tags: future_hate
 date: 0000-04-05
 show_nav: true
 prev:

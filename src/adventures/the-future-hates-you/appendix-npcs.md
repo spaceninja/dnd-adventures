@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Appendix A: Monsters and NPCs'
-tags: history_channel
+tags: future_hate
 date: 0000-04-01
 show_nav: true
 prev:

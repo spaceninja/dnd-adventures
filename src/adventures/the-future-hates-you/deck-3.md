@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Deck 3: Science'
-tags: history_channel
+tags: future_hate
 date: 0000-03-03
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 Deck 3 is divided into two sections: Medical and Research & Development, both controlled by #TeamEthics. Medical is nearly overwhelmed with injuries from the ongoing fighting. In R&D, the brain trust of scientists continues their research as best they can with the time portal itself on lockdown.
 
 <figure>
-  <a href="/images/history-channel/deck-03-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-03-labels@2490.webp">
     <img
       alt="Map of Deck 3"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-03-labels@830.webp"
+      src="/images/the-future-hates-you/deck-03-labels@830.webp"
       srcset="
-        /images/history-channel/deck-03-labels@830.webp 830w,
-        /images/history-channel/deck-03-labels@1660.webp 1660w,
-        /images/history-channel/deck-03-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-03-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-03-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-03-labels@2490.webp 2490w"
       width="830"
       height="473"
       />
@@ -70,7 +70,7 @@ Since the mutiny, the Doc mostly uses her office as a conference room for meetin
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/doc@512.webp" alt="">
+    <img src="/images/the-future-hates-you/doc@512.webp" alt="">
   </div>
 </figure>
 
@@ -104,7 +104,7 @@ A storage closet at the far end of Medical has been cleared out and converted in
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/mad-scientist@512.webp" alt="">
+    <img src="/images/the-future-hates-you/mad-scientist@512.webp" alt="">
   </div>
 </figure>
 

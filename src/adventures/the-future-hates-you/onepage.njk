@@ -1,0 +1,70 @@
+---
+layout: layout.njk
+title: 'The Future Hates You!'
+---
+
+<article class="new-page title-page">
+  <h1>{{ title }}</h1>
+  <div class="adventure-toc__intro">
+  {% renderFile './src/adventures/the-future-hates-you/_includes/intro.md' %}
+  </div>
+  <div class="adventure-toc__content">
+    {% renderTemplate 'md' %}
+
+### [Introduction](./introduction)
+
+- [Adventure Background](./introduction/#adventure-background)
+- [Adventure Overview](./introduction/#adventure-overview)
+- [Adventure Hooks](./introduction/#adventure-hooks)
+- [DM Advice](./introduction/#dm-advice)
+
+### [Part 1: The Arena](./part-1)
+
+- [Let’s Make History!](./part-1/#lets-make-history)
+
+### [Part 2: Escaping the Arena](./part-2)
+
+- [Security](./part-2/#security)
+- [Return to the Arena](./part-2/#return-to-the-arena)
+
+<br style="break-after: column">
+
+### [Part 3: Exploring the Station](./part-3)
+
+- [**Deck 2: Habitation**](./deck-2)
+  - [Habitation](./deck-2/#habitation)
+- [**Deck 3: Science**](./deck-3)
+  - [Medical](./deck-3/#medical)
+  - [Research & Development](./deck-3/#research-%26-development)
+- [**Deck 4: Promenade & Admin**](./deck-4)
+  - [Outer Ring Promenade](./deck-4/#outer-ring-promenade)
+  - [Broadcasting](./deck-4/#broadcasting)
+  - [Command](./deck-4/#command)
+- [**Deck 5: Engineering**](./deck-5)
+  - [Engineering](./deck-5/#engineering)
+  - [Life Support](./deck-5/#life-support)
+- [**Deck 6: Flight Deck**](./deck-6)
+  - [Shuttle Bay](./deck-6/#shuttle-bay)
+  - [Cargo Bay](./deck-6/#cargo-bay)
+
+### [Appendices](./appendix-npcs)
+
+- [Appendix A: Monsters & NPCs](./appendix-npcs)
+- [Appendix B: Magic Items & Equipment](./appendix-magic-items)
+- [Appendix C: Researching Yourself Minigame](./appendix-wiki-game)
+- [Appendix D: Player Handouts](./appendix-handouts)
+- [Credits](./appendix-credits)
+
+    {% endrenderTemplate %}
+  </div>
+
+  <div class="compendium-disclaimer">
+  {% renderFile './src/adventures/the-future-hates-you/_includes/disclaimer.md' %}
+  </div>
+</article>
+
+{% for post in collections.future_hate %}
+  <section>
+    {{ post.content | safe }}
+  </section>
+{% endfor %}

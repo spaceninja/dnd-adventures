@@ -2,7 +2,7 @@
 layout: layout.njk
 tags: adventures
 main_class: adventure-toc
-body_class: history-channel
+body_class: the-future-hates-you
 eleventyComputed:
   title: '{{ publication.title }}'
 ---
@@ -11,13 +11,9 @@ eleventyComputed:
 
 <div class="adventure-toc__intro">
 
-<a class="view-cover-art" href="/images/history-channel/cover@2490.webp">View Cover Art</a>
+<a class="view-cover-art" href="/images/the-future-hates-you/cover@2490.webp">View Cover Art</a>
 
-**Televised arena combat in the far future**
-
-The good news? You’ve come to the future and you’re famous! The bad news? You were abducted by a time-traveling edutainment megacorp that counts you among history’s most notorious criminals, and they’re forcing you to compete in brutal televised arena combat!
-
-Can you escape the future before it kills you?
+{% include './_includes/intro.md' %}
 
 </div>
 
@@ -73,6 +69,6 @@ Can you escape the future before it kills you?
 
 <div class="compendium-disclaimer">
 
-Disclaimer: Historia Kanalo is not responsible for any instabilities introduced to your timeline due to participation, voluntary or otherwise, in any broadcast. Employees who become their own ancestors may not declare themselves as a dependent on tax forms. If you find you are fading from existence, please proceed to HR immediately to process your exit paperwork.
+{% include './_includes/disclaimer.md' %}
 
 </div>

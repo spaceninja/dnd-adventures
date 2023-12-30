@@ -82,10 +82,10 @@ body {
   color: var(--color-page-fg, black);
 
   /* stylelint-disable-next-line selector-no-qualifying-type */
-  &.history-channel {
+  &.the-future-hates-you {
     background:
-      url('/images/history-channel/station-bg.webp') no-repeat center top / 100%
-        auto,
+      url('/images/the-future-hates-you/station-bg.webp') no-repeat center top /
+        100% auto,
       var(--image-page-bg),
       var(--color-page-bg, white);
   }

@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Deck 2: Habitation'
-tags: history_channel
+tags: future_hate
 date: 0000-03-02
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 Deck 2 is split into two sections: Security and Habitation. Security (described in [Part 2](../part-2/#security)) is controlled by #TeamRatings and used to control the gladiator contests in the Arena. Habitation consists of crew facilities such as the gym and officers’ quarters. This area is contested, except for the Bar, which is neutral territory.
 
 <figure>
-  <a href="/images/history-channel/deck-02-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-02-labels@2490.webp">
     <img
       alt="Map of Deck 2"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-02-labels@830.webp"
+      src="/images/the-future-hates-you/deck-02-labels@830.webp"
       srcset="
-        /images/history-channel/deck-02-labels@830.webp 830w,
-        /images/history-channel/deck-02-labels@1660.webp 1660w,
-        /images/history-channel/deck-02-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-02-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-02-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-02-labels@2490.webp 2490w"
       width="830"
       height="476"
       />
@@ -97,7 +97,7 @@ If the characters cause any trouble, the Bartender will gesture at the Bouncers,
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/bartender@512.webp" alt="">
+    <img src="/images/the-future-hates-you/bartender@512.webp" alt="">
   </div>
 </figure>
 

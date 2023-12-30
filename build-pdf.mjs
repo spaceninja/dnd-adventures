@@ -117,7 +117,6 @@ const getMeta = (htmlPath) => {
 const generatePDF = async (htmlPath) => {
   // Get the slug and path info for this HTML file
   const meta = getMeta(htmlPath);
-  console.log('META', meta);
   // Get the contents of the HTML file
   const html = await getHtmlFromFile(meta.htmlPathCWD);
   // Create a PDF from the HTML contents
@@ -129,4 +128,4 @@ const generatePDF = async (htmlPath) => {
   console.log(`[PDF] Writing ${meta.pdfPath}`);
 };
 
-await generatePDF('dist/adventures/history-channel/onepage/index.html');
+await generatePDF('dist/adventures/the-future-hates-you/onepage/index.html');

@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Deck 5: Engineering'
-tags: history_channel
+tags: future_hate
 date: 0000-03-05
 show_nav: true
 prev:
@@ -17,15 +17,15 @@ next:
 Deck 5 consists of two areas, Engineering and Life Support, both controlled by #OpsUnion. Engineering is a hive of activity, full of engineers bustling around the three reactors that power the station, while the Chief Engineer tries to deal with damage caused by the fighting. Life Support is a confusing tangle of pipes and ducting, where the Technician is dealing with a serious coolant leak that could lead to the station exploding.
 
 <figure>
-  <a href="/images/history-channel/deck-05-labels@2490.webp">
+  <a href="/images/the-future-hates-you/deck-05-labels@2490.webp">
     <img
       alt="Map of Deck 5"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/history-channel/deck-05-labels@830.webp"
+      src="/images/the-future-hates-you/deck-05-labels@830.webp"
       srcset="
-        /images/history-channel/deck-05-labels@830.webp 830w,
-        /images/history-channel/deck-05-labels@1660.webp 1660w,
-        /images/history-channel/deck-05-labels@2490.webp 2490w"
+        /images/the-future-hates-you/deck-05-labels@830.webp 830w,
+        /images/the-future-hates-you/deck-05-labels@1660.webp 1660w,
+        /images/the-future-hates-you/deck-05-labels@2490.webp 2490w"
       width="830"
       height="478"
       />
@@ -66,7 +66,7 @@ One office is designated for the Chief Engineer. Inside is a large worktable cov
 
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/history-channel/chief@512.webp" alt="">
+    <img src="/images/the-future-hates-you/chief@512.webp" alt="">
   </div>
 </figure>
 

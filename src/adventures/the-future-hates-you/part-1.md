@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: 'Part 1: The Arena'
-tags: history_channel
+tags: future_hate
 date: 0000-01-00
 show_nav: true
 prev:
