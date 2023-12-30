@@ -1,0 +1,19 @@
+@media print {
+  .header,
+  .footer {
+    display: none;
+  }
+
+  body {
+    background: none;
+    color: black;
+  }
+
+  .primary-content {
+    padding: 0;
+  }
+
+  h1 {
+    margin-top: 0;
+  }
+}

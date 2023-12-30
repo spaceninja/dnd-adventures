@@ -77,7 +77,6 @@ const fetchPDF = async (html, slug) => {
       },
     }),
   });
-  console.log('PDF RESPONSE', pdfRes);
   if (!pdfRes.ok)
     throw new Error(
       `${slug}: ${pdfRes.status} ${pdfRes.statusText} ${await pdfRes.text()}`,
