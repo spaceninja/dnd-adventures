@@ -4,6 +4,7 @@ img {
 }
 
 figure {
+  break-inside: avoid;
   margin: var(--size-s) 0;
 
   img {

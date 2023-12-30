@@ -8,6 +8,7 @@
     url('/images/5f1f1d66d16be68cf09d6ca172f8df92.png')
   );
   border-width: var(--size-l) var(--size-s);
+  break-inside: avoid;
   color: var(--color-theme-quote-fg, currentcolor);
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);

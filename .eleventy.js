@@ -21,6 +21,9 @@ module.exports = function (eleventyConfig) {
   let markdownLibrary = markdownIt(options).use(markdownItAnchor);
   eleventyConfig.setLibrary('md', markdownLibrary);
 
+  // Add a shortcode for the current year
+  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
+
   return {
     dir: {
       input: 'src',

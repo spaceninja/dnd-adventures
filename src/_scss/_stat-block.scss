@@ -2,6 +2,7 @@
   background: var(--color-page-bg);
   border: var(--border-thin) solid var(--color-table-head-border);
   box-shadow: 0 0 var(--size-xs) var(--color-page-fg-subtle);
+  break-inside: avoid;
   clear: both;
   font-size: var(--font-size-s);
   margin: var(--size-l) 0;

@@ -15,7 +15,7 @@ prev:
 
 **Additional Design:** Chuck Lauer Vose
 
-**Cover:** Martin Atkins
+**Cover Art:** Martin Atkins
 
 **Character Portraits:** Vicki Li
 

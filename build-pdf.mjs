@@ -46,6 +46,8 @@ const getHtmlFromFile = async (htmlPath) => {
   updatedHTML = String(await inlineCssAndJs.process(updatedHTML));
   // Change any image URLs to paths so they can be inlined
   updatedHTML = updatedHTML.replaceAll('/images/', 'dist/images/');
+  // Strip all images for speedier PDF testing
+  updatedHTML = updatedHTML.replace(/<img[^>]*>/g, '');
   // Inline the assets
   return String(await inlineImages.process(updatedHTML));
 };

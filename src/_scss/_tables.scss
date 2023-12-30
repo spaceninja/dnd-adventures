@@ -3,6 +3,7 @@ table {
   border: var(--border-thin) solid var(--color-table-border, lightgrey);
   border-collapse: collapse;
   border-spacing: 0;
+  break-inside: avoid;
   margin: var(--size-l) 0 var(--size-xxxl);
   width: 100%;
 }

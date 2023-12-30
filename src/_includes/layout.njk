@@ -53,16 +53,7 @@
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <div class="footer-content">
-      <div class="footer-copyright">
-        <p>DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand, Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.</p>
-        <p>This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the Community Content Agreement for Dungeon Masters Guild.</p>
-        <p>All other original material in this work is copyright 2022 by Scott Vandehey and published under the Community Content Agreement for Dungeon Masters Guild.</p>
-      </div>
-      <div class="footer-logo">
-        <img src="/images/DMsGuildLogo.jpg" alt="Dungeon Masters Guild" width="100">
-      </div>
-    </div>
+    {% include 'legal.njk' %}
   </footer>
 </body>
 </html>

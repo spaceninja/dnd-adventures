@@ -3,6 +3,7 @@ blockquote {
   border-color: var(--color-quote-border, currentcolor);
   border-left: var(--border-thin) solid;
   border-right: var(--border-thin) solid;
+  break-inside: avoid;
   color: var(--color-theme-page-fg);
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);

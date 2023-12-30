@@ -1,20 +1,27 @@
 ---
 layout: layout.njk
-title: 'The Future Hates You!'
+eleventyComputed:
+  title: '{{ publication.title }}'
 ---
 
-<article class="new-page title-page">
-  <h1>{{ title }}</h1>
-  <div class="">
-  {% renderFile './src/adventures/the-future-hates-you/_includes/intro.md' %}
+<article class="new-page title-page one-column">
+  <h1 class="title-page__title">{{ title }}</h1>
+  <div class="title-page__description">
+    {% renderFile './src/adventures/the-future-hates-you/_includes/intro.md' %}
   </div>
-  <div class="compendium-disclaimer">
-  {% renderFile './src/adventures/the-future-hates-you/_includes/disclaimer.md' %}
+  <div class="title-page__meta">
+    <p>An adventure for characters of 5th to 10th level</p>
+  </div>
+  <div class="title-page__disclaimer">
+    {% renderFile './src/adventures/the-future-hates-you/_includes/disclaimer.md' %}
+  </div>
+  <div class="title-page__legal">
+    {% include 'legal.njk' %}
   </div>
 </article>
 
 {% for post in collections.future_hate %}
-  <section>
+  <article class="{{post.data.article_class}}">
     {{ post.content | safe }}
-  </section>
+  </article>
 {% endfor %}

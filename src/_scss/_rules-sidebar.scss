@@ -4,6 +4,7 @@
   border-inline-color: var(--color-sidebar-border-inline, lightgrey);
   border-style: solid;
   border-width: var(--border-thick) var(--border-thin);
+  break-inside: avoid;
   color: var(--color-theme-page-fg);
   filter: drop-shadow(0 var(--size-xs) 8px var(--color-sidebar-shadow, silver));
   font-size: var(--font-size-s);
