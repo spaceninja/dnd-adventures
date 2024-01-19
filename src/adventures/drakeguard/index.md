@@ -7,44 +7,7 @@ eleventyComputed:
 
 # {{ title }}
 
-Enlists the group in the Drakeguard, an elite group of fixers
-
-- Group is given badges that act as communicators
-- Group is given ability to teleport directly to problem spots across the realm, but only once every two weeks
-- Group uses downtime activities between missions
-- Drakeguard are given a leveling item that grants access to a daily power, similar to Cleric ability, and uses a skill tree to invest points earned from completed missions.
-
-Recurring villains
-
-- Big bad, four horsemen (see MCVFD Season Five)
-
-## Drakeguard Initiation
-
-### Part One — Meeting with Q
-
-The gang is summoned by Q with “big news” — He is being promoted, and they are being pardoned.
-
-### Part Two —The Pardon Ceremony
-
-The gang is invited to court for a public pardon ceremony conducted by the King before the full court.
-
-Describe the throne room and five members of the court
-
-Slip each player a note explaining that the Queen is making eyes at them
-
-### Part Three — The Queen’s Summons
-
-Each character is summoned to the Queen’s private quarters after hours.
-
-Describe the sitting room
-
-Separate the players, and roleplay a quick scene with each where the Queen’s handmaid comes to their room after hours to invite them to a private audience with the Queen. Then deposit them one at a time into the Queen’s sitting room.
-
-### Part Four — A Job Offer
-
-The Queen reveals her true nature and offers the gang a role in the Drakeguard.
-
-Describe the Queen’s transformation and her command center
+# Player Guide
 
 ## Welcome to the Drakeguard!
 
@@ -92,6 +55,8 @@ Our founder invests a bit of her power in every Drakeguard operative. The more y
 
 ### Your Bracer
 
+TODO: replace with tattoo. Must feature Drakeguard logo. Can be anywhere, but it's useful to keep somewhere that can be easily shown to other operatives.
+
 Every member of the Drakeguard receives a special magic item. Typically, this takes the form of a bracer, but you can request other forms such as a ring, amulet, or belt buckle. This item provides three benefits: First, it acts as a stone of far-speech for your squad. Second, it can be used to teleport you to your next assignment, and home again when the job is complete. Finally, it grants access to powerful abilities as you increase rank.
 
 Note that the teleportation function has a limited charge and a fixed destination. Upon accepting an assignment, it can teleport you to the location (typically depositing you on the outskirts of the nearest settlement). Then it can be used once more to return you to your field office. It cannot send you to a destination of your choosing, and once used it requires time to recharge. Note also that abandoning an assignment by teleporting home before the job is complete will result in demotion.
@@ -115,25 +80,81 @@ As part of your benefits package, we are pleased to offer spellcasting services 
 | _Resurrection_        | 3,000gp |
 | _True resurrection_   | 1,000gp |
 
-## Neverwinter Field Office
+# DM Guide
 
-### Director of Field Operations: Stacy Rebecca Hamm
+Enlists the group in the Drakeguard, an elite group of fixers
 
-Tall, thin dragonborn woman wearing elegant suit. She is decisive, motivated, and utterly devoted to the Queen’s mission.
+- Group is given badges that act as communicators
+- Group is given ability to teleport directly to problem spots across the realm, but only once every two weeks
+- Group uses downtime activities between missions
+- Drakeguard are given a leveling item that grants access to a daily power, similar to Cleric ability, and uses a skill tree to invest points earned from completed missions.
+
+Recurring villains
+
+- Big bad, four horsemen (see MCVFD Season Five)
+
+## Drakeguard Initiation
+
+### Part One — Meeting with Q
+
+The gang is summoned by Q with “big news” — He is being promoted, and they are being pardoned.
+
+### Part Two —The Pardon Ceremony
+
+The gang is invited to court for a public pardon ceremony conducted by the King before the full court.
+
+Describe the throne room and five members of the court
+
+Slip each player a note explaining that the Queen is making eyes at them
+
+### Part Three — The Queen’s Summons
+
+Each character is summoned to the Queen’s private quarters after hours.
+
+Describe the sitting room
+
+Separate the players, and roleplay a quick scene with each where the Queen’s handmaid comes to their room after hours to invite them to a private audience with the Queen. Then deposit them one at a time into the Queen’s sitting room.
+
+### Part Four — A Job Offer
+
+The Queen reveals her true nature and offers the gang a role in the Drakeguard.
+
+Describe the Queen’s transformation and her command center
+
+## Department Heads
+
+### Director of Covert Operations: Quinumum "Um" Ebraldeth
+
+Um trains recruits in the ways of stealth, and helps plan tactical operations that are meant to go unnoticed.
+
+During downtime, Um can train rogues (TODO in what?)
+
+### Director of Overt Operations: Kanye Cantaliber, Esq.
+
+Kanye gleefully trains recruits for combat, and helps plan combat operations.
+
+He is accompanied at all times by his long-suffering manservant
+
+During downtime, Kanye can train fighters in some special maneuvers he's developed over the years.
+
+### Director of Research: Nissa Atlock
+
+Nissa is in charge of anything involving gathering information, whether it's recovering long-lost tomes and maps, to gathering intel on targets of interest.
+
+During downtime, a character can spend time in Nissa's library to gain advantage on a knowledge or history check.
+
+### Director of Recruiting: Averlyth Cai
+
+Averlyth finds new members for the Drakeguard. She has a network of informants across the region who alert her when they find someone she might make use of. She'll tail them for awhile and if they seem promising, she may introduce herself and offer an invitation.
+
+There are many dark rumors swirling around about Averlyth. No doubt, she spread many of them herself. The biggest rumor is that she worships a dark god. But surely the founder wouldn't allow that… would she?
+
+## Services
+
+### Spellcasting: Polly (TODO: better name)
+
+Polly is a beholder who offers spellcasting services at the Drakeguard.
 
 ### Quartermaster: Quincy
 
-Quincy is short and loud with a large beard and wild, unkempt hair. He is excitable, and eager to share his latest inventions. He can also sell the party any basic supplies they need. His intern, Phteven, has a crush on Averlyth.
-
-### Research: Everest “Spooky” Von Spookington
-
-Assistant: Bobby
-Ghost, can’t remember anyone’s name, has difficulty telling the living apart. Has an unbelievable ability to recall historical information. Relies on his assistant to handle the day-to-day operations so he can focus on academic research.
-
-### Medic: Dr. Proctor
-
-Come a long way from selling anal lube in a secret underground clinic, doens’t like group becuase they arrested his brother, Professor Proctor
-
-### Mage: Polly the Beholder
-
-Beholder
+Quincy is short and loud with a large beard and wild, unkempt hair. He is excitable, and eager to share his latest inventions. He can also sell the party any basic supplies they need.
