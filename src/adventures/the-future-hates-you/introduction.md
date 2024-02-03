@@ -9,9 +9,13 @@ next:
   title: 'Part 1: The Arena'
 ---
 
+<section class="columns">
+
 # {{ title }}
 
-Abducted to the future and forced to compete in broadcast arena combat, the characters must find a way to escape an endless cycle of violence and death. _The Future Hates You!_ is an adventure for characters of 5th to 10th level. It is set on a space station in the distant future where the characters are known as notorious criminals and contains science fiction elements, including time travel.
+Abducted to the future and forced to compete in broadcast arena combat, the characters must find a way to escape an endless cycle of violence and death.
+
+_The Future Hates You!_ is an adventure for characters of 5th to 10th level. It is set on a space station in the distant future where the characters are known as notorious criminals and contains science fiction elements, including time travel.
 
 ## Adventure Background
 
@@ -86,3 +90,5 @@ I prefer to let my players name all my NPCs. I’ve found it helps the players f
 **Let the players be clever.** This is an open-ended scenario that’s meant to reward creative thinking and solutions over combat. If they find a clever shortcut or way to avoid something you had planned, that’s great! Let the players feel clever while you look for another way to increase the pressure.
 
 **Let the players pick an ending.** Nearly every NPC offers a different way to resolve this scenario. Do your best to avoid picking a “good ending” to steer your players towards. Returning to the past, staying in the future, or even using the portal to go somewhere new are all viable outcomes. Try to run with what your players are interested in.
+
+</section>

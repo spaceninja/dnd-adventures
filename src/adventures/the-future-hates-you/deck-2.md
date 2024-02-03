@@ -32,6 +32,8 @@ Deck 2 is split into two sections: Security and Habitation. Security (described 
   </a>
 </figure>
 
+<section class="columns">
+
 ## Habitation
 
 _Contested territory_
@@ -93,13 +95,22 @@ The Bar is a large space with booths around three walls, tables in the center, a
 
 If the characters cause any trouble, the Bartender will gesture at the Bouncers, who will attempt to throw the characters out of the Bar, and they won’t be welcome back. If the characters fight the bouncers, the patrons will quickly flee, and the Bartender will produce a [**_Laser Rifle_**](../appendix-magic-items/#laser-weapon) from below the bar and start shooting.
 
-### The Bartender
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/bartender@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/bartender@500.webp"
+      srcset="
+        /images/the-future-hates-you/bartender@500.webp 500w,
+        /images/the-future-hates-you/bartender@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Bartender
 
 _Neutral Good Human Rogue_
 
@@ -107,13 +118,10 @@ There may be open combat just outside, but the Bartender strictly enforces the B
 
 The Bartender also runs a splendid little black market. With the cargo tunnels blockaded and free movement restricted, all factions can bring items to the bar to barter with, ensuring that he is the person most likely to have whatever you want, whether it’s supplies, clean uniforms, weapons, or drugs.
 
-The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/monsters/17340-swashbuckler).
-
-**Personality.** Charming, flirtatious, bargaining
-
-**Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
-
-**Suggested Names.** Kentucky Bourbon, Arturo Fuente, Cristobal Baccarat
+- The Bartender uses the stats for a [**Swashbuckler**](https://www.dndbeyond.com/monsters/17340-swashbuckler).
+- **Personality.** Charming, flirtatious, bargaining
+- **Suggested Names.** Kentucky Bourbon, Arturo Fuente, Cristobal Baccarat
+- **Quote.** _“Hello, hello, hello. Welcome to my bar! What can I get you lovelies?”_
 
 <aside class="block-torn-paper">
 
@@ -145,3 +153,5 @@ Giving the players access to modern weaponry and gear can help them feel more po
 | [**_Pulse Grenade_**](../appendix-magic-items/#pulse-grenade)  | Deals 5d6 radiant damage in a 20-foot radius                                     | 3     |
 | [**_Healing Pack_**](../appendix-magic-items/#healing-pack)    | Heals 4d4 + 4 hit points                                                         | 3     |
 | [**_Uniform_**](../appendix-magic-items/#uniform)              | Jumpsuit in the proper color scheme for any faction                              | 20    |
+
+</section>

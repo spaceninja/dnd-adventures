@@ -32,6 +32,8 @@ The characters awaken in a holding cell (or a clone tank if they died) before th
   </a>
 </figure>
 
+<section class="columns">
+
 ## Security
 
 _Controlled by #TeamRatings_
@@ -40,10 +42,6 @@ Security is clean, well-lit, and orderly. Guards move through the area with purp
 
 There are four exits from Security, all guarded. The [Elevator](../part-3/#elevator) door is locked and will only open for people with #TeamRatings permissions. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) and the door to the Habitation section are both watched by a pair of [**Security Guards**](../appendix-npcs/#security-guard) at all times, and two squads of six Security Guards are stationed in the stairwell to the Arena during broadcasts.
 
-### Clone Room
-
-Whenever a character is killed, they awaken in the Clone Room, falling out of a vat of pink goop, choking, and sputtering. They vividly remember dying and are surprised to find their bodies “reset” to how they looked when they arrived on the station. Guards immediately grab the character, who is too weak to resist, by the arms and haul them to the Brig. Over the next 15 minutes, the goop mostly dries and flakes off, and their strength returns, especially if they can get something to eat or drink. Their equipment will all be returned to them, though it may take more or less time depending on where and how they died.
-
 ### Brig
 
 > You awaken to find yourself in a harshly lit prison cell. The bare metal walls are covered in graffiti. There is dried blood on the floor. A handwritten sign reading “VIP Suite” is taped to the bars of the door. It faces a hallway of a style you’ve never seen before.
@@ -51,6 +49,8 @@ Whenever a character is killed, they awaken in the Clone Room, falling out of a 
 > Across from your cell is a smooth door with no handle, labeled “Clone Room”. As you watch, it retracts into the wall, and a burly guard wearing heavy black armor drags an unconscious person covered in pink goo down the hall, and throws them into another cell. You recognize some of the prisoners in that cell as the people who attacked you in the Arena. They jeer and catcall when they see you looking.
 >
 > A guard approaches, carrying a tray of unappetizing food. “I see our new contestants are awake. I’m sure you worked up an appetite out there, so I brought your meal.” He sneers as he spits in the food and slides it through a slot in the bars. “Nothing but the best for our VIP guests!” He laughs as he walks away, disappearing around the bend in the hall.
+
+<div class="column-break"></div>
 
 About half the space in Security is taken up by the Brig: four large prison cells used to hold the groups of “contestants” after each night’s broadcast.
 
@@ -64,6 +64,10 @@ Every evening the groups of prisoners are collected in small groups and marched 
 
 There is a secret hatch under one of the benches. It has been hidden brilliantly, and the characters have no chance of finding it on their own. They will only be able to locate it if they are told of its existence by the Strategist. Once opened, it reveals a tight crawlspace that eventually drops the characters into the Locker Room at the Gym in the Habitation section.
 
+### Clone Room
+
+Whenever a character is killed, they awaken in the Clone Room, falling out of a vat of pink goop, choking, and sputtering. They vividly remember dying and are surprised to find their bodies “reset” to how they looked when they arrived on the station. Guards immediately grab the character, who is too weak to resist, by the arms and haul them to the Brig. Over the next 15 minutes, the goop mostly dries and flakes off, and their strength returns, especially if they can get something to eat or drink. Their equipment will all be returned to them, though it may take more or less time depending on where and how they died.
+
 ### Surveillance Room
 
 This room is filled with banks of monitors displaying views from around the station. Some appear to be from fixed camera locations, while others are from drones in contested territory, or even from body cams of guards on patrol. Any character succeeding on a DC 12 Wisdom (Perception) check will notice there are no camera feeds from Deck 3 or 5.
@@ -76,13 +80,22 @@ This long room is filled with row after row of bunk beds. At any given time, abo
 
 Racks of armor and weapons are kept by the door. At any given time, there are 6d6 sets of [**_Security Armor_**](../appendix-magic-items/#faction-armor), 4d6 [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon), and 2d6 [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon).
 
-### The Security Chief
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/security-chief@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/security-chief@500.webp"
+      srcset="
+        /images/the-future-hates-you/security-chief@500.webp 500w,
+        /images/the-future-hates-you/security-chief@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Security Chief
 
 _Lawful Evil Elf Fighter_
 
@@ -92,11 +105,11 @@ She is always surrounded by a squad of at least as many [**Security Guards**](..
 
 If the Security Chief is defeated, it has a demoralizing effect on all Security Guards. If this happens, any time a Security Guard is defeated in combat, those remaining must succeed on a DC 12 Wisdom check to avoid fleeing, with the DC increasing by 1 for each downed Security Guard in that encounter.
 
-**Personality.** Sarcastic, threatening, sadistic
+<div class="column-break"></div>
 
-**Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
-
-**Suggested Names.** Lucille Walter-Dreyfus, Emma Hunton-Blather, Mae Peirce-Ashton
+- **Personality.** Sarcastic, threatening, sadistic
+- **Suggested Names.** Lucille Walter-Dreyfus, Emma Hunton-Blather, Mae Peirce-Ashton
+- **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
 
 <aside class="block-torn-paper">
 
@@ -105,6 +118,8 @@ If the Security Chief is defeated, it has a demoralizing effect on all Security 
 In exchange, she offers improved treatment while the characters are in custody. Better food, rest, respect. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of deal. She knows she has the upper hand and isn’t likely to negotiate.
 
 </aside>
+
+</section>
 
 ## Return to the Arena
 
@@ -127,6 +142,8 @@ It should be clear to the characters that they are dramatically outnumbered by t
       />
   </a>
 </figure>
+
+<section class="columns">
 
 > Once again, you find yourself in a holding pen in the arena. The view of the planet overhead still feels uncanny. Looking around, the “contestants” in the other holding pens continue to shout threats and taunts, but they appear to have settled back into established rivalries, and their attention is no longer aimed only at you.
 >
@@ -154,13 +171,22 @@ The Arena has been secured to prevent the contestants from escaping. The hatch t
 
 The only remaining exit from the Arena is the stairwell down to Security. It has a locked hatch that is heavily guarded at all times by a squad of six [**Security Guards**](../appendix-npcs/#security-guard) with [**_Laser Rifles_**](../appendix-magic-items/#laser-weapon) set to stun. In case they run into trouble, another squad of six is stationed at the bottom of the stairs. The other prisoners have learned that approaching the hatch will only result in the guards shooting through a port in the hatch, being knocked unconscious, and waking up in the Brig.
 
-### The Champion
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/champion@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/champion@500.webp"
+      srcset="
+        /images/the-future-hates-you/champion@500.webp 500w,
+        /images/the-future-hates-you/champion@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Champion
 
 _Chaotic Good Orc Barbarian_
 
@@ -170,13 +196,10 @@ Unfortunately, in her timeline, several years had passed, and she had given up h
 
 If attacked, the Champion will fight without hesitation to defend herself and the Champion, though she will make it clear she wants to talk and will stop fighting if the characters do.
 
-The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord) and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
-
-**Personality.** Confident, loud, secretly sad
-
-**Quote.** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
-
-**Suggested Names.** Neena Skullcleaver, Yelena Doomhammer, Magga Bonecrusher
+- The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord) and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
+- **Personality.** Confident, loud, secretly sad
+- **Suggested Names.** Neena Skullcleaver, Yelena Doomhammer, Magga Bonecrusher
+- **Quote.** _“I want only to return home to my small husband and our children. This tiny woman says she can free us, so I protect her. If you cross her, then I crush you.”_
 
 <aside class="block-torn-paper">
 
@@ -184,13 +207,22 @@ The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.
 
 </aside>
 
-### The Strategist
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/strategist@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/strategist@500.webp"
+      srcset="
+        /images/the-future-hates-you/strategist@500.webp 500w,
+        /images/the-future-hates-you/strategist@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Strategist
 
 _Neutral Human Ranger_
 
@@ -202,16 +234,15 @@ She believes (based on some notes she stole from the Mad Scientist) that if they
 
 She offers to tell the characters how to escape the Brig and access the rest of the Station if they agree to consider her plan. If the players seem resistant, she will still help as long as the players promise to look for some means of sending all the prisoners home (though she doesn’t believe there is any other way to do so). If the players agree, she tells them about the secret hatch in the Brig and gives them printed maps of each deck of the station with her handwritten notes. (See [Appendix D: Handouts](../appendix-handouts).)
 
-The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
-
-**Personality.** Brilliant, distracted, annoyed
-
-**Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
-
-**Suggested Names.** Laurel Breem, Vivian Renaud, Margaret Lynch
+- The Strategist uses the stats for a [**Cultist**](https://www.dndbeyond.com/monsters/cultist).
+- **Personality.** Brilliant, distracted, annoyed
+- **Suggested Names.** Laurel Breem, Vivian Renaud, Margaret Lynch
+- **Quote.** _“Oh, um, while you’re inside, don’t use the computer to look yourself up. It’s… upsetting.”_
 
 <aside class="block-torn-paper">
 
 **Quest: Destroy the Station:** The Strategist lets you in on her plan: She believes that causing the station to explode will send a ripple through space-time, effectively “resetting” all time travelers to their home time. If you agree to help, she will tell you her secret route out of Security to access the rest of the station.
 
 </aside>
+
+</section>

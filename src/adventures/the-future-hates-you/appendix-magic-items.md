@@ -14,6 +14,8 @@ next:
 
 # {{ title }}
 
+<section class="columns">
+
 ### [**_Faction Armor_**](#faction-armor)
 
 _Armor, uncommon_
@@ -101,3 +103,5 @@ A Vacsuit (short for vacuum suit) is designed to allow a crew member to operate 
 While wearing a Vacsuit, a character gains a self-contained air supply for one hour. While in a zero-gravity environment, they gain a flying speed equal to their walking speed. It also allows the wearer to speak to anyone else wearing a Vacsuit within line of sight.
 
 The suit is a large, one-size-fits-all garment that slips on over whatever a character is wearing, and then shrinks to fit. The character cannot access any gear inside the Vacsuit, but it is covered in pockets and clips for attaching tools they might need. It is capable of self-sealing any minor punctures, but serious tears will result in the immediate loss of the character’s air supply.
+
+</section>

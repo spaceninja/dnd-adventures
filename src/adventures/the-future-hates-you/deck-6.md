@@ -32,6 +32,8 @@ Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shu
   </a>
 </figure>
 
+<section class="columns">
+
 ## Shuttle Bay
 
 _Contested Territory_
@@ -64,13 +66,24 @@ If the characters gain entrance, the shuttle has a large open area near the back
 
 To the left of the elevator is a long room that follows the curve of the inner hull. It has large reinforced glass windows facing the Shuttle Bay, couches, display screens showing the broadcast and a small bar with a robotic bartender. It feels like a cross between an airport lounge and a truck stop. There are large restrooms with showers, and even a few small capsule hotel-style sleeping pods, all of which can be rented via the robotic bartender. There is only one patron in the lounge, the Pilot, who is nursing a beer.
 
-### The Pilot
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/pilot@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/pilot@500.webp"
+      srcset="
+        /images/the-future-hates-you/pilot@500.webp 500w,
+        /images/the-future-hates-you/pilot@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+<div class="column-break"></div>
+
+### The Pilot
 
 _Chaotic Neutral Tiefling Rogue_
 
@@ -80,19 +93,18 @@ She says she was stranded on the station when it went into lockdown. She’d bee
 
 Secretly, the Pilot is a spy from another corporation, sent to steal information about the time portal. She’s seen the characters on the broadcast and thinks they could help her. She has a way to blow the locks on her ship and will fly the characters out if they can acquire the plans for the portal and bring them to her.
 
-The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
-
-**Personality.** Suave, sneaky, good under pressure.
-
-**Quote.** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
-
-**Suggested Names.** Goes by her callsign: Hurricane, Siren, Rogue
+- The Pilot uses the stats for a [**Spy**](https://www.dndbeyond.com/monsters/17021-spy).
+- **Personality.** Suave, sneaky, good under pressure.
+- **Suggested Names.** Goes by her callsign: Hurricane, Siren, Rogue
+- **Quote.** _“Psst. Kid. Over here. You look capable. You help me out, and I’ll help you off the station.”_
 
 <aside class="block-torn-paper">
 
 **Quest: Steal the Portal Plans.** The Pilot has been hired by a competing corporation to steal the plans for the portal. Unfortunately, she hasn’t been able to get access due to the fighting. The plans can be retrieved physically by removing the secure drive from the Portal Chamber or can be downloaded from any console if the Station AI grants access. In return, the Pilot offers to help you escape to the planet, to live out a new life in the future, perhaps doing freelance work like her.
 
 </aside>
+
+<div class="column-break"></div>
 
 ## Cargo Bay
 
@@ -104,13 +116,24 @@ The Cargo bay is a large semicircular room that mirrors the Shuttle Bay it’s c
 
 A makeshift barricade has been constructed a few feet in front of the open hatch to the Shuttle Bay, and a squad of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) are crouched behind it. Their mission is to prevent attacks by #TeamRatings or #TeamEthics. The hatch to the [Cargo Tunnel](../part-3/#the-cargo-tunnel) is unguarded because there’s another barricade in the tunnel itself, one deck above near Life Support. The entrance to the [Elevator](../part-3/#elevator) has been completely barricaded with storage crates and is impassable.
 
-### The Quartermaster
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/quartermaster@500.webp"
+      srcset="
+        /images/the-future-hates-you/quartermaster@500.webp 500w,
+        /images/the-future-hates-you/quartermaster@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+<div class="column-break"></div>
+
+### The Quartermaster
 
 _Lawful Good Rogue Modron Quadrone_
 
@@ -122,10 +145,9 @@ Until the fighting ends, he has orders not to allow anyone to take supplies from
 
 To the surprise of the characters, The Quartermaster remembers them fondly. He claims that they met centuries ago, and is grateful for the assistance they provided at the time. When it becomes clear that the characters don’t remember this (because it hasn’t happened to them yet), he refuses to provide further details, for fear of affecting the timestream. Nevertheless, he remains well-disposed towards the characters and will do what he can to help them, including introducing them to the Chief Engineer if they want.
 
-The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
+- The Quartermaster uses the stats for a [**Quadrone**](https://www.dndbeyond.com/monsters/17178-quadrone).
+- **Personality.** Helpful, organized, guileless.
+- **Suggested Names.** Nordom, Ten, Chip
+- **Quote.** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
 
-**Personality.** Helpful, organized, guileless.
-
-**Quote.** _“It’s good to see you! It has been 18.2 centuries. Please try not to track blood on my floor.”_
-
-**Suggested Names.** Nordom, Ten, Chip
+</section>

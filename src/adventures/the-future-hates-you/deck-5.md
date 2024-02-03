@@ -32,9 +32,17 @@ Deck 5 consists of two areas, Engineering and Life Support, both controlled by #
   </a>
 </figure>
 
+<section class="columns">
+
 ## Engineering
 
 _Controlled by #OpsUnion_
+
+Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly marked cubbies. Caution stripes and flashing lights are omnipresent.
+
+One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which enables her to move a piece of equipment far larger than a single person could move unassisted.
+
+A pair of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) man a checkpoint near the [Elevator](../part-3/#elevator) and to one side of the reactors is an [Airlock](../part-3/#airlocks) hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
 
 > This large space is dominated by three huge pieces of machinery, clearly labeled as Reactors One, Two, and Three. In front of each is a monitoring station, staffed by frazzled-looking engineers. Despite your lack of knowledge, it seems like every meter and gauge you see is in the red.
 >
@@ -44,11 +52,7 @@ _Controlled by #OpsUnion_
 >
 > “Keep it moving, people! I know you’re tired, but this whole place is going to shit. We’ve got a fire in the cargo tunnels, a coolant leak in the primary reactor, and we’re venting atmo in 3 places.”
 
-Engineering is a large space, bustling with activity. Bright lights illuminate the space from the tall ceilings. The air smells of ozone and grease. The entire space has been optimized for maximum productivity by a crew of engineers. Work areas and monitoring stations are separated by clearly marked walkways. Safety gear and first-aid kits in clearly marked cubbies. Caution stripes and flashing lights are omnipresent.
-
-One crew member is inside a large [**_Mechanical Exoskeleton_**](appendix-magic-items/#mechanical-exoskeleton), which enables her to move a piece of equipment far larger than a single person could move unassisted.
-
-A pair of [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) man a checkpoint near the [Elevator](../part-3/#elevator) and to one side of the reactors is an [Airlock](../part-3/#airlocks) hatch. At either end of the semicircular space are large open hatches to the adjoining Life Support section, which are unguarded.
+<div class="column-break"></div>
 
 ### Reactors
 
@@ -62,13 +66,22 @@ Running along the inner hull is a series of offices. These all look like auto me
 
 One office is designated for the Chief Engineer. Inside is a large worktable covered in binders, tablets, and rolled-up blueprints. A sleeping bag and pillow are piled on the couch, and a semicircle of folding chairs makes it clear that the Chief Engineer often meets here with her department heads.
 
-### The Chief Engineer
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/chief@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/chief@500.webp"
+      srcset="
+        /images/the-future-hates-you/chief@500.webp 500w,
+        /images/the-future-hates-you/chief@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Chief Engineer
 
 _Lawful Good Dwarf Artificer_
 
@@ -82,19 +95,18 @@ If asked for access to the Cargo Bay (or airlocks, or any other facility under #
 
 If the characters succeed at fixing the coolant leak for the Technician, the Chief Engineer will call them back to make an offer. As she sees it, the time portal is the cause of all the fighting, and therefore it’s putting the station at risk. If they can destroy the portal, she promises to get them off the station and down to the surface. They wouldn’t be able to return to their time, but at least they’d be free.
 
-The Chief Engineer uses the stats for an [**#OpsUnion Guard**](../appendix-npcs/#faction-guard).
-
-**Personality.** Demanding, respected, overworked.
-
-**Quote.** _“I don’t know what you want, but unless something’s on fire or you’re here to help, it’ll have to wait.”_
-
-**Suggested Names.** Moira Ironhand, Naomi Stoneborn, Rebecca “Bex” Ashbraid
+- The Chief Engineer uses the stats for an [**#OpsUnion Guard**](../appendix-npcs/#faction-guard).
+- **Personality.** Demanding, respected, overworked.
+- **Suggested Names.** Moira Ironhand, Naomi Stoneborn, Rebecca “Bex” Ashbraid
+- **Quote.** _“I don’t know what you want, but unless something’s on fire or you’re here to help, it’ll have to wait.”_
 
 <aside class="block-torn-paper">
 
 **Quest: Destroy the Portal.** The Chief Engineer sees the time portal as the root cause of all the problems on the station. She asks you to find a way into the Portal Chamber, to physically destroy the portal itself and the plans, which are stored on a secure drive in the chamber. If you can pull this off, she says she can smuggle you down to the planet.
 
 </aside>
+
+<div class="column-break"></div>
 
 ## Life Support
 
@@ -114,12 +126,6 @@ Running along the inner hull is a series of offices. These all look like auto me
 
 ### The Technician
 
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
-  </div>
-</figure>
-
 _Lawful Neutral Merfolk Artificer_
 
 The Technician is a fluid mechanics specialist who lives in the water tanks and pipes on the Life Support deck. He knows there is a leak in the coolant system for the reactors, but can’t fix it from here, and the clock is ticking. He’s reported the problem to the Chief Engineer, but he’s worried that other more urgent problems may leave this until it’s too late.
@@ -128,16 +134,30 @@ If the characters volunteer to help, he is overwhelmingly grateful. He authorize
 
 If the players listen to his instructions, they can find the correct panel with a successful DC 10 Intelligence (Investigation) check, and fix the leak with a successful DC 12 Dexterity (Sleight of Hand) check. If they don’t listen, the difficulty to find the panel rises to DC 15, and DC 18 to fix the leak.
 
-The Technician uses the stats for [**Merfolk**](https://www.dndbeyond.com/monsters/16955-merfolk).
-
-**Personality.** Stressed, urgent, desperate.
-
-**Quote.** _“Oh, this is bad, this is really bad. Maybe if I reroute flow through the tertiary system? No, that only gives us 30 hours! What am I going to do?”_
-
-**Suggested Names.** Real name unpronounceable, goes by nickname: Squeak, Vinny, Ceasar
+- The Technician uses the stats for [**Merfolk**](https://www.dndbeyond.com/monsters/16955-merfolk).
+- **Personality.** Stressed, urgent, desperate.
+- **Suggested Names.** Real name unpronounceable, goes by nickname: Squeak, Vinny, Ceasar
+- **Quote.** _“Oh, this is bad, this is really bad. Maybe if I reroute flow through the tertiary system? No, that only gives us 30 hours! What am I going to do?”_
 
 <aside class="block-torn-paper">
 
 **Quest: Keep the Station from Exploding.** Oh shit, There’s a coolant leak in reactor one! It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to access the station exterior. If you agree to help, the #OpsUnion will give Vacsuits to everyone on the team, granting you access to the airlocks (and a way around station security).
 
 </aside>
+
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/technician@500.webp"
+      srcset="
+        /images/the-future-hates-you/technician@500.webp 500w,
+        /images/the-future-hates-you/technician@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
+</section>

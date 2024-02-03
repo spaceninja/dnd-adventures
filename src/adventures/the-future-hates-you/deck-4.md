@@ -32,6 +32,8 @@ Deck Four is a double ring. The tourist shops of the outer ring Promenade have a
   </a>
 </figure>
 
+<section class="columns">
+
 ## Outer Ring Promenade
 
 _Contested territory_
@@ -115,13 +117,22 @@ A handful of offices can be found here for the heads of various departments such
 
 The walls of the Director’s office are covered with awards, photos of the Director with famous people, magazine covers, and press clippings. The desk has a workstation that sees little use, and an oversized office chair with a pointlessly tall back. No chairs are facing the desk, as the Director prefers to make people stand while he talks to them.
 
-### The Director
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/director@500.webp"
+      srcset="
+        /images/the-future-hates-you/director@500.webp 500w,
+        /images/the-future-hates-you/director@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Director
 
 _Neutral Halfling Bard_
 
@@ -135,13 +146,10 @@ He will do just about anything that results in spectacle or drama, including off
 
 If the characters ask for anything, he refers them to the Commander, as if he can’t be bothered with such mundane concerns.
 
-The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/17328-bard).
-
-**Personality.** Bombastic, manipulative, opportunistic.
-
-**Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
-
-**Suggested Names.** A.J. Cadinski, Bertram Lockhart, George Claude Barnum
+- The Director uses the stats for a [**Bard**](https://www.dndbeyond.com/monsters/17328-bard).
+- **Personality.** Bombastic, manipulative, opportunistic.
+- **Suggested Names.** A.J. Cadinski, Bertram Lockhart, George Claude Barnum
+- **Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
 <aside class="block-torn-paper">
 
@@ -199,13 +207,22 @@ Most of the Command section is taken up with offices for command staff. Due to t
 
 The Commander’s office is no different from any of the others. Certainly, it’s no larger. A few chairs face the desk, and a small shelf of books is mounted to the wall. The Commander can often be found here, stressing about the situation.
 
-### The Commander
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/commander@500.webp"
+      srcset="
+        /images/the-future-hates-you/commander@500.webp 500w,
+        /images/the-future-hates-you/commander@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Commander
 
 _Lawful Neutral Half-Elf Fighter_
 
@@ -213,16 +230,15 @@ In theory, the Commander runs the station, but in reality, nearly every decision
 
 Most of all, he’s under pressure from Corporate to end the open combat on the station so they can resume the profitable business of space tourism. He secretly thinks Corporate would back him moving against the Director as long as ratings didn’t drop too badly and it restored tourism. Still, he won’t act unless he’s confident it will work out in his favor.
 
-The Commander uses the stats for a [**Security Guard**](../appendix-npcs/#security-guard).
-
-**Personality.** Pessimistic, stressed, put-upon.
-
-**Quote.** _“This shit’s all gonna blow back on me, I just know it.”_
-
-**Suggested Names.** Andrew Ottarsson, Sven Arngrim, Harold Egilsson
+- The Commander uses the stats for a [**Security Guard**](../appendix-npcs/#security-guard).
+- **Personality.** Pessimistic, stressed, put-upon.
+- **Suggested Names.** Andrew Ottarsson, Sven Arngrim, Harold Egilsson
+- **Quote.** _“This shit’s all gonna blow back on me, I just know it.”_
 
 <aside class="block-torn-paper">
 
 **Quest: Remove the Professor & the Director:** The Commander thinks he’s found the perfect solution. Rather than letting the Director continue their awful broadcasts or allowing the Professor to shut down access to the portal, he wants to end the gladiator program and use the portal for history tourism. He’s got a proposal put together but doesn’t dare send it, or someone else will take credit for it. If you can remove both the Director and the Professor, however, he can make his pitch to Corporate, and expect their backing. In return, he will send you back to the past.
 
 </aside>
+
+</section>

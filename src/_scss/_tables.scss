@@ -6,6 +6,10 @@ table {
   break-inside: avoid;
   margin: var(--size-l) 0 var(--size-xxxl);
   width: 100%;
+
+  @media print {
+    margin-top: var(--size-s);
+  }
 }
 
 .primary-content table {

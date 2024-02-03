@@ -24,4 +24,9 @@ body {
   padding-block: var(--size-m);
   padding-inline: var(--size-s);
   width: 100%;
+
+  @media print {
+    line-height: var(--line-height-l);
+    max-width: none;
+  }
 }

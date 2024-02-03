@@ -39,12 +39,19 @@
   // Base Theme
   --image-page-bg: url('/images/background_texture.png');
   --color-page-bg: #f9f9f9;
+  --color-page-bg-subtle: whitesmoke;
   --color-page-fg: #242527;
   --color-page-fg-meta: #525c63;
   --color-page-fg-subtle: #979aa4;
   --color-link: #006abe;
   --color-link-monster: #bc0f0f;
   --color-link-magic: #704cd9;
+
+  @media print {
+    --color-link: var(--color-page-fg);
+    --color-link-monster: var(--color-page-fg);
+    --color-link-magic: var(--color-page-fg);
+  }
 
   // Footer
   --color-footer-bg: var(--color-page-fg);
@@ -71,10 +78,29 @@
   --color-sidebar-border-inline: #b3b3b3;
   --color-sidebar-shadow: #ccc;
 
+  @media print {
+    --color-sidebar-bg: var(--color-page-bg-subtle);
+  }
+
   // Quote Box
   --color-quote-bg: #faf8ec;
   --color-quote-corner: #620000;
   --color-quote-border: #620000;
+
+  @media print {
+    --color-quote-bg: var(--color-page-bg-subtle);
+    --color-quote-corner: var(--color-page-fg);
+    --color-quote-border: var(--color-page-fg);
+  }
+
+  // Torn Paper Box
+  --color-torn-paper-bg: transparent;
+  --color-torn-paper-border: transparent;
+
+  @media print {
+    --color-torn-paper-bg: var(--color-page-bg-subtle);
+    --color-torn-paper-border: #b3b3b3;
+  }
 }
 
 body {

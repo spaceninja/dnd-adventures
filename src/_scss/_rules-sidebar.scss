@@ -10,31 +10,67 @@
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);
   margin: var(--size-xxl) var(--size-xs);
-  padding: var(--size-xl) var(--size-xxl) var(--size-m);
+  padding: var(--size-xl) var(--size-xxl);
   position: relative;
+
+  :last-child {
+    margin-bottom: 0;
+  }
+
+  @media print {
+    filter: none; // remove drop-shadow
+    padding: var(--size-m);
+  }
+
+  --foldover-color: var(--color-sidebar-border-block, currentcolor);
+  --foldover-height: 5px;
+  --foldover-width: 8px;
+  --foldover-offset-block: calc(
+    (var(--foldover-height) * 2 + var(--border-thick)) * -1
+  );
+  --foldover-offset-inline: calc(var(--border-thin) * -1);
+
+  @media print {
+    --foldover-height: 2px;
+    --foldover-width: 6px;
+  }
+
+  &::before,
+  &::after,
+  > :first-child::before,
+  > :first-child::after {
+    border-color: transparent;
+    border-style: solid;
+    border-width: var(--foldover-height) var(--foldover-width);
+    content: '';
+    display: block;
+    height: 0;
+    position: absolute;
+    width: 0;
+  }
 
   &::before,
   &::after {
-    background-image: url('/images/right-rules.svg'),
-      url('/images/left-rules.svg');
-    background-position: left, right;
-    background-repeat: no-repeat;
-    background-size: contain;
-    content: '';
-    height: 11px; // magic number from background image
-    left: 0;
-    position: absolute;
-    right: 0;
-    z-index: -1;
+    border-bottom-color: var(--foldover-color);
+    top: var(--foldover-offset-block);
   }
 
-  &::before {
-    top: -13px; // magic number from background image
+  > :first-child::before,
+  > :first-child::after {
+    border-top-color: var(--foldover-color);
+    bottom: var(--foldover-offset-block);
   }
 
-  &::after {
-    bottom: -13px; // magic number from background image
-    transform: scaleY(-1); // flip vertically
+  &::before,
+  > :first-child::before {
+    border-right-color: var(--foldover-color);
+    left: var(--foldover-offset-inline);
+  }
+
+  &::after,
+  > :first-child::after {
+    border-left-color: var(--foldover-color);
+    right: var(--foldover-offset-inline);
   }
 
   p:first-child,

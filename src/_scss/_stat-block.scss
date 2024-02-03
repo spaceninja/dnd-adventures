@@ -11,6 +11,10 @@
 
   @media (width >= 768px) {
     column-count: 2;
+
+    @media print {
+      column-count: 1;
+    }
   }
 
   &::before,

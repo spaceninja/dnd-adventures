@@ -32,6 +32,8 @@ Deck 3 is divided into two sections: Medical and Research & Development, both co
   </a>
 </figure>
 
+<section class="columns">
+
 ## Medical
 
 _Controlled by #TeamEthics, but open to everyone_
@@ -66,13 +68,11 @@ A small number of offices are set aside for the station’s doctors to allow pri
 
 Since the mutiny, the Doc mostly uses her office as a conference room for meeting with her department heads. The desk has been pushed back in the corner to make room for two couches and several folding chairs. She spends little time in here otherwise, mostly being busy with a constant influx of patients. If she agrees to meet with the characters, she’ll bring them here. Otherwise, she can be found on the floor.
 
-### The Doc
+### Storage/Jail Cell
 
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/doc@512.webp" alt="">
-  </div>
-</figure>
+A storage closet at the far end of Medical has been cleared out and converted into a makeshift jail cell to hold the former head of R&D, the Mad Scientist. A pair of bored-looking [**#TeamEthics Guards**](../appendix-npcs/#faction-guard) are stationed outside the door at all times.
+
+### The Doc
 
 _Lawful Good Elf Cleric_
 
@@ -82,13 +82,10 @@ If the characters helped out around the hospital (making Medicine checks, castin
 
 She has a plan that she hasn’t told anyone about yet. She believes if the station’s ability to broadcast was destroyed, then the factions would have nothing left to fight about, and things would settle down. If the characters can stop the broadcast, she’s willing to use her medical emergency override code to let the characters into the portal chamber.
 
-The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/16985-priest).
-
-**Personality.** Frustrated, tense, determined
-
-**Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
-
-**Suggested Names.** Alice Hargraven, Quinn Elgrove, Erin Ardhave
+- The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/16985-priest).
+- **Personality.** Frustrated, tense, determined
+- **Suggested Names.** Alice Hargraven, Quinn Elgrove, Erin Ardhave
+- **Quote.** _“This whole situation is idiotic. We’re running out of medical supplies and pretty soon people are going to start dying when I can’t treat them.”_
 
 <aside class="block-torn-paper">
 
@@ -96,17 +93,22 @@ The Doc uses the stats for a [**Priest**](https://www.dndbeyond.com/monsters/169
 
 </aside>
 
-### Storage/Jail Cell
-
-A storage closet at the far end of Medical has been cleared out and converted into a makeshift jail cell to hold the former head of R&D, the Mad Scientist. A pair of bored-looking [**#TeamEthics Guards**](../appendix-npcs/#faction-guard) are stationed outside the door at all times.
-
-### The Mad Scientist
-
 <figure class="compendium-image-right npc-portrait">
   <div class="npc-portrait__inner">
-    <img src="/images/the-future-hates-you/mad-scientist@512.webp" alt="">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/doc@500.webp"
+      srcset="
+        /images/the-future-hates-you/doc@500.webp 500w,
+        /images/the-future-hates-you/doc@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
   </div>
 </figure>
+
+### The Mad Scientist
 
 _Chaotic Evil Gnome Wizard_
 
@@ -114,19 +116,31 @@ The Mad Scientist led the team that discovered how to open time portals and has 
 
 She dreams of having her name in the history books alongside other greats, and frankly is unconcerned that her experiments might be unethical, or if people die, or even if the timeline itself is destabilized. She believes you can’t make progress by being cautious.
 
-The Mad Scientist uses the stats for a [**Cult Fanatic**](https://www.dndbeyond.com/monsters/16836-cult-fanatic).
-
-**Personality.** Distracted, twitchy, excitable, flirtatious
-
-**Quote.** _“This is all terribly exciting. I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve dictated 3 papers to the computer since they locked me up, but they won’t allow me to submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
-
-**Suggested Names.** Irma Dazzlebranch, Kate Wobblespell, Tatiana Buzzwire
+- The Mad Scientist uses the stats for a [**Cult Fanatic**](https://www.dndbeyond.com/monsters/16836-cult-fanatic).
+- **Personality.** Distracted, twitchy, excitable, flirtatious
+- **Suggested Names.** Irma Dazzlebranch, Kate Wobblespell, Tatiana Buzzwire
+- **Quote.** _“This is all terribly exciting! I wish they’d restore my access to the live feeds of the portal. The implications of what we’re doing here will affect every field of science. I’ve dictated 3 papers to the computer since they locked me up, but they won’t allow me to submit them. It doesn’t matter. There’s too much opportunity here to be afraid of cracking a few eggs. No offense to you eggs, of course.”_
 
 <aside class="block-torn-paper">
 
 **Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering. As a reward, she will send the characters anywhere/when they want to go.
 
 </aside>
+
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/mad-scientist@500.webp"
+      srcset="
+        /images/the-future-hates-you/mad-scientist@500.webp 500w,
+        /images/the-future-hates-you/mad-scientist@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
 
 ## Research & Development
 
@@ -164,25 +178,16 @@ At any given time, the Professor is likely to be standing at their desk writing 
 
 ### The Professor
 
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img src="/images/placeholders/avatar.webp" alt="">
-  </div>
-</figure>
-
 _Lawful Good Sentient Weapon wielded by Human Barbarian_
 
 The Director of Research & Development is an ancient sentient weapon, who everyone simply calls “The Professor.” They date back to around the characters’ time period. Over the centuries, they grew tired of mindless combat, became a pacifist, and started studying. They grew well-regarded in the science community, and until recently, were quite happy working in the research department as a professor of transdimensional ethics.
 
 However, The Professor couldn’t ignore the Mad Scientist’s abuses of space-time for long. They sparked the mutiny when they convinced the rest of the research team to lock up the Mad Scientist. They’ve since been put in charge of #TeamEthics, and have continued to find alarming indications that messing with the timeline could have dire consequences. They want to end the gladiator programs, return everyone to their proper timeline, and then start a series of less intrusive historical documentaries using drones.
 
-The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/2560752-champion) but is a pacifist and won’t fight under any circumstances.
-
-**Personality.** Intelligent, calm, serious.
-
-**Quote.** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
-
-**Suggested Names.** Durendal, Masamune, Mac an Luin
+- The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/monsters/2560752-champion) but is a pacifist and won’t fight under any circumstances.
+- **Personality.** Intelligent, calm, serious.
+- **Suggested Names.** Durendal, Masamune, Mac an Luin
+- **Quote.** _“I’ve done the math, and there are some troubling implications. We could be doing irreparable harm to spacetime.”_
 
 <aside class="block-torn-paper">
 
@@ -197,3 +202,20 @@ The Professor uses the stats for a [**Champion**](https://www.dndbeyond.com/mons
 [Sentient weapons](https://www.dndbeyond.com/sources/basic-rules/magic-items#SentientMagicItems) form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it can’t command someone it hasn’t bonded with.
 
 </aside>
+
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/professor@500.webp"
+      srcset="
+        /images/the-future-hates-you/professor@500.webp 500w,
+        /images/the-future-hates-you/professor@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
+</section>

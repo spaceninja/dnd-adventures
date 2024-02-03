@@ -5,7 +5,7 @@ img {
 
 figure {
   break-inside: avoid;
-  margin: var(--size-s) 0;
+  margin: var(--size-l) 0;
 
   img {
     display: block;
@@ -25,6 +25,14 @@ figcaption {
   float: right;
   margin-left: var(--size-s);
   max-width: calc(var(--size-page-width) * 0.4);
+  position: relative;
+  z-index: 1;
+
+  @media print {
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+  }
 }
 
 .npc-portrait,
@@ -56,6 +64,12 @@ figcaption {
   padding: var(--border-thick);
   position: relative;
 
+  @media print {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+
   &::before,
   &::after {
     left: var(--border-thick);
@@ -67,7 +81,7 @@ figcaption {
 }
 
 .npc-portrait__inner {
-  background: url('/images/the-future-hates-you/bg-avatar.webp');
+  background: radial-gradient(circle, #122b3e, #066587);
   border: var(--border-medium) solid var(--color-heading-border, currentColor);
 
   &::before,

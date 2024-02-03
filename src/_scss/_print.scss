@@ -1,11 +1,16 @@
 /* stylelint-disable selector-no-qualifying-type */
 @media print {
+  @page {
+    margin: 0.5in 0.75in;
+  }
+
   .new-page {
     page-break-before: always;
   }
 
   .header,
-  .footer {
+  .footer,
+  .article-header {
     display: none;
   }
 
@@ -27,11 +32,20 @@
   }
 
   article {
-    columns: 2;
     page-break-before: always;
+  }
 
-    &.one-column {
-      columns: 1;
+  .columns {
+    columns: 2;
+    column-gap: var(--size-l);
+    margin-top: var(--size-xl);
+
+    > :first-child {
+      margin-top: 0;
     }
+  }
+
+  .column-break {
+    break-after: column;
   }
 }

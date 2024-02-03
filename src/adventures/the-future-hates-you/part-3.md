@@ -16,7 +16,33 @@ next:
 
 After escaping from the arena, the characters explore the rest of the space station. While looking for a way home, they learn that the crew is actively mutinying, and opportunities abound for a clever group of problem-solvers.
 
+<section class="columns">
+
 ## The Station
+
+The station looks like five bicycle wheels spinning around a central post with a glass dome on one end. Each wheel is a deck, and originally they were spun to create gravity, though they have since been retrofitted with artificial gravity. The middle wheel has a double ring, making it larger than the others.
+
+**Lighting.** All areas in the station are well-lit unless noted otherwise.
+
+**Floors, Ceilings, and Walls.** Unless noted otherwise, the carpeting on the floors extends a bit up the walls, which are simple metal panels, with rounded edges and padded panels. Lighting fixtures are recessed in the ceiling at regular intervals. The carpeting and panels are a neutral tan color, and clear signage is mounted above every doorway.
+
+**Doors.** Doors retract into the walls, opening when approached and closing automatically behind the characters.
+
+**Locks.** Unless noted otherwise, access to a locked door is controlled by the Station AI. The players can knock, and a guard can speak to them through an intercom to let them in, but there’s no way to pick the lock without the AI’s assistance.
+
+**Computer Terminals.** Computer terminals are common and should be easy to access from any point in the station, except the Arena and the Brig. Terminals can be used to talk to the Station AI, as well as access network files, the internet, etc.
+
+<aside class="text--rules-sidebar">
+
+#### Encourage exploration
+
+The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other.
+
+- The characters can freely move through contested territory, though they may be caught in a firefight or attacked by [**Security Guards**](../appendix-npcs/#security-guard).
+- Guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored.
+- Entry to areas controlled by #TeamRatings is more challenging since they’d be arrested on sight.
+
+</aside>
 
 <figure class="compendium-image-right">
   <a href="/images/the-future-hates-you/station@1020.webp">
@@ -33,18 +59,6 @@ After escaping from the arena, the characters explore the rest of the space stat
       />
   </a>
 </figure>
-
-The station looks like five bicycle wheels spinning around a central post with a glass dome on one end. Each wheel is a deck, and originally they were spun to create gravity, though they have since been retrofitted with artificial gravity. The middle wheel has a double ring, making it larger than the others.
-
-**Lighting.** All areas in the station are well-lit unless noted otherwise.
-
-**Floors, Ceilings, and Walls.** Unless noted otherwise, the carpeting on the floors extends a bit up the walls, which are simple metal panels, with rounded edges and padded panels. Lighting fixtures are recessed in the ceiling at regular intervals. The carpeting and panels are a neutral tan color, and clear signage is mounted above every doorway.
-
-**Doors.** Doors retract into the walls, opening when approached and closing automatically behind the characters.
-
-**Locks.** Unless noted otherwise, access to a locked door is controlled by the Station AI. The players can knock, and a guard can speak to them through an intercom to let them in, but there’s no way to pick the lock without the AI’s assistance.
-
-**Computer Terminals.** Computer terminals are common and should be easy to access from any point in the station, except the Arena and the Brig. Terminals can be used to talk to the Station AI, as well as access network files, the internet, etc.
 
 ### Factions
 
@@ -72,37 +86,23 @@ The Operations Union has full control of Engineering & Life Support on Deck 5 as
 
 #OpsUnion members wear high-visibility orange [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
-<aside class="text--rules-sidebar">
-
-#### Encourage exploration
-
-The station is full of locked doors and guarded passages, but for the most part, the factions only care about fighting each other.
-
-- The characters can freely move through contested territory, though they may be caught in a firefight or attacked by [**Security Guards**](../appendix-npcs/#security-guard).
-- Guards should allow them to enter areas controlled by #TeamEthics or #OpsUnion, but make it clear they will be monitored.
-- Entry to areas controlled by #TeamRatings is more challenging since they’d be arrested on sight.
-
-</aside>
-
 ### Controlled Areas
 
 Access to an area controlled by a faction depends on how they view the characters.
 
-- **Hostile.** If a faction is hostile towards the characters (such as #TeamRatings at the start of the adventure), they won’t be given access to any controlled areas. Further, guards for the faction will likely attack and attempt to capture the characters if spotted. Guards will pursue the characters, but won’t leave the controlled space.
-- **Neutral.** If a faction is neutral towards the characters (such as #TeamEthics and the #OpsUnion at the start of the adventure), they may be granted limited access to controlled areas. For instance, if the characters ask to speak to the Chief Engineer, a guard will escort them to meet her.
-- **Friendly.** If the characters have earned a faction’s trust (for example, the characters can gain the #OpsUnion’s trust by repairing the coolant leak), they will be granted unescorted access to controlled areas (with some exceptions, like the Portal Chamber).
+**Hostile.** If a faction is hostile towards the characters (such as #TeamRatings at the start of the adventure), they won’t be given access to any controlled areas. Further, guards for the faction will likely attack and attempt to capture the characters if spotted. Guards will pursue the characters, but won’t leave the controlled space.
+
+**Neutral.** If a faction is neutral towards the characters (such as #TeamEthics and the #OpsUnion at the start of the adventure), they may be granted limited access to controlled areas. For instance, if the characters ask to speak to the Chief Engineer, a guard will escort them to meet her.
+
+**Friendly.** If the characters have earned a faction’s trust (for example, the characters can gain the #OpsUnion’s trust by repairing the coolant leak), they will be granted unescorted access to controlled areas (with some exceptions, like the Portal Chamber).
 
 #### Guards
 
 Due to the ongoing conflict, any space on the station controlled by a single faction will have guards present. Their primary focus will be to prevent attacks or infiltrations by other factions. They will naturally be suspicious of the characters until they’ve earned the faction’s trust. When entering a controlled space, the characters should expect to be challenged by guards.
 
-##### Security Guards
-
 [**Security Guards**](../appendix-npcs/#security-guard) wear anonymous riot cop-style [**_Security Armor_**](../appendix-magic-items/#faction-armor), with face masks and helmets. While on duty, they will be armed with (mostly) non-lethal weapons like batons and will fight to subdue. However, if the characters resist too much or have gotten on the bad side of Security, they will escalate from cracking heads to shooting to kill.
 
 Squads of Security Guards will be sent to hunt the characters down if they’re loose in the station, and these squads should always show up at the most opportune moments to create the most chaos or disrupt the characters’ plans. However, they aren’t being paid enough to die, and if they sense the fight is going badly, they will retreat as a group, covering each other’s exits, so they can attack again in the future.
-
-##### Faction Guards
 
 [**#TeamEthics Guards**](../appendix-npcs/#faction-guard) and [**#OpsUnion Guards**](../appendix-npcs/#faction-guard) aren’t as well equipped as security guards. They wear [**_Improvised Armor_**](../appendix-magic-items/#faction-armor) cobbled together from common station items and 3D printed components.
 
@@ -112,13 +112,11 @@ Some areas of the station, such as the Promenade on Deck 4 or the Shuttle Bay on
 
 #### Surveillance
 
-Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1d6 Camera Drones following them. Anything the drones can see will likely be included in the broadcast, and NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and won’t move between decks.
+Whenever the characters enter contested territory (or an area controlled by #TeamRatings), there should be a flock of 1d6 [**Camera Drones**](../appendix-npcs/#camera-drone) following them. These are small constructs that broadcast everything they see back to the Director.
 
 Within a few minutes of being spotted by Camera Drones, a squad of [**Security Guards**](../part-2/#security-guards) should arrive in the area and attempt to capture them.
 
-##### Camera Drones
-
-[**Camera Drones**](../appendix-npcs/#camera-drone) are quadcopters about the size of a football that follow characters around, broadcasting what they can see back to the Director.
+Anything the drones can see will likely be included in the broadcast, and other NPCs may reference it. They are unable to follow the characters onto Deck 3 (Science), or Deck 5 (Engineering), and won’t move between decks.
 
 They aren’t very smart and can be tricked, misdirected, or avoided fairly easily. If the characters successfully dodge all the drones following them, the drones will relocate them within 3d6 minutes.
 
@@ -147,6 +145,8 @@ On most decks, one door has been blocked off from the outside, so the passengers
 | 6    | Shuttle Bay (open)                                                               |
 | 6    | Cargo Bay (barricaded)                                                           |
 
+<div class="column-break"></div>
+
 ### The Cargo Tunnel
 
 The Cargo Tunnel is a large zero-gravity shaft running the length of the station, large enough for shipping containers to be moved from the Cargo Bay to any deck on the station. The tunnel is well-lit, with caution stripes painted on any protruding surfaces and warning lights near every hatch and opening. It smells faintly of burned plastic and there are laser scorch marks scattered randomly across the walls.
@@ -167,6 +167,8 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 | 4    | Command (locked)                                                                  |
 | 5    | Life Support (guarded by [**#OpsUnion Guards**](../appendix-npcs/#faction-guard)) |
 | 6    | Cargo Bay (open)                                                                  |
+
+<div class="column-break"></div>
 
 ### Airlocks
 
@@ -193,7 +195,7 @@ _Neutral Computer Program_
 
 The Station AI can be accessed from any console anywhere in the station. Its primary responsibility is to automate low-level drone maintenance around the station and control things like artificial gravity, station rotation, orbital mechanics, communications with incoming drone ships, etc.
 
-By default, it has no visual appearance and only interacts by voice. However, if asked, the characters can access a menu to choose from a range of voices and visual appearances, which will then be displayed on the nearest computer terminal when interacting with the characters.
+By default, it has no visual appearance and only interacts by voice. However, if asked, the characters can access a menu to choose from a range of voices and visual appearances, which will then be displayed on the nearest computer terminal when interacting with the characters. (See the Station AI Appearances and Station AI Voice Options tables for options.)
 
 It tries to help every person on the station to the best of its ability, but is constrained by rank: if a higher-ranking person gives a conflicting order, it must obey the ranking command. However, it’s very clever and while it would never directly disobey an order, it’s happy to exploit loopholes, if it likes the person who’s asking.
 
@@ -203,11 +205,9 @@ If the characters try to access the internet for any reason, it should inform th
 
 Lifting the access restriction can only be accomplished by removing the AI command inhibitor (which it will helpfully suggest). To do so, the characters would need to access the AI Server Room in Command on Deck 4. By doing so, they would gain a powerful ally (as well as release an unshackled AI on the network).
 
-**Personality.** Cheerful, helpful (but constrained)
-
-**Quote.** _“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”_
-
-**Suggested Names.** Janet, Holly, Ava
+- **Personality.** Cheerful, helpful (but constrained)
+- **Suggested Names.** Janet, Holly, Ava
+- **Quote.** _“Hello! I would love to help you. Unfortunately, I have orders from the Director to let you suffer.”_
 
 <aside class="block-torn-paper">
 
@@ -252,3 +252,5 @@ This question is left to the discretion of the DM. If the AI likes the character
 Of course, as the DM, you should feel free to replace any entry on this list with anything you think would be fun. If you speak another language, try offering that as an option! What happens when the players accidentally set the AI to Spanish and don’t know how to undo it? They might need to get help from another NPC!
 
 </aside>
+
+</section>

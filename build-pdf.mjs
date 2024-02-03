@@ -46,8 +46,6 @@ const getHtmlFromFile = async (htmlPath) => {
   updatedHTML = String(await inlineCssAndJs.process(updatedHTML));
   // Change any image URLs to paths so they can be inlined
   updatedHTML = updatedHTML.replaceAll('/images/', 'dist/images/');
-  // Strip all images for speedier PDF testing
-  updatedHTML = updatedHTML.replace(/<img[^>]*>/g, '');
   // Inline the assets
   return String(await inlineImages.process(updatedHTML));
 };
@@ -94,11 +92,10 @@ const fetchPDF = async (html, slug) => {
  * HTML path relative to the current working directory, and the PDF path.
  *
  * @param {string} htmlPath - the HTML file to load
+ * @param {string} slug - the filename to use for the PDF
  * @returns {object} meta - slug and path info
  */
-const getMeta = (htmlPath) => {
-  // Strip `dist/adventures/` and `/onepage/index.html` from htmlPath
-  let slug = htmlPath.split('/').slice(2, -2).join('-');
+const getMeta = (htmlPath, slug) => {
   // Create relative HTML path and PDF write destination
   const htmlPathCWD = path.join(currentDir, htmlPath);
   // Create the PDF write destination
@@ -115,9 +112,9 @@ const getMeta = (htmlPath) => {
  *
  * @param {string} htmlPath - the HTML file to load
  */
-const generatePDF = async (htmlPath) => {
+const generatePDF = async (htmlPath, slug) => {
   // Get the slug and path info for this HTML file
-  const meta = getMeta(htmlPath);
+  const meta = getMeta(htmlPath, slug);
   // Get the contents of the HTML file
   const html = await getHtmlFromFile(meta.htmlPathCWD);
   // Create a PDF from the HTML contents
@@ -129,4 +126,7 @@ const generatePDF = async (htmlPath) => {
   console.log(`[PDF] Writing ${meta.pdfPath}`);
 };
 
-await generatePDF('dist/adventures/the-future-hates-you/onepage/index.html');
+await generatePDF(
+  'dist/adventures/the-future-hates-you/appendix-handouts/index.html',
+  'appendix-handouts',
+);

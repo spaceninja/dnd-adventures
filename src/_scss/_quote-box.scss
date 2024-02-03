@@ -8,8 +8,12 @@ blockquote {
   font-size: var(--font-size-s);
   line-height: var(--line-height-l);
   margin: var(--size-xl) 0 var(--size-xxl);
-  padding: var(--size-l) var(--size-xl) var(--size-m);
+  padding: var(--size-l) var(--size-xl);
   position: relative;
+
+  @media print {
+    padding: var(--size-m);
+  }
 
   &::before,
   &::after,
@@ -47,11 +51,11 @@ blockquote {
     bottom: -4px;
   }
 
-  a {
-    color: var(--color-link);
+  :last-child {
+    margin-bottom: 0;
   }
 
-  p:last-of-type {
-    margin-bottom: var(--size-xs);
+  a {
+    color: var(--color-link);
   }
 }

@@ -1,6 +1,6 @@
 .block-torn-paper {
-  background: var(--color-theme-quote-bg, white);
-  border: solid transparent;
+  background: var(--color-torn-paper-bg, white);
+  border: solid var(--color-torn-paper-border);
   border-image-repeat: repeat;
   border-image-slice: 20 10 20 10 fill;
   border-image-source: var(
@@ -16,11 +16,18 @@
   padding: var(--size-s);
   position: relative;
 
-  a {
-    color: var(--color-link);
+  @media print {
+    border-image: none;
+    border-radius: 1em;
+    border-width: var(--border-thin);
+    padding: var(--size-m);
   }
 
-  p:last-of-type {
-    margin-bottom: var(--size-xs);
+  :last-child {
+    margin-bottom: 0;
+  }
+
+  a {
+    color: var(--color-link);
   }
 }

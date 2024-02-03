@@ -16,16 +16,35 @@ next:
 
 The characters find themselves in a confusing new reality and are immediately caught up in an overwhelming battle.
 
+<section class="columns">
+
 ## Let’s Make History!
 
-When everyone is ready to begin, read or paraphrase the following aloud, then have everyone roll for initiative.
+When everyone is ready to begin, read or paraphrase the following aloud.
 
 > You wake up on sandy ground with your head pounding. Wiping grit from your face, you take in your surroundings. The bright light hurts your eyes. The air is hot, and smells of sweat and blood. You and your group are in a circular holding pen formed by metal bars protruding from the earth.
 >
 > The area outside your cage looks like a battlefield. The uneven ground is broken up by small hills and the occasional dead tree or muddy pond. You can see several other holding pens, all filled with angry warriors. When they see you looking, they begin shouting threats and taunting you. Although you don’t remember it happening, you can’t escape the grim realization that you’ve been abducted and sold to a gladiator arena.
 >
 > High overhead, a colossal glass dome covers the entire arena. Through it, you see the night sky, crowded with stars, but something is wrong with the moon. It’s much larger and brighter than usual, and the wrong color. It takes you a moment to realize those streaks of white are clouds, swirling over blue oceans and green land. Your head swims as your perspective adjusts. You’re not looking _up_ at the moon, you’re looking _down_ at the planet.
->
+
+Give the players a moment to get their bearing, but before any of their characters can do anything, read the following, then have everyone roll for initiative.
+
+<figure class="compendium-image-right npc-portrait">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/director@500.webp"
+      srcset="
+        /images/the-future-hates-you/director@500.webp 500w,
+        /images/the-future-hates-you/director@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
 > A large black panel suspended from the dome crackles to life, revealing the leering face of a halfling. His hair is slicked back, and his smile is almost painfully broad.
 >
 > “Good evening, ladies and gentlemen of the audience! I’m the Director, and I’m so glad you’ve chosen to join us for a very special night here on _Historia Kanalo Arena Combat_. Now, we’ve had some bad guys in here before. Real scum from throughout history. The worst of the worst. You know them, you hate them, you love watching them fight and die. But joining us tonight?” He pauses and leans closer. “Ooooh, I get shivers just thinking about them. Joining our program with an exclusive contract — you won’t see them anywhere else! — are _the_ most notorious villains of all time!”
@@ -40,6 +59,16 @@ This encounter starts in the heat of battle. The shock leaves the characters ove
 
 There are six groups of four [**Gladiators**](../appendix-npcs/#gladiator), and they are all targeting the characters. Start the combat with one group of four, and add an additional group of four every round.
 
+<aside class="text--rules-sidebar">
+
+#### Arena contestants from across time
+
+Although they all use the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
+
+</aside>
+
+<div class="column-break"></div>
+
 Let the players fight as hard as they like, but the deck is stacked overwhelmingly against them, and the other contestants are fighting to the death. Most likely, the players will eventually be overwhelmed and fall in combat, in which case you should proceed to Part 2 and have the characters wake up in the clone tanks.
 
 If some or all of the characters manage to survive, after ten rounds of combat, the broadcast ends, and a thick gas is released into the Arena rendering everyone unconscious. (If any characters are immune to poison, have a squad of five [**Security Guards**](../appendix-npcs/#security-guard) enter the arena and use their [**_Laser Pistols_**](../appendix-magic-items/#laser-weapon) to stun any characters left standing.) Then proceed to Part 2, but have the surviving characters wake up in the holding cell.
@@ -52,10 +81,6 @@ A no-win scenario can be frustrating for players. But much like low-level charac
 
 </aside>
 
-### Arena Contestants
-
-The other “contestants” have survived for some time in the Arena and see the characters as fresh meat. Although they all use the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
-
 ### The Arena
 
 The Arena is a large, well-lit, open space with a domed glass ceiling stretching high overhead revealing a view of a crowded sea of stars and the surface of the planet. The room has a dirt floor, but it’s uneven, with small hills and valleys, even a few dead trees.
@@ -64,17 +89,11 @@ A successful DC 12 Wisdom (Perception) check reveals that this space used to be 
 
 There are several hazards scattered around, like large logs bristling with spikes. If any characters look for opportunities in combat, suggest something like this, and let them have a small victory by tricking another contestant into damaging themselves on the hazard. It won’t affect the overall battle, but it will help the players feel a sense of agency despite the odds being stacked against them.
 
-#### Spiked Log
+**Spiked Log.** This dead tree’s trunk has been pierced with dozens of large metal spikes, creating a combat hazard. Any creature that is pushed or thrown against the surface (or tricked into charging into it), takes 11 (2d10) damage and is trapped until they spend an action or half their movement to free themselves.
 
-This dead tree’s trunk has been pierced with dozens of large metal spikes, creating a combat hazard. Any creature that is pushed or thrown against the surface (or tricked into charging into it), takes 11 (2d10) damage and is trapped until they spend an action or half their movement to free themselves.
+**Spiked Pit.** A shallow pit has been dug here, with sharpened wooden spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes.
 
-#### Spiked Pit
-
-A shallow pit has been dug here, with sharpened wooden spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes.
-
-#### Scummy Pond
-
-This 30-foot wide pond is filled with knee-deep slimy water choked with algae and mud. Moving through it counts as difficult terrain.
+**Scummy Pond.** This 30-foot wide pond is filled with knee-deep slimy water choked with algae and mud. Moving through it counts as difficult terrain.
 
 ### The Display
 
@@ -89,3 +108,5 @@ Overlaid on the right side of the screen is a constant scrolling wall of text. I
 The Director’s running commentary and the audience’s reactions on the board are powerful exposition tools. Make it clear to the players that they are regarded as notorious criminals, and the audience is rooting for them to be killed. Have the Director mock the characters for every missed attack, and the audience cheer when they’re hit.
 
 </aside>
+
+</section>

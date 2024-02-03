@@ -14,6 +14,8 @@ next:
 
 # {{ title }}
 
+<section class="columns">
+
 <section class="stat-block">
 
 #### Bard
@@ -670,5 +672,7 @@ _Medium Humanoid (Any Race), Any Non-Lawful Alignment_
 **_Dagger._** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage.
 
 **_Rapier._** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
+
+</section>
 
 </section>

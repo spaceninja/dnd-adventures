@@ -14,6 +14,8 @@ next:
 
 # {{ title }}
 
+<section class="columns">
+
 In the eyes of the future, the characters are notorious historical figures, and as a result, they have wiki pages dedicated to their lives and crimes. Of course, like any historical figure who lived more than 1000 years ago, the details are of questionable accuracy. If the characters try to look themselves up, it should trigger a little minigame.
 
 For each of the following sections, have the player roll on the table for a prompt. Have the player elaborate on the prompt to explain what’s in their wiki page. The information doesn’t have to be accurate. This isn’t a character-building exercise, it’s an explanation for why the future thinks the character is a villain. Encourage the players to have fun, and maybe incorporate some of the results into their interactions with NPCs on the station.
@@ -102,3 +104,5 @@ Encourage the players to have fun with this section, especially if the roleplayi
 | 8   | Villain of a popular movie series |
 | 9   | Name is used as slang             |
 | 10  | Name is used as a curse word      |
+
+</section>
