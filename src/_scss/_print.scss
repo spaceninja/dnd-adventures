@@ -36,8 +36,8 @@
   }
 
   .columns {
-    columns: 2;
     column-gap: var(--size-l);
+    columns: 2;
     margin-top: var(--size-xl);
 
     > :first-child {
