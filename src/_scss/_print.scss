@@ -1,7 +1,12 @@
 /* stylelint-disable selector-no-qualifying-type */
 @media print {
+  :root {
+    --page-margin-block: 0.5in;
+    --page-margin-inline: 0.75in;
+  }
+
   @page {
-    margin: 0.5in 0.75in;
+    margin: var(--page-margin-block) var(--page-margin-inline);
   }
 
   .new-page {
@@ -31,7 +36,18 @@
     margin-top: 0;
   }
 
+  p {
+    orphans: 2;
+    widows: 2;
+  }
+
+  /**
+   * 1. If we don't reset the width like this then the article will be too wide.
+   *    This has something to do with the full-bleed image on page one.
+   */
   article {
+    display: block;
+    margin-inline: auto;
     page-break-before: always;
   }
 
@@ -47,5 +63,49 @@
 
   .column-break {
     break-after: column;
+  }
+
+  .title-page {
+    display: flex;
+    flex-direction: column;
+    height: calc(10.75in - var(--page-margin-block) * 2); // 1
+    justify-content: space-between;
+
+    p + p {
+      margin-top: 0.5em;
+      text-indent: 0;
+    }
+  }
+
+  .title-page__description {
+    font-size: larger;
+  }
+
+  .title-page__meta {
+    font-size: var(--font-size-xl);
+    font-style: italic;
+    margin: 1em 0;
+    text-align: center;
+  }
+
+  .title-page__credits {
+    font-size: var(--font-size-s);
+
+    ul {
+      columns: 2;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    em {
+      display: block;
+      margin-top: 1em;
+    }
+  }
+
+  .title-page__disclaimer {
+    font-size: var(--font-size-xs);
+    margin: 0.5em 0;
   }
 }

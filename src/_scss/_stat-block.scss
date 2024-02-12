@@ -17,6 +17,16 @@
     }
   }
 
+  @media print {
+    background: var(--color-table-row-bg-dark, whitesmoke);
+    border: var(--border-thin) solid var(--color-table-border, lightgrey);
+    border-bottom: var(--border-thick) solid
+      var(--color-table-head-border, darkgrey);
+    border-top: var(--border-thick) solid
+      var(--color-table-head-border, darkgrey);
+    box-shadow: none;
+  }
+
   &::before,
   &::after {
     background-image: url('/images/MMStatBar_lrg.jpg');
@@ -28,6 +38,10 @@
     left: -3px;
     position: absolute;
     right: -3px;
+
+    @media print {
+      display: none;
+    }
   }
 
   &::before {
@@ -64,6 +78,10 @@
 
   p {
     margin-bottom: var(--size-s);
+
+    @media print {
+      text-indent: 0;
+    }
   }
 
   ul {
@@ -97,5 +115,15 @@
 
   strong {
     display: block;
+  }
+}
+
+.stat-block__spells {
+  @media print {
+    margin-bottom: var(--size-s);
+
+    p {
+      margin: 0;
+    }
   }
 }

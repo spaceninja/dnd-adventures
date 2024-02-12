@@ -19,7 +19,7 @@ next:
 
 ## Deck 1: The Arena
 
-<figure>
+<figure class="full-page-image shorter">
   <img src="/images/the-future-hates-you/deck-01-labels@1660v.webp" alt="">
 </figure>
 
@@ -28,7 +28,7 @@ next:
 
 ## Deck 2: Habitation
 
-<figure>
+<figure class="full-page-image">
   <img src="/images/the-future-hates-you/deck-02-labels@1660v.webp" alt="">
 </figure>
 
@@ -37,7 +37,7 @@ next:
 
 ## Deck 3: Science
 
-<figure>
+<figure class="full-page-image">
   <img src="/images/the-future-hates-you/deck-03-labels@1660v.webp" alt="">
 </figure>
 
@@ -46,7 +46,7 @@ next:
 
 ## Deck 4: Promenade & Admin
 
-<figure>
+<figure class="full-page-image">
   <img src="/images/the-future-hates-you/deck-04-labels@1660v.webp" alt="">
 </figure>
 
@@ -55,7 +55,7 @@ next:
 
 ## Deck 5: Engineering
 
-<figure>
+<figure class="full-page-image">
   <img src="/images/the-future-hates-you/deck-05-labels@1660v.webp" alt="">
 </figure>
 
@@ -64,7 +64,7 @@ next:
 
 ## Deck 6: Flight Deck
 
-<figure>
+<figure class="full-page-image">
   <img src="/images/the-future-hates-you/deck-06-labels@1660v.webp" alt="">
 </figure>
 

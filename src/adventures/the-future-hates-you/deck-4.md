@@ -21,7 +21,7 @@ Deck Four is a double ring. The tourist shops of the outer ring Promenade have a
     <img
       alt="Map of Deck 4"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-04-labels@830.webp"
+      src="/images/the-future-hates-you/deck-04-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-04-labels@830.webp 830w,
         /images/the-future-hates-you/deck-04-labels@1660.webp 1660w,
@@ -41,6 +41,8 @@ _Contested territory_
 > You can tell this is (or rather, was) the nicest part of the station. The carpeting on the floor extends up the walls, and the lighting panels recessed in the ceiling glow warmly. Windows along the outer hull reveal excellent views of the planet rotating past. The hallway from the elevator leads invitingly to the food court, with a promenade wrapping away in either direction filled with shops for visiting tourists.
 >
 > The effect is rather ruined by the fact that the food courts are an active combat zone. The shops are all closed, their neon signs turned off and roll-down gates locked. Camera drones dodge constant laser fire. The air is filled with the smell of ozone and smoke. Combatants move from cover to cover. You hear shouts and commands, as well as the Station AI over a loudspeaker declaring the area unsafe. Red flashing lights strobe as two fire drones try to put out a burning barricade.
+
+<div class="column-break"></div>
 
 A long hallway leads from the [Elevator](../part-3/#elevator) past locked doors for Broadcasting and Command before opening onto the active combat zone of the food court.
 
@@ -107,7 +109,7 @@ This large room is filled with racks and storage bins of clothing designed to al
 
 ### Storage
 
-Props, historical weaponry, equipment, and gear are stored here in bins. All of it was designed to help researchers blend in when they visited the past. It all looks good, but they’re reproductions and a close inspection reveals they’re worthless.
+Props, historical weaponry, equipment, and gear are stored here in bins. All of it was designed to help researchers blend in when they visited the past. These are reproductions and a close inspection reveals they’re worthless.
 
 ### Offices
 
@@ -122,7 +124,7 @@ The walls of the Director’s office are covered with awards, photos of the Dire
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/director@500.webp"
+      src="/images/the-future-hates-you/director@1000.webp"
       srcset="
         /images/the-future-hates-you/director@500.webp 500w,
         /images/the-future-hates-you/director@1000.webp 1000w"
@@ -151,7 +153,7 @@ If the characters ask for anything, he refers them to the Commander, as if he ca
 - **Suggested Names.** A.J. Cadinski, Bertram Lockhart, George Claude Barnum
 - **Quote.** _“There they are, my favorite contestants! Nice hit out there, big guy! You know, our former director found these broadcasts ‘distasteful,’ but the way I see it, we’re providing a valuable service. Public interest in history is at an all-time high, viewership is through the roof, and more importantly, so is ad revenue!”_
 
-<aside class="block-torn-paper">
+<aside class="block-torn-paper column-break">
 
 **Quest: Remove the Professor:** The Director knows when he has a star on his hands. Your group is a hit, and he’d be foolish to ignore that. He’d like nothing more than to allow you to capitalize on your stardom to live large, but he needs something from you first: Remove the Professor.
 
@@ -212,7 +214,7 @@ The Commander’s office is no different from any of the others. Certainly, it�
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/commander@500.webp"
+      src="/images/the-future-hates-you/commander@1000.webp"
       srcset="
         /images/the-future-hates-you/commander@500.webp 500w,
         /images/the-future-hates-you/commander@1000.webp 1000w"

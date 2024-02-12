@@ -49,11 +49,15 @@ _Medium Humanoid (Any Race), Any Alignment_
 
 **_Spellcasting._** The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following bard spells prepared:
 
+<div class="stat-block__spells">
+
 Cantrips (at will): _friends_, _mage hand_, _vicious mockery_
 
 1st level (4 slots): _charm person_, _healing word_, _heroism_, _sleep_, _thunderwave_
 
 2nd level (3 slots): _invisibility_, _shatter_
+
+</div>
 
 **_Song of Rest._** The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra 1d6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.
 
@@ -220,11 +224,15 @@ _Medium Humanoid (Any Race), Any Non-Good Alignment_
 
 **_Spellcasting._** The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
+<div class="stat-block__spells">
+
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
 1st level (4 slots): _command_, _inflict wounds_, _shield of faith_
 
 2nd level (3 slots): _hold person_, _spiritual weapon_
+
+</div>
 
 ##### Actions
 
@@ -445,6 +453,8 @@ _Medium Humanoid (Any Race), Any Alignment_
 
 **_Spellcasting._** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
+<div class="stat-block__spells">
+
 Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 
 1st level (4 slots): _cure wounds_, _guiding bolt_, _sanctuary_
@@ -452,6 +462,8 @@ Cantrips (at will): _light_, _sacred flame_, _thaumaturgy_
 2nd level (3 slots): _lesser restoration_, _spiritual weapon_
 
 3rd level (2 slots): _dispel magic_, _spirit guardians_
+
+</div>
 
 ##### Actions
 

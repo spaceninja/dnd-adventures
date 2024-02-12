@@ -89,3 +89,34 @@ figcaption {
     right: var(--border-thick);
   }
 }
+
+.full-page-image {
+  @media print {
+    height: 9in;
+    width: 100%;
+
+    &.shorter {
+      height: 8.5in;
+    }
+
+    img {
+      height: auto;
+      margin: auto;
+      max-height: 100%;
+      width: auto;
+    }
+  }
+}
+
+.full-bleed-image {
+  @media print {
+    width: 100%;
+
+    img {
+      display: block;
+      height: 100%;
+      object-fit: cover;
+      width: 100%;
+    }
+  }
+}

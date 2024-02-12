@@ -21,7 +21,7 @@ Deck 2 is split into two sections: Security and Habitation. Security (described 
     <img
       alt="Map of Deck 2"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-02-labels@830.webp"
+      src="/images/the-future-hates-you/deck-02-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-02-labels@830.webp 830w,
         /images/the-future-hates-you/deck-02-labels@1660.webp 1660w,
@@ -100,7 +100,7 @@ If the characters cause any trouble, the Bartender will gesture at the Bouncers,
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/bartender@500.webp"
+      src="/images/the-future-hates-you/bartender@1000.webp"
       srcset="
         /images/the-future-hates-you/bartender@500.webp 500w,
         /images/the-future-hates-you/bartender@1000.webp 1000w"
@@ -137,14 +137,6 @@ The Bar has a back room, mostly filled with crates of bottles, bar supplies, and
 
 If the players have completed the job, he allows each character to choose one item from the table for free. Anything else would require bartering because the Bartender won’t accept any form of currency. He will trade for useful items such as Vac Suits, medical supplies, and modern weaponry.
 
-<aside class="text--rules-sidebar">
-
-#### Modern Weaponry
-
-Giving the players access to modern weaponry and gear can help them feel more powerful. On the other hand, it may cause problems if the characters return to the past with modern gear. You could find an excuse to remove modern gear before they return home, or let them take it, but with a limited number of charges, and no way to reload.
-
-</aside>
-
 | Item                                                           | Notes                                                                            | Stock |
 | :------------------------------------------------------------- | :------------------------------------------------------------------------------- | ----- |
 | [**_Security Armor_**](../appendix-magic-items/#faction-armor) | Grants resistance to radiant damage and advantage on Charisma (Deception) checks | 6     |
@@ -153,5 +145,13 @@ Giving the players access to modern weaponry and gear can help them feel more po
 | [**_Pulse Grenade_**](../appendix-magic-items/#pulse-grenade)  | Deals 5d6 radiant damage in a 20-foot radius                                     | 3     |
 | [**_Healing Pack_**](../appendix-magic-items/#healing-pack)    | Heals 4d4 + 4 hit points                                                         | 3     |
 | [**_Uniform_**](../appendix-magic-items/#uniform)              | Jumpsuit in the proper color scheme for any faction                              | 20    |
+
+<aside class="text--rules-sidebar">
+
+#### Modern Weaponry
+
+Giving the players access to modern weaponry and gear can help them feel more powerful. On the other hand, it may cause problems if the characters return to the past with modern gear. You could find an excuse to remove modern gear before they return home, or let them take it, but with a limited number of charges, and no way to reload.
+
+</aside>
 
 </section>

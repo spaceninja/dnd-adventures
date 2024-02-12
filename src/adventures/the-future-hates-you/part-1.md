@@ -35,7 +35,7 @@ Give the players a moment to get their bearing, but before any of their characte
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/director@500.webp"
+      src="/images/the-future-hates-you/director@1000.webp"
       srcset="
         /images/the-future-hates-you/director@500.webp 500w,
         /images/the-future-hates-you/director@1000.webp 1000w"

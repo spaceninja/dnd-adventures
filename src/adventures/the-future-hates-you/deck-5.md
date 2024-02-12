@@ -21,7 +21,7 @@ Deck 5 consists of two areas, Engineering and Life Support, both controlled by #
     <img
       alt="Map of Deck 5"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-05-labels@830.webp"
+      src="/images/the-future-hates-you/deck-05-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-05-labels@830.webp 830w,
         /images/the-future-hates-you/deck-05-labels@1660.webp 1660w,
@@ -71,7 +71,7 @@ One office is designated for the Chief Engineer. Inside is a large worktable cov
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/chief@500.webp"
+      src="/images/the-future-hates-you/chief@1000.webp"
       srcset="
         /images/the-future-hates-you/chief@500.webp 500w,
         /images/the-future-hates-you/chief@1000.webp 1000w"
@@ -150,7 +150,7 @@ If the players listen to his instructions, they can find the correct panel with 
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/technician@500.webp"
+      src="/images/the-future-hates-you/technician@1000.webp"
       srcset="
         /images/the-future-hates-you/technician@500.webp 500w,
         /images/the-future-hates-you/technician@1000.webp 1000w"

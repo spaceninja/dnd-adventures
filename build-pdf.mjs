@@ -46,6 +46,8 @@ const getHtmlFromFile = async (htmlPath) => {
   updatedHTML = String(await inlineCssAndJs.process(updatedHTML));
   // Change any image URLs to paths so they can be inlined
   updatedHTML = updatedHTML.replaceAll('/images/', 'dist/images/');
+  // Remove all links
+  updatedHTML = updatedHTML.replaceAll(/href=".*?"/g, '');
   // Inline the assets
   return String(await inlineImages.process(updatedHTML));
 };
@@ -127,6 +129,6 @@ const generatePDF = async (htmlPath, slug) => {
 };
 
 await generatePDF(
-  'dist/adventures/the-future-hates-you/appendix-handouts/index.html',
-  'appendix-handouts',
+  'dist/adventures/the-future-hates-you/onepage/index.html',
+  'onepage',
 );

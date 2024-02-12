@@ -21,7 +21,7 @@ The characters awaken in a holding cell (or a clone tank if they died) before th
     <img
       alt="Map of Deck 2"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-02-fogged-labels@830.webp"
+      src="/images/the-future-hates-you/deck-02-fogged-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-02-fogged-labels@830.webp 830w,
         /images/the-future-hates-you/deck-02-fogged-labels@1660.webp 1660w,
@@ -85,7 +85,7 @@ Racks of armor and weapons are kept by the door. At any given time, there are 6d
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/security-chief@500.webp"
+      src="/images/the-future-hates-you/security-chief@1000.webp"
       srcset="
         /images/the-future-hates-you/security-chief@500.webp 500w,
         /images/the-future-hates-you/security-chief@1000.webp 1000w"
@@ -132,7 +132,7 @@ It should be clear to the characters that they are dramatically outnumbered by t
     <img
       alt="Map of the Arena"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-01-labels@830.webp"
+      src="/images/the-future-hates-you/deck-01-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-01-labels@830.webp 830w,
         /images/the-future-hates-you/deck-01-labels@1660.webp 1660w,
@@ -176,7 +176,7 @@ The only remaining exit from the Arena is the stairwell down to Security. It has
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/champion@500.webp"
+      src="/images/the-future-hates-you/champion@1000.webp"
       srcset="
         /images/the-future-hates-you/champion@500.webp 500w,
         /images/the-future-hates-you/champion@1000.webp 1000w"
@@ -212,7 +212,7 @@ If attacked, the Champion will fight without hesitation to defend herself and th
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/strategist@500.webp"
+      src="/images/the-future-hates-you/strategist@1000.webp"
       srcset="
         /images/the-future-hates-you/strategist@500.webp 500w,
         /images/the-future-hates-you/strategist@1000.webp 1000w"

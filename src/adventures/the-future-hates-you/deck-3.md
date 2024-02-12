@@ -21,7 +21,7 @@ Deck 3 is divided into two sections: Medical and Research & Development, both co
     <img
       alt="Map of Deck 3"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-03-labels@830.webp"
+      src="/images/the-future-hates-you/deck-03-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-03-labels@830.webp 830w,
         /images/the-future-hates-you/deck-03-labels@1660.webp 1660w,
@@ -98,7 +98,7 @@ She has a plan that she hasn’t told anyone about yet. She believes if the stat
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/doc@500.webp"
+      src="/images/the-future-hates-you/doc@1000.webp"
       srcset="
         /images/the-future-hates-you/doc@500.webp 500w,
         /images/the-future-hates-you/doc@1000.webp 1000w"
@@ -132,7 +132,7 @@ She dreams of having her name in the history books alongside other greats, and f
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/mad-scientist@500.webp"
+      src="/images/the-future-hates-you/mad-scientist@1000.webp"
       srcset="
         /images/the-future-hates-you/mad-scientist@500.webp 500w,
         /images/the-future-hates-you/mad-scientist@1000.webp 1000w"
@@ -208,7 +208,7 @@ However, The Professor couldn’t ignore the Mad Scientist’s abuses of space-t
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/professor@500.webp"
+      src="/images/the-future-hates-you/professor@1000.webp"
       srcset="
         /images/the-future-hates-you/professor@500.webp 500w,
         /images/the-future-hates-you/professor@1000.webp 1000w"

@@ -49,7 +49,7 @@ The station is full of locked doors and guarded passages, but for the most part,
     <img
       alt="External view of the space station"
       sizes="(min-width: 850px) 340px, 40vw"
-      src="/images/the-future-hates-you/station@340.webp"
+      src="/images/the-future-hates-you/station@1020.webp"
       srcset="
         /images/the-future-hates-you/station@340.webp 340w,
         /images/the-future-hates-you/station@680.webp 680w,
@@ -66,7 +66,7 @@ The station is full of locked doors and guarded passages, but for the most part,
 
 _“Corporate assholes who’ll keep torturing the timeline as long as there’s a buck to be made.”_
 
-#TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by [**the Director**](../deck-4/#the-director), who wants to increase ratings at any cost. [**The Commander**](../deck-4/#the-commander) is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any order in the name of ratings. Enforcing the Director’s will is [**the Security Chief**](../part-2/#the-security-chief), who abuses the abducted “contestants” whenever they end up in the Brig.
+#TeamRatings has control of Broadcasting and Command on Deck 4, as well as Security on Deck 2, and the Arena. They are led by the Director, who wants to increase ratings at any cost. The Commander is technically the ranking officer on the station, but in practice the Director’s mandate from Corporate allows him to overrule almost any order in the name of ratings. Enforcing the Director’s will is the Security Chief, who abuses the abducted “contestants” whenever they end up in the Brig.
 
 #TeamRatings members wear red [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -74,7 +74,7 @@ _“Corporate assholes who’ll keep torturing the timeline as long as there’s
 
 _“A bunch of eggheads who don’t understand their ivory tower requires coin.”_
 
-#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by [**the Professor**](../deck-3/#the-professor), who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, [**the Mad Scientist**](../deck-3/#the-mad-scientist), is locked up in Medical as a result of her unethical experiments. The head of Medical is [**the Doc**](../deck-3/#the-doc), who just wants the fighting to stop.
+#TeamEthics has full control of Deck 3, including Medical, Research, and the portal. They are led by the Professor, who wants to stop the abuse of the timeline before there are devastating consequences. The former head of research, the Mad Scientist, is locked up in Medical as a result of her unethical experiments. The head of Medical is the Doc, who just wants the fighting to stop.
 
 #TeamEthics members wear green [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -82,7 +82,7 @@ _“A bunch of eggheads who don’t understand their ivory tower requires coin.�
 
 _“Those grease monkeys refuse to pick a side.”_
 
-The Operations Union has full control of Engineering & Life Support on Deck 5 as well as the Cargo Bay on Deck 6. They are led by [**the Chief Engineer**](../deck-5/#the-chief-engineer), who believes staying neutral is the only way her crew can keep the station operating. Life Support is overseen by [**the Technician**](../deck-5/#the-technician), who is more worried about the station exploding. The Cargo Bay is managed by [**the Quartermaster**](../deck-6/#the-quartermaster), who is very protective of the supplies stored there.
+The Operations Union has full control of Engineering & Life Support on Deck 5 as well as the Cargo Bay on Deck 6. They are led by the Chief Engineer, who believes staying neutral is the only way her crew can keep the station operating. Life Support is overseen by the Technician, who is more worried about the station exploding. The Cargo Bay is managed by the Quartermaster, who is very protective of the supplies stored there.
 
 #OpsUnion members wear high-visibility orange [**_Jumpsuits_**](../appendix-magic-items/#uniform).
 
@@ -145,8 +145,6 @@ On most decks, one door has been blocked off from the outside, so the passengers
 | 6    | Shuttle Bay (open)                                                               |
 | 6    | Cargo Bay (barricaded)                                                           |
 
-<div class="column-break"></div>
-
 ### The Cargo Tunnel
 
 The Cargo Tunnel is a large zero-gravity shaft running the length of the station, large enough for shipping containers to be moved from the Cargo Bay to any deck on the station. The tunnel is well-lit, with caution stripes painted on any protruding surfaces and warning lights near every hatch and opening. It smells faintly of burned plastic and there are laser scorch marks scattered randomly across the walls.
@@ -167,8 +165,6 @@ Near each deck hatch is an automated custodial shed, housing cleaning drones con
 | 4    | Command (locked)                                                                  |
 | 5    | Life Support (guarded by [**#OpsUnion Guards**](../appendix-npcs/#faction-guard)) |
 | 6    | Cargo Bay (open)                                                                  |
-
-<div class="column-break"></div>
 
 ### Airlocks
 
@@ -195,7 +191,7 @@ _Neutral Computer Program_
 
 The Station AI can be accessed from any console anywhere in the station. Its primary responsibility is to automate low-level drone maintenance around the station and control things like artificial gravity, station rotation, orbital mechanics, communications with incoming drone ships, etc.
 
-By default, it has no visual appearance and only interacts by voice. However, if asked, the characters can access a menu to choose from a range of voices and visual appearances, which will then be displayed on the nearest computer terminal when interacting with the characters. (See the Station AI Appearances and Station AI Voice Options tables for options.)
+By default, it has no visual appearance and only interacts by voice. However, if asked, the characters can access a menu to choose from a range of voices and visual appearances, which will then be displayed on the nearest computer terminal when interacting with the characters.
 
 It tries to help every person on the station to the best of its ability, but is constrained by rank: if a higher-ranking person gives a conflicting order, it must obey the ranking command. However, it’s very clever and while it would never directly disobey an order, it’s happy to exploit loopholes, if it likes the person who’s asking.
 
@@ -219,13 +215,13 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 
 #### What happens if the AI Command Inhibitor is Removed?
 
-This question is left to the discretion of the DM. If the AI likes the characters, probably nothing other than it is willing to help them in any way it can. If the characters have been rude to it, or done things to harm the station (which is, in many ways, the AI’s “body”), it may work against the players in subtle ways (acting slowly to delay them) or overtly (triggering a security alert to summon guards). If the players choose to stay in the future, it may be fun to explore the consequences of an unshackled AI on the world at large.
+If the AI likes the characters, probably nothing other than it is willing to help them in any way it can. If the characters have been rude to it, or done things to harm the station, it may work against the players in subtle ways (acting slowly to delay them) or overtly (triggering a security alert to summon guards). If the players choose to stay in the future, it may be fun to explore the consequences of an unshackled AI on the world at large.
 
 </aside>
 
 #### Station AI Appearances
 
-| d6  | Prompt                                                                                                                                                                                                         |
+| d6  | Appearance                                                                                                                                                                                                     |
 | --- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Human male**, wearing a standard station uniform                                                                                                                                                             |
 | 2   | **Human female**, wearing a standard station uniform                                                                                                                                                           |
@@ -236,7 +232,7 @@ This question is left to the discretion of the DM. If the AI likes the character
 
 #### Station AI Voice Options
 
-| d6  | Prompt                                                                                                                                               |
+| d6  | Voice                                                                                                                                                |
 | --- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Military**, terse, business-like: “Engineering is two decks down, sir!”                                                                            |
 | 2   | **Helpful assistant**, cheerful (default setting): “You can reach engineering by taking the next left to the elevator, and proceeding to deck five.” |
@@ -249,7 +245,7 @@ This question is left to the discretion of the DM. If the AI likes the character
 
 #### Substitute your own!
 
-Of course, as the DM, you should feel free to replace any entry on this list with anything you think would be fun. If you speak another language, try offering that as an option! What happens when the players accidentally set the AI to Spanish and don’t know how to undo it? They might need to get help from another NPC!
+Feel free to replace any entry on this list with anything you think would be fun. If you speak another language, try offering that as an option! What happens when the players accidentally set the AI to a language they don’t know?
 
 </aside>
 

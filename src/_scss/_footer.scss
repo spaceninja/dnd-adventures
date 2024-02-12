@@ -12,6 +12,10 @@
   margin-inline: auto;
   max-width: var(--size-page-width);
   padding: var(--size-xxl) var(--size-s);
+
+  @media print {
+    padding: 0;
+  }
 }
 
 .footer-logo {

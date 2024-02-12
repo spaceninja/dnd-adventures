@@ -37,6 +37,8 @@ This section of the wiki page helps to establish how the character’s childhood
 | 9   | Remarkably gifted                           |
 | 10  | Divine birth <sup>[*citation needed*]</sup> |
 
+<div class="column-break"></div>
+
 ## Gang Membership
 
 This section of the wiki covers the character’s time with the adventuring party, referred to as the character’s “gang,” and establishes how the future views their participation in the gang’s crimes.
@@ -71,6 +73,8 @@ This section of the wiki covers the character’s life after leaving the gang an
 | 9   | Cult leader                             |
 | 10  | Exploded <sup>[*citation needed*]</sup> |
 
+<div class="column-break"></div>
+
 ## Historical Perspective
 
 This section covers the consensus by historians of the character and what sort of view the future takes of their crimes and their impact on the world.
@@ -87,6 +91,8 @@ This section covers the consensus by historians of the character and what sort o
 | 8   | Inspired copycat criminals                 |
 | 9   | Inspired a political movement              |
 | 10  | Inspired a religion or cult                |
+
+<div class="column-break"></div>
 
 ## Depictions in Popular Culture
 

@@ -21,7 +21,7 @@ Deck 6 consists of two massive rooms: the Shuttle Bay and the Cargo Bay. The Shu
     <img
       alt="Map of Deck 6"
       sizes="(min-width: 850px) 830px, 100vw"
-      src="/images/the-future-hates-you/deck-06-labels@830.webp"
+      src="/images/the-future-hates-you/deck-06-labels@2490.webp"
       srcset="
         /images/the-future-hates-you/deck-06-labels@830.webp 830w,
         /images/the-future-hates-you/deck-06-labels@1660.webp 1660w,
@@ -71,7 +71,7 @@ To the left of the elevator is a long room that follows the curve of the inner h
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/pilot@500.webp"
+      src="/images/the-future-hates-you/pilot@1000.webp"
       srcset="
         /images/the-future-hates-you/pilot@500.webp 500w,
         /images/the-future-hates-you/pilot@1000.webp 1000w"
@@ -121,7 +121,7 @@ A makeshift barricade has been constructed a few feet in front of the open hatch
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/quartermaster@500.webp"
+      src="/images/the-future-hates-you/quartermaster@1000.webp"
       srcset="
         /images/the-future-hates-you/quartermaster@500.webp 500w,
         /images/the-future-hates-you/quartermaster@1000.webp 1000w"
