@@ -109,7 +109,7 @@ If the Security Chief is defeated, it has a demoralizing effect on all Security 
 
 - **Personality.** Sarcastic, threatening, sadistic
 - **Suggested Names.** Lucille Walter-Dreyfus, Emma Hunton-Blather, Mae Peirce-Ashton
-- **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc how hard can it be.”_
+- **Quote.** _“Can’t you idiots do anything right? Honestly, it’s one orc, how hard can it be.”_
 
 <aside class="block-torn-paper">
 
