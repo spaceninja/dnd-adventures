@@ -63,7 +63,7 @@ There are six groups of four [**Gladiators**](../appendix-npcs/#gladiator), and 
 
 #### Arena contestants from across time
 
-Although they all use the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a barbarian’s loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
+Although they all use the same stat block, emphasize that the contestants vary wildly in appearance and weaponry. They have been plucked from a wide variety of times and cultures. You might describe one as wearing a loincloth and swinging a battleaxe, while another is wearing a formal suit and fighting with a sword cane.
 
 </aside>
 

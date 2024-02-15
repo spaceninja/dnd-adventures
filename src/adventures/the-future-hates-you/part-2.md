@@ -194,7 +194,7 @@ The Champion was a notorious marauder and won the first season of the gladiator 
 
 Unfortunately, in her timeline, several years had passed, and she had given up her marauding ways and settled down with a nice human and had a couple of kids. Then they abducted her again. She wants only to return to her timeline but wasn’t sure how to do that until she met the Strategist. Now she has adopted the role of protector, trusting that the Strategist will find a way to get her home.
 
-If attacked, the Champion will fight without hesitation to defend herself and the Champion, though she will make it clear she wants to talk and will stop fighting if the characters do.
+If attacked, the Champion will fight without hesitation to defend herself and the Strategist, though she will make it clear she wants to talk and will stop fighting if the characters do.
 
 - The Champion uses the stats for a [**Hobgoblin Warlord**](https://www.dndbeyond.com/monsters/hobgoblin-warlord) and carries a [**_+2 Longsword_**](https://www.dndbeyond.com/magic-items/5282-longsword-2).
 - **Personality.** Confident, loud, secretly sad
