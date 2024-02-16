@@ -72,6 +72,21 @@ Since the mutiny, the Doc mostly uses her office as a conference room for meetin
 
 A storage closet at the far end of Medical has been cleared out and converted into a makeshift jail cell to hold the former head of R&D, the Mad Scientist. A pair of bored-looking [**#TeamEthics Guards**](../appendix-npcs/#faction-guard) are stationed outside the door at all times.
 
+<figure class="compendium-image-right npc-portrait float-bottom">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/doc@1000.webp"
+      srcset="
+        /images/the-future-hates-you/doc@500.webp 500w,
+        /images/the-future-hates-you/doc@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
 ### The Doc
 
 _Lawful Good Elf Cleric_
@@ -98,10 +113,10 @@ She has a plan that she hasn’t told anyone about yet. She believes if the stat
     <img
       alt=""
       sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/doc@1000.webp"
+      src="/images/the-future-hates-you/mad-scientist@1000.webp"
       srcset="
-        /images/the-future-hates-you/doc@500.webp 500w,
-        /images/the-future-hates-you/doc@1000.webp 1000w"
+        /images/the-future-hates-you/mad-scientist@500.webp 500w,
+        /images/the-future-hates-you/mad-scientist@1000.webp 1000w"
       width="500"
       height="500"
       />
@@ -123,24 +138,9 @@ She dreams of having her name in the history books alongside other greats, and f
 
 <aside class="block-torn-paper">
 
-**Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If the characters can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering. As a reward, she will send the characters anywhere/when they want to go.
+**Quest: Return the Mad Scientist to the Portal Chamber:** The Mad Scientist desperately wants to return to her work. If you can free her and return her to the Portal Chamber, she can seal it to prevent anyone from interfering. As a reward, she will send you anywhere/when you want to go.
 
 </aside>
-
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img
-      alt=""
-      sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/mad-scientist@1000.webp"
-      srcset="
-        /images/the-future-hates-you/mad-scientist@500.webp 500w,
-        /images/the-future-hates-you/mad-scientist@1000.webp 1000w"
-      width="500"
-      height="500"
-      />
-  </div>
-</figure>
 
 ## Research & Development
 
@@ -176,6 +176,21 @@ Inside, the wall is lined with bookcases willed with both antique leather-bound 
 
 At any given time, the Professor is likely to be standing at their desk writing something, or sitting with their department heads discussing plans.
 
+<figure class="compendium-image-right npc-portrait float-bottom">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/professor@1000.webp"
+      srcset="
+        /images/the-future-hates-you/professor@500.webp 500w,
+        /images/the-future-hates-you/professor@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
 ### The Professor
 
 _Lawful Good Sentient Weapon wielded by Human Barbarian_
@@ -202,20 +217,5 @@ However, The Professor couldn’t ignore the Mad Scientist’s abuses of space-t
 [Sentient weapons](https://www.dndbeyond.com/sources/basic-rules/magic-items#SentientMagicItems) form a bond with a living creature who volunteers to be their agent. When the two are in contact (either holding or carrying the weapon), then a psychic bond is formed, allowing the weapon to speak through its agent. If the two are separated, the weapon can still project its thoughts to anyone who touches it, but it can’t command someone it hasn’t bonded with.
 
 </aside>
-
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img
-      alt=""
-      sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/professor@1000.webp"
-      srcset="
-        /images/the-future-hates-you/professor@500.webp 500w,
-        /images/the-future-hates-you/professor@1000.webp 1000w"
-      width="500"
-      height="500"
-      />
-  </div>
-</figure>
 
 </section>

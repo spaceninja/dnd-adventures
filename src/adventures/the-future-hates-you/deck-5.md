@@ -124,6 +124,21 @@ On either side of the semicircular room are large, open hatches labeled “Engin
 
 Running along the inner hull is a series of offices. These all look like auto mechanic shop offices, with half-height windows granting a clear view of the surrounding area. Each has been taken over as a relatively private sleeping area by exhausted #OpsUnion personnel, who are sleeping in office chairs or under desks.
 
+<figure class="compendium-image-right npc-portrait float-bottom">
+  <div class="npc-portrait__inner">
+    <img
+      alt=""
+      sizes="(min-width: 21em) 325px, 100vw"
+      src="/images/the-future-hates-you/technician@1000.webp"
+      srcset="
+        /images/the-future-hates-you/technician@500.webp 500w,
+        /images/the-future-hates-you/technician@1000.webp 1000w"
+      width="500"
+      height="500"
+      />
+  </div>
+</figure>
+
 ### The Technician
 
 _Lawful Neutral Merfolk Artificer_
@@ -144,20 +159,5 @@ If the players listen to his instructions, they can find the correct panel with 
 **Quest: Keep the Station from Exploding.** Oh shit, There’s a coolant leak in reactor one! It’s going to go critical and destroy the entire station in 30 hours. The only way to fix it is to access the station exterior. If you agree to help, the #OpsUnion will give Vacsuits to everyone on the team, granting you access to the airlocks (and a way around station security).
 
 </aside>
-
-<figure class="compendium-image-right npc-portrait">
-  <div class="npc-portrait__inner">
-    <img
-      alt=""
-      sizes="(min-width: 21em) 325px, 100vw"
-      src="/images/the-future-hates-you/technician@1000.webp"
-      srcset="
-        /images/the-future-hates-you/technician@500.webp 500w,
-        /images/the-future-hates-you/technician@1000.webp 1000w"
-      width="500"
-      height="500"
-      />
-  </div>
-</figure>
 
 </section>

@@ -113,9 +113,7 @@ If the Security Chief is defeated, it has a demoralizing effect on all Security 
 
 <aside class="block-torn-paper">
 
-**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and if the opportunity arises, she may ask the characters to help take her down. She’s already hacked the cloning computer to scramble the Champion’s data, so the cloning process will fail, and the Champion will die permanently.
-
-In exchange, she offers improved treatment while the characters are in custody. Better food, rest, respect. This should be presented as a very non-committal you-scratch-my-back-maybe-I’ll-scratch-yours kind of deal. She knows she has the upper hand and isn’t likely to negotiate.
+**Quest: Defeat the Champion:** The Champion has become a real pain in the Security Chief’s rear, and she wants you to help take her down. She’s already hacked the cloning computer to scramble the Champion’s data, so the next cloning process will fail, and the Champion will die permanently. In exchange, she offers improved treatment while you are in custody. Better food, more rest, some respect from the guards.
 
 </aside>
 

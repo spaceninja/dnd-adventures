@@ -108,4 +108,12 @@
     font-size: var(--font-size-xs);
     margin: 0.5em 0;
   }
+
+  .float-top {
+    float: top;
+  }
+
+  .float-bottom {
+    float: bottom;
+  }
 }

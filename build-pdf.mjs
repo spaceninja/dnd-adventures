@@ -130,5 +130,5 @@ const generatePDF = async (htmlPath, slug) => {
 
 await generatePDF(
   'dist/adventures/the-future-hates-you/onepage/index.html',
-  'onepage',
+  'the-future-hates-you',
 );

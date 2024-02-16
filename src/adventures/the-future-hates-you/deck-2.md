@@ -127,7 +127,7 @@ The Bartender also runs a splendid little black market. With the cargo tunnels b
 
 **Quest: Get Supplies from Cargo Bay:** The Bartender is running low on booze. He needs some crates picked up from the Quartermaster. He’s already arranged it with the #OpsUnion, but the open fighting between the bar and the cargo bay has made it impossible to retrieve the supplies.
 
-If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including modern weaponry. He offers one [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) (stuck on stun, deals nonlethal damage only) now, and the chance to buy more when you bring back the supplies.
+If you bring back the supplies, the Bartender will grant you access to his “special” inventory, including modern weaponry. He offers one [**_Laser Pistol_**](../appendix-magic-items/#laser-weapon) now, (stuck on stun, deals nonlethal damage only) and the chance to buy more when you bring back the supplies.
 
 </aside>
 

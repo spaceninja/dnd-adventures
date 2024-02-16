@@ -2,7 +2,7 @@
 - **Additional Design:** Chuck Lauer Vose
 - **Cover Art:** Martin Atkins
 - **Character Portraits:** Vicki Li
-- **Editing:** Annie Vandehey
+- **Editing:** Jen Hammond, Annie Vandehey
 - **Playtesters:** Martin Atkins, Steve Calderon, Jen Hammond, Jarrod Jackson, Vicki Li
 - **Maps** created with [DungeonScrawl.com](https://www.dungeonscrawl.com)
 
