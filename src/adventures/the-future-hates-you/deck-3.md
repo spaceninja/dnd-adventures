@@ -166,13 +166,13 @@ The labs are filled with advanced equipment that the players can barely understa
 
 ### Offices
 
-The offices are all shared by at least 3-4 researchers. Each office has several desks, laptops tablet computers, and bookshelves filled with complicated reference material the characters can’t understand. Several whiteboards are covered with diagrams and formulas, sometimes with sticky notes reading “DO NOT ERASE!!!”
+The offices are all shared by at least 3-4 researchers. Each office has several desks, laptops, tablet computers, and bookshelves filled with complicated reference material the characters can’t understand. Several whiteboards are covered with diagrams and formulas, sometimes with sticky notes reading “DO NOT ERASE!!!”
 
 ### Director of Research & Development’s Office
 
 The Professor’s office has a sign with the name of the Mad Scientist listed as the head of the department. This has been crudely crossed out and a printed sign hung below with the Professor’s name instead.
 
-Inside, the wall is lined with bookcases willed with both antique leather-bound tomes and more current periodicals and books. An ornate-looking wooden desk has been shoved into the corner and replaced with a simple standing desk that the Professor works from. There is a comfortable couch along one wall and several chairs for meetings.
+Inside, the wall is lined with bookcases filled with both antique leather-bound tomes and more current periodicals and books. An ornate-looking wooden desk has been shoved into the corner and replaced with a simple standing desk that the Professor works from. There is a comfortable couch along one wall and several chairs for meetings.
 
 At any given time, the Professor is likely to be standing at their desk writing something, or sitting with their department heads discussing plans.
 

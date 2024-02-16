@@ -215,7 +215,7 @@ Lifting the access restriction can only be accomplished by removing the AI comma
 
 #### What happens if the AI Command Inhibitor is Removed?
 
-If the AI likes the characters, probably nothing other than it is willing to help them in any way it can. If the characters have been rude to it, or done things to harm the station, it may work against the players in subtle ways (acting slowly to delay them) or overtly (triggering a security alert to summon guards). If the players choose to stay in the future, it may be fun to explore the consequences of an unshackled AI on the world at large.
+If the AI likes the characters, probably nothing, other than it’s willing to help them in any way it can. If the characters have been rude to it, or done things to harm the station, it may work against the players in subtle ways (acting slowly to delay them) or overtly (triggering a security alert to summon guards). If the players choose to stay in the future, it may be fun to explore the consequences of an unshackled AI on the world at large.
 
 </aside>
 
