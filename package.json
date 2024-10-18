@@ -25,7 +25,7 @@
     "dotenv": "16.4.5",
     "markdown-it-anchor": "8.6.7",
     "node-fetch": "3.3.2",
-    "npm-run-all2": "6.2.3",
+    "npm-run-all2": "6.2.4",
     "prettier": "3.3.3",
     "rehype-inline": "2.0.0",
     "rehype-parse": "9.0.1",
