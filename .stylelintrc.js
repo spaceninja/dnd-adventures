@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   extends: ['stylelint-config-spaceninja'],
   rules: {
     // conflicts with dndbeyond styles

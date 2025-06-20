@@ -4,6 +4,7 @@
   "description": "",
   "author": "Scott Vandehey",
   "license": "UNLICENSED",
+  "type": "module",
   "scripts": {
     "start": "yarn watch",
     "build": "run-p build:*",

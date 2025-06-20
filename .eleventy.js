@@ -1,8 +1,8 @@
-const { EleventyRenderPlugin } = require('@11ty/eleventy');
-const markdownIt = require('markdown-it');
-const markdownItAnchor = require('markdown-it-anchor');
+import { EleventyRenderPlugin } from '@11ty/eleventy';
+import markdownIt from 'markdown-it';
+import markdownItAnchor from 'markdown-it-anchor';
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   // Copy over various static files
   eleventyConfig.addPassthroughCopy(
     'src/**/*.(gif|ico|jpg|png|svg|webp|woff|woff2)',
@@ -30,4 +30,4 @@ module.exports = function (eleventyConfig) {
       output: 'dist',
     },
   };
-};
+}
