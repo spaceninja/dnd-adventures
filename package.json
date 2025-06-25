@@ -22,7 +22,7 @@
     "lint:prettier:check": "prettier . --check"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.1.1",
+    "@11ty/eleventy": "3.1.2",
     "dotenv": "16.5.0",
     "markdown-it-anchor": "9.2.0",
     "node-fetch": "3.3.2",
