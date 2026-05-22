@@ -10,7 +10,7 @@
   }
 
   .new-page {
-    page-break-before: always;
+    break-before: page;
   }
 
   .header,
@@ -46,9 +46,9 @@
    *    This has something to do with the full-bleed image on page one.
    */
   article {
+    break-before: page;
     display: block;
     margin-inline: auto;
-    page-break-before: always;
   }
 
   .columns {

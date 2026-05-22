@@ -25,7 +25,7 @@ h5,
 h6 {
   line-height: var(--line-height-s);
   margin-block: var(--size-l);
-  word-wrap: break-word;
+  overflow-wrap: break-word;
 
   @media print {
     margin-bottom: var(--size-s);
