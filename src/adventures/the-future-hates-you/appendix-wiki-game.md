@@ -35,7 +35,7 @@ This section of the wiki page helps to establish how the character’s childhood
 | 6   | Lived in a traveling circus                 |
 | 8   | Grew up rich                                |
 | 9   | Remarkably gifted                           |
-| 10  | Divine birth <sup>[*citation needed*]</sup> |
+| 10  | Divine birth <sup>[_citation needed_]</sup> |
 
 <div class="column-break"></div>
 
@@ -71,7 +71,7 @@ This section of the wiki covers the character’s life after leaving the gang an
 | 7   | Prison                                  |
 | 8   | Committed atrocities                    |
 | 9   | Cult leader                             |
-| 10  | Exploded <sup>[*citation needed*]</sup> |
+| 10  | Exploded <sup>[_citation needed_]</sup> |
 
 <div class="column-break"></div>
 
